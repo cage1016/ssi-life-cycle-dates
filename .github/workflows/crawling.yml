@@ -1,0 +1,28 @@
+name: SSI Crawling
+
+on:
+  push:
+    branches:
+      - master
+  # workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
+jobs:
+  product-life-cycle-dates:
+    name: Update SSI Product life cycle dates
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v2
+      - name: Run SSI Crawling
+        uses: addnab/docker-run-action@v3
+        with:
+          image: ghcr.io/cage1016/ssi-crawling:latest
+          options: >
+            --user root
+            -v ${{ github.workspace }}:/tmp/:rw
+            -w /tmp
+          run: |
+            /app crawling
+      - uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions            
