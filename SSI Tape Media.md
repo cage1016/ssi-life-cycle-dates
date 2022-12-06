@@ -1,19 +1,45 @@
 # IBM Product life cycle dates
 
-update: 2022-12-06 05:39:32
+update: Tuesday, 06-Dec-22 08:04:31 UTC
 
 
-## Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452
+- [Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004](#family-358901-ibm-ultrium-cartridges-models-002-003-004)
 
-[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h10&infotype=DD&subtype=SM&appname=skmwww)
+- [Family 3589+12 IBM 3589 Ultrium Cleaning Cartridges Model 005 w/ customized labeling service](#family-358912-ibm-3589-ultrium-cleaning-cartridges-model-005-w-customized-labeling-service)
+
+- [Family 3589+09 IBM Ultrium 8 12 TB Data Cartridge Models 552 and 652](#family-358909-ibm-ultrium-8-12-tb-data-cartridge-models-552-and-652)
+
+- [Family 3589+07 IBM Ultrium 6 2.5 TB Data Cartridge Models 550,650,570,670](#family-358907-ibm-ultrium-6-2-5-tb-data-cartridge-models-550-650-570-670)
+
+- [Family 3589+08 IBM Ultrium 7 6 TB Data Cartridge Models 551, 651, 571, 671](#family-358908-ibm-ultrium-7-6-tb-data-cartridge-models-551-651-571-671)
+
+- [Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452](#family-358910-ibm-ultrium-7-9-tb-uninitialized-data-cartridge-model-452)
+
+- [Family 3599+01 IBM Tape Cartridges 3592](#family-359901-ibm-tape-cartridges-3592)
+
+- [Family 3589+11 IBM Ultrium 9 18 TB Data Cartridge Models 553 and 653](#family-358911-ibm-ultrium-9-18-tb-data-cartridge-models-553-and-653)
+
+- [Family 3599+03 IBM Tape Cartridge 3592](#family-359903-ibm-tape-cartridge-3592)
+
+- [](#)
+
+- [Family 3599+02 IBM Tape Cart 3592](#family-359902-ibm-tape-cart-3592)
+
+
+
+## Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004
+
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h01&infotype=DD&subtype=SM&appname=skmwww)
 
 IBM Asia Pacific Sales Manual
 
-Revised: January 7, 2022
+Revised: June 7, 2022
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3589-452 | 2017-12-19 | 2017-12-19 | - | - |
+| 3589-002 | 2000-08-23 | 2000-09-01 | 2008-12-26 | - |
+| 3589-003 | 2000-08-23 | 2000-09-01 | 2008-12-26 | - |
+| 3589-004 | 2000-08-23 | 2000-09-01 | - | - |
 
 
 
@@ -31,19 +57,18 @@ Revised: August 23, 2022
 
 
 
-## Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004
+## Family 3589+09 IBM Ultrium 8 12 TB Data Cartridge Models 552 and 652
 
-[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h01&infotype=DD&subtype=SM&appname=skmwww)
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h09&infotype=DD&subtype=SM&appname=skmwww)
 
 IBM Asia Pacific Sales Manual
 
-Revised: June 7, 2022
+Revised: March 8, 2022
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3589-002 | 2000-08-23 | 2000-09-01 | 2008-12-26 | - |
-| 3589-003 | 2000-08-23 | 2000-09-01 | 2008-12-26 | - |
-| 3589-004 | 2000-08-23 | 2000-09-01 | - | - |
+| 3589-552 | 2017-12-19 | 2018-01-17 | - | - |
+| 3589-652 | 2017-12-19 | 2018-01-17 | - | - |
 
 
 
@@ -81,18 +106,39 @@ Revised: October 5, 2021
 
 
 
-## Family 3589+09 IBM Ultrium 8 12 TB Data Cartridge Models 552 and 652
+## Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452
 
-[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h09&infotype=DD&subtype=SM&appname=skmwww)
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h10&infotype=DD&subtype=SM&appname=skmwww)
 
 IBM Asia Pacific Sales Manual
 
-Revised: March 8, 2022
+Revised: January 7, 2022
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3589-552 | 2017-12-19 | 2018-01-17 | - | - |
-| 3589-652 | 2017-12-19 | 2018-01-17 | - | - |
+| 3589-452 | 2017-12-19 | 2017-12-19 | - | - |
+
+
+
+## Family 3599+01 IBM Tape Cartridges 3592
+
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-_h01&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: September 13, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3599-420 | 2011-05-09 | 2011-07-22 | 2022-12-16 | - |
+| 3599-430 | 2011-05-09 | 2011-07-22 | 2022-12-16 | - |
+| 3599-440 | 2011-05-09 | 2011-07-22 | 2018-06-16 | - |
+| 3599-520 | 2011-05-09 | 2011-07-22 | 2022-12-16 | - |
+| 3599-530 | 2011-05-09 | 2011-07-22 | 2022-12-16 | - |
+| 3599-540 | 2011-05-09 | 2011-07-22 | 2018-06-16 | - |
+| 3599-620 | 2011-05-09 | 2011-07-22 | 2019-10-26 | - |
+| 3599-630 | 2011-05-09 | 2011-07-22 | 2019-10-26 | - |
+| 3599-640 | 2011-05-09 | 2011-07-22 | 2018-06-16 | - |
 
 
 
@@ -108,28 +154,6 @@ Revised: July 12, 2022
 | --- | --- | --- | --- | --- |
 | 3589-553 | 2021-09-07 | 2021-09-10 | - | - |
 | 3589-653 | 2021-09-07 | 2021-09-10 | - | - |
-
-
-
-## Family 3599+02 IBM Tape Cart 3592
-
-[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-_h02&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised:  July 23, 2019.
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3599-425 | 2014/10/06 | 2014/10/24 | \- | \- |
-| 3599-435 | 2014/10/06 | 2014/10/24 | \- | \- |
-| 3599-445 | 2014/10/06 | 2014/10/24 | 2018/06/16 | \- |
-| 3599-525 | 2014/10/06 | 2014/10/24 | \- | \- |
-| 3599-535 | 2014/10/06 | 2014/10/24 | \- | \- |
-| 3599-545 | 2014/10/06 | 2014/10/24 | 2018/06/16 | \- |
-| 3599-625 | 2014/10/06 | 2014/10/24 | 2019/10/26 | \- |
-| 3599-635 | 2014/10/06 | 2014/10/24 | 2019/10/26 | \- |
-| 3599-645 | 2014/10/06 | 2014/10/24 | 2018/06/16 | \- |
 
 
 
@@ -162,25 +186,25 @@ Revised:  September 09, 2019.
 
 
 
-## Family 3599+01 IBM Tape Cartridges 3592
+## Family 3599+02 IBM Tape Cart 3592
 
-[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-_h01&infotype=DD&subtype=SM&appname=skmwww)
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-_h02&infotype=DD&subtype=SM&appname=skmwww)
 
 IBM Asia Pacific Sales Manual
 
-Revised: September 13, 2022
+Revised:  July 23, 2019.
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3599-420 | 2011-05-09 | 2011-07-22 | 2022-12-16 | - |
-| 3599-430 | 2011-05-09 | 2011-07-22 | 2022-12-16 | - |
-| 3599-440 | 2011-05-09 | 2011-07-22 | 2018-06-16 | - |
-| 3599-520 | 2011-05-09 | 2011-07-22 | 2022-12-16 | - |
-| 3599-530 | 2011-05-09 | 2011-07-22 | 2022-12-16 | - |
-| 3599-540 | 2011-05-09 | 2011-07-22 | 2018-06-16 | - |
-| 3599-620 | 2011-05-09 | 2011-07-22 | 2019-10-26 | - |
-| 3599-630 | 2011-05-09 | 2011-07-22 | 2019-10-26 | - |
-| 3599-640 | 2011-05-09 | 2011-07-22 | 2018-06-16 | - |
+| 3599-425 | 2014/10/06 | 2014/10/24 | \- | \- |
+| 3599-435 | 2014/10/06 | 2014/10/24 | \- | \- |
+| 3599-445 | 2014/10/06 | 2014/10/24 | 2018/06/16 | \- |
+| 3599-525 | 2014/10/06 | 2014/10/24 | \- | \- |
+| 3599-535 | 2014/10/06 | 2014/10/24 | \- | \- |
+| 3599-545 | 2014/10/06 | 2014/10/24 | 2018/06/16 | \- |
+| 3599-625 | 2014/10/06 | 2014/10/24 | 2019/10/26 | \- |
+| 3599-635 | 2014/10/06 | 2014/10/24 | 2019/10/26 | \- |
+| 3599-645 | 2014/10/06 | 2014/10/24 | 2018/06/16 | \- |
 
 
 
