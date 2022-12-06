@@ -21,8 +21,7 @@ jobs:
             --user root
             -v ${{ github.workspace }}:/tmp/:rw
             -w /tmp
-          run: |
-            /app crawling
+          run: /layers/google.go.build/bin/main crawling
       - uses: EndBug/add-and-commit@v9
         with:
           default_author: github_actions            
