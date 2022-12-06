@@ -1,15 +1,15 @@
 # IBM Product life cycle dates
 
-update: Tuesday, 06-Dec-22 08:04:31 UTC
+update: Tuesday, 06-Dec-22 08:13:15 UTC
 
 
-- [Family 2145+10 IBM SAN Volume Controller models SA2 and SV2](#family-214510-ibm-san-volume-controller-models-sa2-and-sv2)
+- [Family 2145+10 IBM SAN Volume Controller models SA2 and SV2](#family 214510 ibm san volume controller models sa2 and sv2)
 
-- [Family 2147+02 IBM SAN Volume Controller models SA2 and SV2](#family-214702-ibm-san-volume-controller-models-sa2-and-sv2)
+- [Family 2147+03 IBM SAN Volume Controller model SV3](#family 214703 ibm san volume controller model sv3)
 
-- [Family 2147+03 IBM SAN Volume Controller model SV3](#family-214703-ibm-san-volume-controller-model-sv3)
+- [Family 2147+02 IBM SAN Volume Controller models SA2 and SV2](#family 214702 ibm san volume controller models sa2 and sv2)
 
-- [Family 2145+11 IBM SAN Volume Controller model SV3](#family-214511-ibm-san-volume-controller-model-sv3)
+- [Family 2145+11 IBM SAN Volume Controller model SV3](#family 214511 ibm san volume controller model sv3)
 
 
 
@@ -28,6 +28,20 @@ Revised: July 26, 2022
 
 
 
+## Family 2147+03 IBM SAN Volume Controller model SV3
+
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2147-_h03&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: August 9, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2147-SV3 | 2022-02-08 | 2022-03-04 | - | - |
+
+
+
 ## Family 2147+02 IBM SAN Volume Controller models SA2 and SV2
 
 [SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2147-_h02&infotype=DD&subtype=SM&appname=skmwww)
@@ -40,20 +54,6 @@ Revised: July 26, 2022
 | --- | --- | --- | --- | --- |
 | 2147-SA2 | 2020-02-11 | 2020-03-06 | - | - |
 | 2147-SV2 | 2020-02-11 | 2020-03-06 | 2023-01-28 | - |
-
-
-
-## Family 2147+03 IBM SAN Volume Controller model SV3
-
-[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2147-_h03&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised: August 9, 2022
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2147-SV3 | 2022-02-08 | 2022-03-04 | - | - |
 
 
 

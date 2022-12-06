@@ -1,17 +1,17 @@
 # IBM Product life cycle dates
 
-update: Tuesday, 06-Dec-22 08:04:31 UTC
+update: Tuesday, 06-Dec-22 08:13:15 UTC
 
 
-- [Family 3555+01 IBM TS4300 tape library Models L3A and E3A](#family-355501-ibm-ts4300-tape-library-models-l3-a-and-e3-a)
+- [Family 3555+01 IBM TS4300 tape library Models L3A and E3A](#family 355501 ibm ts4300 tape library models l3a and e3a)
 
-- [Family 3572+01 IBM System Storage TS2900 Tape Autoloader](#family-357201-ibm-system-storage-ts2900-tape-autoloader)
+- [Family 3572+01 IBM System Storage TS2900 Tape Autoloader](#family 357201 ibm system storage ts2900 tape autoloader)
 
-- [Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700](#family-395203-ibm-3952-tape-frame-model-f07-for-ibm-ts7700)
+- [Family 3957+06 IBM TS7770 Models VED](#family 395706 ibm ts7770 models ved)
 
-- [Family 3957+06 IBM TS7770 Models VED](#family-395706-ibm-ts7770-models-ved)
+- [Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700](#family 395203 ibm 3952 tape frame model f07 for ibm ts7700)
 
-- [Family 3584+15 IBM TS4500 Tape Library L55,D55,S55,L25,D25,S25,TR1](#family-358415-ibm-ts4500-tape-library-l55-d55-s55-l25-d25-s25-tr1)
+- [Family 3584+15 IBM TS4500 Tape Library L55,D55,S55,L25,D25,S25,TR1](#family 358415 ibm ts4500 tape library l55,d55,s55,l25,d25,s25,tr1)
 
 
 
@@ -50,20 +50,6 @@ Revised: July 26, 2022
 
 
 
-## Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700
-
-[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3952-_h03&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised: August 23, 2022
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3952-F07 | 2021-05-25 | 2021-06-18 | - | - |
-
-
-
 ## Family 3957+06 IBM TS7770 Models VED
 
 [SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3957-_h06&infotype=DD&subtype=SM&appname=skmwww)
@@ -75,6 +61,20 @@ Revised: June 14, 2022
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3957-VED | 2019-10-22 | 2019-11-22 | - | - |
+
+
+
+## Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700
+
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3952-_h03&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: August 23, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3952-F07 | 2021-05-25 | 2021-06-18 | - | - |
 
 
 

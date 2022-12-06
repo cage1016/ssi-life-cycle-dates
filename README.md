@@ -1,13 +1,7 @@
 # SSI Product life cycle dates
 
-update: Tuesday, 06-Dec-22 08:04:31 UTC
+update: Tuesday, 06-Dec-22 08:13:15 UTC
 
-
-1. [SSI Cloud Object Storage](./SSI%20Cloud%20Object%20Storage.md)
-
-1. [SSI SAN - IBM b-type](./SSI%20SAN%20-%20IBM%20b-type.md)
-
-1. [SSI Open Software Family](./SSI%20Open%20Software%20Family.md)
 
 1. [SSI Tape Drive](./SSI%20Tape%20Drive.md)
 
@@ -15,4 +9,10 @@ update: Tuesday, 06-Dec-22 08:04:31 UTC
 
 1. [SSI Tape Media](./SSI%20Tape%20Media.md)
 
+1. [SSI Cloud Object Storage](./SSI%20Cloud%20Object%20Storage.md)
+
 1. [SSI FlashSystem](./SSI%20FlashSystem.md)
+
+1. [SSI Open Software Family](./SSI%20Open%20Software%20Family.md)
+
+1. [SSI SAN - IBM b-type](./SSI%20SAN%20-%20IBM%20b-type.md)
