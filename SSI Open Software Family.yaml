@@ -1,0 +1,9 @@
+displayName: SSI Open Software Family
+enabled: true
+models:
+  - 2145-SA2
+  - 2147-SA2
+  - 2145-SV2
+  - 2147-SV2
+  - 2145-SV3
+  - 2147-SV3

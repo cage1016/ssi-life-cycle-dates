@@ -1,0 +1,11 @@
+displayName: SSI Tape Library
+enabled: true
+models:
+  - 3555-L3A
+  - 3572-S7H
+  - 3572-S8H
+  - 3572-S9H
+  - 3584-L25
+  - 3584-L55
+  - 3952-F07
+  - 3957-VED
