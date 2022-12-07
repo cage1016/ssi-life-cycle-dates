@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Tuesday, 06-Dec-22 08:20:20 UTC
+update: Wednesday, 07-Dec-22 00:05:05 UTC
 
 
 - [Family 3401+01 IBM Cloud Object Storage System Hardware](#family-340101-ibm-cloud-object-storage-system-hardware)
