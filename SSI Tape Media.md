@@ -1,29 +1,73 @@
 # IBM Product life cycle dates
 
-update: Wednesday, 07-Dec-22 01:22:48 UTC
+update: Wednesday, 07-Dec-22 07:53:35 UTC
 
+
+- [Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004](#family-358901-ibm-ultrium-cartridges-models-002-003-004)
+
+- [Family 3589+12 IBM 3589 Ultrium Cleaning Cartridges Model 005 w/ customized labeling service](#family-358912-ibm-3589-ultrium-cleaning-cartridges-model-005-w-customized-labeling-service)
+
+- [Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452](#family-358910-ibm-ultrium-7-9-tb-uninitialized-data-cartridge-model-452)
 
 - [Family 3589+07 IBM Ultrium 6 2.5 TB Data Cartridge Models 550,650,570,670](#family-358907-ibm-ultrium-6-2-5-tb-data-cartridge-models-550-650-570-670)
 
 - [Family 3589+08 IBM Ultrium 7 6 TB Data Cartridge Models 551, 651, 571, 671](#family-358908-ibm-ultrium-7-6-tb-data-cartridge-models-551-651-571-671)
 
-- [Family 3589+09 IBM Ultrium 8 12 TB Data Cartridge Models 552 and 652](#family-358909-ibm-ultrium-8-12-tb-data-cartridge-models-552-and-652)
-
-- [Family 3589+12 IBM 3589 Ultrium Cleaning Cartridges Model 005 w/ customized labeling service](#family-358912-ibm-3589-ultrium-cleaning-cartridges-model-005-w-customized-labeling-service)
-
-- [Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004](#family-358901-ibm-ultrium-cartridges-models-002-003-004)
-
-- [Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452](#family-358910-ibm-ultrium-7-9-tb-uninitialized-data-cartridge-model-452)
-
-- [Family 3589+11 IBM Ultrium 9 18 TB Data Cartridge Models 553 and 653](#family-358911-ibm-ultrium-9-18-tb-data-cartridge-models-553-and-653)
-
 - [Family 3599+01 IBM Tape Cartridges 3592](#family-359901-ibm-tape-cartridges-3592)
 
-- [](#)
+- [Family 3589+09 IBM Ultrium 8 12 TB Data Cartridge Models 552 and 652](#family-358909-ibm-ultrium-8-12-tb-data-cartridge-models-552-and-652)
 
 - [Family 3599+02 IBM Tape Cart 3592](#family-359902-ibm-tape-cart-3592)
 
+- [Family 3589+11 IBM Ultrium 9 18 TB Data Cartridge Models 553 and 653](#family-358911-ibm-ultrium-9-18-tb-data-cartridge-models-553-and-653)
+
 - [Family 3599+03 IBM Tape Cartridge 3592](#family-359903-ibm-tape-cartridge-3592)
+
+- [](#)
+
+
+
+## Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004
+
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h01&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: June 7, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3589-002 | 2000-08-23 | 2000-09-01 | 2008-12-26 | - |
+| 3589-003 | 2000-08-23 | 2000-09-01 | 2008-12-26 | - |
+| 3589-004 | 2000-08-23 | 2000-09-01 | - | - |
+
+
+
+## Family 3589+12 IBM 3589 Ultrium Cleaning Cartridges Model 005 w/ customized labeling service
+
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h12&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: August 23, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3589-005 | 2021-12-14 | 2021-12-17 | - | - |
+
+
+
+## Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452
+
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h10&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: January 7, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3589-452 | 2017-12-19 | 2017-12-19 | - | - |
 
 
 
@@ -61,80 +105,6 @@ Revised: October 5, 2021
 
 
 
-## Family 3589+09 IBM Ultrium 8 12 TB Data Cartridge Models 552 and 652
-
-[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h09&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised: March 8, 2022
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3589-552 | 2017-12-19 | 2018-01-17 | - | - |
-| 3589-652 | 2017-12-19 | 2018-01-17 | - | - |
-
-
-
-## Family 3589+12 IBM 3589 Ultrium Cleaning Cartridges Model 005 w/ customized labeling service
-
-[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h12&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised: August 23, 2022
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3589-005 | 2021-12-14 | 2021-12-17 | - | - |
-
-
-
-## Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004
-
-[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h01&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised: June 7, 2022
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3589-002 | 2000-08-23 | 2000-09-01 | 2008-12-26 | - |
-| 3589-003 | 2000-08-23 | 2000-09-01 | 2008-12-26 | - |
-| 3589-004 | 2000-08-23 | 2000-09-01 | - | - |
-
-
-
-## Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452
-
-[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h10&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised: January 7, 2022
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3589-452 | 2017-12-19 | 2017-12-19 | - | - |
-
-
-
-## Family 3589+11 IBM Ultrium 9 18 TB Data Cartridge Models 553 and 653
-
-[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h11&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised: July 12, 2022
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3589-553 | 2021-09-07 | 2021-09-10 | - | - |
-| 3589-653 | 2021-09-07 | 2021-09-10 | - | - |
-
-
-
 ## Family 3599+01 IBM Tape Cartridges 3592
 
 [SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-_h01&infotype=DD&subtype=SM&appname=skmwww)
@@ -157,15 +127,18 @@ Revised: September 13, 2022
 
 
 
-## 
+## Family 3589+09 IBM Ultrium 8 12 TB Data Cartridge Models 552 and 652
 
-[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=760/ENUS3599-017&infotype=DD&subtype=SM&appname=skmwww)
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h09&infotype=DD&subtype=SM&appname=skmwww)
 
+IBM Asia Pacific Sales Manual
 
+Revised: March 8, 2022
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3599-017 | 2003/09/09 | 2003/12/12 | \- | \- |
+| 3589-552 | 2017-12-19 | 2018-01-17 | - | - |
+| 3589-652 | 2017-12-19 | 2018-01-17 | - | - |
 
 
 
@@ -191,6 +164,21 @@ Revised:  July 23, 2019.
 
 
 
+## Family 3589+11 IBM Ultrium 9 18 TB Data Cartridge Models 553 and 653
+
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h11&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: July 12, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3589-553 | 2021-09-07 | 2021-09-10 | - | - |
+| 3589-653 | 2021-09-07 | 2021-09-10 | - | - |
+
+
+
 ## Family 3599+03 IBM Tape Cartridge 3592
 
 [SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-_h03&infotype=DD&subtype=SM&appname=skmwww)
@@ -205,6 +193,18 @@ Revised:  September 09, 2019.
 | 3599-436 | 2019/01/08 | 2019/01/18 | \- | \- |
 | 3599-526 | 2019/01/08 | 2019/01/18 | \- | \- |
 | 3599-536 | 2019/01/08 | 2019/01/18 | \- | \- |
+
+
+
+## 
+
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=760/ENUS3599-017&infotype=DD&subtype=SM&appname=skmwww)
+
+
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3599-017 | 2003/09/09 | 2003/12/12 | \- | \- |
 
 
 

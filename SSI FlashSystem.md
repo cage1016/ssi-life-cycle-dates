@@ -1,25 +1,71 @@
 # IBM Product life cycle dates
 
-update: Wednesday, 07-Dec-22 01:22:48 UTC
+update: Wednesday, 07-Dec-22 07:53:35 UTC
 
-
-- [Family 2076+07 IBM FlashSystem 7200](#family-207607-ibm-flashsystem-7200)
-
-- [Family 4657+01 IBM FlashSystem 7300](#family-465701-ibm-flashsystem-7300)
 
 - [Family 2072+06 IBM FlashSystem 5015 and 5035](#family-207206-ibm-flashsystem-5015-and-5035)
 
+- [Family 2076+03 IBM Storwize V7000](#family-207603-ibm-storwize-v7000)
+
+- [Family 2076+07 IBM FlashSystem 7200](#family-207607-ibm-flashsystem-7200)
+
+- [Family 2076+01 IBM Storwize V7000 Disk System](#family-207601-ibm-storwize-v7000-disk-system)
+
 - [Family 2072+05 IBM FlashSystem 5000](#family-207205-ibm-flashsystem-5000)
 
-- [Family 4666+01 IBM FlashSystem 9200 with Expert Care](#family-466601-ibm-flashsystem-9200-with-expert-care)
+- [Family 2076+02 IBM Storwize V7000 Disk System](#family-207602-ibm-storwize-v7000-disk-system)
+
+- [Family 2076+06 IBM Storwize V7000](#family-207606-ibm-storwize-v7000)
+
+- [Family 2076+04 IBM Storwize V7000F](#family-207604-ibm-storwize-v7000f)
+
+- [Family 2076+05 IBM Storwize V7000](#family-207605-ibm-storwize-v7000)
 
 - [Family 9745+01 IBM FlashSystem Utility models Variable Use billing](#family-974501-ibm-flashsystem-utility-models-variable-use-billing)
 
-- [Family 4666+02 IBM FlashSystem 9500](#family-466602-ibm-flashsystem-9500)
-
 - [Family 4664+01 IBM FlashSystem 7200 with Expert Care](#family-466401-ibm-flashsystem-7200-with-expert-care)
 
+- [Family 4666+02 IBM FlashSystem 9500](#family-466602-ibm-flashsystem-9500)
+
+- [Family 4666+01 IBM FlashSystem 9200 with Expert Care](#family-466601-ibm-flashsystem-9200-with-expert-care)
+
+- [Family 4657+01 IBM FlashSystem 7300](#family-465701-ibm-flashsystem-7300)
+
 - [Family 4662+01 IBM FlashSystem 5200](#family-466201-ibm-flashsystem-5200)
+
+
+
+## Family 2072+06 IBM FlashSystem 5015 and 5035
+
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2072-_h06&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: November 22, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2072-2N2 | 2021-02-09 | 2021-02-19 | - | - |
+| 2072-2N4 | 2021-02-09 | 2021-02-19 | - | - |
+| 2072-3N2 | 2021-02-09 | 2021-02-19 | - | - |
+| 2072-3N4 | 2021-02-09 | 2021-02-19 | - | - |
+
+
+
+## Family 2076+03 IBM Storwize V7000
+
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2076-_h03&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: October 26, 2021
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2076-12F | 2014-05-06 | 2014-06-06 | 2020-04-11 | - |
+| 2076-24F | 2014-05-06 | 2014-06-06 | 2020-04-11 | - |
+| 2076-524 | 2014-05-06 | 2014-06-06 | 2017-06-17 | 2022-12-31 |
+| 2076-92F | 2016-11-02 | 2016-12-09 | 2020-04-11 | - |
 
 
 
@@ -42,38 +88,20 @@ Revised: May 31, 2022
 Note: 2076-824 and 2076-U7C effective marketing withdrawal date is
 2022/10/22 for Korea and Taiwan, and 2023/06/17 for India.
 
-## Family 4657+01 IBM FlashSystem 7300
+## Family 2076+01 IBM Storwize V7000 Disk System
 
-[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS4657-_h01&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised: November 22, 2022
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 4657-U7D | 2022-02-08 | 2022-03-04 | - | - |
-| 4657-12G | 2022-02-08 | 2022-03-04 | - | - |
-| 4657-24G | 2022-02-08 | 2022-03-04 | - | - |
-| 4657-92G | 2022-02-08 | 2022-03-04 | - | - |
-| 4657-924 | 2022-02-08 | 2022-03-04 | - | - |
-
-
-
-## Family 2072+06 IBM FlashSystem 5015 and 5035
-
-[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2072-_h06&infotype=DD&subtype=SM&appname=skmwww)
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2076-_h01&infotype=DD&subtype=SM&appname=skmwww)
 
 IBM Asia Pacific Sales Manual
 
-Revised: November 22, 2022
+Revised: August 24, 2021
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 2072-2N2 | 2021-02-09 | 2021-02-19 | - | - |
-| 2072-2N4 | 2021-02-09 | 2021-02-19 | - | - |
-| 2072-3N2 | 2021-02-09 | 2021-02-19 | - | - |
-| 2072-3N4 | 2021-02-09 | 2021-02-19 | - | - |
+| 2076-112 | 2010-10-07 | 2010-11-12 | 2015-01-17 | 2022-12-31 |
+| 2076-124 | 2010-10-07 | 2010-11-12 | 2015-01-17 | 2022-12-31 |
+| 2076-212 | 2010-10-07 | 2010-11-12 | 2016-01-16 | 2022-12-31 |
+| 2076-224 | 2010-10-07 | 2010-11-12 | 2016-01-16 | 2022-12-31 |
 
 
 
@@ -97,23 +125,66 @@ Revised: November 22, 2022
 
 
 
-## Family 4666+01 IBM FlashSystem 9200 with Expert Care
+## Family 2076+02 IBM Storwize V7000 Disk System
 
-[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS4666-_h01&infotype=DD&subtype=SM&appname=skmwww)
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2076-_h02&infotype=DD&subtype=SM&appname=skmwww)
 
 IBM Asia Pacific Sales Manual
 
-Revised: October 25, 2022
+Revised: August 24, 2021
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 4666-AFF | 2021-08-17 | 2021-08-27 | - | - |
-| 4666-A9F | 2021-08-17 | 2021-08-27 | - | - |
-| 4666-AG8 | 2021-08-17 | 2021-08-27 | 2022-07-16 | - |
-| 4666-UG8 | 2021-08-17 | 2021-08-27 | 2022-07-16 | - |
+| 2076-312 | 2011-05-09 | 2011-06-10 | 2015-01-17 | 2022-12-31 |
+| 2076-324 | 2011-05-09 | 2011-06-10 | 2015-01-17 | 2022-12-31 |
 
-Note: 4666-AG8 and 4666-UG8 effective marketing withdrawal date is
-2022/10/22 for Korea and Taiwan, and 2023/06/17 for India
+
+
+## Family 2076+06 IBM Storwize V7000
+
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2076-_h06&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: October 26, 2021
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2076-U7B | 2018-11-06 | 2019-01-25 | 2020-10-17 | - |
+| 2076-724 | 2018-11-06 | 2018-12-07 | 2020-10-17 | - |
+
+
+
+## Family 2076+04 IBM Storwize V7000F
+
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2076-_h04&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: October 26, 2021
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2076-AFF | 2016-08-23 | 2016-09-09 | 2020-04-11 | - |
+| 2076-AF6 | 2016-08-23 | 2016-09-09 | 2020-08-15 | - |
+| 2076-A9F | 2017-03-14 | 2017-03-17 | 2020-04-11 | - |
+
+
+
+## Family 2076+05 IBM Storwize V7000
+
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2076-_h05&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: October 26, 2021
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2076-624 | 2016-08-23 | 2016-09-09 | 2020-08-15 | - |
+| 2076-U7A | 2017-11-14 | 2017-12-08 | 2020-08-15 | - |
+
+
 
 ## Family 9745+01 IBM FlashSystem Utility models Variable Use billing
 
@@ -128,21 +199,6 @@ Revised: September 27, 2022
 | 9745-FS5 | 2022-09-27 | 2022-09-27 | - | - |
 | 9745-FS7 | 2022-09-27 | 2022-09-27 | - | - |
 | 9745-FS9 | 2022-09-27 | 2022-09-27 | - | - |
-
-
-
-## Family 4666+02 IBM FlashSystem 9500
-
-[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS4666-_h02&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised: October 25, 2022
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 4666-AH8 | 2022-02-08 | 2022-03-04 | - | - |
-| 4666-UH8 | 2022-02-08 | 2022-03-04 | - | - |
 
 
 
@@ -164,6 +220,57 @@ Revised: May 31, 2022
 
 Note: 4664-824 and 4664-U7C effective marketing withdrawal date is
 2022/10/22 for Korea and Taiwan, and 2023/06/17 for India
+
+## Family 4666+02 IBM FlashSystem 9500
+
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS4666-_h02&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: October 25, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 4666-AH8 | 2022-02-08 | 2022-03-04 | - | - |
+| 4666-UH8 | 2022-02-08 | 2022-03-04 | - | - |
+
+
+
+## Family 4666+01 IBM FlashSystem 9200 with Expert Care
+
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS4666-_h01&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: October 25, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 4666-AFF | 2021-08-17 | 2021-08-27 | - | - |
+| 4666-A9F | 2021-08-17 | 2021-08-27 | - | - |
+| 4666-AG8 | 2021-08-17 | 2021-08-27 | 2022-07-16 | - |
+| 4666-UG8 | 2021-08-17 | 2021-08-27 | 2022-07-16 | - |
+
+Note: 4666-AG8 and 4666-UG8 effective marketing withdrawal date is
+2022/10/22 for Korea and Taiwan, and 2023/06/17 for India
+
+## Family 4657+01 IBM FlashSystem 7300
+
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS4657-_h01&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: November 22, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 4657-U7D | 2022-02-08 | 2022-03-04 | - | - |
+| 4657-12G | 2022-02-08 | 2022-03-04 | - | - |
+| 4657-24G | 2022-02-08 | 2022-03-04 | - | - |
+| 4657-92G | 2022-02-08 | 2022-03-04 | - | - |
+| 4657-924 | 2022-02-08 | 2022-03-04 | - | - |
+
+
 
 ## Family 4662+01 IBM FlashSystem 5200
 
