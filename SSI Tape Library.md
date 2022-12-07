@@ -1,17 +1,17 @@
 # IBM Product life cycle dates
 
-update: Wednesday, 07-Dec-22 00:05:05 UTC
+update: Wednesday, 07-Dec-22 01:22:48 UTC
 
 
 - [Family 3572+01 IBM System Storage TS2900 Tape Autoloader](#family-357201-ibm-system-storage-ts2900-tape-autoloader)
 
-- [Family 3555+01 IBM TS4300 tape library Models L3A and E3A](#family-355501-ibm-ts4300-tape-library-models-l3a-and-e3a)
+- [Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700](#family-395203-ibm-3952-tape-frame-model-f07-for-ibm-ts7700)
 
 - [Family 3957+06 IBM TS7770 Models VED](#family-395706-ibm-ts7770-models-ved)
 
-- [Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700](#family-395203-ibm-3952-tape-frame-model-f07-for-ibm-ts7700)
-
 - [Family 3584+15 IBM TS4500 Tape Library L55,D55,S55,L25,D25,S25,TR1](#family-358415-ibm-ts4500-tape-library-l55-d55-s55-l25-d25-s25-tr1)
+
+- [Family 3555+01 IBM TS4300 tape library Models L3A and E3A](#family-355501-ibm-ts4300-tape-library-models-l3a-and-e3a)
 
 
 
@@ -35,18 +35,17 @@ Revised: July 26, 2022
 
 
 
-## Family 3555+01 IBM TS4300 tape library Models L3A and E3A
+## Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700
 
-[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3555-_h01&infotype=DD&subtype=SM&appname=skmwww)
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3952-_h03&infotype=DD&subtype=SM&appname=skmwww)
 
 IBM Asia Pacific Sales Manual
 
-Revised: November 8, 2022
+Revised: August 23, 2022
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3555-E3A | 2017-07-25 | 2017-08-25 | - | - |
-| 3555-L3A | 2017-07-25 | 2017-08-25 | - | - |
+| 3952-F07 | 2021-05-25 | 2021-06-18 | - | - |
 
 
 
@@ -61,20 +60,6 @@ Revised: June 14, 2022
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3957-VED | 2019-10-22 | 2019-11-22 | - | - |
-
-
-
-## Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700
-
-[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3952-_h03&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised: August 23, 2022
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3952-F07 | 2021-05-25 | 2021-06-18 | - | - |
 
 
 
@@ -95,6 +80,21 @@ Revised: November 8, 2022
 | 3584-S25 | 2014-05-19 | 2014-06-13 | - | - |
 | 3584-S55 | 2014-05-19 | 2014-06-13 | - | - |
 | 3584-TR1 | 2014-05-19 | 2014-06-13 | - | - |
+
+
+
+## Family 3555+01 IBM TS4300 tape library Models L3A and E3A
+
+[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3555-_h01&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: November 8, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3555-E3A | 2017-07-25 | 2017-08-25 | - | - |
+| 3555-L3A | 2017-07-25 | 2017-08-25 | - | - |
 
 
 
