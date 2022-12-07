@@ -1,6 +1,10 @@
 # IBM Product life cycle dates
 
-update: Wednesday, 07-Dec-22 07:53:35 UTC
+update: Wednesday, 07-Dec-22 08:42:15 UTC
+
+---
+
+## Table of contents
 
 
 - [Family 3401+01 IBM Cloud Object Storage System Hardware](#family-340101-ibm-cloud-object-storage-system-hardware)
@@ -8,10 +12,12 @@ update: Wednesday, 07-Dec-22 07:53:35 UTC
 - [Family 3403+01 IBM Cloud Object Storage System Hardware](#family-340301-ibm-cloud-object-storage-system-hardware)
 
 
+---
+
 
 ## Family 3401+01 IBM Cloud Object Storage System Hardware
 
-[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3401-_h01&infotype=DD&subtype=SM&appname=skmwww)
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3401-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3401-_h01&infotype=DD&subtype=SM&appname=skmwww)
 
 IBM Asia Pacific Sales Manual
 
@@ -32,9 +38,14 @@ Revised: January 25, 2022
 
 
 
+[↑ Back to top](#table-of-contents)
+
+---
+
+
 ## Family 3403+01 IBM Cloud Object Storage System Hardware
 
-[SSI link](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3403-_h01&infotype=DD&subtype=SM&appname=skmwww)
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3403-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3403-_h01&infotype=DD&subtype=SM&appname=skmwww)
 
 IBM Asia Pacific Sales Manual
 
@@ -55,5 +66,10 @@ Revised: January 25, 2022
 
 
 
+[↑ Back to top](#table-of-contents)
 
-[Back to README](./README.md)
+---
+
+
+
+[← Back to README](./README.md)

@@ -1,9 +1,7 @@
 # SSI Product life cycle dates
 
-update: Wednesday, 07-Dec-22 07:53:35 UTC
+update: Wednesday, 07-Dec-22 08:42:15 UTC
 
-
-1. [SSI Tape Media](./SSI%20Tape%20Media.md)
 
 1. [SSI Cloud Object Storage](./SSI%20Cloud%20Object%20Storage.md)
 
@@ -16,3 +14,5 @@ update: Wednesday, 07-Dec-22 07:53:35 UTC
 1. [SSI Tape Drive](./SSI%20Tape%20Drive.md)
 
 1. [SSI Tape Library](./SSI%20Tape%20Library.md)
+
+1. [SSI Tape Media](./SSI%20Tape%20Media.md)
