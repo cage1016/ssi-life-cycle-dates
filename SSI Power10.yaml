@@ -1,0 +1,11 @@
+displayName: SSI Power10
+enabled: true
+models:
+  - 9080-HEX
+  - 9043-MRX
+  - 9105-42A
+  - 9786-42H
+  - 9105-22A
+  - 9786-22H
+  - 9105-22B
+  - 9105-41B
