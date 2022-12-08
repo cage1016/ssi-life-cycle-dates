@@ -1,0 +1,13 @@
+displayName: SSI Power8
+enabled: true
+models:
+  - 8284-21A
+  - 8284-22A
+  - 8286-41A
+  - 8286-42A
+  - 8408-E8E
+  - 8408-44E
+  - 9119-MME
+  - 9080-MME
+  - 9119-MHE
+  - 9080-MHE
