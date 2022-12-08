@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Thursday, 08-Dec-22 11:18:59 UTC
+update: Thursday, 08-Dec-22 14:03:46 UTC
 
 ---
 
@@ -45,6 +45,9 @@ update: Thursday, 08-Dec-22 11:18:59 UTC
 ---
 
 
+
+
+
 ## Family 2498+06 IBM System Networking SAN96B-5
 
 [http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2498-_h06&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2498-_h06&infotype=DD&subtype=SM&appname=skmwww)
@@ -60,9 +63,14 @@ Revised: July 26, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 2498+11 IBM System Storage SAN42B-R
@@ -79,9 +87,14 @@ Revised: July 26, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 8960+01 IBM Storage Networking SAN64B-6
@@ -99,9 +112,14 @@ Revised: July 26, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 8960+03 IBM Storage Networking SAN128B-6
@@ -119,9 +137,14 @@ Revised: July 26, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 8960+04 IBM Storage Networking SAN18B-6
@@ -138,9 +161,14 @@ Revised: July 26, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 8960+05 IBM Storage Networking SAN128B-6
@@ -158,9 +186,14 @@ Revised: August 23, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 8960+06 IBM Storage Networking SAN64B-7
@@ -178,9 +211,14 @@ Revised: August 23, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 8960+07 IBM Storage Networking SAN64B-6
@@ -198,9 +236,14 @@ Revised: August 23, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 8961+01 IBM Storage Networking SAN256B-6
@@ -217,9 +260,14 @@ Revised: August 23, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 8961+02 IBM Storage Networking SAN512B-6
@@ -236,9 +284,14 @@ Revised: August 23, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 8961+03 IBM Storage Networking SAN256B-7
@@ -255,9 +308,14 @@ Revised: September 27, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 8961+04 IBM Storage Networking SAN512B-7
@@ -274,9 +332,14 @@ Revised: September 27, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 8969+01 IBM IBM Storage Networking SAN24B-6
@@ -293,9 +356,14 @@ Revised: October 4, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 8969+02 IBM Storage Networking SAN128B-7
@@ -313,9 +381,14 @@ Revised: October 4, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9239+01 IBM SANnav
@@ -334,9 +407,14 @@ Revised: September 8, 2020
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9240+01 IBM SANnav
@@ -355,9 +433,14 @@ Revised: September 8, 2020
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9241+01 IBM SANnav
@@ -373,6 +456,8 @@ Revised: September 8, 2020
 | 9241-B05 | 2020-09-08 | 2020-09-18 | - | - |
 | 9241-E05 | 2020-09-08 | 2020-09-18 | - | - |
 | 9241-G05 | 2020-09-08 | 2020-09-18 | - | - |
+
+
 
 
 

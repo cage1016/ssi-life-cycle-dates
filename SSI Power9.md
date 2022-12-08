@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Thursday, 08-Dec-22 11:18:59 UTC
+update: Thursday, 08-Dec-22 14:03:46 UTC
 
 ---
 
@@ -35,6 +35,9 @@ update: Thursday, 08-Dec-22 11:18:59 UTC
 ---
 
 
+
+
+
 ## Family 8335+05 IBM Power System AC922 (8335-GTH)
 
 [http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8335-_h05&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8335-_h05&infotype=DD&subtype=SM&appname=skmwww)
@@ -49,9 +52,14 @@ Revised: December 6, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9008+01 IBM Power System L922 (9008-22L)
@@ -68,9 +76,14 @@ Revised: November 8, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9009+01 IBM Power System S922 (9009-22A)
@@ -87,9 +100,14 @@ Revised: November 8, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9009+02 IBM Power System S924 (9009-42A)
@@ -106,9 +124,14 @@ Revised: November 8, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9009+03 IBM Power System S914 (9009-41A)
@@ -125,9 +148,14 @@ Revised: November 8, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9009+04 IBM Power System S922 (9009-22G)
@@ -144,9 +172,14 @@ Revised: November 8, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9009+05 IBM Power System S914 (9009-41G)
@@ -163,9 +196,14 @@ Revised: November 8, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9009+06 IBM Power System S924 (9009-42G)
@@ -182,9 +220,14 @@ Revised: November 8, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9040+01 IBM Power System E950 (9040-MR9)
@@ -201,9 +244,14 @@ Revised: November 8, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9080+03 IBM Power System E980 (9080-M9S)
@@ -220,9 +268,14 @@ Revised: November 8, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9223+01 IBM Power System H922 for SAP HANA (9223-22H)
@@ -239,9 +292,14 @@ Revised: November 8, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9223+04 IBM Power System H924 (9223-42S)
@@ -255,6 +313,8 @@ Revised: November 8, 2022
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9223-42S | 2020-10-06 | 2020-11-20 | - | - |
+
+
 
 
 

@@ -1,8 +1,6 @@
 # SSI Product life cycle dates
 
-[![SSI Crawling](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml/badge.svg)](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml)
-
-update: Thursday, 08-Dec-22 11:18:59 UTC
+update: Thursday, 08-Dec-22 14:03:46 UTC
 
 
 1. [SSI Cloud Object Storage](./SSI%20Cloud%20Object%20Storage.md)
@@ -14,6 +12,8 @@ update: Thursday, 08-Dec-22 11:18:59 UTC
 1. [SSI Power System Software](./SSI%20Power%20System%20Software.md)
 
 1. [SSI Power10](./SSI%20Power10.md)
+
+1. [SSI Power7](./SSI%20Power7.md)
 
 1. [SSI Power8](./SSI%20Power8.md)
 

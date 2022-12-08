@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Thursday, 08-Dec-22 11:18:59 UTC
+update: Thursday, 08-Dec-22 14:03:46 UTC
 
 ---
 
@@ -39,6 +39,9 @@ update: Thursday, 08-Dec-22 11:18:59 UTC
 ---
 
 
+
+
+
 ## Family 3580+18 IBM TS2270 Tape Drive Model H7S
 
 [http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3580-_h18&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3580-_h18&infotype=DD&subtype=SM&appname=skmwww)
@@ -53,9 +56,14 @@ Revised: May 17, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3580+19 IBM TS2280 Tape Drive Model H8S
@@ -72,9 +80,14 @@ Revised: May 17, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3580+20 IBM TS2290 SAS Tape Drive Model H9S
@@ -91,9 +104,14 @@ Revised: June 14, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3588+07 IBM TS1070 Tape Drive Model F7C
@@ -110,9 +128,14 @@ Revised: March 10, 2020
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3588+08 IBM TS1070 Tape Drive Model F7A
@@ -129,9 +152,14 @@ Revised:  February 04, 2020.
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3588+09 IBM TS1080 Tape Drive Model F8A
@@ -148,9 +176,14 @@ Revised:  February 04, 2020.
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3588+10 IBM TS1080 Tape Drive Model F8C
@@ -167,9 +200,14 @@ Revised: October 4, 2021
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3588+11 IBM TS1080 Tape Drive Model F8S
@@ -185,9 +223,14 @@ Revised:  November 20, 2018.
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3588+12 IBM LTO 9 Tape Drive models F9C, F9S, and S9C
@@ -206,9 +249,14 @@ Revised: October 26, 2021
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3592+10 IBM TS1150 Tape Drive and HD2 Tape Drive
@@ -226,9 +274,14 @@ Revised: June 28, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3592+13 IBM TS1160 Tape Drive Model 60F
@@ -245,9 +298,14 @@ Revised: May 10, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3592+14 IBM TS1160 Tape Drive Model 60G
@@ -264,9 +322,14 @@ Revised: April 19, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3592+16 IBM TS1160 Tape Drive Model 60S for IBM TS4500
@@ -283,9 +346,14 @@ Revised: August 11, 2020
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 7226+01 IBM System Storage 7226 Model 1U3 Multi-Media Enclosure
@@ -299,6 +367,8 @@ Revised: November 22, 2022
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7226-1U3 | 2012-02-28 | 2012-03-09 | - | - |
+
+
 
 
 

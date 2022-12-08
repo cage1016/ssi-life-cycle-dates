@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Thursday, 08-Dec-22 11:18:59 UTC
+update: Thursday, 08-Dec-22 14:03:46 UTC
 
 ---
 
@@ -27,6 +27,9 @@ update: Thursday, 08-Dec-22 11:18:59 UTC
 ---
 
 
+
+
+
 ## Family 9043+01 IBM Power E1050 enterprise midrange technology-based server
 
 [http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9043-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9043-_h01&infotype=DD&subtype=SM&appname=skmwww)
@@ -41,9 +44,14 @@ Revised: December 6, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9080+04 IBM Power E1080 Enterprise server
@@ -60,9 +68,14 @@ Revised: November 8, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9105+01 IBM Power S1022 (9105-22A)
@@ -79,9 +92,14 @@ Revised: November 8, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9105+02 IBM Power S1024 (9105-42A)
@@ -98,9 +116,14 @@ Revised: November 8, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9105+03 IBM Power S1022s (9105-22B)
@@ -117,9 +140,14 @@ Revised: November 8, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9105+04 IBM Power S1014 (9105-41B)
@@ -139,9 +167,14 @@ October 28, 2022, for MTM 9105-41B (Rack and Tower) in China only.
 Note: Announcement date of
 August 15, 2022, for MTM 9105-41B (Rack and Tower) in Korea only.
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9786+01 IBM Power L1022 (9786-22H)
@@ -158,9 +191,14 @@ Revised: November 8, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9786+02 IBM Power L1024 (9786-42H)
@@ -174,6 +212,8 @@ Revised: November 8, 2022
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9786-42H | 2022-07-12 | 2022-07-22 | - | - |
+
+
 
 
 

@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Thursday, 08-Dec-22 11:18:59 UTC
+update: Thursday, 08-Dec-22 14:03:46 UTC
 
 ---
 
@@ -41,6 +41,9 @@ update: Thursday, 08-Dec-22 11:18:59 UTC
 ---
 
 
+
+
+
 ## Family 2072+05 IBM FlashSystem 5000
 
 [http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2072-_h05&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2072-_h05&infotype=DD&subtype=SM&appname=skmwww)
@@ -61,9 +64,14 @@ Revised: November 22, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 2072+06 IBM FlashSystem 5015 and 5035
@@ -83,9 +91,14 @@ Revised: November 22, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 2076+01 IBM Storwize V7000 Disk System
@@ -105,9 +118,14 @@ Revised: August 24, 2021
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 2076+02 IBM Storwize V7000 Disk System
@@ -125,9 +143,14 @@ Revised: August 24, 2021
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 2076+03 IBM Storwize V7000
@@ -147,9 +170,14 @@ Revised: October 26, 2021
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 2076+04 IBM Storwize V7000F
@@ -168,9 +196,14 @@ Revised: October 26, 2021
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 2076+05 IBM Storwize V7000
@@ -188,9 +221,14 @@ Revised: October 26, 2021
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 2076+06 IBM Storwize V7000
@@ -208,9 +246,14 @@ Revised: October 26, 2021
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 2076+07 IBM FlashSystem 7200
@@ -232,9 +275,14 @@ Revised: May 31, 2022
 Note: 2076-824 and 2076-U7C effective marketing withdrawal date is
 2022/10/22 for Korea and Taiwan, and 2023/06/17 for India.
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 4657+01 IBM FlashSystem 7300
@@ -255,9 +303,14 @@ Revised: November 22, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 4662+01 IBM FlashSystem 5200
@@ -278,9 +331,14 @@ Revised: November 22, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 4664+01 IBM FlashSystem 7200 with Expert Care
@@ -302,9 +360,14 @@ Revised: May 31, 2022
 Note: 4664-824 and 4664-U7C effective marketing withdrawal date is
 2022/10/22 for Korea and Taiwan, and 2023/06/17 for India
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 4666+01 IBM FlashSystem 9200 with Expert Care
@@ -325,9 +388,14 @@ Revised: October 25, 2022
 Note: 4666-AG8 and 4666-UG8 effective marketing withdrawal date is
 2022/10/22 for Korea and Taiwan, and 2023/06/17 for India
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 4666+02 IBM FlashSystem 9500
@@ -345,9 +413,14 @@ Revised: October 25, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 9745+01 IBM FlashSystem Utility models Variable Use billing
@@ -363,6 +436,8 @@ Revised: September 27, 2022
 | 9745-FS5 | 2022-09-27 | 2022-09-27 | - | - |
 | 9745-FS7 | 2022-09-27 | 2022-09-27 | - | - |
 | 9745-FS9 | 2022-09-27 | 2022-09-27 | - | - |
+
+
 
 
 

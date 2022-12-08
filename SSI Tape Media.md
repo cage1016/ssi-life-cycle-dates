@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Thursday, 08-Dec-22 11:18:59 UTC
+update: Thursday, 08-Dec-22 14:03:46 UTC
 
 ---
 
@@ -33,6 +33,9 @@ update: Thursday, 08-Dec-22 11:18:59 UTC
 ---
 
 
+
+
+
 ## 
 
 [http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=760/ENUS3599-017&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=760/ENUS3599-017&infotype=DD&subtype=SM&appname=skmwww)
@@ -45,9 +48,14 @@ update: Thursday, 08-Dec-22 11:18:59 UTC
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004
@@ -66,9 +74,14 @@ Revised: June 7, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3589+07 IBM Ultrium 6 2.5 TB Data Cartridge Models 550,650,570,670
@@ -88,9 +101,14 @@ Revised: September 13, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3589+08 IBM Ultrium 7 6 TB Data Cartridge Models 551, 651, 571, 671
@@ -110,9 +128,14 @@ Revised: October 5, 2021
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3589+09 IBM Ultrium 8 12 TB Data Cartridge Models 552 and 652
@@ -130,9 +153,14 @@ Revised: March 8, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452
@@ -149,9 +177,14 @@ Revised: January 7, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3589+11 IBM Ultrium 9 18 TB Data Cartridge Models 553 and 653
@@ -169,9 +202,14 @@ Revised: July 12, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3589+12 IBM 3589 Ultrium Cleaning Cartridges Model 005 w/ customized labeling service
@@ -188,9 +226,14 @@ Revised: August 23, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3599+01 IBM Tape Cartridges 3592
@@ -215,9 +258,14 @@ Revised: September 13, 2022
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3599+02 IBM Tape Cart 3592
@@ -242,9 +290,14 @@ Revised:  July 23, 2019.
 
 
 
+
+
 [↑ Back to top](#table-of-contents)
 
 ---
+
+
+
 
 
 ## Family 3599+03 IBM Tape Cartridge 3592
@@ -261,6 +314,8 @@ Revised:  September 09, 2019.
 | 3599-436 | 2019/01/08 | 2019/01/18 | \- | \- |
 | 3599-526 | 2019/01/08 | 2019/01/18 | \- | \- |
 | 3599-536 | 2019/01/08 | 2019/01/18 | \- | \- |
+
+
 
 
 
