@@ -1,0 +1,5 @@
+displayName: SSI Power System Software
+enabled: true
+models:
+  - 5765-G98
+  - 5770-SS1
