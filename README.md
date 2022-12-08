@@ -1,5 +1,7 @@
 # SSI Product life cycle dates
 
+[![SSI Crawling](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml/badge.svg)](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml)
+
 update: Thursday, 08-Dec-22 11:18:59 UTC
 
 
