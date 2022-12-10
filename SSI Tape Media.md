@@ -1,13 +1,11 @@
 # IBM Product life cycle dates
 
-update: Friday, 09-Dec-22 00:06:03 UTC
+update: Saturday, 10-Dec-22 00:05:46 UTC
 
 ---
 
 ## Table of contents
 
-
-- [](#)
 
 - [Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004](#family-358901-ibm-ultrium-cartridges-models-002-003-004)
 
@@ -29,28 +27,6 @@ update: Friday, 09-Dec-22 00:06:03 UTC
 
 - [Family 3599+03 IBM Tape Cartridge 3592](#family-359903-ibm-tape-cartridge-3592)
 
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=760/ENUS3599-017&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=760/ENUS3599-017&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3599-017 | 2003/09/09 | 2003/12/12 | \- | \- |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
 
 ---
 
