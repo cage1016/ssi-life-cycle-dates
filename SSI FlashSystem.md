@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Saturday, 10-Dec-22 00:05:46 UTC
+update: Sunday, 11-Dec-22 00:06:19 UTC
 
 ---
 
@@ -8,6 +8,8 @@ update: Saturday, 10-Dec-22 00:05:46 UTC
 
 
 - [Family 2072+05 IBM FlashSystem 5000](#family-207205-ibm-flashsystem-5000)
+
+- [Family 2072+06 IBM FlashSystem 5015 and 5035](#family-207206-ibm-flashsystem-5015-and-5035)
 
 - [Family 2076+01 IBM Storwize V7000 Disk System](#family-207601-ibm-storwize-v7000-disk-system)
 
@@ -59,6 +61,33 @@ Revised: November 22, 2022
 | 2072-3H2 | 2020-02-11 | 2020-03-06 | 2021-04-10 | - |
 | 2072-3H4 | 2020-02-11 | 2020-03-06 | 2021-04-10 | - |
 | 2072-92G | 2020-02-11 | 2020-03-06 | - | - |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## Family 2072+06 IBM FlashSystem 5015 and 5035
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2072-_h06&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2072-_h06&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: November 22, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2072-2N2 | 2021-02-09 | 2021-02-19 | - | - |
+| 2072-2N4 | 2021-02-09 | 2021-02-19 | - | - |
+| 2072-3N2 | 2021-02-09 | 2021-02-19 | - | - |
+| 2072-3N4 | 2021-02-09 | 2021-02-19 | - | - |
 
 
 
