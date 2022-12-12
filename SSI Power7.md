@@ -1,17 +1,11 @@
 # IBM Product life cycle dates
 
-update: Monday, 12-Dec-22 00:07:34 UTC
+update: Monday, 12-Dec-22 02:31:15 UTC
 
 ---
 
 ## Table of contents
 
-
-- [7891-73X](#7891-73x)
-
-- [8406-70Y](#8406-70y)
-
-- [8406-71Y](#8406-71y)
 
 - [Family 7895+01 IBM Flex System p460 Compute Node (7895-42X)](#family-789501-ibm-flex-system-p460-compute-node-7895-42x)
 
@@ -65,54 +59,6 @@ update: Monday, 12-Dec-22 00:07:34 UTC
 
 - [Family 9179+03 IBM Power 780 Server (9179-MHD)](#family-917903-ibm-power-780-server-9179-mhd)
 
-
----
-
-
-
-
-
-## 7891-73X
-
-```
-failed to get SSI page: parse "{\"keyword\":\"7891-73X\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
-```
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 8406-70Y
-
-```
-failed to get SSI page: parse "{\"keyword\":\"8406-70Y\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
-```
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 8406-71Y
-
-```
-failed to get SSI page: parse "{\"keyword\":\"8406-71Y\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
-```
-
-
-
-[↑ Back to top](#table-of-contents)
 
 ---
 
