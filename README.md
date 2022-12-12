@@ -2,8 +2,10 @@
 
 [![SSI Crawling](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml/badge.svg)](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml)
 
-update: Sunday, 11-Dec-22 00:06:19 UTC
+update: Monday, 12-Dec-22 00:07:34 UTC
 
+
+1. [](./.md)
 
 1. [SSI Cloud Object Storage](./SSI%20Cloud%20Object%20Storage.md)
 
