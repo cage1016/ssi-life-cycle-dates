@@ -21,6 +21,7 @@ jobs:
           image: ghcr.io/cage1016/ssi-crawling:latest
           options: >
             --user root
+            --env NUM_WORKERS=10
             -v ${{ github.workspace }}:/tmp/:rw
             -w /tmp
           run: /layers/google.go.build/bin/main crawling
