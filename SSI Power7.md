@@ -1,11 +1,13 @@
 # IBM Product life cycle dates
 
-update: Tuesday, 13-Dec-22 00:05:36 UTC
+update: Wednesday, 14-Dec-22 00:05:42 UTC
 
 ---
 
 ## Table of contents
 
+
+- [](#)
 
 - [Family 7895+01 IBM Flex System p460 Compute Node (7895-42X)](#family-789501-ibm-flex-system-p460-compute-node-7895-42x)
 
@@ -24,8 +26,6 @@ update: Tuesday, 13-Dec-22 00:05:36 UTC
 - [Family 8202+03 IBM Power 720 Express](#family-820203-ibm-power-720-express)
 
 - [Family 8205+01 IBM Power 740 Express Server](#family-820501-ibm-power-740-express-server)
-
-- [Family 8205+02 IBM Power 740 Express server](#family-820502-ibm-power-740-express-server)
 
 - [Family 8205+03 IBM Power 740 Express](#family-820503-ibm-power-740-express)
 
@@ -59,6 +59,26 @@ update: Tuesday, 13-Dec-22 00:05:36 UTC
 
 - [Family 9179+03 IBM Power 780 Server (9179-MHD)](#family-917903-ibm-power-780-server-9179-mhd)
 
+
+---
+
+
+
+
+
+## 
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8205-_h02&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8205-_h02&infotype=DD&subtype=SM&appname=skmwww)
+
+
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -269,30 +289,6 @@ Revised: October 25, 2022
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 8205-E6B | 2010-08-17 | 2010-09-17 | 2012-05-25 | 2019-09-30 |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## Family 8205+02 IBM Power 740 Express server
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8205-_h02&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8205-_h02&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised: March 22, 2022
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 8205-E6C | 2011-10-12 | 2011-10-21 | 2014-01-03 | 2019-09-30 |
 
 
 

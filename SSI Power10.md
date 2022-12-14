@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Tuesday, 13-Dec-22 00:05:36 UTC
+update: Wednesday, 14-Dec-22 00:05:42 UTC
 
 ---
 
@@ -36,7 +36,7 @@ update: Tuesday, 13-Dec-22 00:05:36 UTC
 
 IBM Asia Pacific Sales Manual
 
-Revised: December 6, 2022
+Revised: December 13, 2022
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -60,7 +60,7 @@ Revised: December 6, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: November 8, 2022
+Revised: December 13, 2022
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -84,7 +84,7 @@ Revised: November 8, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: November 8, 2022
+Revised: December 13, 2022
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -108,7 +108,7 @@ Revised: November 8, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: November 8, 2022
+Revised: December 13, 2022
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -132,7 +132,7 @@ Revised: November 8, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: November 8, 2022
+Revised: December 13, 2022
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -156,7 +156,7 @@ Revised: November 8, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: December 6, 2022
+Revised: December 13, 2022
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -183,7 +183,7 @@ August 15, 2022, for MTM 9105-41B (Rack and Tower) in Korea only.
 
 IBM Asia Pacific Sales Manual
 
-Revised: November 8, 2022
+Revised: December 13, 2022
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -207,7 +207,7 @@ Revised: November 8, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: November 8, 2022
+Revised: December 13, 2022
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
