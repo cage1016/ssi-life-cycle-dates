@@ -1,15 +1,11 @@
 # IBM Product life cycle dates
 
-update: Saturday, 31-Dec-22 00:04:53 UTC
+update: Sunday, 01-Jan-23 00:06:17 UTC
 
 ---
 
 ## Table of contents
 
-
-- [](#)
-
-- [](#)
 
 - [](#)
 
@@ -26,6 +22,10 @@ update: Saturday, 31-Dec-22 00:04:53 UTC
 - [Family 3589+11 IBM Ultrium 9 18 TB Data Cartridge Models 553 and 653](#family-358911-ibm-ultrium-9-18-tb-data-cartridge-models-553-and-653)
 
 - [Family 3589+12 IBM 3589 Ultrium Cleaning Cartridges Model 005 w/ customized labeling service](#family-358912-ibm-3589-ultrium-cleaning-cartridges-model-005-w-customized-labeling-service)
+
+- [Family 3599+01 IBM Tape Cartridges 3592](#family-359901-ibm-tape-cartridges-3592)
+
+- [Family 3599+02 IBM Tape Cart 3592](#family-359902-ibm-tape-cart-3592)
 
 - [Family 3599+03 IBM Tape Cartridge 3592](#family-359903-ibm-tape-cartridge-3592)
 
@@ -45,46 +45,6 @@ update: Saturday, 31-Dec-22 00:04:53 UTC
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3599-017 | 2003/09/09 | 2003/12/12 | \- | \- |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-_h02&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-_h02&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-_h01&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
 
 
 
@@ -263,6 +223,70 @@ Revised: August 23, 2022
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3589-005 | 2021-12-14 | 2021-12-17 | - | - |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## Family 3599+01 IBM Tape Cartridges 3592
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-_h01&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: September 13, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3599-420 | 2011-05-09 | 2011-07-22 | 2022-12-16 | - |
+| 3599-430 | 2011-05-09 | 2011-07-22 | 2022-12-16 | - |
+| 3599-440 | 2011-05-09 | 2011-07-22 | 2018-06-16 | - |
+| 3599-520 | 2011-05-09 | 2011-07-22 | 2022-12-16 | - |
+| 3599-530 | 2011-05-09 | 2011-07-22 | 2022-12-16 | - |
+| 3599-540 | 2011-05-09 | 2011-07-22 | 2018-06-16 | - |
+| 3599-620 | 2011-05-09 | 2011-07-22 | 2019-10-26 | - |
+| 3599-630 | 2011-05-09 | 2011-07-22 | 2019-10-26 | - |
+| 3599-640 | 2011-05-09 | 2011-07-22 | 2018-06-16 | - |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## Family 3599+02 IBM Tape Cart 3592
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-_h02&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-_h02&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised:  July 23, 2019.
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3599-425 | 2014/10/06 | 2014/10/24 | \- | \- |
+| 3599-435 | 2014/10/06 | 2014/10/24 | \- | \- |
+| 3599-445 | 2014/10/06 | 2014/10/24 | 2018/06/16 | \- |
+| 3599-525 | 2014/10/06 | 2014/10/24 | \- | \- |
+| 3599-535 | 2014/10/06 | 2014/10/24 | \- | \- |
+| 3599-545 | 2014/10/06 | 2014/10/24 | 2018/06/16 | \- |
+| 3599-625 | 2014/10/06 | 2014/10/24 | 2019/10/26 | \- |
+| 3599-635 | 2014/10/06 | 2014/10/24 | 2019/10/26 | \- |
+| 3599-645 | 2014/10/06 | 2014/10/24 | 2018/06/16 | \- |
 
 
 
