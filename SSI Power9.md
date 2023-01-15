@@ -1,23 +1,25 @@
 # IBM Product life cycle dates
 
-update: Saturday, 14-Jan-23 00:05:28 UTC
+update: Sunday, 15-Jan-23 00:05:42 UTC
 
 ---
 
 ## Table of contents
 
 
-- [](#)
-
-- [](#)
-
 - [Family 8335+05 IBM Power System AC922 (8335-GTH)](#family-833505-ibm-power-system-ac922-8335-gth)
+
+- [Family 9008+01 IBM Power System L922 (9008-22L)](#family-900801-ibm-power-system-l922-9008-22l)
 
 - [Family 9009+01 IBM Power System S922 (9009-22A)](#family-900901-ibm-power-system-s922-9009-22a)
 
 - [Family 9009+02 IBM Power System S924 (9009-42A)](#family-900902-ibm-power-system-s924-9009-42a)
 
+- [Family 9009+03 IBM Power System S914 (9009-41A)](#family-900903-ibm-power-system-s914-9009-41a)
+
 - [Family 9009+04 IBM Power System S922 (9009-22G)](#family-900904-ibm-power-system-s922-9009-22g)
+
+- [Family 9009+05 IBM Power System S914 (9009-41G)](#family-900905-ibm-power-system-s914-9009-41g)
 
 - [Family 9009+06 IBM Power System S924 (9009-42G)](#family-900906-ibm-power-system-s924-9009-42g)
 
@@ -36,46 +38,6 @@ update: Saturday, 14-Jan-23 00:05:28 UTC
 
 
 
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h03&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9008-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9008-_h01&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ## Family 8335+05 IBM Power System AC922 (8335-GTH)
 
 [http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8335-_h05&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8335-_h05&infotype=DD&subtype=SM&appname=skmwww)
@@ -87,6 +49,30 @@ Revised: December 6, 2022
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 8335-GTH | 2018-05-08 | 2018-05-25 | - | - |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## Family 9008+01 IBM Power System L922 (9008-22L)
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9008-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9008-_h01&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: November 8, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9008-22L | 2018-02-13 | 2018-03-20 | 2021-01-29 | - |
 
 
 
@@ -148,6 +134,30 @@ Revised: January 10, 2023
 
 
 
+## Family 9009+03 IBM Power System S914 (9009-41A)
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h03&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: January 10, 2023
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9009-41A | 2018-02-13 | 2018-03-20 | 2021-01-29 | - |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ## Family 9009+04 IBM Power System S922 (9009-22G)
 
 [http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h04&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h04&infotype=DD&subtype=SM&appname=skmwww)
@@ -159,6 +169,30 @@ Revised: January 10, 2023
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9009-22G | 2020-07-14 | 2020-07-24 | - | - |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## Family 9009+05 IBM Power System S914 (9009-41G)
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h05&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h05&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: January 10, 2023
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9009-41G | 2020-07-14 | 2020-07-24 | - | - |
 
 
 
