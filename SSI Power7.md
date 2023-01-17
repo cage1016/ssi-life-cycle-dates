@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Tuesday, 17-Jan-23 00:05:07 UTC
+update: Tuesday, 17-Jan-23 09:46:38 UTC
 
 ---
 
@@ -36,6 +36,8 @@ update: Tuesday, 17-Jan-23 00:05:07 UTC
 - [Family 8231+03 IBM Power 730 Express server](#family-823103-ibm-power-730-express-server)
 
 - [Family 8231+04 IBM Power 710 Express Server](#family-823104-ibm-power-710-express-server)
+
+- [Family 8231+05 IBM Power 730 Express server](#family-823105-ibm-power-730-express-server)
 
 - [Family 8233+01 IBM Power 750 Express Server](#family-823301-ibm-power-750-express-server)
 
@@ -411,6 +413,30 @@ Revised: October 25, 2022
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 8231-E1D | 2013-02-05 | 2013-02-20 | 2016-05-20 | 2020-12-31 |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## Family 8231+05 IBM Power 730 Express server
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8231-_h05&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8231-_h05&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: October 25, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 8231-E2D | 2013-02-05 | 2013-02-20 | 2015-11-30 | 2020-12-31 |
 
 
 
