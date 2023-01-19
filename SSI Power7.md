@@ -1,15 +1,11 @@
 # IBM Product life cycle dates
 
-update: Wednesday, 18-Jan-23 00:05:24 UTC
+update: Thursday, 19-Jan-23 00:05:19 UTC
 
 ---
 
 ## Table of contents
 
-
-- [](#)
-
-- [](#)
 
 - [Family 7895+01 IBM Flex System p460 Compute Node (7895-42X)](#family-789501-ibm-flex-system-p460-compute-node-7895-42x)
 
@@ -31,6 +27,8 @@ update: Wednesday, 18-Jan-23 00:05:24 UTC
 
 - [Family 8205+02 IBM Power 740 Express server](#family-820502-ibm-power-740-express-server)
 
+- [Family 8205+03 IBM Power 740 Express](#family-820503-ibm-power-740-express)
+
 - [Family 8231+01 IBM Power 710 and 730 Express Servers](#family-823101-ibm-power-710-and-730-express-servers)
 
 - [Family 8231+02 IBM Power 710 Express server](#family-823102-ibm-power-710-express-server)
@@ -38,6 +36,8 @@ update: Wednesday, 18-Jan-23 00:05:24 UTC
 - [Family 8231+03 IBM Power 730 Express server](#family-823103-ibm-power-730-express-server)
 
 - [Family 8231+04 IBM Power 710 Express Server](#family-823104-ibm-power-710-express-server)
+
+- [Family 8231+05 IBM Power 730 Express server](#family-823105-ibm-power-730-express-server)
 
 - [Family 8233+01 IBM Power 750 Express Server](#family-823301-ibm-power-750-express-server)
 
@@ -59,46 +59,6 @@ update: Wednesday, 18-Jan-23 00:05:24 UTC
 
 - [Family 9179+03 IBM Power 780 Server (9179-MHD)](#family-917903-ibm-power-780-server-9179-mhd)
 
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8231-_h05&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8231-_h05&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8205-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8205-_h03&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -346,6 +306,30 @@ Revised: March 22, 2022
 
 
 
+## Family 8205+03 IBM Power 740 Express
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8205-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8205-_h03&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: October 25, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 8205-E6D | 2013-02-05 | 2013-02-20 | 2015-11-30 | 2020-12-31 |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ## Family 8231+01 IBM Power 710 and 730 Express Servers
 
 [http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8231-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8231-_h01&infotype=DD&subtype=SM&appname=skmwww)
@@ -429,6 +413,30 @@ Revised: October 25, 2022
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 8231-E1D | 2013-02-05 | 2013-02-20 | 2016-05-20 | 2020-12-31 |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## Family 8231+05 IBM Power 730 Express server
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8231-_h05&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8231-_h05&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: October 25, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 8231-E2D | 2013-02-05 | 2013-02-20 | 2015-11-30 | 2020-12-31 |
 
 
 
