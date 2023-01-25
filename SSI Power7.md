@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Tuesday, 24-Jan-23 00:04:57 UTC
+update: Wednesday, 25-Jan-23 00:05:09 UTC
 
 ---
 
@@ -20,8 +20,6 @@ update: Tuesday, 24-Jan-23 00:04:57 UTC
 - [Family 8202+01 IBM Power 720 Express Server](#family-820201-ibm-power-720-express-server)
 
 - [Family 8202+02 IBM Power 720 server](#family-820202-ibm-power-720-server)
-
-- [Family 8202+03 IBM Power 720 Express](#family-820203-ibm-power-720-express)
 
 - [Family 8205+01 IBM Power 740 Express Server](#family-820501-ibm-power-740-express-server)
 
@@ -221,30 +219,6 @@ Revised: March 22, 2022
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 8202-E4C | 2011-10-12 | 2011-10-21 | 2014-01-03 | 2019-09-30 |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## Family 8202+03 IBM Power 720 Express
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8202-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8202-_h03&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised: October 25, 2022
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 8202-E4D | 2013-02-05 | 2013-02-20 | 2016-05-20 | 2020-12-31 |
 
 
 
