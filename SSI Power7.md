@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Monday, 30-Jan-23 00:05:37 UTC
+update: Tuesday, 31-Jan-23 00:05:35 UTC
 
 ---
 
@@ -44,8 +44,6 @@ update: Monday, 30-Jan-23 00:05:37 UTC
 - [Family 8408+01 IBM Power 750 Express](#family-840801-ibm-power-750-express)
 
 - [Family 9109+01 IBM Power 760](#family-910901-ibm-power-760)
-
-- [Family 9117+03 IBM Power 770 Server MMB](#family-911703-ibm-power-770-server-mmb)
 
 - [Family 9117+04 IBM Power 770 POWER7 Server (9117-MMC)](#family-911704-ibm-power-770-power7-server-9117-mmc)
 
@@ -509,30 +507,6 @@ Revised: October 25, 2022
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9109-RMD | 2013-02-05 | 2013-03-15 | 2015-11-30 | 2018-12-31 |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## Family 9117+03 IBM Power 770 Server MMB
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9117-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9117-_h03&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised: October 25, 2022
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9117-MMB | 2009-02-09 | 2010-03-16 | 2012-08-31 | 2019-09-30 |
 
 
 
