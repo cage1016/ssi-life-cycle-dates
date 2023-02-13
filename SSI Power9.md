@@ -1,11 +1,13 @@
 # IBM Product life cycle dates
 
-update: Sunday, 12-Feb-23 00:06:00 UTC
+update: Monday, 13-Feb-23 00:05:40 UTC
 
 ---
 
 ## Table of contents
 
+
+- [](#)
 
 - [Family 8335+05 IBM Power System AC922 (8335-GTH)](#family-833505-ibm-power-system-ac922-8335-gth)
 
@@ -23,14 +25,32 @@ update: Sunday, 12-Feb-23 00:06:00 UTC
 
 - [Family 9009+06 IBM Power System S924 (9009-42G)](#family-900906-ibm-power-system-s924-9009-42g)
 
-- [Family 9040+01 IBM Power System E950 (9040-MR9)](#family-904001-ibm-power-system-e950-9040-mr9)
-
 - [Family 9080+03 IBM Power System E980 (9080-M9S)](#family-908003-ibm-power-system-e980-9080-m9s)
 
 - [Family 9223+01 IBM Power System H922 for SAP HANA (9223-22H)](#family-922301-ibm-power-system-h922-for-sap-hana-9223-22h)
 
 - [Family 9223+04 IBM Power System H924 (9223-42S)](#family-922304-ibm-power-system-h924-9223-42s)
 
+
+---
+
+
+
+
+
+## 
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9040-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9040-_h01&infotype=DD&subtype=SM&appname=skmwww)
+
+
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -217,30 +237,6 @@ Revised: January 17, 2023
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9009-42G | 2020-07-14 | 2020-07-24 | - | - |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## Family 9040+01 IBM Power System E950 (9040-MR9)
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9040-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9040-_h01&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised: January 24, 2023
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9040-MR9 | 2018-08-07 | 2018-08-17 | - | - |
 
 
 
