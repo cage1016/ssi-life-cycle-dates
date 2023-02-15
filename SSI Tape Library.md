@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Tuesday, 14-Feb-23 00:05:43 UTC
+update: Wednesday, 15-Feb-23 00:05:40 UTC
 
 ---
 
@@ -115,7 +115,7 @@ Revised: December 13, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: August 23, 2022
+Revised: February 14, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -139,7 +139,7 @@ Revised: August 23, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: August 23, 2022
+Revised: February 14, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
