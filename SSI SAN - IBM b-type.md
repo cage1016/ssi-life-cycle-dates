@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Tuesday, 28-Feb-23 00:05:48 UTC
+update: Wednesday, 01-Mar-23 00:06:31 UTC
 
 ---
 
@@ -54,11 +54,11 @@ update: Tuesday, 28-Feb-23 00:05:48 UTC
 
 IBM Asia Pacific Sales Manual
 
-Revised: July 26, 2022
+Revised: February 28, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 2498-F96 | 2013-05-14 | 2013-05-24 | - | - |
+| 2498-F96 | 2013-05-14 | 2013-05-24 | 2023-02-28 | - |
 | 2498-N96 | 2013-05-14 | 2013-07-12 | 2018-07-26 | 2023-08-31 |
 
 
@@ -103,11 +103,11 @@ Revised: December 13, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: December 13, 2022
+Revised: February 28, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 8960-F64 | 2016-10-11 | 2016-11-11 | - | - |
+| 8960-F64 | 2016-10-11 | 2016-11-11 | 2023-02-28 | - |
 | 8960-N64 | 2016-10-11 | 2016-11-11 | - | - |
 
 
@@ -128,12 +128,12 @@ Revised: December 13, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: December 13, 2022
+Revised: February 28, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 8960-F96 | 2018-08-28 | 2018-09-14 | - | - |
-| 8960-N96 | 2018-08-28 | 2018-09-14 | - | - |
+| 8960-F96 | 2018-08-28 | 2018-09-14 | 2023-02-28 | - |
+| 8960-N96 | 2018-08-28 | 2018-09-14 | 2023-02-28 | - |
 
 
 
