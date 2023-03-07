@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Monday, 06-Mar-23 00:05:46 UTC
+update: Tuesday, 07-Mar-23 00:06:08 UTC
 
 ---
 
@@ -9,11 +9,11 @@ update: Monday, 06-Mar-23 00:05:46 UTC
 
 - [](#)
 
+- [](#)
+
 - [Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004](#family-358901-ibm-ultrium-cartridges-models-002-003-004)
 
 - [Family 3589+07 IBM Ultrium 6 2.5 TB Data Cartridge Models 550,650,570,670](#family-358907-ibm-ultrium-6-2-5-tb-data-cartridge-models-550-650-570-670)
-
-- [Family 3589+08 IBM Ultrium 7 6 TB Data Cartridge Models 551, 651, 571, 671](#family-358908-ibm-ultrium-7-6-tb-data-cartridge-models-551-651-571-671)
 
 - [Family 3589+09 IBM Ultrium 8 12 TB Data Cartridge Models 552 and 652](#family-358909-ibm-ultrium-8-12-tb-data-cartridge-models-552-and-652)
 
@@ -45,6 +45,26 @@ update: Monday, 06-Mar-23 00:05:46 UTC
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3599-017 | 2003/09/09 | 2003/12/12 | \- | \- |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h08&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h08&infotype=DD&subtype=SM&appname=skmwww)
+
+
+
+
 
 
 
@@ -98,33 +118,6 @@ Revised: September 13, 2022
 | 3589-570 | 2012-12-04 | 2012-12-07 | 2018-09-15 | - |
 | 3589-650 | 2012-12-04 | 2012-12-07 | 2022-12-16 | - |
 | 3589-670 | 2012-12-04 | 2012-12-07 | 2018-09-15 | - |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## Family 3589+08 IBM Ultrium 7 6 TB Data Cartridge Models 551, 651, 571, 671
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h08&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h08&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised: October 5, 2021
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3589-551 | 2015-10-20 | 2015-11-20 | - | - |
-| 3589-571 | 2015-10-20 | 2015-11-20 | 2018-09-15 | - |
-| 3589-651 | 2015-10-20 | 2015-11-20 | - | - |
-| 3589-671 | 2015-10-20 | 2015-11-20 | 2018-09-15 | - |
 
 
 
