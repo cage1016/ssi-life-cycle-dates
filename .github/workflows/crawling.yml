@@ -18,7 +18,7 @@ jobs:
       - name: Run SSI Crawling
         uses: addnab/docker-run-action@v3
         with:
-          image: ghcr.io/cage1016/ssi-crawling:latest
+          image: ghcr.io/cage1016/ssi-crawling:0.1.0
           options: >
             --user root
             --env NUM_WORKERS=10
