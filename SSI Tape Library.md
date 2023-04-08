@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Friday, 07-Apr-23 00:05:06 UTC
+update: Saturday, 08-Apr-23 00:05:03 UTC
 
 ---
 
