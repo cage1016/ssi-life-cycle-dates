@@ -1,13 +1,13 @@
 # IBM Product life cycle dates
 
-update: Saturday, 08-Apr-23 00:05:03 UTC
+update: Sunday, 09-Apr-23 00:05:34 UTC
 
 ---
 
 ## Table of contents
 
 
-- [](#)
+- [Family 8284+01 IBM Power System S822 server](#family-828401-ibm-power-system-s822-server)
 
 - [Family 8284+02 IBM Power System S812 server Model 21A](#family-828402-ibm-power-system-s812-server-model-21a)
 
@@ -34,13 +34,17 @@ update: Saturday, 08-Apr-23 00:05:03 UTC
 
 
 
-## 
+## Family 8284+01 IBM Power System S822 server
 
 [http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8284-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8284-_h01&infotype=DD&subtype=SM&appname=skmwww)
 
+IBM Asia Pacific Sales Manual
 
+Revised: November 15, 2022
 
-
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 8284-22A | 2014-04-28 | 2014-06-10 | 2019-02-28 | 2024-03-31 |
 
 
 
