@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Sunday, 09-Apr-23 00:05:34 UTC
+update: Monday, 10-Apr-23 00:05:14 UTC
 
 ---
 
@@ -21,7 +21,13 @@ update: Sunday, 09-Apr-23 00:05:34 UTC
 
 - [Family 8202+02 IBM Power 720 server](#family-820202-ibm-power-720-server)
 
+- [Family 8202+03 IBM Power 720 Express](#family-820203-ibm-power-720-express)
+
 - [Family 8205+01 IBM Power 740 Express Server](#family-820501-ibm-power-740-express-server)
+
+- [Family 8205+02 IBM Power 740 Express server](#family-820502-ibm-power-740-express-server)
+
+- [Family 8205+03 IBM Power 740 Express](#family-820503-ibm-power-740-express)
 
 - [Family 8231+01 IBM Power 710 and 730 Express Servers](#family-823101-ibm-power-710-and-730-express-servers)
 
@@ -35,7 +41,11 @@ update: Sunday, 09-Apr-23 00:05:34 UTC
 
 - [Family 8233+01 IBM Power 750 Express Server](#family-823301-ibm-power-750-express-server)
 
+- [Family 8408+01 IBM Power 750 Express](#family-840801-ibm-power-750-express)
+
 - [Family 9109+01 IBM Power 760](#family-910901-ibm-power-760)
+
+- [Family 9117+03 IBM Power 770 Server MMB](#family-911703-ibm-power-770-server-mmb)
 
 - [Family 9117+04 IBM Power 770 POWER7 Server (9117-MMC)](#family-911704-ibm-power-770-power7-server-9117-mmc)
 
@@ -224,6 +234,30 @@ Revised: March 22, 2022
 
 
 
+## Family 8202+03 IBM Power 720 Express
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8202-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8202-_h03&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: October 25, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 8202-E4D | 2013-02-05 | 2013-02-20 | 2016-05-20 | 2020-12-31 |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ## Family 8205+01 IBM Power 740 Express Server
 
 [http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8205-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8205-_h01&infotype=DD&subtype=SM&appname=skmwww)
@@ -235,6 +269,54 @@ Revised: October 25, 2022
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 8205-E6B | 2010-08-17 | 2010-09-17 | 2012-05-25 | 2019-09-30 |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## Family 8205+02 IBM Power 740 Express server
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8205-_h02&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8205-_h02&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: March 22, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 8205-E6C | 2011-10-12 | 2011-10-21 | 2014-01-03 | 2019-09-30 |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## Family 8205+03 IBM Power 740 Express
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8205-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8205-_h03&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: October 25, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 8205-E6D | 2013-02-05 | 2013-02-20 | 2015-11-30 | 2020-12-31 |
 
 
 
@@ -392,6 +474,30 @@ Revised: October 25, 2022
 
 
 
+## Family 8408+01 IBM Power 750 Express
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8408-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8408-_h01&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: September 13, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 8408-E8D | 2013-02-05 | 2013-03-15 | 2015-11-30 | 2020-12-31 |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ## Family 9109+01 IBM Power 760
 
 [http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9109-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9109-_h01&infotype=DD&subtype=SM&appname=skmwww)
@@ -403,6 +509,30 @@ Revised: October 25, 2022
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9109-RMD | 2013-02-05 | 2013-03-15 | 2015-11-30 | 2018-12-31 |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## Family 9117+03 IBM Power 770 Server MMB
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9117-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9117-_h03&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: October 25, 2022
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9117-MMB | 2009-02-09 | 2010-03-16 | 2012-08-31 | 2019-09-30 |
 
 
 
