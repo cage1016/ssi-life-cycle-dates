@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Tuesday, 11-Apr-23 00:05:27 UTC
+update: Tuesday, 11-Apr-23 15:08:00 UTC
 
 ---
 
@@ -68,7 +68,7 @@ Revised: December 6, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: November 8, 2022
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -92,7 +92,7 @@ Revised: November 8, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: January 10, 2023
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -116,7 +116,7 @@ Revised: January 10, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: January 17, 2023
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -140,7 +140,7 @@ Revised: January 17, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: January 17, 2023
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -164,7 +164,7 @@ Revised: January 17, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: January 17, 2023
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -188,7 +188,7 @@ Revised: January 17, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: January 17, 2023
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -212,7 +212,7 @@ Revised: January 17, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: January 17, 2023
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -236,7 +236,7 @@ Revised: January 17, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: January 24, 2023
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -284,7 +284,7 @@ Revised: January 24, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: November 8, 2022
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

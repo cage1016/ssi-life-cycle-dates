@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Tuesday, 11-Apr-23 00:05:27 UTC
+update: Tuesday, 11-Apr-23 15:08:00 UTC
 
 ---
 
@@ -50,7 +50,7 @@ update: Tuesday, 11-Apr-23 00:05:27 UTC
 
 IBM Asia Pacific Sales Manual
 
-Revised: November 22, 2022
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -80,7 +80,7 @@ Revised: November 22, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: November 22, 2022
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -291,7 +291,7 @@ Note: 2076-824 and 2076-U7C effective marketing withdrawal date is
 
 IBM Asia Pacific Sales Manual
 
-Revised: March 14, 2023
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -319,7 +319,7 @@ Revised: March 14, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: February 24, 2023
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -376,7 +376,7 @@ Note: 4664-824 and 4664-U7C effective marketing withdrawal date is
 
 IBM Asia Pacific Sales Manual
 
-Revised: January 31, 2023
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -404,7 +404,7 @@ Note: 4666-AG8 and 4666-UG8 effective marketing withdrawal date is
 
 IBM Asia Pacific Sales Manual
 
-Revised: January 24, 2023
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
