@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Tuesday, 11-Apr-23 15:08:00 UTC
+update: Wednesday, 12-Apr-23 00:05:15 UTC
 
 ---
 
@@ -48,7 +48,7 @@ update: Tuesday, 11-Apr-23 15:08:00 UTC
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 17, 2022
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -72,7 +72,7 @@ Revised: May 17, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 17, 2022
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -96,7 +96,7 @@ Revised: May 17, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: June 14, 2022
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -120,7 +120,7 @@ Revised: June 14, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: March 10, 2020
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -192,7 +192,7 @@ Revised:  February 04, 2020.
 
 IBM Asia Pacific Sales Manual
 
-Revised: October 4, 2021
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -215,11 +215,12 @@ Revised: October 4, 2021
 [http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3588-_h11&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3588-_h11&infotype=DD&subtype=SM&appname=skmwww)
 
 IBM Asia Pacific Sales Manual
-Revised:  November 20, 2018.
+
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3588-F8S | 2018/11/20 | 2018/12/07 | \- | \- |
+| 3588-F8S | 2018-11-20 | 2018-12-07 | - | - |
 
 
 
@@ -239,7 +240,7 @@ Revised:  November 20, 2018.
 
 IBM Asia Pacific Sales Manual
 
-Revised: October 26, 2021
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -290,7 +291,7 @@ Revised: June 28, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 10, 2022
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -314,7 +315,7 @@ Revised: May 10, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: April 19, 2022
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -338,7 +339,7 @@ Revised: April 19, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: August 11, 2020
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -362,7 +363,7 @@ Revised: August 11, 2020
 
 IBM Asia Pacific Sales Manual
 
-Revised: December 13, 2022
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

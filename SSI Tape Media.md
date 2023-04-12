@@ -1,13 +1,13 @@
 # IBM Product life cycle dates
 
-update: Tuesday, 11-Apr-23 15:08:00 UTC
+update: Wednesday, 12-Apr-23 00:05:15 UTC
 
 ---
 
 ## Table of contents
 
 
-- [](#)
+- [3599-017 IBM 3592 Enterprise Tape Cartridge (Cleaning) Model 017](#3599-017-ibm-3592-enterprise-tape-cartridge-cleaning-model-017)
 
 - [Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004](#family-358901-ibm-ultrium-cartridges-models-002-003-004)
 
@@ -36,15 +36,17 @@ update: Tuesday, 11-Apr-23 15:08:00 UTC
 
 
 
-## 
+## 3599-017 IBM 3592 Enterprise Tape Cartridge (Cleaning) Model 017
 
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=760/ENUS3599-017&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=760/ENUS3599-017&infotype=DD&subtype=SM&appname=skmwww)
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-017&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-017&infotype=DD&subtype=SM&appname=skmwww)
 
+IBM Asia Pacific Sales Manual
 
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3599-017 | 2003/09/09 | 2003/12/12 | \- | \- |
+| 3599-017 | 2003-09-09 | 2003-12-12 | - | - |
 
 
 
@@ -64,7 +66,7 @@ update: Tuesday, 11-Apr-23 15:08:00 UTC
 
 IBM Asia Pacific Sales Manual
 
-Revised: February 28, 2023
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -90,7 +92,7 @@ Revised: February 28, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: September 13, 2022
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -117,7 +119,7 @@ Revised: September 13, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: October 5, 2021
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -144,7 +146,7 @@ Revised: October 5, 2021
 
 IBM Asia Pacific Sales Manual
 
-Revised: March 8, 2022
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -169,7 +171,7 @@ Revised: March 8, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: January 7, 2022
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -193,7 +195,7 @@ Revised: January 7, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: July 12, 2022
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -218,7 +220,7 @@ Revised: July 12, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: August 23, 2022
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -242,7 +244,7 @@ Revised: August 23, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised: September 13, 2022
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -274,19 +276,19 @@ Revised: September 13, 2022
 
 IBM Asia Pacific Sales Manual
 
-Revised:  July 23, 2019.
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3599-425 | 2014/10/06 | 2014/10/24 | \- | \- |
-| 3599-435 | 2014/10/06 | 2014/10/24 | \- | \- |
-| 3599-445 | 2014/10/06 | 2014/10/24 | 2018/06/16 | \- |
-| 3599-525 | 2014/10/06 | 2014/10/24 | \- | \- |
-| 3599-535 | 2014/10/06 | 2014/10/24 | \- | \- |
-| 3599-545 | 2014/10/06 | 2014/10/24 | 2018/06/16 | \- |
-| 3599-625 | 2014/10/06 | 2014/10/24 | 2019/10/26 | \- |
-| 3599-635 | 2014/10/06 | 2014/10/24 | 2019/10/26 | \- |
-| 3599-645 | 2014/10/06 | 2014/10/24 | 2018/06/16 | \- |
+| 3599-425 | 2014-10-06 | 2014-10-24 | - | - |
+| 3599-435 | 2014-10-06 | 2014-10-24 | - | - |
+| 3599-445 | 2014-10-06 | 2014-10-24 | 2018-06-16 | - |
+| 3599-525 | 2014-10-06 | 2014-10-24 | - | - |
+| 3599-535 | 2014-10-06 | 2014-10-24 | - | - |
+| 3599-545 | 2014-10-06 | 2014-10-24 | 2018-06-16 | - |
+| 3599-625 | 2014-10-06 | 2014-10-24 | 2019-10-26 | - |
+| 3599-635 | 2014-10-06 | 2014-10-24 | 2019-10-26 | - |
+| 3599-645 | 2014-10-06 | 2014-10-24 | 2018-06-16 | - |
 
 
 
@@ -306,14 +308,14 @@ Revised:  July 23, 2019.
 
 IBM Asia Pacific Sales Manual
 
-Revised:  September 09, 2019.
+Revised: April 11, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3599-426 | 2019/01/08 | 2019/01/18 | \- | \- |
-| 3599-436 | 2019/01/08 | 2019/01/18 | \- | \- |
-| 3599-526 | 2019/01/08 | 2019/01/18 | \- | \- |
-| 3599-536 | 2019/01/08 | 2019/01/18 | \- | \- |
+| 3599-426 | 2019-01-08 | 2019-01-18 | - | - |
+| 3599-436 | 2019-01-08 | 2019-01-18 | - | - |
+| 3599-526 | 2019-01-08 | 2019-01-18 | - | - |
+| 3599-536 | 2019-01-08 | 2019-01-18 | - | - |
 
 
 
