@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Friday, 14-Apr-23 00:05:21 UTC
+update: Saturday, 15-Apr-23 00:05:07 UTC
 
 ---
 
@@ -16,6 +16,8 @@ update: Friday, 14-Apr-23 00:05:21 UTC
 - [Family 9009+02 IBM Power System S924 (9009-42A)](#family-900902-ibm-power-system-s924-9009-42a)
 
 - [Family 9009+03 IBM Power System S914 (9009-41A)](#family-900903-ibm-power-system-s914-9009-41a)
+
+- [Family 9009+04 IBM Power System S922 (9009-22G)](#family-900904-ibm-power-system-s922-9009-22g)
 
 - [Family 9009+05 IBM Power System S914 (9009-41G)](#family-900905-ibm-power-system-s914-9009-41g)
 
@@ -143,6 +145,30 @@ Revised: April 11, 2023
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9009-41A | 2018-02-13 | 2018-03-20 | 2021-01-29 | - |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## Family 9009+04 IBM Power System S922 (9009-22G)
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h04&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h04&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: April 11, 2023
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9009-22G | 2020-07-14 | 2020-07-24 | - | - |
 
 
 
