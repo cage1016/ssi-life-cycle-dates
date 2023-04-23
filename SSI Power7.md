@@ -1,11 +1,13 @@
 # IBM Product life cycle dates
 
-update: Saturday, 22-Apr-23 00:05:19 UTC
+update: Sunday, 23-Apr-23 00:05:49 UTC
 
 ---
 
 ## Table of contents
 
+
+- [](#)
 
 - [Family 7895+01 IBM Flex System p460 Compute Node (7895-42X)](#family-789501-ibm-flex-system-p460-compute-node-7895-42x)
 
@@ -57,8 +59,26 @@ update: Saturday, 22-Apr-23 00:05:19 UTC
 
 - [Family 9179+02 IBM Power 780 Server](#family-917902-ibm-power-780-server)
 
-- [Family 9179+03 IBM Power 780 Server (9179-MHD)](#family-917903-ibm-power-780-server-9179-mhd)
 
+---
+
+
+
+
+
+## 
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9179-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9179-_h03&infotype=DD&subtype=SM&appname=skmwww)
+
+
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -653,30 +673,6 @@ Revised: October 25, 2022
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9179-MHC | 2011-10-12 | 2011-10-21 | 2014-07-11 | 2019-09-30 |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## Family 9179+03 IBM Power 780 Server (9179-MHD)
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9179-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9179-_h03&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised: October 25, 2022
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9179-MHD | 2012-10-03 | 2012-10-19 | 2015-11-30 | 2020-12-31 |
 
 
 

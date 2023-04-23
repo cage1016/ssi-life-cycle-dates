@@ -1,15 +1,15 @@
 # IBM Product life cycle dates
 
-update: Saturday, 22-Apr-23 00:05:19 UTC
+update: Sunday, 23-Apr-23 00:05:49 UTC
 
 ---
 
 ## Table of contents
 
 
-- [Family 8284+01 IBM Power System S822 server](#family-828401-ibm-power-system-s822-server)
+- [](#)
 
-- [Family 8284+02 IBM Power System S812 server Model 21A](#family-828402-ibm-power-system-s812-server-model-21a)
+- [Family 8284+01 IBM Power System S822 server](#family-828401-ibm-power-system-s822-server)
 
 - [Family 8286+01 IBM Power System S814 server](#family-828601-ibm-power-system-s814-server)
 
@@ -34,17 +34,13 @@ update: Saturday, 22-Apr-23 00:05:19 UTC
 
 
 
-## Family 8284+01 IBM Power System S822 server
+## 
 
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8284-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8284-_h01&infotype=DD&subtype=SM&appname=skmwww)
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8284-_h02&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8284-_h02&infotype=DD&subtype=SM&appname=skmwww)
 
-IBM Asia Pacific Sales Manual
 
-Revised: November 15, 2022
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 8284-22A | 2014-04-28 | 2014-06-10 | 2019-02-28 | 2024-03-31 |
+
 
 
 
@@ -58,17 +54,17 @@ Revised: November 15, 2022
 
 
 
-## Family 8284+02 IBM Power System S812 server Model 21A
+## Family 8284+01 IBM Power System S822 server
 
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8284-_h02&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8284-_h02&infotype=DD&subtype=SM&appname=skmwww)
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8284-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8284-_h01&infotype=DD&subtype=SM&appname=skmwww)
 
 IBM Asia Pacific Sales Manual
 
-Revised: October 25, 2022
+Revised: November 15, 2022
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 8284-21A | 2017-02-14 | 2017-03-17 | 2020-08-31 | - |
+| 8284-22A | 2014-04-28 | 2014-06-10 | 2019-02-28 | 2024-03-31 |
 
 
 

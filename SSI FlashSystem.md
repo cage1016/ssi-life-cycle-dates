@@ -1,11 +1,13 @@
 # IBM Product life cycle dates
 
-update: Saturday, 22-Apr-23 00:05:19 UTC
+update: Sunday, 23-Apr-23 00:05:49 UTC
 
 ---
 
 ## Table of contents
 
+
+- [](#)
 
 - [Family 2072+05 IBM FlashSystem 5000](#family-207205-ibm-flashsystem-5000)
 
@@ -16,8 +18,6 @@ update: Saturday, 22-Apr-23 00:05:19 UTC
 - [Family 2076+02 IBM Storwize V7000 Disk System](#family-207602-ibm-storwize-v7000-disk-system)
 
 - [Family 2076+03 IBM Storwize V7000](#family-207603-ibm-storwize-v7000)
-
-- [Family 2076+04 IBM Storwize V7000F](#family-207604-ibm-storwize-v7000f)
 
 - [Family 2076+05 IBM Storwize V7000](#family-207605-ibm-storwize-v7000)
 
@@ -37,6 +37,26 @@ update: Saturday, 22-Apr-23 00:05:19 UTC
 
 - [Family 9745+01 IBM FlashSystem Utility models Variable Use billing](#family-974501-ibm-flashsystem-utility-models-variable-use-billing)
 
+
+---
+
+
+
+
+
+## 
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2076-_h04&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2076-_h04&infotype=DD&subtype=SM&appname=skmwww)
+
+
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -167,32 +187,6 @@ Revised: October 26, 2021
 | 2076-24F | 2014-05-06 | 2014-06-06 | 2020-04-11 | - |
 | 2076-524 | 2014-05-06 | 2014-06-06 | 2017-06-17 | 2022-12-31 |
 | 2076-92F | 2016-11-02 | 2016-12-09 | 2020-04-11 | - |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## Family 2076+04 IBM Storwize V7000F
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2076-_h04&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2076-_h04&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised: October 26, 2021
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2076-AFF | 2016-08-23 | 2016-09-09 | 2020-04-11 | - |
-| 2076-AF6 | 2016-08-23 | 2016-09-09 | 2020-08-15 | - |
-| 2076-A9F | 2017-03-14 | 2017-03-17 | 2020-04-11 | - |
 
 
 
