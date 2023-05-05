@@ -1,19 +1,19 @@
 # IBM Product life cycle dates
 
-update: Thursday, 04-May-23 00:05:12 UTC
+update: Friday, 05-May-23 00:05:11 UTC
 
 ---
 
 ## Table of contents
 
 
+- [](#)
+
+- [](#)
+
 - [Family 7895+01 IBM Flex System p460 Compute Node (7895-42X)](#family-789501-ibm-flex-system-p460-compute-node-7895-42x)
 
 - [Family 7895+02 IBM Flex System p260 Compute Node (7895-22X)](#family-789502-ibm-flex-system-p260-compute-node-7895-22x)
-
-- [Family 7895+04 IBM Flex System p460 Compute Node (7895-43X)](#family-789504-ibm-flex-system-p460-compute-node-7895-43x)
-
-- [Family 7895+05 IBM Flex System p260 Compute Node](#family-789505-ibm-flex-system-p260-compute-node)
 
 - [Family 7954+01 IBM Flex System p270 Compute Node 7954 24X](#family-795401-ibm-flex-system-p270-compute-node-7954-24x)
 
@@ -66,6 +66,46 @@ update: Thursday, 04-May-23 00:05:12 UTC
 
 
 
+## 
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS7895-_h04&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS7895-_h04&infotype=DD&subtype=SM&appname=skmwww)
+
+
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS7895-_h05&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS7895-_h05&infotype=DD&subtype=SM&appname=skmwww)
+
+
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ## Family 7895+01 IBM Flex System p460 Compute Node (7895-42X)
 
 [http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS7895-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS7895-_h01&infotype=DD&subtype=SM&appname=skmwww)
@@ -101,54 +141,6 @@ Revised: March 22, 2022
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7895-22X | 2012-04-11 | 2012-05-21 | 2013-09-30 | 2019-09-30 |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## Family 7895+04 IBM Flex System p460 Compute Node (7895-43X)
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS7895-_h04&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS7895-_h04&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised:  October 08, 2019.
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7895-43X | 2013/08/06 | 2013/09/10 | 2016/02/19 | 2019/12/31 |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## Family 7895+05 IBM Flex System p260 Compute Node
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS7895-_h05&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS7895-_h05&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised:  October 08, 2019.
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7895-23A | 2013/08/06 | 2013/09/10 | 2016/11/18 | 2019/12/31 |
 
 
 
