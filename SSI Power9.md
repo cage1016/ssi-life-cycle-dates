@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Tuesday, 09-May-23 00:05:42 UTC
+update: Wednesday, 10-May-23 00:05:12 UTC
 
 ---
 
@@ -44,11 +44,11 @@ update: Tuesday, 09-May-23 00:05:42 UTC
 
 IBM Asia Pacific Sales Manual
 
-Revised: April 11, 2023
+Revised: May 9, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 8335-GTH | 2018-05-08 | 2018-05-25 | - | - |
+| 8335-GTH | 2018-05-08 | 2018-05-25 | 2023-08-09 | - |
 
 
 
@@ -68,7 +68,7 @@ Revised: April 11, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: April 11, 2023
+Revised: May 9, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -92,7 +92,7 @@ Revised: April 11, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: April 11, 2023
+Revised: May 9, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -116,7 +116,7 @@ Revised: April 11, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: April 11, 2023
+Revised: May 9, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -140,7 +140,7 @@ Revised: April 11, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: April 18, 2023
+Revised: May 9, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -164,11 +164,11 @@ Revised: April 18, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 2, 2023
+Revised: May 9, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 9009-22G | 2020-07-14 | 2020-07-24 | - | - |
+| 9009-22G | 2020-07-14 | 2020-07-24 | 2023-10-20 | - |
 
 
 
@@ -188,11 +188,11 @@ Revised: May 2, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 2, 2023
+Revised: May 9, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 9009-41G | 2020-07-14 | 2020-07-24 | - | - |
+| 9009-41G | 2020-07-14 | 2020-07-24 | 2023-10-20 | - |
 
 
 
@@ -212,11 +212,11 @@ Revised: May 2, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 2, 2023
+Revised: May 9, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 9009-42G | 2020-07-14 | 2020-07-24 | - | - |
+| 9009-42G | 2020-07-14 | 2020-07-24 | 2023-10-20 | - |
 
 
 
@@ -236,11 +236,11 @@ Revised: May 2, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: April 11, 2023
+Revised: May 9, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 9040-MR9 | 2018-08-07 | 2018-08-17 | - | - |
+| 9040-MR9 | 2018-08-07 | 2018-08-17 | 2023-10-20 | - |
 
 
 
@@ -260,7 +260,7 @@ Revised: April 11, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: April 11, 2023
+Revised: May 9, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -284,7 +284,7 @@ Revised: April 11, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: April 11, 2023
+Revised: May 9, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -308,11 +308,11 @@ Revised: April 11, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 2, 2023
+Revised: May 9, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 9223-42S | 2020-10-06 | 2020-11-20 | - | - |
+| 9223-42S | 2020-10-06 | 2020-11-20 | 2023-10-20 | - |
 
 
 

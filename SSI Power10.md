@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Tuesday, 09-May-23 00:05:42 UTC
+update: Wednesday, 10-May-23 00:05:12 UTC
 
 ---
 
@@ -36,7 +36,7 @@ update: Tuesday, 09-May-23 00:05:42 UTC
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 2, 2023
+Revised: May 9, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -60,7 +60,7 @@ Revised: May 2, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 2, 2023
+Revised: May 9, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -84,7 +84,7 @@ Revised: May 2, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 2, 2023
+Revised: May 9, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -108,7 +108,7 @@ Revised: May 2, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 2, 2023
+Revised: May 9, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -132,7 +132,7 @@ Revised: May 2, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 2, 2023
+Revised: May 9, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -156,7 +156,7 @@ Revised: May 2, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 2, 2023
+Revised: May 9, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -183,7 +183,7 @@ August 15, 2022, for MTM 9105-41B (Rack and Tower) in Korea only.
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 2, 2023
+Revised: May 9, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -207,7 +207,7 @@ Revised: May 2, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 2, 2023
+Revised: May 9, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
