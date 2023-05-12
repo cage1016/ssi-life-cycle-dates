@@ -1,13 +1,11 @@
 # IBM Product life cycle dates
 
-update: Thursday, 11-May-23 00:05:34 UTC
+update: Friday, 12-May-23 00:05:14 UTC
 
 ---
 
 ## Table of contents
 
-
-- [](#)
 
 - [Family 3580+18 IBM TS2270 Tape Drive Model H7S](#family-358018-ibm-ts2270-tape-drive-model-h7s)
 
@@ -29,32 +27,14 @@ update: Thursday, 11-May-23 00:05:34 UTC
 
 - [Family 3592+10 IBM TS1150 Tape Drive and HD2 Tape Drive](#family-359210-ibm-ts1150-tape-drive-and-hd2-tape-drive)
 
+- [Family 3592+13 IBM TS1160 Tape Drive Model 60F](#family-359213-ibm-ts1160-tape-drive-model-60f)
+
 - [Family 3592+14 IBM TS1160 Tape Drive Model 60G](#family-359214-ibm-ts1160-tape-drive-model-60g)
 
 - [Family 3592+16 IBM TS1160 Tape Drive Model 60S for IBM TS4500](#family-359216-ibm-ts1160-tape-drive-model-60s-for-ibm-ts4500)
 
 - [Family 7226+01 IBM System Storage 7226 Model 1U3 Multi-Media Enclosure](#family-722601-ibm-system-storage-7226-model-1u3-multi-media-enclosure)
 
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3592-_h13&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3592-_h13&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -292,6 +272,30 @@ Revised: June 28, 2022
 | --- | --- | --- | --- | --- |
 | 3592-EH8 | 2014-10-06 | 2014-11-21 | 2022-12-31 | - |
 | 3592-E08 | 2014-10-06 | 2014-10-24 | 2022-12-31 | - |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## Family 3592+13 IBM TS1160 Tape Drive Model 60F
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3592-_h13&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3592-_h13&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: April 25, 2023
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3592-60F | 2018-11-20 | 2018-12-07 | - | - |
 
 
 
