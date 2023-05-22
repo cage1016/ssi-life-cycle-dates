@@ -1,11 +1,15 @@
 # IBM Product life cycle dates
 
-update: Sunday, 21-May-23 00:05:33 UTC
+update: Monday, 22-May-23 00:05:32 UTC
 
 ---
 
 ## Table of contents
 
+
+- [](#)
+
+- [](#)
 
 - [Family 8284+01 IBM Power System S822 server](#family-828401-ibm-power-system-s822-server)
 
@@ -15,11 +19,7 @@ update: Sunday, 21-May-23 00:05:33 UTC
 
 - [Family 8286+02 IBM Power System S824 server](#family-828602-ibm-power-system-s824-server)
 
-- [Family 8408+02 IBM Power System E850 Model E8E](#family-840802-ibm-power-system-e850-model-e8e)
-
 - [Family 8408+03 IBM Power System E850C server model 44E](#family-840803-ibm-power-system-e850c-server-model-44e)
-
-- [Family 9080+01 IBM Power System E880C (9080-MHE)](#family-908001-ibm-power-system-e880c-9080-mhe)
 
 - [Family 9080+02 IBM Power E870C Enterprise server Model MME](#family-908002-ibm-power-e870c-enterprise-server-model-mme)
 
@@ -27,6 +27,46 @@ update: Sunday, 21-May-23 00:05:33 UTC
 
 - [Family 9119+06 IBM Power 870 Server (9119-MME)](#family-911906-ibm-power-870-server-9119-mme)
 
+
+---
+
+
+
+
+
+## 
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9080-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9080-_h01&infotype=DD&subtype=SM&appname=skmwww)
+
+
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8408-_h02&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8408-_h02&infotype=DD&subtype=SM&appname=skmwww)
+
+
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -130,30 +170,6 @@ Revised: November 15, 2022
 
 
 
-## Family 8408+02 IBM Power System E850 Model E8E
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8408-_h02&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8408-_h02&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised: October 25, 2022
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 8408-E8E | 2015-05-11 | 2015-06-05 | 2017-07-14 | 2023-10-31 |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ## Family 8408+03 IBM Power System E850C server model 44E
 
 [http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8408-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8408-_h03&infotype=DD&subtype=SM&appname=skmwww)
@@ -165,30 +181,6 @@ Revised: November 15, 2022
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 8408-44E | 2016-10-11 | 2016-11-18 | 2019-10-31 | 2024-10-31 |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## Family 9080+01 IBM Power System E880C (9080-MHE)
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9080-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9080-_h01&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised: November 15, 2022
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9080-MHE | 2016-09-19 | 2016-09-29 | 2019-10-31 | 2024-10-31 |
 
 
 
