@@ -2,7 +2,7 @@
 
 [![SSI Crawling](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml/badge.svg)](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml)
 
-update: Wednesday, 24-May-23 00:05:31 UTC
+update: Thursday, 25-May-23 00:05:25 UTC
 
 
 1. [ESS](./ESS.md)
