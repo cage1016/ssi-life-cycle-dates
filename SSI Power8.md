@@ -1,11 +1,13 @@
 # IBM Product life cycle dates
 
-update: Friday, 26-May-23 00:05:43 UTC
+update: Saturday, 27-May-23 00:05:17 UTC
 
 ---
 
 ## Table of contents
 
+
+- [](#)
 
 - [Family 8284+01 IBM Power System S822 server](#family-828401-ibm-power-system-s822-server)
 
@@ -14,8 +16,6 @@ update: Friday, 26-May-23 00:05:43 UTC
 - [Family 8286+01 IBM Power System S814 server](#family-828601-ibm-power-system-s814-server)
 
 - [Family 8286+02 IBM Power System S824 server](#family-828602-ibm-power-system-s824-server)
-
-- [Family 8408+02 IBM Power System E850 Model E8E](#family-840802-ibm-power-system-e850-model-e8e)
 
 - [Family 8408+03 IBM Power System E850C server model 44E](#family-840803-ibm-power-system-e850c-server-model-44e)
 
@@ -27,6 +27,26 @@ update: Friday, 26-May-23 00:05:43 UTC
 
 - [Family 9119+06 IBM Power 870 Server (9119-MME)](#family-911906-ibm-power-870-server-9119-mme)
 
+
+---
+
+
+
+
+
+## 
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8408-_h02&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8408-_h02&infotype=DD&subtype=SM&appname=skmwww)
+
+
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -117,30 +137,6 @@ Revised: November 15, 2022
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 8286-42A | 2014-04-28 | 2014-06-10 | 2019-02-28 | 2024-03-31 |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## Family 8408+02 IBM Power System E850 Model E8E
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8408-_h02&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8408-_h02&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised: October 25, 2022
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 8408-E8E | 2015-05-11 | 2015-06-05 | 2017-07-14 | 2023-10-31 |
 
 
 

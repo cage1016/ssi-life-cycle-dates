@@ -1,11 +1,13 @@
 # IBM Product life cycle dates
 
-update: Friday, 26-May-23 00:05:43 UTC
+update: Saturday, 27-May-23 00:05:17 UTC
 
 ---
 
 ## Table of contents
 
+
+- [](#)
 
 - [Family 7895+01 IBM Flex System p460 Compute Node (7895-42X)](#family-789501-ibm-flex-system-p460-compute-node-7895-42x)
 
@@ -14,8 +16,6 @@ update: Friday, 26-May-23 00:05:43 UTC
 - [Family 7895+04 IBM Flex System p460 Compute Node (7895-43X)](#family-789504-ibm-flex-system-p460-compute-node-7895-43x)
 
 - [Family 7895+05 IBM Flex System p260 Compute Node](#family-789505-ibm-flex-system-p260-compute-node)
-
-- [Family 7954+01 IBM Flex System p270 Compute Node 7954 24X](#family-795401-ibm-flex-system-p270-compute-node-7954-24x)
 
 - [Family 8202+01 IBM Power 720 Express Server](#family-820201-ibm-power-720-express-server)
 
@@ -59,6 +59,26 @@ update: Friday, 26-May-23 00:05:43 UTC
 
 - [Family 9179+03 IBM Power 780 Server (9179-MHD)](#family-917903-ibm-power-780-server-9179-mhd)
 
+
+---
+
+
+
+
+
+## 
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS7954-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS7954-_h01&infotype=DD&subtype=SM&appname=skmwww)
+
+
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -149,30 +169,6 @@ Revised:  October 08, 2019.
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7895-23A | 2013/08/06 | 2013/09/10 | 2016/11/18 | 2019/12/31 |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## Family 7954+01 IBM Flex System p270 Compute Node 7954 24X
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS7954-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS7954-_h01&infotype=DD&subtype=SM&appname=skmwww)
-
-IBM Asia Pacific Sales Manual
-
-Revised:  October 08, 2019.
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7954-24X | 2013/08/06 | 2013/09/10 | 2015/11/30 | 2019/12/31 |
 
 
 
