@@ -1,13 +1,13 @@
 # IBM Product life cycle dates
 
-update: Tuesday, 06-Jun-23 00:05:18 UTC
+update: Wednesday, 07-Jun-23 00:05:35 UTC
 
 ---
 
 ## Table of contents
 
 
-- [](#)
+- [Family 7895+01 IBM Flex System p460 Compute Node (7895-42X)](#family-789501-ibm-flex-system-p460-compute-node-7895-42x)
 
 - [Family 7895+02 IBM Flex System p260 Compute Node (7895-22X)](#family-789502-ibm-flex-system-p260-compute-node-7895-22x)
 
@@ -66,13 +66,17 @@ update: Tuesday, 06-Jun-23 00:05:18 UTC
 
 
 
-## 
+## Family 7895+01 IBM Flex System p460 Compute Node (7895-42X)
 
 [http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS7895-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS7895-_h01&infotype=DD&subtype=SM&appname=skmwww)
 
+IBM Asia Pacific Sales Manual
 
+Revised: March 22, 2022
 
-
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7895-42X | 2012-04-11 | 2012-05-21 | 2014-01-14 | 2019-09-30 |
 
 
 
