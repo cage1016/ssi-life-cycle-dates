@@ -1,17 +1,11 @@
 # IBM Product life cycle dates
 
-update: Saturday, 10-Jun-23 00:05:12 UTC
+update: Sunday, 11-Jun-23 00:05:44 UTC
 
 ---
 
 ## Table of contents
 
-
-- [](#)
-
-- [](#)
-
-- [](#)
 
 - [Family 2498+06 IBM System Networking SAN96B-5](#family-249806-ibm-system-networking-san96b-5)
 
@@ -19,9 +13,13 @@ update: Saturday, 10-Jun-23 00:05:12 UTC
 
 - [Family 8960+01 IBM Storage Networking SAN64B-6](#family-896001-ibm-storage-networking-san64b-6)
 
+- [Family 8960+03 IBM Storage Networking SAN128B-6](#family-896003-ibm-storage-networking-san128b-6)
+
 - [Family 8960+04 IBM Storage Networking SAN18B-6](#family-896004-ibm-storage-networking-san18b-6)
 
 - [Family 8960+05 IBM Storage Networking SAN128B-6](#family-896005-ibm-storage-networking-san128b-6)
+
+- [Family 8960+06 IBM Storage Networking SAN64B-7](#family-896006-ibm-storage-networking-san64b-7)
 
 - [Family 8960+07 IBM Storage Networking SAN64B-6](#family-896007-ibm-storage-networking-san64b-6)
 
@@ -33,6 +31,8 @@ update: Saturday, 10-Jun-23 00:05:12 UTC
 
 - [Family 8961+04 IBM Storage Networking SAN512B-7](#family-896104-ibm-storage-networking-san512b-7)
 
+- [Family 8969+01 IBM IBM Storage Networking SAN24B-6](#family-896901-ibm-ibm-storage-networking-san24b-6)
+
 - [Family 8969+02 IBM Storage Networking SAN128B-7](#family-896902-ibm-storage-networking-san128b-7)
 
 - [Family 9239+01 IBM SANnav](#family-923901-ibm-sannav)
@@ -41,66 +41,6 @@ update: Saturday, 10-Jun-23 00:05:12 UTC
 
 - [Family 9241+01 IBM SANnav](#family-924101-ibm-sannav)
 
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8960-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8960-_h03&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8969-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8969-_h01&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8960-_h06&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8960-_h06&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -182,6 +122,31 @@ Revised: May 30, 2023
 
 
 
+## Family 8960+03 IBM Storage Networking SAN128B-6
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8960-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8960-_h03&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: May 30, 2023
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 8960-F96 | 2018-08-28 | 2018-09-14 | 2023-02-28 | - |
+| 8960-N96 | 2018-08-28 | 2018-09-14 | 2023-02-28 | - |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ## Family 8960+04 IBM Storage Networking SAN18B-6
 
 [http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8960-_h04&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8960-_h04&infotype=DD&subtype=SM&appname=skmwww)
@@ -218,6 +183,31 @@ Revised: May 30, 2023
 | --- | --- | --- | --- | --- |
 | 8960-F97 | 2020-10-13 | 2020-11-20 | - | - |
 | 8960-N97 | 2020-10-13 | 2020-11-20 | - | - |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## Family 8960+06 IBM Storage Networking SAN64B-7
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8960-_h06&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8960-_h06&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: May 30, 2023
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 8960-P64 | 2020-10-13 | 2020-11-20 | - | - |
+| 8960-R64 | 2020-10-13 | 2020-11-20 | - | - |
 
 
 
@@ -339,6 +329,30 @@ Revised: May 30, 2023
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 8961-F78 | 2020-10-13 | 2020-11-20 | - | - |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## Family 8969+01 IBM IBM Storage Networking SAN24B-6
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8969-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8969-_h01&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: May 30, 2023
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 8969-F24 | 2022-05-24 | 2022-06-03 | - | - |
 
 
 
