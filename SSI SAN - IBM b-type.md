@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Tuesday, 13-Jun-23 00:05:54 UTC
+update: Wednesday, 14-Jun-23 00:05:26 UTC
 
 ---
 
@@ -79,7 +79,7 @@ Revised: April 25, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 30, 2023
+Revised: June 13, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -103,7 +103,7 @@ Revised: May 30, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 30, 2023
+Revised: June 13, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -128,7 +128,7 @@ Revised: May 30, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 30, 2023
+Revised: June 13, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -153,7 +153,7 @@ Revised: May 30, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 30, 2023
+Revised: June 13, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -177,7 +177,7 @@ Revised: May 30, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 30, 2023
+Revised: June 13, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -202,7 +202,7 @@ Revised: May 30, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 30, 2023
+Revised: June 13, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -227,7 +227,7 @@ Revised: May 30, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 30, 2023
+Revised: June 13, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -252,11 +252,11 @@ Revised: May 30, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 30, 2023
+Revised: June 13, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 8961-F04 | 2016-10-11 | 2016-11-11 | - | - |
+| 8961-F04 | 2016-10-11 | 2016-11-11 | 2023-07-11 | - |
 
 
 
@@ -276,11 +276,11 @@ Revised: May 30, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 30, 2023
+Revised: June 13, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 8961-F08 | 2016-10-11 | 2016-11-11 | - | - |
+| 8961-F08 | 2016-10-11 | 2016-11-11 | 2023-07-11 | - |
 
 
 
@@ -300,7 +300,7 @@ Revised: May 30, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 30, 2023
+Revised: June 13, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -324,7 +324,7 @@ Revised: May 30, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 30, 2023
+Revised: June 13, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -348,7 +348,7 @@ Revised: May 30, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 30, 2023
+Revised: June 13, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -372,7 +372,7 @@ Revised: May 30, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: May 30, 2023
+Revised: June 13, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
