@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Tuesday, 27-Jun-23 00:06:11 UTC
+update: Wednesday, 28-Jun-23 00:06:27 UTC
 
 ---
 
@@ -48,11 +48,11 @@ update: Tuesday, 27-Jun-23 00:06:11 UTC
 
 IBM Asia Pacific Sales Manual
 
-Revised: June 13, 2023
+Revised: June 27, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3580-H7S | 2015-10-06 | 2015-11-20 | - | - |
+| 3580-H7S | 2015-10-06 | 2015-11-20 | 2024-06-30 | - |
 
 
 
@@ -120,11 +120,11 @@ Revised: June 13, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: June 13, 2023
+Revised: June 27, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3588-F7C | 2015-10-06 | 2015-11-20 | - | - |
+| 3588-F7C | 2015-10-06 | 2015-11-20 | 2023-12-31 | - |
 
 
 
@@ -144,11 +144,11 @@ Revised: June 13, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised:  February 04, 2020.
+Revised: June 27, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3588-F7A | 2015/10/06 | 2015/10/23 | \- | \- |
+| 3588-F7A | 2015-10-06 | 2015-10-23 | 2023-06-30 | - |
 
 
 
@@ -168,11 +168,11 @@ Revised:  February 04, 2020.
 
 IBM Asia Pacific Sales Manual
 
-Revised:  February 04, 2020.
+Revised: June 27, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3588-F8A | 2017/10/10 | 2017/11/17 | \- | \- |
+| 3588-F8A | 2017-10-10 | 2017-11-17 | 2023-06-30 | - |
 
 
 
@@ -216,11 +216,11 @@ Revised: June 13, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: June 13, 2023
+Revised: June 27, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3588-F8S | 2018-11-20 | 2018-12-07 | - | - |
+| 3588-F8S | 2018-11-20 | 2018-12-07 | 2023-12-31 | - |
 
 
 
@@ -240,12 +240,12 @@ Revised: June 13, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: June 13, 2023
+Revised: June 27, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3588-F9C | 2021-09-07 | 2021-09-10 | - | - |
-| 3588-F9S | 2021-09-07 | 2021-09-10 | - | - |
+| 3588-F9S | 2021-09-07 | 2021-09-10 | 2023-12-31 | - |
 | 3588-S9C | 2021-09-07 | 2021-09-10 | - | - |
 
 
@@ -315,11 +315,11 @@ Revised: June 13, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: June 13, 2023
+Revised: June 27, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3592-60G | 2018-11-20 | 2018-12-07 | - | - |
+| 3592-60G | 2018-11-20 | 2018-12-07 | 2023-06-30 | - |
 
 
 
@@ -363,7 +363,7 @@ Revised: June 13, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: June 13, 2023
+Revised: June 27, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

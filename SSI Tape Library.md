@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Tuesday, 27-Jun-23 00:06:11 UTC
+update: Wednesday, 28-Jun-23 00:06:27 UTC
 
 ---
 
@@ -30,7 +30,7 @@ update: Tuesday, 27-Jun-23 00:06:11 UTC
 
 IBM Asia Pacific Sales Manual
 
-Revised: June 13, 2023
+Revised: June 27, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -55,7 +55,7 @@ Revised: June 13, 2023
 
 IBM Asia Pacific Sales Manual
 
-Revised: June 13, 2023
+Revised: June 27, 2023
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -63,7 +63,7 @@ Revised: June 13, 2023
 | 3572-S4H | 2008-08-26 | 2008-09-05 | 2016-11-30 | 2020-12-31 |
 | 3572-S5H | 2011-02-15 | 2011-03-04 | 2018-09-15 | 2023-12-31 |
 | 3572-S6H | 2012-11-06 | 2012-12-07 | 2021-08-30 | - |
-| 3572-S7H | 2015-10-06 | 2015-10-23 | - | - |
+| 3572-S7H | 2015-10-06 | 2015-10-23 | 2024-06-30 | - |
 | 3572-S8H | 2017-10-24 | 2017-11-10 | - | - |
 | 3572-S9H | 2021-11-23 | 2021-12-03 | - | - |
 
