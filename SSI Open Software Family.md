@@ -1,13 +1,13 @@
 # IBM Product life cycle dates
 
-update: Monday, 03-Jul-23 00:05:58 UTC
+update: Tuesday, 04-Jul-23 00:06:19 UTC
 
 ---
 
 ## Table of contents
 
 
-- [Family 2145+10 IBM SAN Volume Controller models SA2 and SV2](#family-214510-ibm-san-volume-controller-models-sa2-and-sv2)
+- [](#)
 
 - [Family 2145+11 IBM SAN Volume Controller model SV3](#family-214511-ibm-san-volume-controller-model-sv3)
 
@@ -22,18 +22,13 @@ update: Monday, 03-Jul-23 00:05:58 UTC
 
 
 
-## Family 2145+10 IBM SAN Volume Controller models SA2 and SV2
+## 
 
 [http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2145-_h10&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2145-_h10&infotype=DD&subtype=SM&appname=skmwww)
 
-IBM Asia Pacific Sales Manual
 
-Revised: June 13, 2023
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2145-SA2 | 2020-02-11 | 2020-03-06 | - | - |
-| 2145-SV2 | 2020-02-11 | 2020-03-06 | 2023-01-28 | - |
+
 
 
 
