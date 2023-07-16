@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Saturday, 15-Jul-23 00:05:57 UTC
+update: Sunday, 16-Jul-23 00:06:49 UTC
 
 ---
 
@@ -20,6 +20,8 @@ update: Saturday, 15-Jul-23 00:05:57 UTC
 - [Family 2076+04 IBM Storwize V7000F](#family-207604-ibm-storwize-v7000f)
 
 - [Family 2076+05 IBM Storwize V7000](#family-207605-ibm-storwize-v7000)
+
+- [Family 2076+06 IBM Storwize V7000](#family-207606-ibm-storwize-v7000)
 
 - [Family 2076+07 IBM FlashSystem 7200](#family-207607-ibm-flashsystem-7200)
 
@@ -216,6 +218,31 @@ Revised: October 26, 2021
 | --- | --- | --- | --- | --- |
 | 2076-624 | 2016-08-23 | 2016-09-09 | 2020-08-15 | - |
 | 2076-U7A | 2017-11-14 | 2017-12-08 | 2020-08-15 | - |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## Family 2076+06 IBM Storwize V7000
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2076-_h06&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2076-_h06&infotype=DD&subtype=SM&appname=skmwww)
+
+IBM Asia Pacific Sales Manual
+
+Revised: October 26, 2021
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2076-U7B | 2018-11-06 | 2019-01-25 | 2020-10-17 | - |
+| 2076-724 | 2018-11-06 | 2018-12-07 | 2020-10-17 | - |
 
 
 
