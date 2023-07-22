@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Friday, 21-Jul-23 00:05:30 UTC
+update: Saturday, 22-Jul-23 00:05:19 UTC
 
 ---
 
@@ -9,7 +9,7 @@ update: Friday, 21-Jul-23 00:05:30 UTC
 
 - [5765-G98](#5765-g98)
 
-- [Are you looking for older announcements letters and sales manuals?](#are-you-looking-for-older-announcements-letters-and-sales-manuals)
+- [5770-SS1](#5770-ss1)
 
 
 ---
@@ -34,15 +34,11 @@ failed to get SSI page: parse "{\"keyword\":\"5765-G98\",\"queryfields\":\"DOCNO
 
 
 
-## Are you looking for older announcements letters and sales manuals?
+## 5770-SS1
 
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS5770-SS1&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS5770-SS1&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
+```
+failed to get SSI page: parse "{\"keyword\":\"5770-SS1\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
 
 
 

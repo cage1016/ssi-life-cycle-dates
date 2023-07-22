@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Friday, 21-Jul-23 00:05:30 UTC
+update: Saturday, 22-Jul-23 00:05:19 UTC
 
 ---
 
@@ -27,7 +27,7 @@ update: Friday, 21-Jul-23 00:05:30 UTC
 
 - [](#)
 
-- [Are you looking for older announcements letters and sales manuals?](#are-you-looking-for-older-announcements-letters-and-sales-manuals)
+- [3599-017](#3599-017)
 
 
 ---
@@ -39,126 +39,6 @@ update: Friday, 21-Jul-23 00:05:30 UTC
 ## 
 
 [http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h01&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h07&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h07&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h10&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h10&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h08&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h08&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h11&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h11&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h09&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h09&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-_h01&infotype=DD&subtype=SM&appname=skmwww)
 
 
 
@@ -198,7 +78,127 @@ update: Friday, 21-Jul-23 00:05:30 UTC
 
 ## 
 
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h09&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h09&infotype=DD&subtype=SM&appname=skmwww)
+
+
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h10&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h10&infotype=DD&subtype=SM&appname=skmwww)
+
+
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h11&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h11&infotype=DD&subtype=SM&appname=skmwww)
+
+
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h08&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h08&infotype=DD&subtype=SM&appname=skmwww)
+
+
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h07&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h07&infotype=DD&subtype=SM&appname=skmwww)
+
+
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 
+
 [http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-_h03&infotype=DD&subtype=SM&appname=skmwww)
+
+
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 
+
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-_h01&infotype=DD&subtype=SM&appname=skmwww)
 
 
 
@@ -236,15 +236,11 @@ update: Friday, 21-Jul-23 00:05:30 UTC
 
 
 
-## Are you looking for older announcements letters and sales manuals?
+## 3599-017
 
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-017&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3599-017&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
+```
+failed to get SSI page: parse "{\"keyword\":\"3599-017\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
 
 
 

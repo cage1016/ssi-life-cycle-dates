@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Friday, 21-Jul-23 00:05:30 UTC
+update: Saturday, 22-Jul-23 00:05:19 UTC
 
 ---
 
@@ -64,7 +64,7 @@ update: Friday, 21-Jul-23 00:05:30 UTC
 
 ## 
 
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2147-_h02&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2147-_h02&infotype=DD&subtype=SM&appname=skmwww)
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2147-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2147-_h03&infotype=DD&subtype=SM&appname=skmwww)
 
 
 
@@ -84,7 +84,7 @@ update: Friday, 21-Jul-23 00:05:30 UTC
 
 ## 
 
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2147-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2147-_h03&infotype=DD&subtype=SM&appname=skmwww)
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2147-_h02&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2147-_h02&infotype=DD&subtype=SM&appname=skmwww)
 
 
 
