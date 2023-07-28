@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Thursday, 27-Jul-23 00:05:14 UTC
+update: Friday, 28-Jul-23 00:04:54 UTC
 
 ---
 
@@ -11,9 +11,11 @@ update: Thursday, 27-Jul-23 00:05:14 UTC
 
 - [](#)
 
-- [](#)
+- [2147-SA2](#2147-sa2)
 
-- [](#)
+- [2147-SV2](#2147-sv2)
+
+- [2147-SV3](#2147-sv3)
 
 
 ---
@@ -24,7 +26,7 @@ update: Thursday, 27-Jul-23 00:05:14 UTC
 
 ## 
 
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2147-_h02&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2147-_h02&infotype=DD&subtype=SM&appname=skmwww)
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2145-_h10&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2145-_h10&infotype=DD&subtype=SM&appname=skmwww)
 
 
 
@@ -62,15 +64,11 @@ update: Thursday, 27-Jul-23 00:05:14 UTC
 
 
 
-## 
+## 2147-SA2
 
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2145-_h10&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2145-_h10&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
+```
+failed to get SSI page: parse "{\"keyword\":\"2147-SA2\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
 
 
 
@@ -82,15 +80,27 @@ update: Thursday, 27-Jul-23 00:05:14 UTC
 
 
 
-## 
+## 2147-SV2
 
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2147-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2147-_h03&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
+```
+failed to get SSI page: parse "{\"keyword\":\"2147-SV2\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
 
 
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 2147-SV3
+
+```
+failed to get SSI page: parse "{\"keyword\":\"2147-SV3\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
 
 
 

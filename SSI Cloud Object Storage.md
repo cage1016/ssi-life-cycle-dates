@@ -1,15 +1,15 @@
 # IBM Product life cycle dates
 
-update: Thursday, 27-Jul-23 00:05:14 UTC
+update: Friday, 28-Jul-23 00:04:54 UTC
 
 ---
 
 ## Table of contents
 
 
-- [](#)
+- [3401-A02](#3401-a02)
 
-- [](#)
+- [3403-A02](#3403-a02)
 
 
 ---
@@ -18,15 +18,11 @@ update: Thursday, 27-Jul-23 00:05:14 UTC
 
 
 
-## 
+## 3401-A02
 
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3401-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3401-_h01&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
+```
+failed to get SSI page: parse "{\"keyword\":\"3401-A02\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
 
 
 
@@ -38,15 +34,11 @@ update: Thursday, 27-Jul-23 00:05:14 UTC
 
 
 
-## 
+## 3403-A02
 
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3403-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3403-_h01&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
+```
+failed to get SSI page: parse "{\"keyword\":\"3403-A02\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
 
 
 

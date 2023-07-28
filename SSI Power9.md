@@ -1,6 +1,6 @@
 # IBM Product life cycle dates
 
-update: Thursday, 27-Jul-23 00:05:14 UTC
+update: Friday, 28-Jul-23 00:04:54 UTC
 
 ---
 
@@ -13,104 +13,24 @@ update: Thursday, 27-Jul-23 00:05:14 UTC
 
 - [](#)
 
-- [](#)
+- [8335-GTH](#8335-gth)
 
-- [](#)
+- [9008-22L](#9008-22l)
 
-- [](#)
+- [9009-22A](#9009-22a)
 
-- [](#)
+- [9009-42A](#9009-42a)
 
-- [](#)
+- [9009-42G](#9009-42g)
 
-- [](#)
+- [9040-MR9](#9040-mr9)
 
-- [](#)
+- [9080-M9S](#9080-m9s)
 
-- [](#)
+- [9223-22H](#9223-22h)
 
-- [](#)
+- [9223-42S](#9223-42s)
 
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h01&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h03&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h02&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h02&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9223-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9223-_h01&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -121,86 +41,6 @@ update: Thursday, 27-Jul-23 00:05:14 UTC
 ## 
 
 [http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h05&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h05&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9040-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9040-_h01&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9080-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9080-_h03&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9223-_h04&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9223-_h04&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8335-_h05&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8335-_h05&infotype=DD&subtype=SM&appname=skmwww)
 
 
 
@@ -240,7 +80,7 @@ update: Thursday, 27-Jul-23 00:05:14 UTC
 
 ## 
 
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9008-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9008-_h01&infotype=DD&subtype=SM&appname=skmwww)
+[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h03&infotype=DD&subtype=SM&appname=skmwww)
 
 
 
@@ -258,15 +98,139 @@ update: Thursday, 27-Jul-23 00:05:14 UTC
 
 
 
-## 
+## 8335-GTH
 
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h06&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h06&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
+```
+failed to get SSI page: parse "{\"keyword\":\"8335-GTH\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
 
 
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 9008-22L
+
+```
+failed to get SSI page: parse "{\"keyword\":\"9008-22L\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 9009-22A
+
+```
+failed to get SSI page: parse "{\"keyword\":\"9009-22A\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 9009-42A
+
+```
+failed to get SSI page: parse "{\"keyword\":\"9009-42A\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 9009-42G
+
+```
+failed to get SSI page: parse "{\"keyword\":\"9009-42G\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 9040-MR9
+
+```
+failed to get SSI page: parse "{\"keyword\":\"9040-MR9\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 9080-M9S
+
+```
+failed to get SSI page: parse "{\"keyword\":\"9080-M9S\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 9223-22H
+
+```
+failed to get SSI page: parse "{\"keyword\":\"9223-22H\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 9223-42S
+
+```
+failed to get SSI page: parse "{\"keyword\":\"9223-42S\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
 
 
 
