@@ -1,17 +1,13 @@
 # IBM Product life cycle dates
 
-update: Friday, 28-Jul-23 00:04:54 UTC
+update: Saturday, 29-Jul-23 00:05:08 UTC
 
 ---
 
 ## Table of contents
 
 
-- [](#)
-
-- [](#)
-
-- [](#)
+- [2498-F96](#2498-f96)
 
 - [2498-R42](#2498-r42)
 
@@ -37,6 +33,8 @@ update: Friday, 28-Jul-23 00:04:54 UTC
 
 - [8960-R64](#8960-r64)
 
+- [8961-F04](#8961-f04)
+
 - [8961-F08](#8961-f08)
 
 - [8961-F74](#8961-f74)
@@ -61,6 +59,12 @@ update: Friday, 28-Jul-23 00:04:54 UTC
 
 - [9240-G03](#9240-g03)
 
+- [9241-B05](#9241-b05)
+
+- [9241-E05](#9241-e05)
+
+- [9241-G05](#9241-g05)
+
 
 ---
 
@@ -68,55 +72,11 @@ update: Friday, 28-Jul-23 00:04:54 UTC
 
 
 
-## 
+## 2498-F96
 
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8961-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8961-_h01&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9241-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9241-_h01&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2498-_h06&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2498-_h06&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
+```
+failed to get SSI page: parse "{\"keyword\":\"2498-F96\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
 
 
 
@@ -320,6 +280,22 @@ failed to get SSI page: parse "{\"keyword\":\"8960-R64\",\"queryfields\":\"DOCNO
 
 
 
+## 8961-F04
+
+```
+failed to get SSI page: parse "{\"keyword\":\"8961-F04\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ## 8961-F08
 
 ```
@@ -500,6 +476,54 @@ failed to get SSI page: parse "{\"keyword\":\"9240-E03\",\"queryfields\":\"DOCNO
 
 ```
 failed to get SSI page: parse "{\"keyword\":\"9240-G03\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 9241-B05
+
+```
+failed to get SSI page: parse "{\"keyword\":\"9241-B05\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 9241-E05
+
+```
+failed to get SSI page: parse "{\"keyword\":\"9241-E05\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 9241-G05
+
+```
+failed to get SSI page: parse "{\"keyword\":\"9241-G05\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
 ```
 
 

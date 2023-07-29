@@ -1,23 +1,23 @@
 # IBM Product life cycle dates
 
-update: Friday, 28-Jul-23 00:04:54 UTC
+update: Saturday, 29-Jul-23 00:05:08 UTC
 
 ---
 
 ## Table of contents
 
 
-- [](#)
-
-- [](#)
-
-- [](#)
-
 - [8335-GTH](#8335-gth)
 
 - [9008-22L](#9008-22l)
 
 - [9009-22A](#9009-22a)
+
+- [9009-22G](#9009-22g)
+
+- [9009-41A](#9009-41a)
+
+- [9009-41G](#9009-41g)
 
 - [9009-42A](#9009-42a)
 
@@ -31,66 +31,6 @@ update: Friday, 28-Jul-23 00:04:54 UTC
 
 - [9223-42S](#9223-42s)
 
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h05&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h05&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h04&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h04&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h03&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h03&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -134,6 +74,54 @@ failed to get SSI page: parse "{\"keyword\":\"9008-22L\",\"queryfields\":\"DOCNO
 
 ```
 failed to get SSI page: parse "{\"keyword\":\"9009-22A\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 9009-22G
+
+```
+failed to get SSI page: parse "{\"keyword\":\"9009-22G\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 9009-41A
+
+```
+failed to get SSI page: parse "{\"keyword\":\"9009-41A\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 9009-41G
+
+```
+failed to get SSI page: parse "{\"keyword\":\"9009-41G\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
 ```
 
 

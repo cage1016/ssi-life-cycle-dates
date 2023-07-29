@@ -1,13 +1,11 @@
 # IBM Product life cycle dates
 
-update: Friday, 28-Jul-23 00:04:54 UTC
+update: Saturday, 29-Jul-23 00:05:08 UTC
 
 ---
 
 ## Table of contents
 
-
-- [](#)
 
 - [3589-004](#3589-004)
 
@@ -21,11 +19,15 @@ update: Friday, 28-Jul-23 00:04:54 UTC
 
 - [3589-552](#3589-552)
 
+- [3589-553](#3589-553)
+
 - [3589-650](#3589-650)
 
 - [3589-651](#3589-651)
 
 - [3589-652](#3589-652)
+
+- [3589-653](#3589-653)
 
 - [3599-017](#3599-017)
 
@@ -53,26 +55,6 @@ update: Friday, 28-Jul-23 00:04:54 UTC
 
 - [3599-536](#3599-536)
 
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h11&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3589-_h11&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -176,6 +158,22 @@ failed to get SSI page: parse "{\"keyword\":\"3589-552\",\"queryfields\":\"DOCNO
 
 
 
+## 3589-553
+
+```
+failed to get SSI page: parse "{\"keyword\":\"3589-553\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ## 3589-650
 
 ```
@@ -212,6 +210,22 @@ failed to get SSI page: parse "{\"keyword\":\"3589-651\",\"queryfields\":\"DOCNO
 
 ```
 failed to get SSI page: parse "{\"keyword\":\"3589-652\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 3589-653
+
+```
+failed to get SSI page: parse "{\"keyword\":\"3589-653\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
 ```
 
 

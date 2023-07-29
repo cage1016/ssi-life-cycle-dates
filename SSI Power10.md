@@ -1,13 +1,11 @@
 # IBM Product life cycle dates
 
-update: Friday, 28-Jul-23 00:04:54 UTC
+update: Saturday, 29-Jul-23 00:05:08 UTC
 
 ---
 
 ## Table of contents
 
-
-- [](#)
 
 - [9043-MRX](#9043-mrx)
 
@@ -23,26 +21,8 @@ update: Friday, 28-Jul-23 00:04:54 UTC
 
 - [9786-22H](#9786-22h)
 
+- [9786-42H](#9786-42h)
 
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9786-_h02&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9786-_h02&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -150,6 +130,22 @@ failed to get SSI page: parse "{\"keyword\":\"9105-42A\",\"queryfields\":\"DOCNO
 
 ```
 failed to get SSI page: parse "{\"keyword\":\"9786-22H\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 9786-42H
+
+```
+failed to get SSI page: parse "{\"keyword\":\"9786-42H\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
 ```
 
 

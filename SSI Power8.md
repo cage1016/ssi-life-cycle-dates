@@ -1,15 +1,15 @@
 # IBM Product life cycle dates
 
-update: Friday, 28-Jul-23 00:04:54 UTC
+update: Saturday, 29-Jul-23 00:05:08 UTC
 
 ---
 
 ## Table of contents
 
 
-- [](#)
-
 - [8284-21A](#8284-21a)
+
+- [8284-22A](#8284-22a)
 
 - [8286-41A](#8286-41a)
 
@@ -34,15 +34,11 @@ update: Friday, 28-Jul-23 00:04:54 UTC
 
 
 
-## 
+## 8284-21A
 
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8284-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS8284-_h01&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
+```
+failed to get SSI page: parse "{\"keyword\":\"8284-21A\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
 
 
 
@@ -54,10 +50,10 @@ update: Friday, 28-Jul-23 00:04:54 UTC
 
 
 
-## 8284-21A
+## 8284-22A
 
 ```
-failed to get SSI page: parse "{\"keyword\":\"8284-21A\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+failed to get SSI page: parse "{\"keyword\":\"8284-22A\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
 ```
 
 

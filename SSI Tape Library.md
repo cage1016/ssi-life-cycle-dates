@@ -1,15 +1,19 @@
 # IBM Product life cycle dates
 
-update: Friday, 28-Jul-23 00:04:54 UTC
+update: Saturday, 29-Jul-23 00:05:08 UTC
 
 ---
 
 ## Table of contents
 
 
-- [](#)
+- [3555-L3A](#3555-l3a)
 
-- [](#)
+- [3572-S7H](#3572-s7h)
+
+- [3572-S8H](#3572-s8h)
+
+- [3572-S9H](#3572-s9h)
 
 - [3584-L25](#3584-l25)
 
@@ -26,15 +30,11 @@ update: Friday, 28-Jul-23 00:04:54 UTC
 
 
 
-## 
+## 3555-L3A
 
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3572-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3572-_h01&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
+```
+failed to get SSI page: parse "{\"keyword\":\"3555-L3A\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
 
 
 
@@ -46,15 +46,43 @@ update: Friday, 28-Jul-23 00:04:54 UTC
 
 
 
-## 
+## 3572-S7H
 
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3555-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3555-_h01&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
+```
+failed to get SSI page: parse "{\"keyword\":\"3572-S7H\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
 
 
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 3572-S8H
+
+```
+failed to get SSI page: parse "{\"keyword\":\"3572-S8H\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 3572-S9H
+
+```
+failed to get SSI page: parse "{\"keyword\":\"3572-S9H\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
 
 
 

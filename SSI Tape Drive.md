@@ -1,27 +1,27 @@
 # IBM Product life cycle dates
 
-update: Friday, 28-Jul-23 00:04:54 UTC
+update: Saturday, 29-Jul-23 00:05:08 UTC
 
 ---
 
 ## Table of contents
 
 
-- [](#)
-
-- [](#)
-
-- [](#)
-
 - [3580-H7S](#3580-h7s)
 
+- [3580-H8S](#3580-h8s)
+
 - [3580-H9S](#3580-h9s)
+
+- [3588-F7A](#3588-f7a)
 
 - [3588-F7C](#3588-f7c)
 
 - [3588-F8A](#3588-f8a)
 
 - [3588-F8C](#3588-f8c)
+
+- [3588-F8S](#3588-f8s)
 
 - [3588-F9C](#3588-f9c)
 
@@ -48,66 +48,6 @@ update: Friday, 28-Jul-23 00:04:54 UTC
 
 
 
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3588-_h08&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3588-_h08&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3580-_h19&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3580-_h19&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3588-_h11&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3588-_h11&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ## 3580-H7S
 
 ```
@@ -124,10 +64,42 @@ failed to get SSI page: parse "{\"keyword\":\"3580-H7S\",\"queryfields\":\"DOCNO
 
 
 
+## 3580-H8S
+
+```
+failed to get SSI page: parse "{\"keyword\":\"3580-H8S\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ## 3580-H9S
 
 ```
 failed to get SSI page: parse "{\"keyword\":\"3580-H9S\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 3588-F7A
+
+```
+failed to get SSI page: parse "{\"keyword\":\"3588-F7A\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
 ```
 
 
@@ -176,6 +148,22 @@ failed to get SSI page: parse "{\"keyword\":\"3588-F8A\",\"queryfields\":\"DOCNO
 
 ```
 failed to get SSI page: parse "{\"keyword\":\"3588-F8C\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 3588-F8S
+
+```
+failed to get SSI page: parse "{\"keyword\":\"3588-F8S\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
 ```
 
 

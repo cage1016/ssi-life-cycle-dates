@@ -1,17 +1,11 @@
 # IBM Product life cycle dates
 
-update: Friday, 28-Jul-23 00:04:54 UTC
+update: Saturday, 29-Jul-23 00:05:08 UTC
 
 ---
 
 ## Table of contents
 
-
-- [](#)
-
-- [](#)
-
-- [](#)
 
 - [2072-12G](#2072-12g)
 
@@ -33,11 +27,15 @@ update: Friday, 28-Jul-23 00:04:54 UTC
 
 - [2076-12F](#2076-12f)
 
+- [2076-12G](#2076-12g)
+
 - [2076-212](#2076-212)
 
 - [2076-224](#2076-224)
 
 - [2076-24F](#2076-24f)
+
+- [2076-24G](#2076-24g)
 
 - [2076-312](#2076-312)
 
@@ -49,11 +47,23 @@ update: Friday, 28-Jul-23 00:04:54 UTC
 
 - [2076-724](#2076-724)
 
+- [2076-824](#2076-824)
+
 - [2076-92F](#2076-92f)
+
+- [2076-92G](#2076-92g)
+
+- [2076-A9F](#2076-a9f)
+
+- [2076-AF6](#2076-af6)
+
+- [2076-AFF](#2076-aff)
 
 - [2076-U7A](#2076-u7a)
 
 - [2076-U7B](#2076-u7b)
+
+- [2076-U7C](#2076-u7c)
 
 - [4657-12G](#4657-12g)
 
@@ -64,6 +74,16 @@ update: Friday, 28-Jul-23 00:04:54 UTC
 - [4657-92G](#4657-92g)
 
 - [4657-U7D](#4657-u7d)
+
+- [4662-12G](#4662-12g)
+
+- [4662-24G](#4662-24g)
+
+- [4662-6H2](#4662-6h2)
+
+- [4662-92G](#4662-92g)
+
+- [4662-UH6](#4662-uh6)
 
 - [4664-12G](#4664-12g)
 
@@ -85,66 +105,6 @@ update: Friday, 28-Jul-23 00:04:54 UTC
 
 - [9745-FS9](#9745-fs9)
 
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2076-_h07&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2076-_h07&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2076-_h04&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2076-_h04&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-## 
-
-[http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS4662-_h01&infotype=DD&subtype=SM&appname=skmwww](http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS4662-_h01&infotype=DD&subtype=SM&appname=skmwww)
-
-
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -312,6 +272,22 @@ failed to get SSI page: parse "{\"keyword\":\"2076-12F\",\"queryfields\":\"DOCNO
 
 
 
+## 2076-12G
+
+```
+failed to get SSI page: parse "{\"keyword\":\"2076-12G\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ## 2076-212
 
 ```
@@ -348,6 +324,22 @@ failed to get SSI page: parse "{\"keyword\":\"2076-224\",\"queryfields\":\"DOCNO
 
 ```
 failed to get SSI page: parse "{\"keyword\":\"2076-24F\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 2076-24G
+
+```
+failed to get SSI page: parse "{\"keyword\":\"2076-24G\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
 ```
 
 
@@ -440,10 +432,90 @@ failed to get SSI page: parse "{\"keyword\":\"2076-724\",\"queryfields\":\"DOCNO
 
 
 
+## 2076-824
+
+```
+failed to get SSI page: parse "{\"keyword\":\"2076-824\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ## 2076-92F
 
 ```
 failed to get SSI page: parse "{\"keyword\":\"2076-92F\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 2076-92G
+
+```
+failed to get SSI page: parse "{\"keyword\":\"2076-92G\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 2076-A9F
+
+```
+failed to get SSI page: parse "{\"keyword\":\"2076-A9F\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 2076-AF6
+
+```
+failed to get SSI page: parse "{\"keyword\":\"2076-AF6\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 2076-AFF
+
+```
+failed to get SSI page: parse "{\"keyword\":\"2076-AFF\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
 ```
 
 
@@ -476,6 +548,22 @@ failed to get SSI page: parse "{\"keyword\":\"2076-U7A\",\"queryfields\":\"DOCNO
 
 ```
 failed to get SSI page: parse "{\"keyword\":\"2076-U7B\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 2076-U7C
+
+```
+failed to get SSI page: parse "{\"keyword\":\"2076-U7C\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
 ```
 
 
@@ -556,6 +644,86 @@ failed to get SSI page: parse "{\"keyword\":\"4657-92G\",\"queryfields\":\"DOCNO
 
 ```
 failed to get SSI page: parse "{\"keyword\":\"4657-U7D\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 4662-12G
+
+```
+failed to get SSI page: parse "{\"keyword\":\"4662-12G\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 4662-24G
+
+```
+failed to get SSI page: parse "{\"keyword\":\"4662-24G\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 4662-6H2
+
+```
+failed to get SSI page: parse "{\"keyword\":\"4662-6H2\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 4662-92G
+
+```
+failed to get SSI page: parse "{\"keyword\":\"4662-92G\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
+```
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+## 4662-UH6
+
+```
+failed to get SSI page: parse "{\"keyword\":\"4662-UH6\",\"queryfields\":\"DOCNO\",\"params\":\"DD:DDSM\",\"hitList\":\"20\",\"country\":\"ASP:TW\",\"fr\":\"0\",\"mppefsrt\":\"2\"}": first path segment in URL cannot contain colon
 ```
 
 
