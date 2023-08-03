@@ -1,20 +1,20 @@
 # Power10
 
-content update: Thursday, 03-Aug-23 06:25:52 UTC
+content update: Thursday, 03-Aug-23 07:24:43 UTC
 
 ---
 
 ### Table of contents
 
 
-- [Family 9786+02 IBM Power L1024 (9786-42H)](#family-9786-02-ibm-power-l1024-9786-42-h)
-- [Family 9080+04 IBM Power E1080 Enterprise server](#family-9080-04-ibm-power-e1080-enterprise-server)
-- [Family 9043+01 IBM Power E1050 enterprise midrange technology-based server](#family-9043-01-ibm-power-e1050-enterprise-midrange-technology-based-server)
-- [Family 9105+02 IBM Power S1024 (9105-42A)](#family-9105-02-ibm-power-s1024-9105-42-a)
-- [Family 9105+04 IBM Power S1014 (9105-41B)](#family-9105-04-ibm-power-s1014-9105-41-b)
-- [Family 9105+03 IBM Power S1022s (9105-22B)](#family-9105-03-ibm-power-s1022s-9105-22-b)
-- [Family 9786+01 IBM Power L1022 (9786-22H)](#family-9786-01-ibm-power-l1022-9786-22-h)
-- [Family 9105+01 IBM Power S1022 (9105-22A)](#family-9105-01-ibm-power-s1022-9105-22-a)
+- [Family 9043+01 IBM Power E1050 enterprise midrange technology-based server](#family-904301-ibm-power-e1050-enterprise-midrange-technology-based-server)
+- [Family 9080+04 IBM Power E1080 Enterprise server](#family-908004-ibm-power-e1080-enterprise-server)
+- [Family 9105+01 IBM Power S1022 (9105-22A)](#family-910501-ibm-power-s1022-9105-22a)
+- [Family 9105+02 IBM Power S1024 (9105-42A)](#family-910502-ibm-power-s1024-9105-42a)
+- [Family 9105+03 IBM Power S1022s (9105-22B)](#family-910503-ibm-power-s1022s-9105-22b)
+- [Family 9105+04 IBM Power S1014 (9105-41B)](#family-910504-ibm-power-s1014-9105-41b)
+- [Family 9786+01 IBM Power L1022 (9786-22H)](#family-978601-ibm-power-l1022-9786-22h)
+- [Family 9786+02 IBM Power L1024 (9786-42H)](#family-978602-ibm-power-l1024-9786-42h)
 
 ---
 
@@ -24,15 +24,15 @@ content update: Thursday, 03-Aug-23 06:25:52 UTC
 
 
 
-### Family 9786+02 IBM Power L1024 (9786-42H)
+### Family 9043+01 IBM Power E1050 enterprise midrange technology-based server
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-l1024-9786-42h](https://www.ibm.com/docs/en/announcements/power-l1024-9786-42h?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/power-e1050-enterprise-midrange-technology-based-server](https://www.ibm.com/docs/en/announcements/power-e1050-enterprise-midrange-technology-based-server?region=AP)
 
 📅 2023-07-11
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 9786-42H | 2022-07-12 | 2022-07-22 | - | - |
+| 9043-MRX | 2022-07-12 | 2022-07-22 | - | - |
 
 
 
@@ -68,15 +68,15 @@ content update: Thursday, 03-Aug-23 06:25:52 UTC
 
 
 
-### Family 9043+01 IBM Power E1050 enterprise midrange technology-based server
+### Family 9105+01 IBM Power S1022 (9105-22A)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-e1050-enterprise-midrange-technology-based-server](https://www.ibm.com/docs/en/announcements/power-e1050-enterprise-midrange-technology-based-server?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/power-s1022-9105-22a](https://www.ibm.com/docs/en/announcements/power-s1022-9105-22a?region=AP)
 
 📅 2023-07-11
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 9043-MRX | 2022-07-12 | 2022-07-22 | - | - |
+| 9105-22A | 2022-07-05 | 2022-07-22 | - | - |
 
 
 
@@ -99,6 +99,28 @@ content update: Thursday, 03-Aug-23 06:25:52 UTC
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9105-42A | 2022-07-12 | 2022-07-22 | - | - |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 9105+03 IBM Power S1022s (9105-22B)
+
+🔗 [https://www.ibm.com/docs/en/announcements/power-s1022s-9105-22b](https://www.ibm.com/docs/en/announcements/power-s1022s-9105-22b?region=AP)
+
+📅 2023-07-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9105-22B | 2022-07-12 | 2022-07-22 | - | - |
 
 
 
@@ -135,28 +157,6 @@ October 28, 2022, for MTM 9105-41B (Rack and Tower) in China only.
 
 
 
-### Family 9105+03 IBM Power S1022s (9105-22B)
-
-🔗 [https://www.ibm.com/docs/en/announcements/power-s1022s-9105-22b](https://www.ibm.com/docs/en/announcements/power-s1022s-9105-22b?region=AP)
-
-📅 2023-07-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9105-22B | 2022-07-12 | 2022-07-22 | - | - |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 9786+01 IBM Power L1022 (9786-22H)
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-l1022-9786-22h](https://www.ibm.com/docs/en/announcements/power-l1022-9786-22h?region=AP)
@@ -179,15 +179,15 @@ October 28, 2022, for MTM 9105-41B (Rack and Tower) in China only.
 
 
 
-### Family 9105+01 IBM Power S1022 (9105-22A)
+### Family 9786+02 IBM Power L1024 (9786-42H)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-s1022-9105-22a](https://www.ibm.com/docs/en/announcements/power-s1022-9105-22a?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/power-l1024-9786-42h](https://www.ibm.com/docs/en/announcements/power-l1024-9786-42h?region=AP)
 
 📅 2023-07-11
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 9105-22A | 2022-07-05 | 2022-07-22 | - | - |
+| 9786-42H | 2022-07-12 | 2022-07-22 | - | - |
 
 
 
