@@ -1,4 +1,5 @@
-displayName: SSI Power8
+displayName: Power8
+category: Power
 enabled: true
 models:
   - 8284-21A

@@ -1,4 +1,5 @@
-displayName: SSI Tape Library
+displayName: Tape Library
+category: Storage
 enabled: true
 models:
   - 3555-L3A

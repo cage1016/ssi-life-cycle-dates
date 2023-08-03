@@ -1,4 +1,5 @@
-displayName: SSI Tape Media
+displayName: Tape Media
+category: Storage
 enabled: true
 models:
   - 3589-004

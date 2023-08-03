@@ -1,4 +1,5 @@
-displayName: SSI Tape Drive
+displayName: Tape Drive
+category: Storage
 enabled: true
 models:
   - 3580-H7S

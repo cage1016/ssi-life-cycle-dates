@@ -1,4 +1,5 @@
-displayName: SSI Power9
+displayName: Power9
+category: Power
 enabled: true
 models:
   - 9009-22A

@@ -1,4 +1,5 @@
-displayName: SSI Power10
+displayName: Power10
+category: Power
 enabled: true
 models:
   - 9080-HEX

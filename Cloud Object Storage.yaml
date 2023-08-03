@@ -1,0 +1,6 @@
+displayName: Cloud Object Storage
+category: Storage
+enabled: true
+models:
+  - 3401-A02
+  - 3403-A02

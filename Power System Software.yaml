@@ -1,0 +1,6 @@
+displayName: Power System Software
+category: Power
+enabled: true
+models:
+  - 5765-G98
+  - 5770-SS1

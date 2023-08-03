@@ -1,4 +1,5 @@
-displayName: ESS
+displayName: Elastic Storage Server
+category: Storage
 enabled: true
 models:
     - 5105-22E

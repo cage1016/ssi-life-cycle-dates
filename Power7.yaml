@@ -1,4 +1,5 @@
-displayName: SSI Power7
+displayName: Power7
+category: Power
 enabled: true
 models:
   - 8231-E2B
