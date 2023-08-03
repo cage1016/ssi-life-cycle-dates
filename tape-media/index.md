@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: Thursday, 03-Aug-23 06:11:18 UTC
+content update: Thursday, 03-Aug-23 06:19:51 UTC
 
 ---
 
@@ -29,7 +29,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452
 
-🔗 [https://www.ibm.com/docs/en/announcements/ultrium-7-9-tb-uninitialized-data-cartridge-model-452](https://www.ibm.com/docs/en/announcements/ultrium-7-9-tb-uninitialized-data-cartridge-model-452)
+🔗 [https://www.ibm.com/docs/en/announcements/ultrium-7-9-tb-uninitialized-data-cartridge-model-452](https://www.ibm.com/docs/en/announcements/ultrium-7-9-tb-uninitialized-data-cartridge-model-452?region=AP)
 
 📅 2023-07-04
 
@@ -51,7 +51,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 3589+12 IBM 3589 Ultrium Cleaning Cartridges Model 005 w/ customized labeling service
 
-🔗 [https://www.ibm.com/docs/en/announcements/3589-ultrium-cleaning-cartridges-model-005-w-customized-labeling-service](https://www.ibm.com/docs/en/announcements/3589-ultrium-cleaning-cartridges-model-005-w-customized-labeling-service)
+🔗 [https://www.ibm.com/docs/en/announcements/3589-ultrium-cleaning-cartridges-model-005-w-customized-labeling-service](https://www.ibm.com/docs/en/announcements/3589-ultrium-cleaning-cartridges-model-005-w-customized-labeling-service?region=AP)
 
 📅 2023-06-13
 
@@ -73,7 +73,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004
 
-🔗 [https://www.ibm.com/docs/en/announcements/ultrium-cartridges-models-002-003-004](https://www.ibm.com/docs/en/announcements/ultrium-cartridges-models-002-003-004)
+🔗 [https://www.ibm.com/docs/en/announcements/ultrium-cartridges-models-002-003-004](https://www.ibm.com/docs/en/announcements/ultrium-cartridges-models-002-003-004?region=AP)
 
 📅 2023-05-30
 
@@ -97,7 +97,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 3589+07 IBM Ultrium 6 2.5 TB Data Cartridge Models 550,650,570,670
 
-🔗 [https://www.ibm.com/docs/en/announcements/ultrium-6-25-tb-data-cartridge-models-550650570670](https://www.ibm.com/docs/en/announcements/ultrium-6-25-tb-data-cartridge-models-550650570670)
+🔗 [https://www.ibm.com/docs/en/announcements/ultrium-6-25-tb-data-cartridge-models-550650570670](https://www.ibm.com/docs/en/announcements/ultrium-6-25-tb-data-cartridge-models-550650570670?region=AP)
 
 📅 2023-07-04
 
@@ -122,7 +122,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 3589+08 IBM Ultrium 7 6 TB Data Cartridge Models 551, 651, 571, 671
 
-🔗 [https://www.ibm.com/docs/en/announcements/ultrium-7-6-tb-data-cartridge-models-551-651-571-671](https://www.ibm.com/docs/en/announcements/ultrium-7-6-tb-data-cartridge-models-551-651-571-671)
+🔗 [https://www.ibm.com/docs/en/announcements/ultrium-7-6-tb-data-cartridge-models-551-651-571-671](https://www.ibm.com/docs/en/announcements/ultrium-7-6-tb-data-cartridge-models-551-651-571-671?region=AP)
 
 📅 2023-06-13
 
@@ -147,7 +147,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 3589+09 IBM Ultrium 8 12 TB Data Cartridge Models 552 and 652
 
-🔗 [https://www.ibm.com/docs/en/announcements/ultrium-8-12-tb-data-cartridge-models-552-652](https://www.ibm.com/docs/en/announcements/ultrium-8-12-tb-data-cartridge-models-552-652)
+🔗 [https://www.ibm.com/docs/en/announcements/ultrium-8-12-tb-data-cartridge-models-552-652](https://www.ibm.com/docs/en/announcements/ultrium-8-12-tb-data-cartridge-models-552-652?region=AP)
 
 📅 2023-07-04
 
@@ -180,7 +180,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 3589+11 IBM Ultrium 9 18 TB Data Cartridge Models 553 and 653
 
-🔗 [https://www.ibm.com/docs/en/announcements/ultrium-9-18-tb-data-cartridge-models-553-653](https://www.ibm.com/docs/en/announcements/ultrium-9-18-tb-data-cartridge-models-553-653)
+🔗 [https://www.ibm.com/docs/en/announcements/ultrium-9-18-tb-data-cartridge-models-553-653](https://www.ibm.com/docs/en/announcements/ultrium-9-18-tb-data-cartridge-models-553-653?region=AP)
 
 📅 2023-06-13
 
@@ -203,7 +203,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### 3599-017 IBM 3592 Enterprise Tape Cartridge (Cleaning) Model 017
 
-🔗 [https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-cartridge-cleaning-model-017](https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-cartridge-cleaning-model-017)
+🔗 [https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-cartridge-cleaning-model-017](https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-cartridge-cleaning-model-017?region=AP)
 
 📅 2023-06-13
 
@@ -225,7 +225,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 3599+01 IBM Tape Cartridges 3592
 
-🔗 [https://www.ibm.com/docs/en/announcements/tape-cartridges-3592](https://www.ibm.com/docs/en/announcements/tape-cartridges-3592)
+🔗 [https://www.ibm.com/docs/en/announcements/tape-cartridges-3592](https://www.ibm.com/docs/en/announcements/tape-cartridges-3592?region=AP)
 
 📅 2023-06-13
 
@@ -255,7 +255,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 3599+02 IBM Tape Cart 3592
 
-🔗 [https://www.ibm.com/docs/en/announcements/tape-cart-3592](https://www.ibm.com/docs/en/announcements/tape-cart-3592)
+🔗 [https://www.ibm.com/docs/en/announcements/tape-cart-3592](https://www.ibm.com/docs/en/announcements/tape-cart-3592?region=AP)
 
 📅 2023-06-13
 
@@ -285,7 +285,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 3599+03 IBM Tape Cartridge 3592
 
-🔗 [https://www.ibm.com/docs/en/announcements/tape-cartridge-3592](https://www.ibm.com/docs/en/announcements/tape-cartridge-3592)
+🔗 [https://www.ibm.com/docs/en/announcements/tape-cartridge-3592](https://www.ibm.com/docs/en/announcements/tape-cartridge-3592?region=AP)
 
 📅 2023-06-13
 

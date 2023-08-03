@@ -1,6 +1,6 @@
 # Elastic Storage Server
 
-content update: Thursday, 03-Aug-23 06:11:18 UTC
+content update: Thursday, 03-Aug-23 06:19:51 UTC
 
 ---
 
@@ -23,7 +23,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### 5639-53E Embedded Red Hat Enterprise Linux for ESS 5000 - 3-Year Subscription 1.0
 
-🔗 [https://www.ibm.com/docs/en/announcements/embedded-red-hat-enterprise-linux-ess-5000-3-year-subscription-10](https://www.ibm.com/docs/en/announcements/embedded-red-hat-enterprise-linux-ess-5000-3-year-subscription-10)
+🔗 [https://www.ibm.com/docs/en/announcements/embedded-red-hat-enterprise-linux-ess-5000-3-year-subscription-10](https://www.ibm.com/docs/en/announcements/embedded-red-hat-enterprise-linux-ess-5000-3-year-subscription-10?region=AP)
 
 📅 2021-01-26
 
@@ -49,7 +49,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 5147+01 IBM Elastic Storage Server DeepFlash Storage
 
-🔗 [https://www.ibm.com/docs/en/announcements/elastic-storage-server-deepflash-storage](https://www.ibm.com/docs/en/announcements/elastic-storage-server-deepflash-storage)
+🔗 [https://www.ibm.com/docs/en/announcements/elastic-storage-server-deepflash-storage](https://www.ibm.com/docs/en/announcements/elastic-storage-server-deepflash-storage?region=AP)
 
 📅 2019-07-09
 
@@ -76,7 +76,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9846+03 IBM FlashSystem 9100
 
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9100](https://www.ibm.com/docs/en/announcements/flashsystem-9100)
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9100](https://www.ibm.com/docs/en/announcements/flashsystem-9100?region=AP)
 
 📅 2022-05-31
 
@@ -102,7 +102,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 5141+03 IBM Elastic Storage System 3500
 
-🔗 [https://www.ibm.com/docs/en/announcements/elastic-storage-system-3500](https://www.ibm.com/docs/en/announcements/elastic-storage-system-3500)
+🔗 [https://www.ibm.com/docs/en/announcements/elastic-storage-system-3500](https://www.ibm.com/docs/en/announcements/elastic-storage-system-3500?region=AP)
 
 📅 2023-06-13
 
@@ -124,7 +124,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 5141+02 IBM Elastic Storage System 3200
 
-🔗 [https://www.ibm.com/docs/en/announcements/elastic-storage-system-3200](https://www.ibm.com/docs/en/announcements/elastic-storage-system-3200)
+🔗 [https://www.ibm.com/docs/en/announcements/elastic-storage-system-3200](https://www.ibm.com/docs/en/announcements/elastic-storage-system-3200?region=AP)
 
 📅 2022-08-23
 

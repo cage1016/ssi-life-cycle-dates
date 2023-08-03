@@ -1,6 +1,6 @@
 # Power System Software
 
-content update: Thursday, 03-Aug-23 06:11:18 UTC
+content update: Thursday, 03-Aug-23 06:19:51 UTC
 
 ---
 
@@ -20,7 +20,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### 5770-SS1 IBM i Operating System 7.5
 
-🔗 [https://www.ibm.com/docs/en/announcements/i-operating-system-75](https://www.ibm.com/docs/en/announcements/i-operating-system-75)
+🔗 [https://www.ibm.com/docs/en/announcements/i-operating-system-75](https://www.ibm.com/docs/en/announcements/i-operating-system-75?region=AP)
 
 📅 2022-10-11
 
@@ -46,7 +46,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### 5765-G98 IBM AIX Standard Edition 7.3
 
-🔗 [https://www.ibm.com/docs/en/announcements/aix-standard-edition-73](https://www.ibm.com/docs/en/announcements/aix-standard-edition-73)
+🔗 [https://www.ibm.com/docs/en/announcements/aix-standard-edition-73](https://www.ibm.com/docs/en/announcements/aix-standard-edition-73?region=AP)
 
 📅 2022-10-11
 

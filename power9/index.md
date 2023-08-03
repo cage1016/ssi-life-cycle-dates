@@ -1,6 +1,6 @@
 # Power9
 
-content update: Thursday, 03-Aug-23 06:11:18 UTC
+content update: Thursday, 03-Aug-23 06:19:51 UTC
 
 ---
 
@@ -30,7 +30,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9009+01 IBM Power System S922 (9009-22A)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-s922-9009-22a](https://www.ibm.com/docs/en/announcements/power-system-s922-9009-22a)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-s922-9009-22a](https://www.ibm.com/docs/en/announcements/power-system-s922-9009-22a?region=AP)
 
 📅 2023-07-11
 
@@ -52,7 +52,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9223+01 IBM Power System H922 for SAP HANA (9223-22H)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-h922-sap-hana-9223-22h](https://www.ibm.com/docs/en/announcements/power-system-h922-sap-hana-9223-22h)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-h922-sap-hana-9223-22h](https://www.ibm.com/docs/en/announcements/power-system-h922-sap-hana-9223-22h?region=AP)
 
 📅 2023-07-11
 
@@ -74,7 +74,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9080+03 IBM Power System E980 (9080-M9S)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-e980-9080-m9s](https://www.ibm.com/docs/en/announcements/power-system-e980-9080-m9s)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-e980-9080-m9s](https://www.ibm.com/docs/en/announcements/power-system-e980-9080-m9s?region=AP)
 
 📅 2023-07-11
 
@@ -96,7 +96,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9040+01 IBM Power System E950 (9040-MR9)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-e950-9040-mr9](https://www.ibm.com/docs/en/announcements/power-system-e950-9040-mr9)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-e950-9040-mr9](https://www.ibm.com/docs/en/announcements/power-system-e950-9040-mr9?region=AP)
 
 📅 2023-07-04
 
@@ -123,7 +123,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 8335+05 IBM Power System AC922 (8335-GTH)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-ac922-8335-gth](https://www.ibm.com/docs/en/announcements/power-system-ac922-8335-gth)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-ac922-8335-gth](https://www.ibm.com/docs/en/announcements/power-system-ac922-8335-gth?region=AP)
 
 📅 2023-07-11
 
@@ -150,7 +150,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9008+01 IBM Power System L922 (9008-22L)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-l922-9008-22l](https://www.ibm.com/docs/en/announcements/power-system-l922-9008-22l)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-l922-9008-22l](https://www.ibm.com/docs/en/announcements/power-system-l922-9008-22l?region=AP)
 
 📅 2023-07-11
 
@@ -172,7 +172,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9223+04 IBM Power System H924 (9223-42S)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-h924-9223-42s-2023-07-11](https://www.ibm.com/docs/en/announcements/power-system-h924-9223-42s-2023-07-11)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-h924-9223-42s-2023-07-11](https://www.ibm.com/docs/en/announcements/power-system-h924-9223-42s-2023-07-11?region=AP)
 
 📅 2023-07-11
 
@@ -194,7 +194,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9009+04 IBM Power System S922 (9009-22G)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-s922-9009-22g](https://www.ibm.com/docs/en/announcements/power-system-s922-9009-22g)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-s922-9009-22g](https://www.ibm.com/docs/en/announcements/power-system-s922-9009-22g?region=AP)
 
 📅 2023-07-11
 
@@ -216,7 +216,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9009+05 IBM Power System S914 (9009-41G)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-s914-9009-41g-2023-07-11](https://www.ibm.com/docs/en/announcements/power-system-s914-9009-41g-2023-07-11)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-s914-9009-41g-2023-07-11](https://www.ibm.com/docs/en/announcements/power-system-s914-9009-41g-2023-07-11?region=AP)
 
 📅 2023-07-11
 
@@ -238,7 +238,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9009+03 IBM Power System S914 (9009-41A)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-s914-9009-41a](https://www.ibm.com/docs/en/announcements/power-system-s914-9009-41a)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-s914-9009-41a](https://www.ibm.com/docs/en/announcements/power-system-s914-9009-41a?region=AP)
 
 📅 2023-07-11
 
@@ -260,7 +260,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9009+02 IBM Power System S924 (9009-42A)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-s924-9009-42a](https://www.ibm.com/docs/en/announcements/power-system-s924-9009-42a)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-s924-9009-42a](https://www.ibm.com/docs/en/announcements/power-system-s924-9009-42a?region=AP)
 
 📅 2023-07-11
 
@@ -282,7 +282,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9009+06 IBM Power System S924 (9009-42G)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-s924-9009-42g](https://www.ibm.com/docs/en/announcements/power-system-s924-9009-42g)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-s924-9009-42g](https://www.ibm.com/docs/en/announcements/power-system-s924-9009-42g?region=AP)
 
 📅 2023-07-11
 

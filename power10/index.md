@@ -1,6 +1,6 @@
 # Power10
 
-content update: Thursday, 03-Aug-23 06:11:18 UTC
+content update: Thursday, 03-Aug-23 06:19:51 UTC
 
 ---
 
@@ -26,7 +26,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9786+02 IBM Power L1024 (9786-42H)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-l1024-9786-42h](https://www.ibm.com/docs/en/announcements/power-l1024-9786-42h)
+🔗 [https://www.ibm.com/docs/en/announcements/power-l1024-9786-42h](https://www.ibm.com/docs/en/announcements/power-l1024-9786-42h?region=AP)
 
 📅 2023-07-11
 
@@ -48,7 +48,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9080+04 IBM Power E1080 Enterprise server
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-e1080-enterprise-server](https://www.ibm.com/docs/en/announcements/power-e1080-enterprise-server)
+🔗 [https://www.ibm.com/docs/en/announcements/power-e1080-enterprise-server](https://www.ibm.com/docs/en/announcements/power-e1080-enterprise-server?region=AP)
 
 📅 2023-07-11
 
@@ -70,7 +70,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9043+01 IBM Power E1050 enterprise midrange technology-based server
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-e1050-enterprise-midrange-technology-based-server](https://www.ibm.com/docs/en/announcements/power-e1050-enterprise-midrange-technology-based-server)
+🔗 [https://www.ibm.com/docs/en/announcements/power-e1050-enterprise-midrange-technology-based-server](https://www.ibm.com/docs/en/announcements/power-e1050-enterprise-midrange-technology-based-server?region=AP)
 
 📅 2023-07-11
 
@@ -92,7 +92,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9105+02 IBM Power S1024 (9105-42A)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-s1024-9105-42a](https://www.ibm.com/docs/en/announcements/power-s1024-9105-42a)
+🔗 [https://www.ibm.com/docs/en/announcements/power-s1024-9105-42a](https://www.ibm.com/docs/en/announcements/power-s1024-9105-42a?region=AP)
 
 📅 2023-07-11
 
@@ -114,7 +114,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9105+04 IBM Power S1014 (9105-41B)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-s1014-9105-41b](https://www.ibm.com/docs/en/announcements/power-s1014-9105-41b)
+🔗 [https://www.ibm.com/docs/en/announcements/power-s1014-9105-41b](https://www.ibm.com/docs/en/announcements/power-s1014-9105-41b?region=AP)
 
 📅 2023-07-11
 
@@ -137,7 +137,7 @@ October 28, 2022, for MTM 9105-41B (Rack and Tower) in China only.
 
 ### Family 9105+03 IBM Power S1022s (9105-22B)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-s1022s-9105-22b](https://www.ibm.com/docs/en/announcements/power-s1022s-9105-22b)
+🔗 [https://www.ibm.com/docs/en/announcements/power-s1022s-9105-22b](https://www.ibm.com/docs/en/announcements/power-s1022s-9105-22b?region=AP)
 
 📅 2023-07-11
 
@@ -159,7 +159,7 @@ October 28, 2022, for MTM 9105-41B (Rack and Tower) in China only.
 
 ### Family 9786+01 IBM Power L1022 (9786-22H)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-l1022-9786-22h](https://www.ibm.com/docs/en/announcements/power-l1022-9786-22h)
+🔗 [https://www.ibm.com/docs/en/announcements/power-l1022-9786-22h](https://www.ibm.com/docs/en/announcements/power-l1022-9786-22h?region=AP)
 
 📅 2023-07-11
 
@@ -181,7 +181,7 @@ October 28, 2022, for MTM 9105-41B (Rack and Tower) in China only.
 
 ### Family 9105+01 IBM Power S1022 (9105-22A)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-s1022-9105-22a](https://www.ibm.com/docs/en/announcements/power-s1022-9105-22a)
+🔗 [https://www.ibm.com/docs/en/announcements/power-s1022-9105-22a](https://www.ibm.com/docs/en/announcements/power-s1022-9105-22a?region=AP)
 
 📅 2023-07-11
 

@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: Thursday, 03-Aug-23 06:11:18 UTC
+content update: Thursday, 03-Aug-23 06:19:51 UTC
 
 ---
 
@@ -33,7 +33,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 2498+11 IBM System Storage SAN42B-R
 
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-san42b-r](https://www.ibm.com/docs/en/announcements/system-storage-san42b-r)
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-san42b-r](https://www.ibm.com/docs/en/announcements/system-storage-san42b-r?region=AP)
 
 📅 2023-07-11
 
@@ -55,7 +55,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 2498+06 IBM System Networking SAN96B-5
 
-🔗 [https://www.ibm.com/docs/en/announcements/system-networking-san96b-5](https://www.ibm.com/docs/en/announcements/system-networking-san96b-5)
+🔗 [https://www.ibm.com/docs/en/announcements/system-networking-san96b-5](https://www.ibm.com/docs/en/announcements/system-networking-san96b-5?region=AP)
 
 📅 2023-07-11
 
@@ -83,7 +83,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 8960+01 IBM Storage Networking SAN64B-6
 
-🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6](https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6)
+🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6](https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6?region=AP)
 
 📅 2023-07-04
 
@@ -106,7 +106,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 8960+07 IBM Storage Networking SAN64B-6
 
-🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6-2023-07-04](https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6-2023-07-04)
+🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6-2023-07-04](https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6-2023-07-04?region=AP)
 
 📅 2023-07-04
 
@@ -129,7 +129,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 8960+03 IBM Storage Networking SAN128B-6
 
-🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san128b-6](https://www.ibm.com/docs/en/announcements/storage-networking-san128b-6)
+🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san128b-6](https://www.ibm.com/docs/en/announcements/storage-networking-san128b-6?region=AP)
 
 📅 2023-07-04
 
@@ -152,7 +152,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 8960+05 IBM Storage Networking SAN128B-6
 
-🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san128b-6-2023-07-04](https://www.ibm.com/docs/en/announcements/storage-networking-san128b-6-2023-07-04)
+🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san128b-6-2023-07-04](https://www.ibm.com/docs/en/announcements/storage-networking-san128b-6-2023-07-04?region=AP)
 
 📅 2023-07-04
 
@@ -175,7 +175,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 8960+06 IBM Storage Networking SAN64B-7
 
-🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san64b-7](https://www.ibm.com/docs/en/announcements/storage-networking-san64b-7)
+🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san64b-7](https://www.ibm.com/docs/en/announcements/storage-networking-san64b-7?region=AP)
 
 📅 2023-07-04
 
@@ -198,7 +198,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 8969+02 IBM Storage Networking SAN128B-7
 
-🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san128b-7](https://www.ibm.com/docs/en/announcements/storage-networking-san128b-7)
+🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san128b-7](https://www.ibm.com/docs/en/announcements/storage-networking-san128b-7?region=AP)
 
 📅 2023-07-04
 
@@ -221,7 +221,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 8961+01 IBM Storage Networking SAN256B-6
 
-🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san256b-6](https://www.ibm.com/docs/en/announcements/storage-networking-san256b-6)
+🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san256b-6](https://www.ibm.com/docs/en/announcements/storage-networking-san256b-6?region=AP)
 
 📅 2023-07-04
 
@@ -243,7 +243,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### 5737-F74 IBM Hybrid Cloud Garage Services Offerings
 
-🔗 [https://www.ibm.com/docs/en/announcements/hybrid-cloud-garage-services-offerings](https://www.ibm.com/docs/en/announcements/hybrid-cloud-garage-services-offerings)
+🔗 [https://www.ibm.com/docs/en/announcements/hybrid-cloud-garage-services-offerings](https://www.ibm.com/docs/en/announcements/hybrid-cloud-garage-services-offerings?region=AP)
 
 📅 2020-09-08
 
@@ -265,7 +265,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### 3534-F08 IBM TotalStorage Storage Area Network (SAN) Model F08
 
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-storage-area-network-san-model-f08](https://www.ibm.com/docs/en/announcements/totalstorage-storage-area-network-san-model-f08)
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-storage-area-network-san-model-f08](https://www.ibm.com/docs/en/announcements/totalstorage-storage-area-network-san-model-f08?region=AP)
 
 📅 2009-08-18
 
@@ -292,7 +292,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 8961+04 IBM Storage Networking SAN512B-7
 
-🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san512b-7](https://www.ibm.com/docs/en/announcements/storage-networking-san512b-7)
+🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san512b-7](https://www.ibm.com/docs/en/announcements/storage-networking-san512b-7?region=AP)
 
 📅 2023-07-04
 
@@ -314,7 +314,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9239+01 IBM SANnav
 
-🔗 [https://www.ibm.com/docs/en/announcements/sannav-2020-09-08](https://www.ibm.com/docs/en/announcements/sannav-2020-09-08)
+🔗 [https://www.ibm.com/docs/en/announcements/sannav-2020-09-08](https://www.ibm.com/docs/en/announcements/sannav-2020-09-08?region=AP)
 
 📅 2020-09-08
 
@@ -338,7 +338,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9240+01 IBM SANnav
 
-🔗 [https://www.ibm.com/docs/en/announcements/sannav-2023-07-25](https://www.ibm.com/docs/en/announcements/sannav-2023-07-25)
+🔗 [https://www.ibm.com/docs/en/announcements/sannav-2023-07-25](https://www.ibm.com/docs/en/announcements/sannav-2023-07-25?region=AP)
 
 📅 2023-07-25
 
@@ -362,7 +362,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9241+01 IBM SANnav
 
-🔗 [https://www.ibm.com/docs/en/announcements/sannav-2020-09-08-2](https://www.ibm.com/docs/en/announcements/sannav-2020-09-08-2)
+🔗 [https://www.ibm.com/docs/en/announcements/sannav-2020-09-08-2](https://www.ibm.com/docs/en/announcements/sannav-2020-09-08-2?region=AP)
 
 📅 2020-09-08
 

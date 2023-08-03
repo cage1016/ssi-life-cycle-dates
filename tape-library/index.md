@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: Thursday, 03-Aug-23 06:11:18 UTC
+content update: Thursday, 03-Aug-23 06:19:51 UTC
 
 ---
 
@@ -23,7 +23,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 3572+01 IBM System Storage TS2900 Tape Autoloader
 
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts2900-tape-autoloader](https://www.ibm.com/docs/en/announcements/system-storage-ts2900-tape-autoloader)
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts2900-tape-autoloader](https://www.ibm.com/docs/en/announcements/system-storage-ts2900-tape-autoloader?region=AP)
 
 📅 2023-06-27
 
@@ -71,7 +71,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 3555+01 IBM TS4300 tape library Models L3A and E3A
 
-🔗 [https://www.ibm.com/docs/en/announcements/ts4300-tape-library-models-l3a-e3a](https://www.ibm.com/docs/en/announcements/ts4300-tape-library-models-l3a-e3a)
+🔗 [https://www.ibm.com/docs/en/announcements/ts4300-tape-library-models-l3a-e3a](https://www.ibm.com/docs/en/announcements/ts4300-tape-library-models-l3a-e3a?region=AP)
 
 📅 2023-06-27
 
@@ -94,7 +94,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 3584+15 IBM TS4500 Tape Library L55, D55, S55, L25, D25, S25, TR1
 
-🔗 [https://www.ibm.com/docs/en/announcements/ts4500-tape-library-l55d55s55l25d25s25tr1](https://www.ibm.com/docs/en/announcements/ts4500-tape-library-l55d55s55l25d25s25tr1)
+🔗 [https://www.ibm.com/docs/en/announcements/ts4500-tape-library-l55d55s55l25d25s25tr1](https://www.ibm.com/docs/en/announcements/ts4500-tape-library-l55d55s55l25d25s25tr1?region=AP)
 
 📅 2023-07-11
 
@@ -122,7 +122,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700
 
-🔗 [https://www.ibm.com/docs/en/announcements/3952-tape-frame-model-f07-ts7700](https://www.ibm.com/docs/en/announcements/3952-tape-frame-model-f07-ts7700)
+🔗 [https://www.ibm.com/docs/en/announcements/3952-tape-frame-model-f07-ts7700](https://www.ibm.com/docs/en/announcements/3952-tape-frame-model-f07-ts7700?region=AP)
 
 📅 2023-07-11
 
@@ -144,7 +144,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 3957+06 IBM TS7770 Models VED
 
-🔗 [https://www.ibm.com/docs/en/announcements/ts7770-models-ved](https://www.ibm.com/docs/en/announcements/ts7770-models-ved)
+🔗 [https://www.ibm.com/docs/en/announcements/ts7770-models-ved](https://www.ibm.com/docs/en/announcements/ts7770-models-ved?region=AP)
 
 📅 2023-05-23
 

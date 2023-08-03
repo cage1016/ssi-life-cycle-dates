@@ -1,6 +1,6 @@
 # Cloud Object Storage
 
-content update: Thursday, 03-Aug-23 06:11:18 UTC
+content update: Thursday, 03-Aug-23 06:19:51 UTC
 
 ---
 
@@ -20,7 +20,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 3403+01 IBM Cloud Object Storage System Hardware
 
-🔗 [https://www.ibm.com/docs/en/announcements/cloud-object-storage-system-hardware-2023-01-31](https://www.ibm.com/docs/en/announcements/cloud-object-storage-system-hardware-2023-01-31)
+🔗 [https://www.ibm.com/docs/en/announcements/cloud-object-storage-system-hardware-2023-01-31](https://www.ibm.com/docs/en/announcements/cloud-object-storage-system-hardware-2023-01-31?region=AP)
 
 📅 2023-01-31
 
@@ -51,7 +51,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 3401+01 IBM Cloud Object Storage System Hardware
 
-🔗 [https://www.ibm.com/docs/en/announcements/cloud-object-storage-system-hardware](https://www.ibm.com/docs/en/announcements/cloud-object-storage-system-hardware)
+🔗 [https://www.ibm.com/docs/en/announcements/cloud-object-storage-system-hardware](https://www.ibm.com/docs/en/announcements/cloud-object-storage-system-hardware?region=AP)
 
 📅 2023-01-31
 

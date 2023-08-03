@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: Thursday, 03-Aug-23 06:11:18 UTC
+content update: Thursday, 03-Aug-23 06:19:51 UTC
 
 ---
 
@@ -33,7 +33,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 4664+01 IBM FlashSystem 7200 with Expert Care
 
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7200-expert-care](https://www.ibm.com/docs/en/announcements/flashsystem-7200-expert-care)
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7200-expert-care](https://www.ibm.com/docs/en/announcements/flashsystem-7200-expert-care?region=AP)
 
 📅 2022-05-31
 
@@ -60,7 +60,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 2076+04 IBM Storwize V7000F
 
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000f](https://www.ibm.com/docs/en/announcements/storwize-v7000f)
+🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000f](https://www.ibm.com/docs/en/announcements/storwize-v7000f?region=AP)
 
 📅 2023-07-11
 
@@ -84,7 +84,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 4666+02 IBM FlashSystem 9500
 
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9500-2023-07-04](https://www.ibm.com/docs/en/announcements/flashsystem-9500-2023-07-04)
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9500-2023-07-04](https://www.ibm.com/docs/en/announcements/flashsystem-9500-2023-07-04?region=AP)
 
 📅 2023-07-04
 
@@ -107,7 +107,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 2076+05 IBM Storwize V7000
 
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000-2023-07-11](https://www.ibm.com/docs/en/announcements/storwize-v7000-2023-07-11)
+🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000-2023-07-11](https://www.ibm.com/docs/en/announcements/storwize-v7000-2023-07-11?region=AP)
 
 📅 2023-07-11
 
@@ -130,7 +130,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 2076+02 IBM Storwize V7000 Disk System
 
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000-disk-system-2021-08-24](https://www.ibm.com/docs/en/announcements/storwize-v7000-disk-system-2021-08-24)
+🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000-disk-system-2021-08-24](https://www.ibm.com/docs/en/announcements/storwize-v7000-disk-system-2021-08-24?region=AP)
 
 📅 2021-08-24
 
@@ -163,7 +163,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 2076+07 IBM FlashSystem 7200
 
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7200-2022-05-31](https://www.ibm.com/docs/en/announcements/flashsystem-7200-2022-05-31)
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7200-2022-05-31](https://www.ibm.com/docs/en/announcements/flashsystem-7200-2022-05-31?region=AP)
 
 📅 2022-05-31
 
@@ -215,7 +215,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 2076+03 IBM Storwize V7000
 
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000](https://www.ibm.com/docs/en/announcements/storwize-v7000)
+🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000](https://www.ibm.com/docs/en/announcements/storwize-v7000?region=AP)
 
 📅 2021-10-26
 
@@ -240,7 +240,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 4666+01 IBM FlashSystem 9200 with Expert Care
 
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9200-expert-care](https://www.ibm.com/docs/en/announcements/flashsystem-9200-expert-care)
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9200-expert-care](https://www.ibm.com/docs/en/announcements/flashsystem-9200-expert-care?region=AP)
 
 📅 2023-07-11
 
@@ -284,7 +284,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 2076+06 IBM Storwize V7000
 
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000-2021-10-26-1](https://www.ibm.com/docs/en/announcements/storwize-v7000-2021-10-26-1)
+🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000-2021-10-26-1](https://www.ibm.com/docs/en/announcements/storwize-v7000-2021-10-26-1?region=AP)
 
 📅 2021-10-26
 
@@ -307,7 +307,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 4662+01 IBM FlashSystem 5200
 
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5200-2023-07-04](https://www.ibm.com/docs/en/announcements/flashsystem-5200-2023-07-04)
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5200-2023-07-04](https://www.ibm.com/docs/en/announcements/flashsystem-5200-2023-07-04?region=AP)
 
 📅 2023-07-04
 
@@ -333,7 +333,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 4657+01 IBM FlashSystem 7300
 
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-07-04](https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-07-04)
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-07-04](https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-07-04?region=AP)
 
 📅 2023-07-04
 
@@ -359,7 +359,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 2072+05 IBM FlashSystem 5000
 
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5000](https://www.ibm.com/docs/en/announcements/flashsystem-5000)
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5000](https://www.ibm.com/docs/en/announcements/flashsystem-5000?region=AP)
 
 📅 2023-07-11
 
@@ -422,7 +422,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 2072+06 IBM FlashSystem 5015 and 5035
 
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5015-5035-2023-07-04](https://www.ibm.com/docs/en/announcements/flashsystem-5015-5035-2023-07-04)
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5015-5035-2023-07-04](https://www.ibm.com/docs/en/announcements/flashsystem-5015-5035-2023-07-04?region=AP)
 
 📅 2023-07-04
 
@@ -447,7 +447,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 2076+01 IBM Storwize V7000 Disk System
 
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000-disk-system](https://www.ibm.com/docs/en/announcements/storwize-v7000-disk-system)
+🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000-disk-system](https://www.ibm.com/docs/en/announcements/storwize-v7000-disk-system?region=AP)
 
 📅 2021-08-24
 
@@ -492,7 +492,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9745+01 IBM FlashSystem Utility models Variable Use billing
 
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-utility-models-variable-use-billing](https://www.ibm.com/docs/en/announcements/flashsystem-utility-models-variable-use-billing)
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-utility-models-variable-use-billing](https://www.ibm.com/docs/en/announcements/flashsystem-utility-models-variable-use-billing?region=AP)
 
 📅 2022-09-27
 

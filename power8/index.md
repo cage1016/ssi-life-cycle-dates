@@ -1,6 +1,6 @@
 # Power8
 
-content update: Thursday, 03-Aug-23 06:11:18 UTC
+content update: Thursday, 03-Aug-23 06:19:51 UTC
 
 ---
 
@@ -28,7 +28,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9080+02 IBM Power E870C Enterprise server Model MME
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-e870c-enterprise-server-model-mme](https://www.ibm.com/docs/en/announcements/power-e870c-enterprise-server-model-mme)
+🔗 [https://www.ibm.com/docs/en/announcements/power-e870c-enterprise-server-model-mme](https://www.ibm.com/docs/en/announcements/power-e870c-enterprise-server-model-mme?region=AP)
 
 📅 2022-11-15
 
@@ -55,7 +55,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 8284+02 IBM Power System S812 server Model 21A
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-s812-server-model-21a](https://www.ibm.com/docs/en/announcements/power-system-s812-server-model-21a)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-s812-server-model-21a](https://www.ibm.com/docs/en/announcements/power-system-s812-server-model-21a?region=AP)
 
 📅 2023-07-11
 
@@ -77,7 +77,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9080+01 IBM Power System E880C (9080-MHE)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-e880c-9080-mhe](https://www.ibm.com/docs/en/announcements/power-system-e880c-9080-mhe)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-e880c-9080-mhe](https://www.ibm.com/docs/en/announcements/power-system-e880c-9080-mhe?region=AP)
 
 📅 2022-11-15
 
@@ -104,7 +104,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9119+05 IBM Power System E880 (9119-MHE)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-e880-9119-mhe](https://www.ibm.com/docs/en/announcements/power-system-e880-9119-mhe)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-e880-9119-mhe](https://www.ibm.com/docs/en/announcements/power-system-e880-9119-mhe?region=AP)
 
 📅 2022-11-15
 
@@ -126,7 +126,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 9119+06 IBM Power 870 Server (9119-MME)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-870-server-9119-mme](https://www.ibm.com/docs/en/announcements/power-870-server-9119-mme)
+🔗 [https://www.ibm.com/docs/en/announcements/power-870-server-9119-mme](https://www.ibm.com/docs/en/announcements/power-870-server-9119-mme?region=AP)
 
 📅 2022-11-15
 
@@ -148,7 +148,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 8408+03 IBM Power System E850C server model 44E
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-e850c-server-model-44e](https://www.ibm.com/docs/en/announcements/power-system-e850c-server-model-44e)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-e850c-server-model-44e](https://www.ibm.com/docs/en/announcements/power-system-e850c-server-model-44e?region=AP)
 
 📅 2022-11-15
 
@@ -175,7 +175,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 8408+02 IBM Power System E850 Model E8E
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-e850-model-e8e](https://www.ibm.com/docs/en/announcements/power-system-e850-model-e8e)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-e850-model-e8e](https://www.ibm.com/docs/en/announcements/power-system-e850-model-e8e?region=AP)
 
 📅 2023-05-09
 
@@ -197,7 +197,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 8286+02 IBM Power System S824 server
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-s824-server](https://www.ibm.com/docs/en/announcements/power-system-s824-server)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-s824-server](https://www.ibm.com/docs/en/announcements/power-system-s824-server?region=AP)
 
 📅 2022-11-15
 
@@ -219,7 +219,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 8286+01 IBM Power System S814 server
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-s814-server](https://www.ibm.com/docs/en/announcements/power-system-s814-server)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-s814-server](https://www.ibm.com/docs/en/announcements/power-system-s814-server?region=AP)
 
 📅 2022-11-15
 
@@ -241,7 +241,7 @@ content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ### Family 8284+01 IBM Power System S822 server
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-s822-server](https://www.ibm.com/docs/en/announcements/power-system-s822-server)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-s822-server](https://www.ibm.com/docs/en/announcements/power-system-s822-server?region=AP)
 
 📅 2022-11-15
 
