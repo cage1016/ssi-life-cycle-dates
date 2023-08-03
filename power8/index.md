@@ -1,32 +1,26 @@
----
-title:  "Power8"
-date:   2023-08-03 05:45:32 +0000
-img: ""
-categories: [Power]
-author: "KaiChu Chung"
----
-
 # Power8
 
-content update: Thursday, 03-Aug-23 05:45:32 UTC
+content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ---
 
 ### Table of contents
 
 
-- [Family 9080+02 IBM Power E870C Enterprise server Model MME](#family-908002-ibm-power-e870c-enterprise-server-model-mme)
-- [Family 8284+02 IBM Power System S812 server Model 21A](#family-828402-ibm-power-system-s812-server-model-21a)
-- [Family 9080+01 IBM Power System E880C (9080-MHE)](#family-908001-ibm-power-system-e880c-9080-mhe)
-- [Family 9119+05 IBM Power System E880 (9119-MHE)](#family-911905-ibm-power-system-e880-9119-mhe)
-- [Family 9119+06 IBM Power 870 Server (9119-MME)](#family-911906-ibm-power-870-server-9119-mme)
-- [Family 8408+03 IBM Power System E850C server model 44E](#family-840803-ibm-power-system-e850c-server-model-44e)
-- [Family 8408+02 IBM Power System E850 Model E8E](#family-840802-ibm-power-system-e850-model-e8e)
-- [Family 8286+02 IBM Power System S824 server](#family-828602-ibm-power-system-s824-server)
-- [Family 8286+01 IBM Power System S814 server](#family-828601-ibm-power-system-s814-server)
-- [Family 8284+01 IBM Power System S822 server](#family-828401-ibm-power-system-s822-server)
+- [Family 9080+02 IBM Power E870C Enterprise server Model MME](#family-9080-02-ibm-power-e870-c-enterprise-server-model-mme)
+- [Family 8284+02 IBM Power System S812 server Model 21A](#family-8284-02-ibm-power-system-s812-server-model-21-a)
+- [Family 9080+01 IBM Power System E880C (9080-MHE)](#family-9080-01-ibm-power-system-e880-c-9080-mhe)
+- [Family 9119+05 IBM Power System E880 (9119-MHE)](#family-9119-05-ibm-power-system-e880-9119-mhe)
+- [Family 9119+06 IBM Power 870 Server (9119-MME)](#family-9119-06-ibm-power-870-server-9119-mme)
+- [Family 8408+03 IBM Power System E850C server model 44E](#family-8408-03-ibm-power-system-e850-c-server-model-44-e)
+- [Family 8408+02 IBM Power System E850 Model E8E](#family-8408-02-ibm-power-system-e850-model-e8-e)
+- [Family 8286+02 IBM Power System S824 server](#family-8286-02-ibm-power-system-s824-server)
+- [Family 8286+01 IBM Power System S814 server](#family-8286-01-ibm-power-system-s814-server)
+- [Family 8284+01 IBM Power System S822 server](#family-8284-01-ibm-power-system-s822-server)
 
 ---
+
+[← Back to README](../README.md)
 
 
 
@@ -265,4 +259,4 @@ content update: Thursday, 03-Aug-23 05:45:32 UTC
 
 
 
-[← Back to README](./README.md)
+[← Back to README](../README.md)

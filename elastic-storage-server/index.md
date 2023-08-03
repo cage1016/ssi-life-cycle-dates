@@ -1,27 +1,21 @@
----
-title:  "Elastic Storage Server"
-date:   2023-08-03 05:45:32 +0000
-img: ""
-categories: [Storage]
-author: "KaiChu Chung"
----
-
 # Elastic Storage Server
 
-content update: Thursday, 03-Aug-23 05:45:32 UTC
+content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ---
 
 ### Table of contents
 
 
-- [5639-53E Embedded Red Hat Enterprise Linux for ESS 5000 - 3-Year Subscription 1.0](#5639-53e-embedded-red-hat-enterprise-linux-for-ess-5000-3-year-subscription-1-0)
-- [Family 5147+01 IBM Elastic Storage Server DeepFlash Storage](#family-514701-ibm-elastic-storage-server-deepflash-storage)
-- [Family 9846+03 IBM FlashSystem 9100](#family-984603-ibm-flashsystem-9100)
-- [Family 5141+03 IBM Elastic Storage System 3500](#family-514103-ibm-elastic-storage-system-3500)
-- [Family 5141+02 IBM Elastic Storage System 3200](#family-514102-ibm-elastic-storage-system-3200)
+- [5639-53E Embedded Red Hat Enterprise Linux for ESS 5000 - 3-Year Subscription 1.0](#5639-53-e-embedded-red-hat-enterprise-linux-for-ess-5000-3-year-subscription-1-0)
+- [Family 5147+01 IBM Elastic Storage Server DeepFlash Storage](#family-5147-01-ibm-elastic-storage-server-deep-flash-storage)
+- [Family 9846+03 IBM FlashSystem 9100](#family-9846-03-ibm-flash-system-9100)
+- [Family 5141+03 IBM Elastic Storage System 3500](#family-5141-03-ibm-elastic-storage-system-3500)
+- [Family 5141+02 IBM Elastic Storage System 3200](#family-5141-02-ibm-elastic-storage-system-3200)
 
 ---
+
+[← Back to README](../README.md)
 
 
 
@@ -148,4 +142,4 @@ content update: Thursday, 03-Aug-23 05:45:32 UTC
 
 
 
-[← Back to README](./README.md)
+[← Back to README](../README.md)

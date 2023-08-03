@@ -1,24 +1,18 @@
----
-title:  "Cloud Object Storage"
-date:   2023-08-03 05:45:32 +0000
-img: ""
-categories: [Storage]
-author: "KaiChu Chung"
----
-
 # Cloud Object Storage
 
-content update: Thursday, 03-Aug-23 05:45:32 UTC
+content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ---
 
 ### Table of contents
 
 
-- [Family 3403+01 IBM Cloud Object Storage System Hardware](#family-340301-ibm-cloud-object-storage-system-hardware)
-- [Family 3401+01 IBM Cloud Object Storage System Hardware](#family-340101-ibm-cloud-object-storage-system-hardware)
+- [Family 3403+01 IBM Cloud Object Storage System Hardware](#family-3403-01-ibm-cloud-object-storage-system-hardware)
+- [Family 3401+01 IBM Cloud Object Storage System Hardware](#family-3401-01-ibm-cloud-object-storage-system-hardware)
 
 ---
+
+[← Back to README](../README.md)
 
 
 
@@ -84,4 +78,4 @@ content update: Thursday, 03-Aug-23 05:45:32 UTC
 
 
 
-[← Back to README](./README.md)
+[← Back to README](../README.md)

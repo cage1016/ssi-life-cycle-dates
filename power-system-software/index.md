@@ -1,14 +1,6 @@
----
-title:  "Power System Software"
-date:   2023-08-03 05:45:32 +0000
-img: ""
-categories: [Power]
-author: "KaiChu Chung"
----
-
 # Power System Software
 
-content update: Thursday, 03-Aug-23 05:45:32 UTC
+content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ---
 
@@ -19,6 +11,8 @@ content update: Thursday, 03-Aug-23 05:45:32 UTC
 - [5765-G98 IBM AIX Standard Edition 7.3](#5765-g98-ibm-aix-standard-edition-7-3)
 
 ---
+
+[← Back to README](../README.md)
 
 
 
@@ -76,4 +70,4 @@ content update: Thursday, 03-Aug-23 05:45:32 UTC
 
 
 
-[← Back to README](./README.md)
+[← Back to README](../README.md)

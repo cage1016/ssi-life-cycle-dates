@@ -1,37 +1,31 @@
----
-title:  "SAN - IBM b-type"
-date:   2023-08-03 05:45:32 +0000
-img: ""
-categories: [Storage]
-author: "KaiChu Chung"
----
-
 # SAN - IBM b-type
 
-content update: Thursday, 03-Aug-23 05:45:32 UTC
+content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ---
 
 ### Table of contents
 
 
-- [Family 2498+11 IBM System Storage SAN42B-R](#family-249811-ibm-system-storage-san42b-r)
-- [Family 2498+06 IBM System Networking SAN96B-5](#family-249806-ibm-system-networking-san96b-5)
-- [Family 8960+01 IBM Storage Networking SAN64B-6](#family-896001-ibm-storage-networking-san64b-6)
-- [Family 8960+07 IBM Storage Networking SAN64B-6](#family-896007-ibm-storage-networking-san64b-6)
-- [Family 8960+03 IBM Storage Networking SAN128B-6](#family-896003-ibm-storage-networking-san128b-6)
-- [Family 8960+05 IBM Storage Networking SAN128B-6](#family-896005-ibm-storage-networking-san128b-6)
-- [Family 8960+06 IBM Storage Networking SAN64B-7](#family-896006-ibm-storage-networking-san64b-7)
-- [Family 8969+02 IBM Storage Networking SAN128B-7](#family-896902-ibm-storage-networking-san128b-7)
-- [Family 8961+01 IBM Storage Networking SAN256B-6](#family-896101-ibm-storage-networking-san256b-6)
+- [Family 2498+11 IBM System Storage SAN42B-R](#family-2498-11-ibm-system-storage-san42b-r)
+- [Family 2498+06 IBM System Networking SAN96B-5](#family-2498-06-ibm-system-networking-san96b-5)
+- [Family 8960+01 IBM Storage Networking SAN64B-6](#family-8960-01-ibm-storage-networking-san64b-6)
+- [Family 8960+07 IBM Storage Networking SAN64B-6](#family-8960-07-ibm-storage-networking-san64b-6)
+- [Family 8960+03 IBM Storage Networking SAN128B-6](#family-8960-03-ibm-storage-networking-san128b-6)
+- [Family 8960+05 IBM Storage Networking SAN128B-6](#family-8960-05-ibm-storage-networking-san128b-6)
+- [Family 8960+06 IBM Storage Networking SAN64B-7](#family-8960-06-ibm-storage-networking-san64b-7)
+- [Family 8969+02 IBM Storage Networking SAN128B-7](#family-8969-02-ibm-storage-networking-san128b-7)
+- [Family 8961+01 IBM Storage Networking SAN256B-6](#family-8961-01-ibm-storage-networking-san256b-6)
 - [5737-F74 IBM Hybrid Cloud Garage Services Offerings](#5737-f74-ibm-hybrid-cloud-garage-services-offerings)
-- [3534-F08 IBM TotalStorage Storage Area Network (SAN) Model F08](#3534-f08-ibm-totalstorage-storage-area-network-san-model-f08)
-- [Family 8961+04 IBM Storage Networking SAN512B-7](#family-896104-ibm-storage-networking-san512b-7)
-- [Family 9239+01 IBM SANnav](#family-923901-ibm-sannav)
-- [Family 9240+01 IBM SANnav](#family-924001-ibm-sannav)
-- [Family 9241+01 IBM SANnav](#family-924101-ibm-sannav)
+- [3534-F08 IBM TotalStorage Storage Area Network (SAN) Model F08](#3534-f08-ibm-total-storage-storage-area-network-san-model-f08)
+- [Family 8961+04 IBM Storage Networking SAN512B-7](#family-8961-04-ibm-storage-networking-san512b-7)
+- [Family 9239+01 IBM SANnav](#family-9239-01-ibm-sa-nnav)
+- [Family 9240+01 IBM SANnav](#family-9240-01-ibm-sa-nnav)
+- [Family 9241+01 IBM SANnav](#family-9241-01-ibm-sa-nnav)
 
 ---
+
+[← Back to README](../README.md)
 
 
 
@@ -388,4 +382,4 @@ content update: Thursday, 03-Aug-23 05:45:32 UTC
 
 
 
-[← Back to README](./README.md)
+[← Back to README](../README.md)

@@ -1,48 +1,42 @@
----
-title:  "Power7"
-date:   2023-08-03 05:45:32 +0000
-img: ""
-categories: [Power]
-author: "KaiChu Chung"
----
-
 # Power7
 
-content update: Thursday, 03-Aug-23 05:45:32 UTC
+content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ---
 
 ### Table of contents
 
 
-- [Family 7895+05 IBM Flex System p260 Compute Node](#family-789505-ibm-flex-system-p260-compute-node)
-- [Family 8205+01 IBM Power 740 Express Server](#family-820501-ibm-power-740-express-server)
-- [Family 9179+03 IBM Power 780 Server (9179-MHD)](#family-917903-ibm-power-780-server-9179-mhd)
-- [Family 9179+01 IBM Power 780 Server](#family-917901-ibm-power-780-server)
-- [Family 9179+02 IBM Power 780 Server](#family-917902-ibm-power-780-server)
-- [Family 9117+05 IBM Power 770 POWER7+ Server (9117-MMD)](#family-911705-ibm-power-770-power7-server-9117-mmd)
-- [Family 9117+04 IBM Power 770 POWER7 Server (9117-MMC)](#family-911704-ibm-power-770-power7-server-9117-mmc)
-- [Family 9117+03 IBM Power 770 Server MMB](#family-911703-ibm-power-770-server-mmb)
-- [Family 9109+01 IBM Power 760](#family-910901-ibm-power-760)
-- [Family 8408+01 IBM Power 750 Express](#family-840801-ibm-power-750-express)
-- [Family 8233+01 IBM Power 750 Express Server](#family-823301-ibm-power-750-express-server)
-- [Family 8205+03 IBM Power 740 Express](#family-820503-ibm-power-740-express)
-- [Family 8205+02 IBM Power 740 Express server](#family-820502-ibm-power-740-express-server)
-- [Family 9119+04 IBM Power 795 Server](#family-911904-ibm-power-795-server)
-- [Family 8231+05 IBM Power 730 Express server](#family-823105-ibm-power-730-express-server)
-- [Family 8231+03 IBM Power 730 Express server](#family-823103-ibm-power-730-express-server)
-- [Family 7895+02 IBM Flex System p260 Compute Node (7895-22X)](#family-789502-ibm-flex-system-p260-compute-node-7895-22x)
-- [Family 8202+03 IBM Power 720 Express](#family-820203-ibm-power-720-express)
-- [Family 7954+01 IBM Flex System p270 Compute Node 7954 24X](#family-795401-ibm-flex-system-p270-compute-node-7954-24x)
-- [Family 7895+01 IBM Flex System p460 Compute Node (7895-42X)](#family-789501-ibm-flex-system-p460-compute-node-7895-42x)
-- [Family 7895+04 IBM Flex System p460 Compute Node (7895-43X)](#family-789504-ibm-flex-system-p460-compute-node-7895-43x)
-- [Family 8231+01 IBM Power 710 and 730 Express Servers](#family-823101-ibm-power-710-and-730-express-servers)
-- [Family 8231+02 IBM Power 710 Express server](#family-823102-ibm-power-710-express-server)
-- [Family 8231+04 IBM Power 710 Express Server](#family-823104-ibm-power-710-express-server)
-- [Family 8202+01 IBM Power 720 Express Server](#family-820201-ibm-power-720-express-server)
-- [Family 8202+02 IBM Power 720 server](#family-820202-ibm-power-720-server)
+- [Family 7895+05 IBM Flex System p260 Compute Node](#family-7895-05-ibm-flex-system-p260-compute-node)
+- [Family 8205+01 IBM Power 740 Express Server](#family-8205-01-ibm-power-740-express-server)
+- [Family 9179+03 IBM Power 780 Server (9179-MHD)](#family-9179-03-ibm-power-780-server-9179-mhd)
+- [Family 9179+01 IBM Power 780 Server](#family-9179-01-ibm-power-780-server)
+- [Family 9179+02 IBM Power 780 Server](#family-9179-02-ibm-power-780-server)
+- [Family 9117+05 IBM Power 770 POWER7+ Server (9117-MMD)](#family-9117-05-ibm-power-770-power7-server-9117-mmd)
+- [Family 9117+04 IBM Power 770 POWER7 Server (9117-MMC)](#family-9117-04-ibm-power-770-power7-server-9117-mmc)
+- [Family 9117+03 IBM Power 770 Server MMB](#family-9117-03-ibm-power-770-server-mmb)
+- [Family 9109+01 IBM Power 760](#family-9109-01-ibm-power-760)
+- [Family 8408+01 IBM Power 750 Express](#family-8408-01-ibm-power-750-express)
+- [Family 8233+01 IBM Power 750 Express Server](#family-8233-01-ibm-power-750-express-server)
+- [Family 8205+03 IBM Power 740 Express](#family-8205-03-ibm-power-740-express)
+- [Family 8205+02 IBM Power 740 Express server](#family-8205-02-ibm-power-740-express-server)
+- [Family 9119+04 IBM Power 795 Server](#family-9119-04-ibm-power-795-server)
+- [Family 8231+05 IBM Power 730 Express server](#family-8231-05-ibm-power-730-express-server)
+- [Family 8231+03 IBM Power 730 Express server](#family-8231-03-ibm-power-730-express-server)
+- [Family 7895+02 IBM Flex System p260 Compute Node (7895-22X)](#family-7895-02-ibm-flex-system-p260-compute-node-7895-22-x)
+- [Family 8202+03 IBM Power 720 Express](#family-8202-03-ibm-power-720-express)
+- [Family 7954+01 IBM Flex System p270 Compute Node 7954 24X](#family-7954-01-ibm-flex-system-p270-compute-node-7954-24-x)
+- [Family 7895+01 IBM Flex System p460 Compute Node (7895-42X)](#family-7895-01-ibm-flex-system-p460-compute-node-7895-42-x)
+- [Family 7895+04 IBM Flex System p460 Compute Node (7895-43X)](#family-7895-04-ibm-flex-system-p460-compute-node-7895-43-x)
+- [Family 8231+01 IBM Power 710 and 730 Express Servers](#family-8231-01-ibm-power-710-and-730-express-servers)
+- [Family 8231+02 IBM Power 710 Express server](#family-8231-02-ibm-power-710-express-server)
+- [Family 8231+04 IBM Power 710 Express Server](#family-8231-04-ibm-power-710-express-server)
+- [Family 8202+01 IBM Power 720 Express Server](#family-8202-01-ibm-power-720-express-server)
+- [Family 8202+02 IBM Power 720 server](#family-8202-02-ibm-power-720-server)
 
 ---
+
+[← Back to README](../README.md)
 
 
 
@@ -648,4 +642,4 @@ content update: Thursday, 03-Aug-23 05:45:32 UTC
 
 
 
-[← Back to README](./README.md)
+[← Back to README](../README.md)

@@ -1,33 +1,27 @@
----
-title:  "Tape Media"
-date:   2023-08-03 05:45:32 +0000
-img: ""
-categories: [Storage]
-author: "KaiChu Chung"
----
-
 # Tape Media
 
-content update: Thursday, 03-Aug-23 05:45:32 UTC
+content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ---
 
 ### Table of contents
 
 
-- [Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452](#family-358910-ibm-ultrium-7-9-tb-uninitialized-data-cartridge-model-452)
-- [Family 3589+12 IBM 3589 Ultrium Cleaning Cartridges Model 005 w/ customized labeling service](#family-358912-ibm-3589-ultrium-cleaning-cartridges-model-005-w-customized-labeling-service)
-- [Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004](#family-358901-ibm-ultrium-cartridges-models-002-003-004)
-- [Family 3589+07 IBM Ultrium 6 2.5 TB Data Cartridge Models 550,650,570,670](#family-358907-ibm-ultrium-6-2-5-tb-data-cartridge-models-550-650-570-670)
-- [Family 3589+08 IBM Ultrium 7 6 TB Data Cartridge Models 551, 651, 571, 671](#family-358908-ibm-ultrium-7-6-tb-data-cartridge-models-551-651-571-671)
-- [Family 3589+09 IBM Ultrium 8 12 TB Data Cartridge Models 552 and 652](#family-358909-ibm-ultrium-8-12-tb-data-cartridge-models-552-and-652)
-- [Family 3589+11 IBM Ultrium 9 18 TB Data Cartridge Models 553 and 653](#family-358911-ibm-ultrium-9-18-tb-data-cartridge-models-553-and-653)
+- [Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452](#family-3589-10-ibm-ultrium-7-9-tb-uninitialized-data-cartridge-model-452)
+- [Family 3589+12 IBM 3589 Ultrium Cleaning Cartridges Model 005 w/ customized labeling service](#family-3589-12-ibm-3589-ultrium-cleaning-cartridges-model-005-w-customized-labeling-service)
+- [Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004](#family-3589-01-ibm-ultrium-cartridges-models-002-003-004)
+- [Family 3589+07 IBM Ultrium 6 2.5 TB Data Cartridge Models 550,650,570,670](#family-3589-07-ibm-ultrium-6-2-5-tb-data-cartridge-models-550-650-570-670)
+- [Family 3589+08 IBM Ultrium 7 6 TB Data Cartridge Models 551, 651, 571, 671](#family-3589-08-ibm-ultrium-7-6-tb-data-cartridge-models-551-651-571-671)
+- [Family 3589+09 IBM Ultrium 8 12 TB Data Cartridge Models 552 and 652](#family-3589-09-ibm-ultrium-8-12-tb-data-cartridge-models-552-and-652)
+- [Family 3589+11 IBM Ultrium 9 18 TB Data Cartridge Models 553 and 653](#family-3589-11-ibm-ultrium-9-18-tb-data-cartridge-models-553-and-653)
 - [3599-017 IBM 3592 Enterprise Tape Cartridge (Cleaning) Model 017](#3599-017-ibm-3592-enterprise-tape-cartridge-cleaning-model-017)
-- [Family 3599+01 IBM Tape Cartridges 3592](#family-359901-ibm-tape-cartridges-3592)
-- [Family 3599+02 IBM Tape Cart 3592](#family-359902-ibm-tape-cart-3592)
-- [Family 3599+03 IBM Tape Cartridge 3592](#family-359903-ibm-tape-cartridge-3592)
+- [Family 3599+01 IBM Tape Cartridges 3592](#family-3599-01-ibm-tape-cartridges-3592)
+- [Family 3599+02 IBM Tape Cart 3592](#family-3599-02-ibm-tape-cart-3592)
+- [Family 3599+03 IBM Tape Cartridge 3592](#family-3599-03-ibm-tape-cartridge-3592)
 
 ---
+
+[← Back to README](../README.md)
 
 
 
@@ -312,4 +306,4 @@ content update: Thursday, 03-Aug-23 05:45:32 UTC
 
 
 
-[← Back to README](./README.md)
+[← Back to README](../README.md)

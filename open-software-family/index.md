@@ -1,26 +1,20 @@
----
-title:  "Open Software Family"
-date:   2023-08-03 05:45:32 +0000
-img: ""
-categories: [Storage]
-author: "KaiChu Chung"
----
-
 # Open Software Family
 
-content update: Thursday, 03-Aug-23 05:45:32 UTC
+content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ---
 
 ### Table of contents
 
 
-- [Family 2147+03 IBM SAN Volume Controller model SV3](#family-214703-ibm-san-volume-controller-model-sv3)
-- [Family 2147+02 IBM SAN Volume Controller models SA2 and SV2](#family-214702-ibm-san-volume-controller-models-sa2-and-sv2)
-- [Family 2145+11 IBM SAN Volume Controller model SV3](#family-214511-ibm-san-volume-controller-model-sv3)
-- [Family 2145+10 IBM SAN Volume Controller models SA2 and SV2](#family-214510-ibm-san-volume-controller-models-sa2-and-sv2)
+- [Family 2147+03 IBM SAN Volume Controller model SV3](#family-2147-03-ibm-san-volume-controller-model-sv3)
+- [Family 2147+02 IBM SAN Volume Controller models SA2 and SV2](#family-2147-02-ibm-san-volume-controller-models-sa2-and-sv2)
+- [Family 2145+11 IBM SAN Volume Controller model SV3](#family-2145-11-ibm-san-volume-controller-model-sv3)
+- [Family 2145+10 IBM SAN Volume Controller models SA2 and SV2](#family-2145-10-ibm-san-volume-controller-models-sa2-and-sv2)
 
 ---
+
+[← Back to README](../README.md)
 
 
 
@@ -134,4 +128,4 @@ content update: Thursday, 03-Aug-23 05:45:32 UTC
 
 
 
-[← Back to README](./README.md)
+[← Back to README](../README.md)

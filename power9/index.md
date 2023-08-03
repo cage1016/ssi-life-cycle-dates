@@ -1,34 +1,28 @@
----
-title:  "Power9"
-date:   2023-08-03 05:45:32 +0000
-img: ""
-categories: [Power]
-author: "KaiChu Chung"
----
-
 # Power9
 
-content update: Thursday, 03-Aug-23 05:45:32 UTC
+content update: Thursday, 03-Aug-23 06:11:18 UTC
 
 ---
 
 ### Table of contents
 
 
-- [Family 9009+01 IBM Power System S922 (9009-22A)](#family-900901-ibm-power-system-s922-9009-22a)
-- [Family 9223+01 IBM Power System H922 for SAP HANA (9223-22H)](#family-922301-ibm-power-system-h922-for-sap-hana-9223-22h)
-- [Family 9080+03 IBM Power System E980 (9080-M9S)](#family-908003-ibm-power-system-e980-9080-m9s)
-- [Family 9040+01 IBM Power System E950 (9040-MR9)](#family-904001-ibm-power-system-e950-9040-mr9)
-- [Family 8335+05 IBM Power System AC922 (8335-GTH)](#family-833505-ibm-power-system-ac922-8335-gth)
-- [Family 9008+01 IBM Power System L922 (9008-22L)](#family-900801-ibm-power-system-l922-9008-22l)
-- [Family 9223+04 IBM Power System H924 (9223-42S)](#family-922304-ibm-power-system-h924-9223-42s)
-- [Family 9009+04 IBM Power System S922 (9009-22G)](#family-900904-ibm-power-system-s922-9009-22g)
-- [Family 9009+05 IBM Power System S914 (9009-41G)](#family-900905-ibm-power-system-s914-9009-41g)
-- [Family 9009+03 IBM Power System S914 (9009-41A)](#family-900903-ibm-power-system-s914-9009-41a)
-- [Family 9009+02 IBM Power System S924 (9009-42A)](#family-900902-ibm-power-system-s924-9009-42a)
-- [Family 9009+06 IBM Power System S924 (9009-42G)](#family-900906-ibm-power-system-s924-9009-42g)
+- [Family 9009+01 IBM Power System S922 (9009-22A)](#family-9009-01-ibm-power-system-s922-9009-22-a)
+- [Family 9223+01 IBM Power System H922 for SAP HANA (9223-22H)](#family-9223-01-ibm-power-system-h922-for-sap-hana-9223-22-h)
+- [Family 9080+03 IBM Power System E980 (9080-M9S)](#family-9080-03-ibm-power-system-e980-9080-m9-s)
+- [Family 9040+01 IBM Power System E950 (9040-MR9)](#family-9040-01-ibm-power-system-e950-9040-mr9)
+- [Family 8335+05 IBM Power System AC922 (8335-GTH)](#family-8335-05-ibm-power-system-ac922-8335-gth)
+- [Family 9008+01 IBM Power System L922 (9008-22L)](#family-9008-01-ibm-power-system-l922-9008-22-l)
+- [Family 9223+04 IBM Power System H924 (9223-42S)](#family-9223-04-ibm-power-system-h924-9223-42-s)
+- [Family 9009+04 IBM Power System S922 (9009-22G)](#family-9009-04-ibm-power-system-s922-9009-22-g)
+- [Family 9009+05 IBM Power System S914 (9009-41G)](#family-9009-05-ibm-power-system-s914-9009-41-g)
+- [Family 9009+03 IBM Power System S914 (9009-41A)](#family-9009-03-ibm-power-system-s914-9009-41-a)
+- [Family 9009+02 IBM Power System S924 (9009-42A)](#family-9009-02-ibm-power-system-s924-9009-42-a)
+- [Family 9009+06 IBM Power System S924 (9009-42G)](#family-9009-06-ibm-power-system-s924-9009-42-g)
 
 ---
+
+[← Back to README](../README.md)
 
 
 
@@ -306,4 +300,4 @@ content update: Thursday, 03-Aug-23 05:45:32 UTC
 
 
 
-[← Back to README](./README.md)
+[← Back to README](../README.md)
