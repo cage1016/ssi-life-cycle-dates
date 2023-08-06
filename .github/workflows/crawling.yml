@@ -24,7 +24,7 @@ jobs:
             --env NUM_WORKERS=30
             -v ${{ github.workspace }}:/tmp/:rw
             -w /tmp
-          run: /layers/google.go.build/bin/main crawling
+          run: /layers/google.go.build/bin/main crawling -t Asia/Taipei
       - uses: EndBug/add-and-commit@v9
         with:
           default_author: github_actions            
