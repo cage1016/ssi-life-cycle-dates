@@ -1,6 +1,6 @@
 # Power8
 
-content update: Sunday, 06-Aug-23 10:25:00 UTC
+content update: 2023-08-06 19:22:31.546973365 +0800 CST
 
 ---
 
