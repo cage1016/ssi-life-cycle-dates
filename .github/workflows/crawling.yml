@@ -6,7 +6,7 @@ on:
       - master
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   schedule:
-    - cron: '0 0 * * *' # Run workflow every day at midnight
+    - cron: '0 16 * * *' # Run workflow every day at UTC+8 midnight
 
 jobs:
   product-life-cycle-dates:
