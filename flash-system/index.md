@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2023-08-08 14:47:16.104627453 +0800 CST
+content update: 2023-08-09 00:04:52.045163677 +0800 CST
 
 ---
 
@@ -36,7 +36,7 @@ content update: 2023-08-08 14:47:16.104627453 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5000](https://www.ibm.com/docs/en/announcements/flashsystem-5000?region=AP)
 
-📅 2023-07-11
+📅 2023-07-04
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -428,7 +428,7 @@ content update: 2023-08-08 14:47:16.104627453 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9200-expert-care](https://www.ibm.com/docs/en/announcements/flashsystem-9200-expert-care?region=AP)
 
-📅 2023-07-11
+📅 2023-07-04
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
