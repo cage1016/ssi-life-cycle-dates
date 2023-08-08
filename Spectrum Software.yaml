@@ -2,27 +2,27 @@ displayName: Spectrum Software
 category: Storage
 enabled: true
 models:
-  - 5608-AE1
-  - 5608-AP1
-  - 5608-PC1
-  - 5608-PC2
-  - 5639-003
-  - 5639-691
-  - 5639-692
-  - 5639-693
-  - 5639-694
-  - 5639-695
-  - 5641-CD4
-  - 5641-CD5
-  - 5641-CD6
-  - 5641-GKL
-  - 5641-GKM
-  - 5641-PB1
-  - 5641-PB2
-  - 5641-PB3
-  - 5641-PB4
-  - 5641-PB5
-  - 5641-SKL
-  - 5641-SKM
-  - 5641-VC8
-  - 5641-CP8
+  - 5608-AE1 IBM Virtual Storage Center
+  - 5608-AP1 IBM Virtual Storage Center Starter Edition
+  - 5608-PC1 IBM Spectrum Control
+  - 5608-PC2 IBM Spectrum Control Select Edition
+  - 5639-003 IBM Copy Manager for IBM Spectrum Virtualize
+  - 5639-691 IBM Spectrum Protect Plus for IBM FlashSystem 1 YR License
+  - 5639-692 IBM Spectrum Protect Plus for IBM FlashSystem 2 YR License
+  - 5639-693 IBM Spectrum Protect Plus for IBM FlashSystem 3 YR License
+  - 5639-694 IBM Spectrum Protect Plus for IBM FlashSystem 4 YR License
+  - 5639-695 IBM Spectrum Protect Plus for IBM FlashSystem 5 YR License
+  - 5641-CD4 IBM Spectrum Copy Data Management 1Yr
+  - 5641-CD5 IBM Spectrum Copy Data Management 2Yr
+  - 5641-CD6 IBM Spectrum Copy Data Management 3Yr
+  - 5641-GKL IBM GKLM V4 - One Year
+  - 5641-GKM IBM GKLM V4 - Three Year
+  - 5641-PB1 IBM Spectrum Virtualize for Public Cloud with 1 year S&S
+  - 5641-PB2 IBM Spectrum Virtualize for Public Cloud with 2 years S&S
+  - 5641-PB3 IBM Spectrum Virtualize for Public Cloud with 3 years S&S
+  - 5641-PB4 IBM Spectrum Virtualize for Public Cloud with 4 years S&S
+  - 5641-PB5 IBM Spectrum Virtualize for Public Cloud with 5 years S&S
+  - 5641-SKL IBM Security Key Lifecycle Manager w/1 Yr SW S&S
+  - 5641-SKM IBM Security Key Lifecycle Manager w/3 Yr SW S&S
+  - 5641-VC8 IBM Spectrum Virtualize Software for SAN Volume Controller
+  - 5641-CP8 IBM Storwize SVC Real-time Compression Software
