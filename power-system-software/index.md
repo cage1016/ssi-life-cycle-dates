@@ -1,14 +1,14 @@
 # Power System Software
 
-content update: 2023-08-08 11:53:55.691189732 +0800 CST
+content update: 2023-08-08 14:47:16.104627453 +0800 CST
 
 ---
 
 ### Table of contents
 
 
-- [5765-G98 IBM AIX Standard Edition 7.3](#5765-g98-ibm-aix-standard-edition-7-3)
-- [5770-SS1 IBM i Operating System 7.5](#5770-ss1-ibm-i-operating-system-7-5)
+- [5765-G98 IBM AIX Standard Edition 7.3](#5765-g98-ibm-aix-standard-edition-73)
+- [5770-SS1 IBM i Operating System 7.5](#5770-ss1-ibm-i-operating-system-75)
 
 ---
 
