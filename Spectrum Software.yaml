@@ -1,0 +1,28 @@
+displayName: Spectrum Software
+category: Storage
+enabled: true
+models:
+  - 5608-AE1
+  - 5608-AP1
+  - 5608-PC1
+  - 5608-PC2
+  - 5639-003
+  - 5639-691
+  - 5639-692
+  - 5639-693
+  - 5639-694
+  - 5639-695
+  - 5641-CD4
+  - 5641-CD5
+  - 5641-CD6
+  - 5641-GKL
+  - 5641-GKM
+  - 5641-PB1
+  - 5641-PB2
+  - 5641-PB3
+  - 5641-PB4
+  - 5641-PB5
+  - 5641-SKL
+  - 5641-SKM
+  - 5641-VC8
+  - 5641-CP8
