@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2023-08-09 15:43:08.778190161 +0800 CST
+content update: 2023-08-10 00:04:10.292811418 +0800 CST
 
 ---
 
@@ -10,7 +10,6 @@ content update: 2023-08-09 15:43:08.778190161 +0800 CST
 - [Family 3555+01 IBM TS4300 tape library Models L3A and E3A](#family-355501-ibm-ts4300-tape-library-models-l3a-and-e3a)
 - [Family 3572+01 IBM System Storage TS2900 Tape Autoloader](#family-357201-ibm-system-storage-ts2900-tape-autoloader)
 - [Family 3584+15 IBM TS4500 Tape Library L55, D55, S55, L25, D25, S25, TR1](#family-358415-ibm-ts4500-tape-library-l55-d55-s55-l25-d25-s25-tr1)
-- [Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700](#family-395203-ibm-3952-tape-frame-model-f07-for-ibm-ts7700)
 - [Family 3957+06 IBM TS7770 Models VED](#family-395706-ibm-ts7770-models-ved)
 
 ---
@@ -107,28 +106,6 @@ content update: 2023-08-09 15:43:08.778190161 +0800 CST
 | 3584-S25 | 2014-05-19 | 2014-06-13 | - | - |
 | 3584-S55 | 2014-05-19 | 2014-06-13 | - | - |
 | 3584-TR1 | 2014-05-19 | 2014-06-13 | - | - |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700
-
-🔗 [https://www.ibm.com/docs/en/announcements/3952-tape-frame-model-f07-ts7700](https://www.ibm.com/docs/en/announcements/3952-tape-frame-model-f07-ts7700?region=AP)
-
-📅 2023-07-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3952-F07 | 2021-05-25 | 2021-06-18 | - | - |
 
 
 
