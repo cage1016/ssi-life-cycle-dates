@@ -1,12 +1,13 @@
 # Spectrum Software
 
-content update: 2023-08-11 00:04:15.087498294 +0800 CST
+content update: 2023-08-12 00:05:34.988056279 +0800 CST
 
 ---
 
 ### Table of contents
 
 
+- [5639-003 IBM Copy Manager for IBM Spectrum Virtualize 1.1](#5639-003-ibm-copy-manager-for-ibm-spectrum-virtualize-11)
 - [5639-691 IBM Storage Protect Plus for IBM FlashSystem 10.1](#5639-691-ibm-storage-protect-plus-for-ibm-flashsystem-101)
 - [5641-C04 Red Hat OpenShift Container Platform for IBM Spectrum Fusion with 5 year 1.1](#5641-c04-red-hat-openshift-container-platform-for-ibm-spectrum-fusion-with-5-year-11)
 - [5641-VC8 IBM Storage Virtualize Software for SAN Volume Controller 8.6](#5641-vc8-ibm-storage-virtualize-software-for-san-volume-controller-86)
@@ -16,6 +17,28 @@ content update: 2023-08-11 00:04:15.087498294 +0800 CST
 ---
 
 [← Back to README](../README.md)
+
+
+
+
+
+### 5639-003 IBM Copy Manager for IBM Spectrum Virtualize 1.1
+
+🔗 [https://www.ibm.com/docs/en/announcements/copy-manager-spectrum-virtualize-11](https://www.ibm.com/docs/en/announcements/copy-manager-spectrum-virtualize-11?region=AP)
+
+📅 2021-08-17
+
+| Program Number | VRM | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- | --- |
+| 5639-003 | 01.01.00 | 2021-08-17 | 2021-08-27 | - | - |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
 
 
 

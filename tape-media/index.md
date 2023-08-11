@@ -1,12 +1,13 @@
 # Tape Media
 
-content update: 2023-08-11 00:04:15.087498294 +0800 CST
+content update: 2023-08-12 00:05:34.988056279 +0800 CST
 
 ---
 
 ### Table of contents
 
 
+- [Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004](#family-358901-ibm-ultrium-cartridges-models-002-003-004)
 - [Family 3589+07 IBM Ultrium 6 2.5 TB Data Cartridge Models 550,650,570,670](#family-358907-ibm-ultrium-6-25-tb-data-cartridge-models-550-650-570-670)
 - [Family 3589+08 IBM Ultrium 7 6 TB Data Cartridge Models 551, 651, 571, 671](#family-358908-ibm-ultrium-7-6-tb-data-cartridge-models-551-651-571-671)
 - [Family 3589+09 IBM Ultrium 8 12 TB Data Cartridge Models 552 and 652](#family-358909-ibm-ultrium-8-12-tb-data-cartridge-models-552-and-652)
@@ -16,10 +17,35 @@ content update: 2023-08-11 00:04:15.087498294 +0800 CST
 - [Family 3599+01 IBM Tape Cartridges 3592](#family-359901-ibm-tape-cartridges-3592)
 - [Family 3599+02 IBM Tape Cart 3592](#family-359902-ibm-tape-cart-3592)
 - [Family 3599+03 IBM Tape Cartridge 3592](#family-359903-ibm-tape-cartridge-3592)
+- [3599-017 IBM 3592 Enterprise Tape Cartridge (Cleaning) Model 017](#3599-017-ibm-3592-enterprise-tape-cartridge-cleaning-model-017)
 
 ---
 
 [← Back to README](../README.md)
+
+
+
+
+
+### Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004
+
+🔗 [https://www.ibm.com/docs/en/announcements/ultrium-cartridges-models-002-003-004](https://www.ibm.com/docs/en/announcements/ultrium-cartridges-models-002-003-004?region=AP)
+
+📅 2023-05-30
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3589-002 | 2000-08-23 | 2000-09-01 | 2008-12-26 | - |
+| 3589-003 | 2000-08-23 | 2000-09-01 | 2008-12-26 | - |
+| 3589-004 | 2000-08-23 | 2000-09-01 | - | - |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
 
 
 
@@ -247,6 +273,28 @@ content update: 2023-08-11 00:04:15.087498294 +0800 CST
 | 3599-436 | 2019-01-08 | 2019-01-18 | - | - |
 | 3599-526 | 2019-01-08 | 2019-01-18 | - | - |
 | 3599-536 | 2019-01-08 | 2019-01-18 | - | - |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3599-017 IBM 3592 Enterprise Tape Cartridge (Cleaning) Model 017
+
+🔗 [https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-cartridge-cleaning-model-017](https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-cartridge-cleaning-model-017?region=AP)
+
+📅 2023-06-13
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3599-017 | 2003-09-09 | 2003-12-12 | - | - |
 
 
 
