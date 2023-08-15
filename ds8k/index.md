@@ -1,6 +1,6 @@
 # DS8K
 
-content update: 2023-08-15 21:00:35.126284901 +0800 CST
+content update: 2023-08-15 21:08:38.138418703 +0800 CST
 
 ---
 
@@ -15,6 +15,7 @@ content update: 2023-08-15 21:00:35.126284901 +0800 CST
 - [Family 5333+04 IBM DS8900F Model 998](#family-533304-ibm-ds8900f-model-998)
 - [Family 5334+03 IBM DS8900F Models 993, 994, 996, and E96](#family-533403-ibm-ds8900f-models-993-994-996-and-e96)
 - [Family 5334+04 IBM DS8900F Model 998](#family-533404-ibm-ds8900f-model-998)
+- [Family 5341+01 IBM DS8900F 1-YR warranty all-flash systems with IBM Storage Expert Care](#family-534101-ibm-ds8900f-1-yr-warranty-all-flash-systems-with-ibm-storage-expert-care)
 
 ---
 
@@ -199,6 +200,32 @@ content update: 2023-08-15 21:00:35.126284901 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 5334-998 | 2021-07-27 | 2021-08-20 | 2022-05-31 | - |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 5341+01 IBM DS8900F 1-YR warranty all-flash systems with IBM Storage Expert Care
+
+🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-1-yr-warranty-all-flash-systems-storage-expert-care](https://www.ibm.com/docs/en/announcements/ds8900f-1-yr-warranty-all-flash-systems-storage-expert-care?region=AP)
+
+📅 2023-07-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 5341-E96 | 2022-05-24 | 2022-05-31 | - | - |
+| 5341-993 | 2022-05-24 | 2022-05-31 | - | - |
+| 5341-994 | 2022-05-24 | 2022-05-31 | - | - |
+| 5341-996 | 2022-05-24 | 2022-05-31 | - | - |
+| 5341-998 | 2022-05-24 | 2022-05-31 | - | - |
 
 
 
