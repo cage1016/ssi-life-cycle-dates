@@ -2,7 +2,7 @@
 
 [![SSI Crawling](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml/badge.svg)](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml)
 
-update: 2023-08-15 00:04:23.316323669 +0800 CST
+update: 2023-08-15 19:48:59.500730125 +0800 CST
 
 
 
@@ -36,6 +36,9 @@ update: 2023-08-15 00:04:23.316323669 +0800 CST
 - [Cloud Object Storage](cloud-object-storage/index.md)
 
 
+- [DS8K](ds8k/index.md)
+
+
 - [Elastic Storage Server](elastic-storage-server/index.md)
 
 
@@ -55,8 +58,5 @@ update: 2023-08-15 00:04:23.316323669 +0800 CST
 
 
 - [Tape Library](tape-library/index.md)
-
-
-- [Tape Media](tape-media/index.md)
 
 
