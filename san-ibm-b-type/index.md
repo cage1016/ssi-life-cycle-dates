@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2023-08-15 20:40:53.66052985 +0800 CST
+content update: 2023-08-15 20:51:25.171965588 +0800 CST
 
 ---
 
@@ -8,13 +8,10 @@ content update: 2023-08-15 20:40:53.66052985 +0800 CST
 
 
 - [Family 2498+06 IBM System Networking SAN96B-5](#family-249806-ibm-system-networking-san96b-5)
-- [Family 2498+11 IBM System Storage SAN42B-R](#family-249811-ibm-system-storage-san42b-r)
 - [3534-F08 IBM TotalStorage Storage Area Network (SAN) Model F08](#3534-f08-ibm-totalstorage-storage-area-network-san-model-f08)
 - [Family 8960+01 IBM Storage Networking SAN64B-6](#family-896001-ibm-storage-networking-san64b-6)
 - [Family 8960+03 IBM Storage Networking SAN128B-6](#family-896003-ibm-storage-networking-san128b-6)
 - [Family 8960+05 IBM Storage Networking SAN128B-6](#family-896005-ibm-storage-networking-san128b-6)
-- [Family 8960+06 IBM Storage Networking SAN64B-7](#family-896006-ibm-storage-networking-san64b-7)
-- [Family 8960+07 IBM Storage Networking SAN64B-6](#family-896007-ibm-storage-networking-san64b-6)
 - [Family 8961+01 IBM Storage Networking SAN256B-6](#family-896101-ibm-storage-networking-san256b-6)
 - [Family 8961+04 IBM Storage Networking SAN512B-7](#family-896104-ibm-storage-networking-san512b-7)
 - [Family 8969+02 IBM Storage Networking SAN128B-7](#family-896902-ibm-storage-networking-san128b-7)
@@ -46,28 +43,6 @@ content update: 2023-08-15 20:40:53.66052985 +0800 CST
 | 2498-N96 | 2013-05-14 | 2013-07-12 | 2018-07-26 | 2027-08-31 |
 | 2498-N96 | 2013-05-14 | 2013-07-12 | 2018-07-26 | 2027-08-31 |
 | 2498-N96 | 2013-05-14 | 2013-07-12 | 2018-07-26 | 2027-08-31 |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2498+11 IBM System Storage SAN42B-R
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-san42b-r](https://www.ibm.com/docs/en/announcements/system-storage-san42b-r?region=AP)
-
-📅 2023-07-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2498-R42 | 2014-11-25 | 2014-12-12 | - | - |
 
 
 
@@ -164,52 +139,6 @@ content update: 2023-08-15 20:40:53.66052985 +0800 CST
 | --- | --- | --- | --- | --- |
 | 8960-F97 | 2020-10-13 | 2020-11-20 | - | - |
 | 8960-N97 | 2020-10-13 | 2020-11-20 | - | - |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 8960+06 IBM Storage Networking SAN64B-7
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san64b-7](https://www.ibm.com/docs/en/announcements/storage-networking-san64b-7?region=AP)
-
-📅 2023-07-04
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 8960-P64 | 2020-10-13 | 2020-11-20 | - | - |
-| 8960-R64 | 2020-10-13 | 2020-11-20 | - | - |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 8960+07 IBM Storage Networking SAN64B-6
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6-2023-07-04](https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6-2023-07-04?region=AP)
-
-📅 2023-07-04
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 8960-F65 | 2020-10-13 | 2020-11-20 | - | - |
-| 8960-N65 | 2020-10-13 | 2020-11-20 | - | - |
 
 
 
