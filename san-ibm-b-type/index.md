@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2023-08-15 19:48:59.500730125 +0800 CST
+content update: 2023-08-15 20:40:53.66052985 +0800 CST
 
 ---
 
@@ -16,6 +16,7 @@ content update: 2023-08-15 19:48:59.500730125 +0800 CST
 - [Family 8960+06 IBM Storage Networking SAN64B-7](#family-896006-ibm-storage-networking-san64b-7)
 - [Family 8960+07 IBM Storage Networking SAN64B-6](#family-896007-ibm-storage-networking-san64b-6)
 - [Family 8961+01 IBM Storage Networking SAN256B-6](#family-896101-ibm-storage-networking-san256b-6)
+- [Family 8961+04 IBM Storage Networking SAN512B-7](#family-896104-ibm-storage-networking-san512b-7)
 - [Family 8969+02 IBM Storage Networking SAN128B-7](#family-896902-ibm-storage-networking-san128b-7)
 - [Family 9239+01 IBM SANnav](#family-923901-ibm-sannav)
 - [Family 9240+01 IBM SANnav](#family-924001-ibm-sannav)
@@ -231,6 +232,28 @@ content update: 2023-08-15 19:48:59.500730125 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 8961-F04 | 2016-10-11 | 2016-11-11 | - | - |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 8961+04 IBM Storage Networking SAN512B-7
+
+🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san512b-7](https://www.ibm.com/docs/en/announcements/storage-networking-san512b-7?region=AP)
+
+📅 2023-07-04
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 8961-F78 | 2020-10-13 | 2020-11-20 | - | - |
 
 
 
