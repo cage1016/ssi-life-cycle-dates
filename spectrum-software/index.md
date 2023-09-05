@@ -1,22 +1,47 @@
 # Spectrum Software
 
-content update: 2023-09-05 00:04:59.66616602 +0800 CST
+content update: 2023-09-06 00:06:39.477284463 +0800 CST
 
 ---
 
 ### Table of contents
 
 
+- [Family 5333+02 IBM DS8882F Model 983](#family-533302-ibm-ds8882f-model-983)
 - [5639-003 IBM Copy Manager for IBM Spectrum Virtualize 1.1](#5639-003-ibm-copy-manager-for-ibm-spectrum-virtualize-11)
 - [5639-691 IBM Storage Protect Plus for IBM FlashSystem 10.1](#5639-691-ibm-storage-protect-plus-for-ibm-flashsystem-101)
-- [5641-C04 Red Hat OpenShift Container Platform for IBM Spectrum Fusion with 5 year 1.1](#5641-c04-red-hat-openshift-container-platform-for-ibm-spectrum-fusion-with-5-year-11)
 - [5641-VC8 IBM Storage Virtualize Software for SAN Volume Controller 8.6](#5641-vc8-ibm-storage-virtualize-software-for-san-volume-controller-86)
+- [5724-T60 IBM Security Guardium Key Lifecycle Manager 4.2](#5724-t60-ibm-security-guardium-key-lifecycle-manager-42)
 - [5725-F92 IBM Virtual Storage Center 5.4](#5725-f92-ibm-virtual-storage-center-54)
 - [5725-F93 IBM Spectrum Control 5.4](#5725-f93-ibm-spectrum-control-54)
+- [5737-B34 IBM Storage Copy Data Management 2.2](#5737-b34-ibm-storage-copy-data-management-22)
+- [5737-F08 IBM Storage Virtualize for Public Cloud 8.6](#5737-f08-ibm-storage-virtualize-for-public-cloud-86)
 
 ---
 
 [← Back to README](../README.md)
+
+
+
+
+
+### Family 5333+02 IBM DS8882F Model 983
+
+🔗 [https://www.ibm.com/docs/en/announcements/ds8882f-model-983-2023-01-31-1](https://www.ibm.com/docs/en/announcements/ds8882f-model-983-2023-01-31-1?region=AP)
+
+📅 2023-01-31
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 5333-983 | 2018-08-21 | 2018-09-07 | 2020-06-30 | 2024-06-30 |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
 
 
 
@@ -62,30 +87,6 @@ content update: 2023-09-05 00:04:59.66616602 +0800 CST
 | 5639-694 | 10.01.08 | 2021-07-06 | 2021-07-07 | - | - |
 | 5639-695 | 10.01.09 | 2021-12-07 | 2021-12-17 | - | - |
 | 5639-695 | 10.01.08 | 2021-07-06 | 2021-07-07 | - | - |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 5641-C04 Red Hat OpenShift Container Platform for IBM Spectrum Fusion with 5 year 1.1
-
-🔗 [https://www.ibm.com/docs/en/announcements/red-hat-openshift-container-platform-spectrum-fusion-5-year-11](https://www.ibm.com/docs/en/announcements/red-hat-openshift-container-platform-spectrum-fusion-5-year-11?region=AP)
-
-📅 2022-07-12
-
-| Program Number | VRM | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- | --- |
-| 5641-C04 | 01.01.00 | 2022-07-12 | 2022-07-12 | - | - |
-| 5641-C05 | 01.01.00 | 2022-07-12 | 2022-07-12 | - | - |
-| 5641-C06 | 01.01.00 | 2022-07-12 | 2022-07-12 | - | - |
 
 
 
@@ -168,6 +169,43 @@ content update: 2023-09-05 00:04:59.66616602 +0800 CST
 | 5725-Y35 | 08.01.03 | 2018-05-08 | 2018-06-08 | 2019-12-28 | 2020-12-31 |
 | 5725-Y35 | 08.01.02 | 2018-02-20 | 2018-03-16 | 2019-12-28 | 2020-12-31 |
 | 5725-Y35 | 08.01.00 | 2017-08-22 | 2017-09-22 | 2019-12-28 | 2020-12-31 |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 5724-T60 IBM Security Guardium Key Lifecycle Manager 4.2
+
+🔗 [https://www.ibm.com/docs/en/announcements/security-guardium-key-lifecycle-manager-42](https://www.ibm.com/docs/en/announcements/security-guardium-key-lifecycle-manager-42?region=AP)
+
+📅 2023-04-11
+
+| Program Number | VRM | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- | --- |
+| 5724-T60 | 04.02.00 | 2023-02-28 | 2023-03-07 | - | - |
+| 5724-T60 | 04.01.00 | 2020-11-24 | 2020-12-08 | - | - |
+| 5724-T60 | 04.00.00 | 2019-11-05 | 2019-12-10 | - | - |
+| 5724-T60 | 03.00.01 | 2017-10-30 | 2018-12-07 | - | 2024-04-30 |
+| 5724-T60 | 03.00.00 | 2017-10-10 | 2017-12-14 | - | 2024-04-30 |
+| 5724-T60 | 02.07.00 | 2016-10-25 | 2016-12-08 | 2021-09-17 | 2021-09-30 |
+| 5724-T60 | 02.06.00 | 2015-11-24 | 2015-12-08 | 2021-04-16 | 2021-04-30 |
+| 5724-T60 | 02.05.00 | 2013-10-29 | 2013-11-15 | 2017-12-12 | 2018-09-30 |
+| 5724-T60 | 02.00.01 | 2012-10-02 | 2012-10-05 | 2017-04-21 | 2017-04-30 |
+| 5724-T60 | 02.00.00 | 2010-08-24 | 2010-08-27 | 2017-04-21 | 2017-04-30 |
+| 5724-T60 | 01.00.00 | 2008-11-04 | 2008-11-04 | 2015-04-17 | 2015-04-30 |
+| 5608-A99 | 02.06.00 | 2015-11-24 | 2015-12-08 | 2016-03-10 | 2021-04-30 |
+| 5608-A99 | 02.05.00 | 2013-10-29 | 2013-11-15 | 2016-03-10 | 2018-09-30 |
+| 5608-A99 | 02.00.01 | 2012-10-02 | 2012-10-05 | 2016-03-10 | 2017-04-30 |
+| 5608-A99 | 02.00.00 | 2010-08-24 | 2010-08-27 | 2016-03-10 | 2017-04-30 |
+| 5608-A91 | 01.00.00 | 2008-10-28 | 2008-11-04 | 2010-12-14 | 2015-04-30 |
 
 
 
@@ -294,6 +332,62 @@ content update: 2023-09-05 00:04:59.66616602 +0800 CST
 | 5725-G33 | 05.02.02 | 2015-02-07 | 2015-03-13 | 2018-12-11 | 2019-09-30 |
 | 5725-G33 | 05.02.00 | 2013-10-08 | 2013-10-25 | 2018-12-11 | 2019-09-30 |
 | 5725-G33 | 05.01.00 | 2012-06-04 | 2012-06-15 | 2017-09-15 | 2017-09-30 |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 5737-B34 IBM Storage Copy Data Management 2.2
+
+🔗 [https://www.ibm.com/docs/en/announcements/storage-copy-data-management-22](https://www.ibm.com/docs/en/announcements/storage-copy-data-management-22?region=AP)
+
+📅 2023-06-13
+
+| Program Number | VRM | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- | --- |
+| 5737-B34 | 02.02.20 | 2023-06-13 | 2023-06-16 | - | - |
+| 5737-B34 | 02.02.14 | 2021-12-07 | 2021-12-10 | - | - |
+| 5737-B34 | 02.02.12 | 2020-11-17 | 2020-11-20 | - | - |
+| 5737-B34 | 02.02.11 | 2020-06-09 | 2020-06-12 | - | - |
+| 5737-B34 | 02.02.07 | 2017-07-25 | 2017-07-25 | - | - |
+| 5737-B34 | 02.02.06 | 2017-05-09 | 2017-05-09 | - | - |
+| 5737-B34 | 02.02.05 | 2016-10-25 | 2016-10-28 | - | - |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 5737-F08 IBM Storage Virtualize for Public Cloud 8.6
+
+🔗 [https://www.ibm.com/docs/en/announcements/storage-virtualize-public-cloud-86](https://www.ibm.com/docs/en/announcements/storage-virtualize-public-cloud-86?region=AP)
+
+📅 2023-05-23
+
+| Program Number | VRM | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- | --- |
+| 5737-F08 | 08.06.00 | 2023-05-23 | 2023-05-23 | - | - |
+| 5737-F08 | 08.05.04 | 2023-02-21 | 2023-03-24 | - | - |
+| 5737-F08 | 08.05.02 | 2022-09-20 | 2022-09-29 | - | - |
+| 5737-F08 | 08.04.03 | 2021-11-30 | 2021-12-20 | - | - |
+| 5737-F08 | 08.03.01 | 2020-02-11 | 2020-03-06 | - | - |
+| 5737-F08 | 08.03.00 | 2019-04-09 | 2019-06-07 | - | - |
+| 5737-F08 | 08.01.01 | 2017-11-14 | 2017-12-22 | - | - |
 
 
 

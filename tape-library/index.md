@@ -1,21 +1,45 @@
 # Tape Library
 
-content update: 2023-09-05 00:04:59.66616602 +0800 CST
+content update: 2023-09-06 00:06:39.477284463 +0800 CST
 
 ---
 
 ### Table of contents
 
 
+- [Family 2076+05 IBM Storwize V7000](#family-207605-ibm-storwize-v7000)
 - [Family 3555+01 IBM TS4300 tape library Models L3A and E3A](#family-355501-ibm-ts4300-tape-library-models-l3a-and-e3a)
 - [Family 3572+01 IBM System Storage TS2900 Tape Autoloader](#family-357201-ibm-system-storage-ts2900-tape-autoloader)
 - [Family 3584+15 IBM TS4500 Tape Library L55, D55, S55, L25, D25, S25, TR1](#family-358415-ibm-ts4500-tape-library-l55-d55-s55-l25-d25-s25-tr1)
 - [Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700](#family-395203-ibm-3952-tape-frame-model-f07-for-ibm-ts7700)
-- [Family 3957+06 IBM TS7770 Models VED](#family-395706-ibm-ts7770-models-ved)
+- [Family 3956+07 IBM TS7770 models CSB and XSB](#family-395607-ibm-ts7770-models-csb-and-xsb)
 
 ---
 
 [← Back to README](../README.md)
+
+
+
+
+
+### Family 2076+05 IBM Storwize V7000
+
+🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000-2023-07-11](https://www.ibm.com/docs/en/announcements/storwize-v7000-2023-07-11?region=AP)
+
+📅 2023-07-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2076-624 | 2016-08-23 | 2016-09-09 | 2020-08-15 | 2024-12-31 |
+| 2076-U7A | 2017-11-14 | 2017-12-08 | 2020-08-15 | 2024-12-31 |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
 
 
 
@@ -142,15 +166,16 @@ content update: 2023-09-05 00:04:59.66616602 +0800 CST
 
 
 
-### Family 3957+06 IBM TS7770 Models VED
+### Family 3956+07 IBM TS7770 models CSB and XSB
 
-🔗 [https://www.ibm.com/docs/en/announcements/ts7770-models-ved](https://www.ibm.com/docs/en/announcements/ts7770-models-ved?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/ts7770-models-csb-xsb](https://www.ibm.com/docs/en/announcements/ts7770-models-csb-xsb?region=AP)
 
-📅 2023-05-23
+📅 2023-08-22
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3957-VED | 2019-10-22 | 2019-11-22 | - | - |
+| 3956-CSB | 2019-10-22 | 2019-11-22 | - | - |
+| 3956-XSB | 2019-10-22 | 2019-11-22 | - | - |
 
 
 
