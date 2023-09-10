@@ -1,13 +1,12 @@
 # Spectrum Software
 
-content update: 2023-09-09 00:06:18.759051111 +0800 CST
+content update: 2023-09-11 00:05:18.061265697 +0800 CST
 
 ---
 
 ### Table of contents
 
 
-- [Family 5333+02 IBM DS8882F Model 983](#family-533302-ibm-ds8882f-model-983)
 - [Family 5334+02 IBM DS8882F Model 983](#family-533402-ibm-ds8882f-model-983)
 - [5639-003 IBM Copy Manager for IBM Spectrum Virtualize 1.1](#5639-003-ibm-copy-manager-for-ibm-spectrum-virtualize-11)
 - [5639-691 IBM Storage Protect Plus for IBM FlashSystem 10.1](#5639-691-ibm-storage-protect-plus-for-ibm-flashsystem-101)
@@ -21,28 +20,6 @@ content update: 2023-09-09 00:06:18.759051111 +0800 CST
 ---
 
 [← Back to README](../README.md)
-
-
-
-
-
-### Family 5333+02 IBM DS8882F Model 983
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8882f-model-983-2023-01-31-1](https://www.ibm.com/docs/en/announcements/ds8882f-model-983-2023-01-31-1?region=AP)
-
-📅 2023-01-31
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5333-983 | 2018-08-21 | 2018-09-07 | 2020-06-30 | 2024-06-30 |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
 
 
 
