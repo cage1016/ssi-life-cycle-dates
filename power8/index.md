@@ -1,6 +1,6 @@
 # Power8
 
-content update: 2023-09-14 00:05:16.882672605 +0800 CST
+content update: 2023-09-16 00:06:12.565946416 +0800 CST
 
 ---
 
@@ -13,10 +13,10 @@ content update: 2023-09-14 00:05:16.882672605 +0800 CST
 - [Family 8286+01 IBM Power System S814 server](#family-828601-ibm-power-system-s814-server)
 - [Family 8286+02 IBM Power System S824 server](#family-828602-ibm-power-system-s824-server)
 - [Family 8408+02 IBM Power System E850 Model E8E](#family-840802-ibm-power-system-e850-model-e8e)
-- [Family 8408+03 IBM Power System E850C server model 44E](#family-840803-ibm-power-system-e850c-server-model-44e)
 - [Family 9080+01 IBM Power System E880C (9080-MHE)](#family-908001-ibm-power-system-e880c-9080-mhe)
 - [Family 9119+05 IBM Power System E880 (9119-MHE)](#family-911905-ibm-power-system-e880-9119-mhe)
 - [Family 9119+06 IBM Power 870 Server (9119-MME)](#family-911906-ibm-power-870-server-9119-mme)
+- [5639-VE1 Vendita MAS incl 1yr sub/sup 1.0](#5639-ve1-vendita-mas-incl-1yr-sub-sup-10)
 
 ---
 
@@ -163,33 +163,6 @@ content update: 2023-09-14 00:05:16.882672605 +0800 CST
 
 
 
-### Family 8408+03 IBM Power System E850C server model 44E
-
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-e850c-server-model-44e](https://www.ibm.com/docs/en/announcements/power-system-e850c-server-model-44e?region=AP)
-
-📅 2022-11-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 8408-44E | 2016-10-11 | 2016-11-18 | 2019-10-31 | 2024-10-31 |
-| 8408-44E | 2016-10-11 | 2016-11-18 | 2019-10-31 | 2024-10-31 |
-| 8408-44E | 2016-10-11 | 2016-10-28 | 2019-10-31 | 2024-10-31 |
-| 8408-44E | 2016-10-11 | 2016-10-28 | 2019-10-31 | 2024-10-31 |
-| 8408-44E | 2016-10-11 | 2016-10-28 | 2019-10-31 | 2024-10-31 |
-| 8408-44E | 2016-10-11 | 2016-10-28 | 2019-10-31 | 2024-10-31 |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 9080+01 IBM Power System E880C (9080-MHE)
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-system-e880c-9080-mhe](https://www.ibm.com/docs/en/announcements/power-system-e880c-9080-mhe?region=AP)
@@ -248,6 +221,28 @@ content update: 2023-09-14 00:05:16.882672605 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9119-MME | 2014-10-06 | 2014-11-18 | 2017-07-14 | 2024-10-31 |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 5639-VE1 Vendita MAS incl 1yr sub/sup 1.0
+
+🔗 [https://www.ibm.com/docs/en/announcements/vendita-mas-incl-1yr-subsup-10](https://www.ibm.com/docs/en/announcements/vendita-mas-incl-1yr-subsup-10?region=AP)
+
+📅 2020-07-28
+
+| Program Number | VRM | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- | --- |
+| 5639-VE1 | 01.00.00 | 2017-04-11 | 2017-04-21 | 2020-08-11 | 2021-09-30 |
 
 
 
