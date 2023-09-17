@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2023-09-17 00:05:50.872942975 +0800 CST
+content update: 2023-09-18 00:05:58.031131387 +0800 CST
 
 ---
 
@@ -11,7 +11,7 @@ content update: 2023-09-17 00:05:50.872942975 +0800 CST
 - [Family 2072+06 IBM FlashSystem 5015 and 5035](#family-207206-ibm-flashsystem-5015-and-5035)
 - [Family 2076+01 IBM Storwize V7000 Disk System](#family-207601-ibm-storwize-v7000-disk-system)
 - [Family 2076+02 IBM Storwize V7000 Disk System](#family-207602-ibm-storwize-v7000-disk-system)
-- [](#)
+- [Family 4657+01 IBM FlashSystem 7300](#family-465701-ibm-flashsystem-7300)
 - [Family 4662+01 IBM FlashSystem 5200](#family-466201-ibm-flashsystem-5200)
 - [Family 4666+02 IBM FlashSystem 9500](#family-466602-ibm-flashsystem-9500)
 - [Family 4680+01 IBM FlashSystem 5015 and FlashSystem 5045](#family-468001-ibm-flashsystem-5015-and-flashsystem-5045)
@@ -198,13 +198,19 @@ content update: 2023-09-17 00:05:50.872942975 +0800 CST
 
 
 
-### 
+### Family 4657+01 IBM FlashSystem 7300
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-09-12](https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-09-12?region=AP)
 
 📅 2023-09-12
 
-
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 4657-U7D | 2022-02-08 | 2022-03-04 | - | - |
+| 4657-12G | 2022-02-08 | 2022-03-04 | - | - |
+| 4657-24G | 2022-02-08 | 2022-03-04 | - | - |
+| 4657-92G | 2022-02-08 | 2022-03-04 | - | - |
+| 4657-924 | 2022-02-08 | 2022-03-04 | - | - |
 
 
 
