@@ -1,6 +1,6 @@
 # Power7
 
-content update: 2023-09-19 00:08:04.996178061 +0800 CST
+content update: 2023-09-20 00:05:09.171696472 +0800 CST
 
 ---
 
@@ -22,7 +22,7 @@ content update: 2023-09-19 00:08:04.996178061 +0800 CST
 - [Family 8231+02 IBM Power 710 Express server](#family-823102-ibm-power-710-express-server)
 - [Family 8231+03 IBM Power 730 Express server](#family-823103-ibm-power-730-express-server)
 - [Family 8231+04 IBM Power 710 Express Server](#family-823104-ibm-power-710-express-server)
-- [](#)
+- [Family 8231+05 IBM Power 730 Express server](#family-823105-ibm-power-730-express-server)
 - [Family 8233+01 IBM Power 750 Express Server](#family-823301-ibm-power-750-express-server)
 - [Family 8408+01 IBM Power 750 Express](#family-840801-ibm-power-750-express)
 - [Family 9109+01 IBM Power 760](#family-910901-ibm-power-760)
@@ -397,13 +397,15 @@ content update: 2023-09-19 00:08:04.996178061 +0800 CST
 
 
 
-### 
+### Family 8231+05 IBM Power 730 Express server
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-730-express-server-2022-10-25](https://www.ibm.com/docs/en/announcements/power-730-express-server-2022-10-25?region=AP)
 
 📅 2022-10-25
 
-
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 8231-E2D | 2013-02-05 | 2013-02-20 | 2015-11-30 | 2020-12-31 |
 
 
 
