@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2023-09-28 00:07:02.790503387 +0800 CST
+content update: 2023-09-30 00:08:09.56858775 +0800 CST
 
 ---
 
@@ -97,9 +97,9 @@ content update: 2023-09-28 00:07:02.790503387 +0800 CST
 
 ### Family 2072+06 IBM FlashSystem 5015 and 5035
 
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5015-5035-2023-07-04](https://www.ibm.com/docs/en/announcements/flashsystem-5015-5035-2023-07-04?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5015-5035-2023-09-27](https://www.ibm.com/docs/en/announcements/flashsystem-5015-5035-2023-09-27?region=AP)
 
-📅 2023-07-04
+📅 2023-09-27
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -200,9 +200,9 @@ content update: 2023-09-28 00:07:02.790503387 +0800 CST
 
 ### Family 4657+01 IBM FlashSystem 7300
 
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-09-12](https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-09-12?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-09-27](https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-09-27?region=AP)
 
-📅 2023-09-12
+📅 2023-09-27
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -252,9 +252,9 @@ content update: 2023-09-28 00:07:02.790503387 +0800 CST
 
 ### Family 4666+02 IBM FlashSystem 9500
 
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9500-2023-09-12](https://www.ibm.com/docs/en/announcements/flashsystem-9500-2023-09-12?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9500-2023-09-27](https://www.ibm.com/docs/en/announcements/flashsystem-9500-2023-09-27?region=AP)
 
-📅 2023-09-12
+📅 2023-09-27
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -275,9 +275,9 @@ content update: 2023-09-28 00:07:02.790503387 +0800 CST
 
 ### Family 4680+01 IBM FlashSystem 5015 and FlashSystem 5045
 
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5015-flashsystem-5045-2023-09-12](https://www.ibm.com/docs/en/announcements/flashsystem-5015-flashsystem-5045-2023-09-12?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5015-flashsystem-5045-2023-09-27](https://www.ibm.com/docs/en/announcements/flashsystem-5015-flashsystem-5045-2023-09-27?region=AP)
 
-📅 2023-09-12
+📅 2023-09-27
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

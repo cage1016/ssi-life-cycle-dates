@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2023-09-28 00:07:02.790503387 +0800 CST
+content update: 2023-09-30 00:08:09.56858775 +0800 CST
 
 ---
 
@@ -179,9 +179,9 @@ content update: 2023-09-28 00:07:02.790503387 +0800 CST
 
 ### Family 8960+05 IBM Storage Networking SAN128B-6
 
-🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san128b-6-2023-07-04](https://www.ibm.com/docs/en/announcements/storage-networking-san128b-6-2023-07-04?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san128b-6-2023-09-27](https://www.ibm.com/docs/en/announcements/storage-networking-san128b-6-2023-09-27?region=AP)
 
-📅 2023-07-04
+📅 2023-09-27
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -225,9 +225,9 @@ content update: 2023-09-28 00:07:02.790503387 +0800 CST
 
 ### Family 8960+07 IBM Storage Networking SAN64B-6
 
-🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6-2023-07-04](https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6-2023-07-04?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6-2023-09-27](https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6-2023-09-27?region=AP)
 
-📅 2023-07-04
+📅 2023-09-27
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
