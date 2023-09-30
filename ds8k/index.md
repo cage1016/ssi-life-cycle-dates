@@ -1,6 +1,6 @@
 # DS8K
 
-content update: 2023-09-30 00:08:09.56858775 +0800 CST
+content update: 2023-10-01 00:04:23.942543773 +0800 CST
 
 ---
 
@@ -217,7 +217,7 @@ content update: 2023-09-30 00:08:09.56858775 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-1-yr-warranty-all-flash-systems-storage-expert-care](https://www.ibm.com/docs/en/announcements/ds8900f-1-yr-warranty-all-flash-systems-storage-expert-care?region=AP)
 
-📅 2023-08-22
+📅 2023-09-27
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
