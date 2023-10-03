@@ -1,6 +1,6 @@
 # Open Software Family
 
-content update: 2023-10-03 00:06:10.072316359 +0800 CST
+content update: 2023-10-04 00:07:07.150686087 +0800 CST
 
 ---
 
@@ -23,7 +23,7 @@ content update: 2023-10-03 00:06:10.072316359 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/san-volume-controller-models-sa2-sv2](https://www.ibm.com/docs/en/announcements/san-volume-controller-models-sa2-sv2?region=AP)
 
-📅 2023-07-04
+📅 2023-09-27
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
