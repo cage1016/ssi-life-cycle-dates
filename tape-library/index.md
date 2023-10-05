@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2023-10-05 00:05:06.561733105 +0800 CST
+content update: 2023-10-06 00:06:28.422747015 +0800 CST
 
 ---
 
@@ -49,7 +49,7 @@ content update: 2023-10-05 00:05:06.561733105 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts4300-tape-library-models-l3a-e3a](https://www.ibm.com/docs/en/announcements/ts4300-tape-library-models-l3a-e3a?region=AP)
 
-📅 2023-06-27
+📅 2023-09-27
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
