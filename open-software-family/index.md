@@ -1,6 +1,6 @@
 # Open Software Family
 
-content update: 2023-10-06 00:06:28.422747015 +0800 CST
+content update: 2023-10-08 00:05:10.801045275 +0800 CST
 
 ---
 
@@ -54,9 +54,9 @@ content update: 2023-10-06 00:06:28.422747015 +0800 CST
 
 ### Family 2147+02 IBM SAN Volume Controller models SA2 and SV2
 
-🔗 [https://www.ibm.com/docs/en/announcements/san-volume-controller-models-sa2-sv2-2023-09-27](https://www.ibm.com/docs/en/announcements/san-volume-controller-models-sa2-sv2-2023-09-27?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/san-volume-controller-models-sa2-sv2-2023-10-10](https://www.ibm.com/docs/en/announcements/san-volume-controller-models-sa2-sv2-2023-10-10?region=AP)
 
-📅 2023-09-27
+📅 2023-10-10
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

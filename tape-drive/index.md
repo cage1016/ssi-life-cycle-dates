@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2023-10-06 00:06:28.422747015 +0800 CST
+content update: 2023-10-08 00:05:10.801045275 +0800 CST
 
 ---
 
@@ -18,7 +18,7 @@ content update: 2023-10-06 00:06:28.422747015 +0800 CST
 - [Family 3592+10 IBM TS1150 Tape Drive and HD2 Tape Drive](#family-359210-ibm-ts1150-tape-drive-and-hd2-tape-drive)
 - [Family 3592+14 IBM TS1160 Tape Drive Model 60G](#family-359214-ibm-ts1160-tape-drive-model-60g)
 - [Family 3592+16 IBM TS1160 Tape Drive Model 60S for IBM TS4500](#family-359216-ibm-ts1160-tape-drive-model-60s-for-ibm-ts4500)
-- [IBM TS1170 Tape Drive models 70F and 70S](#ibm-ts1170-tape-drive-models-70f-and-70s)
+- [Family 3592+17 IBM TS1170 Tape Drive models 70F and 70S](#family-359217-ibm-ts1170-tape-drive-models-70f-and-70s)
 - [7014-S11 IBM Entry Rack Cabinet Model S11](#7014-s11-ibm-entry-rack-cabinet-model-s11)
 
 ---
@@ -274,11 +274,11 @@ content update: 2023-10-06 00:06:28.422747015 +0800 CST
 
 
 
-### IBM TS1170 Tape Drive models 70F and 70S
+### Family 3592+17 IBM TS1170 Tape Drive models 70F and 70S
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts1170-tape-drive-models-70f-70s](https://www.ibm.com/docs/en/announcements/ts1170-tape-drive-models-70f-70s?region=AP)
 
-📅 2023-08-22
+📅 2023-09-27
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

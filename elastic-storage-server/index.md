@@ -1,6 +1,6 @@
 # Elastic Storage Server
 
-content update: 2023-10-06 00:06:28.422747015 +0800 CST
+content update: 2023-10-08 00:05:10.801045275 +0800 CST
 
 ---
 
@@ -23,9 +23,9 @@ content update: 2023-10-06 00:06:28.422747015 +0800 CST
 
 ### Family 5147+05 IBM Elastic Storage System 5000
 
-🔗 [https://www.ibm.com/docs/en/announcements/elastic-storage-system-5000-2023-09-27-1](https://www.ibm.com/docs/en/announcements/elastic-storage-system-5000-2023-09-27-1?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/elastic-storage-system-5000-2023-10-10-1](https://www.ibm.com/docs/en/announcements/elastic-storage-system-5000-2023-10-10-1?region=AP)
 
-📅 2023-09-27
+📅 2023-10-10
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
