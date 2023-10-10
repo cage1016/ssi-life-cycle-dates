@@ -1,6 +1,6 @@
 # Power System Software
 
-content update: 2023-10-09 00:05:07.33003981 +0800 CST
+content update: 2023-10-11 00:06:08.462989117 +0800 CST
 
 ---
 
@@ -50,7 +50,7 @@ content update: 2023-10-09 00:05:07.33003981 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/i-operating-system-75](https://www.ibm.com/docs/en/announcements/i-operating-system-75?region=AP)
 
-📅 2022-10-11
+📅 2023-10-10
 
 | Program Number | VRM | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- | --- |

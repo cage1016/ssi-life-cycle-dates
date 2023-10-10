@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2023-10-09 00:05:07.33003981 +0800 CST
+content update: 2023-10-11 00:06:08.462989117 +0800 CST
 
 ---
 
@@ -226,9 +226,9 @@ content update: 2023-10-09 00:05:07.33003981 +0800 CST
 
 ### Family 4662+01 IBM FlashSystem 5200
 
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5200-2023-10-10](https://www.ibm.com/docs/en/announcements/flashsystem-5200-2023-10-10?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5200-2023-10-24](https://www.ibm.com/docs/en/announcements/flashsystem-5200-2023-10-24?region=AP)
 
-📅 2023-10-10
+📅 2023-10-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

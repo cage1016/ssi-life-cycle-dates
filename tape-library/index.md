@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2023-10-09 00:05:07.33003981 +0800 CST
+content update: 2023-10-11 00:06:08.462989117 +0800 CST
 
 ---
 
@@ -120,7 +120,7 @@ content update: 2023-10-09 00:05:07.33003981 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts4500-tape-library-l55d55s55l25d25s25tr1](https://www.ibm.com/docs/en/announcements/ts4500-tape-library-l55d55s55l25d25s25tr1?region=AP)
 
-📅 2023-08-22
+📅 2023-10-10
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

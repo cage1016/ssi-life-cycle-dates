@@ -1,6 +1,6 @@
 # Power10
 
-content update: 2023-10-09 00:05:07.33003981 +0800 CST
+content update: 2023-10-11 00:06:08.462989117 +0800 CST
 
 ---
 
@@ -28,7 +28,7 @@ content update: 2023-10-09 00:05:07.33003981 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-e1050-enterprise-midrange-technology-based-server](https://www.ibm.com/docs/en/announcements/power-e1050-enterprise-midrange-technology-based-server?region=AP)
 
-📅 2023-09-26
+📅 2023-10-10
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -94,7 +94,7 @@ content update: 2023-10-09 00:05:07.33003981 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-s1024-9105-42a](https://www.ibm.com/docs/en/announcements/power-s1024-9105-42a?region=AP)
 
-📅 2023-09-26
+📅 2023-10-10
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
