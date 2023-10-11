@@ -1,13 +1,13 @@
 # Power System Software
 
-content update: 2023-10-11 00:06:08.462989117 +0800 CST
+content update: 2023-10-12 00:05:22.620834471 +0800 CST
 
 ---
 
 ### Table of contents
 
 
-- [5765-G98 IBM AIX Standard Edition 7.3](#5765-g98-ibm-aix-standard-edition-73)
+- [5765-G98 IBM AIX 7 Standard Edition](#5765-g98-ibm-aix-7-standard-edition)
 - [5770-SS1 IBM i Operating System 7.5](#5770-ss1-ibm-i-operating-system-75)
 
 ---
@@ -18,11 +18,11 @@ content update: 2023-10-11 00:06:08.462989117 +0800 CST
 
 
 
-### 5765-G98 IBM AIX Standard Edition 7.3
+### 5765-G98 IBM AIX 7 Standard Edition
 
 🔗 [https://www.ibm.com/docs/en/announcements/aix-standard-edition-73](https://www.ibm.com/docs/en/announcements/aix-standard-edition-73?region=AP)
 
-📅 2022-10-11
+📅 2023-10-10
 
 | Program Number | VRM | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- | --- |

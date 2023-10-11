@@ -1,6 +1,6 @@
 # Power9
 
-content update: 2023-10-11 00:06:08.462989117 +0800 CST
+content update: 2023-10-12 00:05:22.620834471 +0800 CST
 
 ---
 
@@ -167,9 +167,9 @@ content update: 2023-10-11 00:06:08.462989117 +0800 CST
 
 ### Family 9009+05 IBM Power System S914 (9009-41G)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-s914-9009-41g-2023-09-26](https://www.ibm.com/docs/en/announcements/power-system-s914-9009-41g-2023-09-26?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-s914-9009-41g-2023-10-24](https://www.ibm.com/docs/en/announcements/power-system-s914-9009-41g-2023-10-24?region=AP)
 
-📅 2023-09-26
+📅 2023-10-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -282,9 +282,9 @@ content update: 2023-10-11 00:06:08.462989117 +0800 CST
 
 ### Family 9223+04 IBM Power System H924 (9223-42S)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-h924-9223-42s-2023-09-26](https://www.ibm.com/docs/en/announcements/power-system-h924-9223-42s-2023-09-26?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-h924-9223-42s-2023-10-24](https://www.ibm.com/docs/en/announcements/power-system-h924-9223-42s-2023-10-24?region=AP)
 
-📅 2023-09-26
+📅 2023-10-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2023-10-11 00:06:08.462989117 +0800 CST
+content update: 2023-10-12 00:05:22.620834471 +0800 CST
 
 ---
 
@@ -234,7 +234,7 @@ content update: 2023-10-11 00:06:08.462989117 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts1160-tape-drive-model-60g](https://www.ibm.com/docs/en/announcements/ts1160-tape-drive-model-60g?region=AP)
 
-📅 2023-06-27
+📅 2023-10-10
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -278,7 +278,7 @@ content update: 2023-10-11 00:06:08.462989117 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts1170-tape-drive-models-70f-70s](https://www.ibm.com/docs/en/announcements/ts1170-tape-drive-models-70f-70s?region=AP)
 
-📅 2023-09-27
+📅 2023-10-10
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
