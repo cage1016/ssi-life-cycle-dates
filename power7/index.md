@@ -1,6 +1,6 @@
 # Power7
 
-content update: 2023-10-12 00:05:22.620834471 +0800 CST
+content update: 2023-10-13 00:05:40.875586196 +0800 CST
 
 ---
 
@@ -267,9 +267,9 @@ content update: 2023-10-12 00:05:22.620834471 +0800 CST
 
 ### Family 8205+02 IBM Power 740 Express server
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-740-express-server-2022-03-22](https://www.ibm.com/docs/en/announcements/power-740-express-server-2022-03-22?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/power-740-express-server-2023-10-24](https://www.ibm.com/docs/en/announcements/power-740-express-server-2023-10-24?region=AP)
 
-📅 2022-03-22
+📅 2023-10-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -377,9 +377,9 @@ content update: 2023-10-12 00:05:22.620834471 +0800 CST
 
 ### Family 8231+04 IBM Power 710 Express Server
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-710-express-server-2022-10-25](https://www.ibm.com/docs/en/announcements/power-710-express-server-2022-10-25?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/power-710-express-server-2023-10-24](https://www.ibm.com/docs/en/announcements/power-710-express-server-2023-10-24?region=AP)
 
-📅 2022-10-25
+📅 2023-10-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -399,9 +399,9 @@ content update: 2023-10-12 00:05:22.620834471 +0800 CST
 
 ### Family 8231+05 IBM Power 730 Express server
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-730-express-server-2022-10-25](https://www.ibm.com/docs/en/announcements/power-730-express-server-2022-10-25?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/power-730-express-server-2023-10-24](https://www.ibm.com/docs/en/announcements/power-730-express-server-2023-10-24?region=AP)
 
-📅 2022-10-25
+📅 2023-10-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -602,9 +602,9 @@ content update: 2023-10-12 00:05:22.620834471 +0800 CST
 
 ### Family 9179+02 IBM Power 780 Server
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-780-server-2022-10-25](https://www.ibm.com/docs/en/announcements/power-780-server-2022-10-25?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/power-780-server-2023-10-24](https://www.ibm.com/docs/en/announcements/power-780-server-2023-10-24?region=AP)
 
-📅 2022-10-25
+📅 2023-10-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
