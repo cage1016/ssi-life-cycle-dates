@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2023-10-22 00:04:15.424247819 +0800 CST
+content update: 2023-10-23 00:05:11.3126172 +0800 CST
 
 ---
 
@@ -256,7 +256,7 @@ content update: 2023-10-22 00:04:15.424247819 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts1160-tape-drive-model-60s-ts4500](https://www.ibm.com/docs/en/announcements/ts1160-tape-drive-model-60s-ts4500?region=AP)
 
-📅 2023-06-13
+📅 2023-10-10
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
