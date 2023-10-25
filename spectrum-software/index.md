@@ -1,13 +1,13 @@
 # Spectrum Software
 
-content update: 2023-10-25 00:04:59.012792233 +0800 CST
+content update: 2023-10-25 08:43:50.720573076 +0800 CST
 
 ---
 
 ### Table of contents
 
 
-- [Family 5334+02 IBM DS8882F Model 983](#family-533402-ibm-ds8882f-model-983)
+- [](#)
 - [5639-003 IBM Copy Manager for IBM Spectrum Virtualize 1.1](#5639-003-ibm-copy-manager-for-ibm-spectrum-virtualize-11)
 - [5639-691 IBM Storage Protect Plus for IBM FlashSystem 10.1](#5639-691-ibm-storage-protect-plus-for-ibm-flashsystem-101)
 - [5641-VC8 IBM Storage Virtualize Software for SAN Volume Controller 8.6](#5641-vc8-ibm-storage-virtualize-software-for-san-volume-controller-86)
@@ -15,7 +15,6 @@ content update: 2023-10-25 00:04:59.012792233 +0800 CST
 - [5725-F92 IBM Virtual Storage Center 5.4](#5725-f92-ibm-virtual-storage-center-54)
 - [5725-F93 IBM Spectrum Control 5.4](#5725-f93-ibm-spectrum-control-54)
 - [5737-B34 IBM Storage Copy Data Management 2.2](#5737-b34-ibm-storage-copy-data-management-22)
-- [5737-F08 IBM Storage Virtualize for Public Cloud 8.6](#5737-f08-ibm-storage-virtualize-for-public-cloud-86)
 
 ---
 
@@ -25,15 +24,13 @@ content update: 2023-10-25 00:04:59.012792233 +0800 CST
 
 
 
-### Family 5334+02 IBM DS8882F Model 983
+### 
 
-🔗 [https://www.ibm.com/docs/en/announcements/ds8882f-model-983-2023-01-31-2](https://www.ibm.com/docs/en/announcements/ds8882f-model-983-2023-01-31-2?region=AP)
+🔗 [](?region=AP)
 
-📅 2023-01-31
+📅 
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5334-983 | 2018-08-21 | 2018-09-07 | 2020-06-30 | 2024-06-30 |
+
 
 
 
@@ -360,34 +357,6 @@ content update: 2023-10-25 00:04:59.012792233 +0800 CST
 | 5737-B34 | 02.02.07 | 2017-07-25 | 2017-07-25 | - | - |
 | 5737-B34 | 02.02.06 | 2017-05-09 | 2017-05-09 | - | - |
 | 5737-B34 | 02.02.05 | 2016-10-25 | 2016-10-28 | - | - |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 5737-F08 IBM Storage Virtualize for Public Cloud 8.6
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-virtualize-public-cloud-86](https://www.ibm.com/docs/en/announcements/storage-virtualize-public-cloud-86?region=AP)
-
-📅 2023-09-26
-
-| Program Number | VRM | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- | --- |
-| 5737-F08 | 08.06.00 | 2023-05-23 | 2023-05-23 | - | - |
-| 5737-F08 | 08.05.04 | 2023-02-21 | 2023-03-24 | - | - |
-| 5737-F08 | 08.05.02 | 2022-09-20 | 2022-09-29 | - | - |
-| 5737-F08 | 08.04.03 | 2021-11-30 | 2021-12-20 | 2023/09/30 | 2024/12/31 |
-| 5737-F08 | 08.03.01 | 2020-02-11 | 2020-03-06 | - | - |
-| 5737-F08 | 08.03.00 | 2019-04-09 | 2019-06-07 | - | - |
-| 5737-F08 | 08.01.01 | 2017-11-14 | 2017-12-22 | 2023/09/30 | 2024/12/31 |
 
 
 

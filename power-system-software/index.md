@@ -1,18 +1,47 @@
 # Power System Software
 
-content update: 2023-10-25 00:04:59.012792233 +0800 CST
+content update: 2023-10-25 08:43:50.720573076 +0800 CST
 
 ---
 
 ### Table of contents
 
 
+- [5733-B45 IBM AFP Font Collection for i 3.1](#5733-b45-ibm-afp-font-collection-for-i-31)
 - [5765-G98 IBM AIX 7 Standard Edition](#5765-g98-ibm-aix-7-standard-edition)
-- [5770-SS1 IBM i Operating System 7.5](#5770-ss1-ibm-i-operating-system-75)
 
 ---
 
 [← Back to README](../README.md)
+
+
+
+
+
+### 5733-B45 IBM AFP Font Collection for i 3.1
+
+🔗 [https://www.ibm.com/docs/en/announcements/afp-font-collection-i-31](https://www.ibm.com/docs/en/announcements/afp-font-collection-i-31?region=AP)
+
+📅 2021-06-29
+
+| Program Number | VRM | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- | --- |
+| 5733-B45 | 03.01.00 | 2010-10-07 | 2010-12-10 | - | - |
+| 5733-QU2 | 01.01.02 | 2010-10-07 | 2010-12-10 | 2014-12-09 | 2015-09-30 |
+| 5733-QU3 | 01.01.02 | 2010-10-07 | 2010-12-10 | - | 2015-09-30 |
+| 5733-QU4 | 01.01.02 | 2010-10-07 | 2010-12-10 | - | 2015-09-30 |
+| 5733-QUB | 01.01.02 | 2010-10-07 | 2010-12-10 | - | 2015-09-30 |
+| 5770-SS1 | 07.01.00 | 2010-04-13 | 2010-04-23 | 2017-09-30 | 2018-04-30 |
+| 5761-SS1 | 06.01.00 | 2008-01-29 | 2008-03-21 | 2014-12-09 | 2015-09-30 |
+| 5761-PT1 | 06.01.00 | 2008-01-29 | 2008-03-21 | 2014-12-09 | 2015-09-30 |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
 
 
 
@@ -33,32 +62,6 @@ content update: 2023-10-25 00:04:59.012792233 +0800 CST
 | 5765-G98 | 07.01.00 | 2010-08-17 | 2010-09-10 | 2021-11-23 | 2023-04-30 |
 | 5765-G99 | 07.01.00 | 2010-08-17 | 2010-09-10 | 2016-01-12 | 2016-09-30 |
 | 5765-G97 | 07.01.00 | 2010-08-17 | 2010-09-10 | 2016-04-05 | 2023-04-30 |
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 5770-SS1 IBM i Operating System 7.5
-
-🔗 [https://www.ibm.com/docs/en/announcements/i-operating-system-75](https://www.ibm.com/docs/en/announcements/i-operating-system-75?region=AP)
-
-📅 2023-10-10
-
-| Program Number | VRM | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- | --- |
-| 5770-SS1 | 07.05.00 | 2022-05-03 | 2022-05-10 | - | - |
-| 5770-SS1 | 07.04.00 | 2019-04-23 | 2019-06-21 | - | - |
-| 5770-SS1 | 07.03.00 | 2016-04-12 | 2016-04-15 | 2023-04-28 | 2023-09-30 |
-| 5770-SS1 | 07.02.00 | 2014-10-06 | 2014-11-11 | 2020-04-30 | 2021-04-30 |
-| 5770-SS1 | 07.01.00 | 2010-04-13 | 2010-04-23 | 2017-09-30 | 2018-04-30 |
 
 
 

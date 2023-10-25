@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2023-10-25 00:04:59.012792233 +0800 CST
+content update: 2023-10-25 08:43:50.720573076 +0800 CST
 
 ---
 
@@ -160,7 +160,7 @@ content update: 2023-10-25 00:04:59.012792233 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ultrium-9-18-tb-data-cartridge-models-553-653](https://www.ibm.com/docs/en/announcements/ultrium-9-18-tb-data-cartridge-models-553-653?region=AP)
 
-📅 2023-07-04
+📅 2023-10-10
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
