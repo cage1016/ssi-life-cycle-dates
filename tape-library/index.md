@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2023-10-27 00:06:01.160717585 +0800 CST
+content update: 2023-10-28 00:05:42.361389954 +0800 CST
 
 ---
 
@@ -124,7 +124,7 @@ content update: 2023-10-27 00:06:01.160717585 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/3952-tape-frame-model-f07-ts7700](https://www.ibm.com/docs/en/announcements/3952-tape-frame-model-f07-ts7700?region=AP)
 
-📅 2023-08-22
+📅 2023-10-10
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
