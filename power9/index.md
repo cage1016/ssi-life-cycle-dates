@@ -1,6 +1,6 @@
 # Power9
 
-content update: 2023-11-01 00:05:50.206533173 +0800 CST
+content update: 2023-11-02 00:05:43.714791301 +0800 CST
 
 ---
 
@@ -240,7 +240,7 @@ content update: 2023-11-01 00:05:50.206533173 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-system-e980-9080-m9s](https://www.ibm.com/docs/en/announcements/power-system-e980-9080-m9s?region=AP)
 
-📅 2023-07-11
+📅 2023-10-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
