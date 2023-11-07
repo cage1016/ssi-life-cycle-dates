@@ -1,6 +1,6 @@
 # Power7
 
-content update: 2023-11-07 00:06:08.725011474 +0800 CST
+content update: 2023-11-08 00:06:16.876605706 +0800 CST
 
 ---
 
@@ -467,7 +467,7 @@ content update: 2023-11-07 00:06:08.725011474 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-760](https://www.ibm.com/docs/en/announcements/power-760?region=AP)
 
-📅 2022-10-25
+📅 2023-10-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -494,7 +494,7 @@ content update: 2023-11-07 00:06:08.725011474 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-770-server-mmb](https://www.ibm.com/docs/en/announcements/power-770-server-mmb?region=AP)
 
-📅 2022-10-25
+📅 2023-10-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -516,7 +516,7 @@ content update: 2023-11-07 00:06:08.725011474 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-770-power7-server-9117-mmc](https://www.ibm.com/docs/en/announcements/power-770-power7-server-9117-mmc?region=AP)
 
-📅 2022-10-25
+📅 2023-10-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -538,7 +538,7 @@ content update: 2023-11-07 00:06:08.725011474 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-770-power7-server-9117-mmd](https://www.ibm.com/docs/en/announcements/power-770-power7-server-9117-mmd?region=AP)
 
-📅 2022-10-25
+📅 2023-10-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -582,7 +582,7 @@ content update: 2023-11-07 00:06:08.725011474 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-780-server](https://www.ibm.com/docs/en/announcements/power-780-server?region=AP)
 
-📅 2022-10-25
+📅 2023-10-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -626,7 +626,7 @@ content update: 2023-11-07 00:06:08.725011474 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-780-server-9179-mhd](https://www.ibm.com/docs/en/announcements/power-780-server-9179-mhd?region=AP)
 
-📅 2022-10-25
+📅 2023-10-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

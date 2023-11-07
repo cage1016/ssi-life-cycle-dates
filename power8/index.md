@@ -1,6 +1,6 @@
 # Power8
 
-content update: 2023-11-07 00:06:08.725011474 +0800 CST
+content update: 2023-11-08 00:06:16.876605706 +0800 CST
 
 ---
 
@@ -74,7 +74,7 @@ content update: 2023-11-07 00:06:08.725011474 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-system-s814-server](https://www.ibm.com/docs/en/announcements/power-system-s814-server?region=AP)
 
-📅 2022-11-15
+📅 2023-10-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
