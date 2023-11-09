@@ -1,6 +1,6 @@
 # Power7
 
-content update: 2023-11-09 00:08:01.435097714 +0800 CST
+content update: 2023-11-10 00:06:06.547287912 +0800 CST
 
 ---
 
@@ -154,7 +154,7 @@ content update: 2023-11-09 00:08:01.435097714 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flex-system-p270-compute-node-7954-24x](https://www.ibm.com/docs/en/announcements/flex-system-p270-compute-node-7954-24x?region=AP)
 
-📅 2018-07-10
+📅 2023-10-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -203,7 +203,7 @@ content update: 2023-11-09 00:08:01.435097714 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-720-server](https://www.ibm.com/docs/en/announcements/power-720-server?region=AP)
 
-📅 2022-03-22
+📅 2023-10-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -225,7 +225,7 @@ content update: 2023-11-09 00:08:01.435097714 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-720-express](https://www.ibm.com/docs/en/announcements/power-720-express?region=AP)
 
-📅 2022-10-25
+📅 2023-10-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -247,7 +247,7 @@ content update: 2023-11-09 00:08:01.435097714 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-740-express-server](https://www.ibm.com/docs/en/announcements/power-740-express-server?region=AP)
 
-📅 2022-10-25
+📅 2023-10-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -291,7 +291,7 @@ content update: 2023-11-09 00:08:01.435097714 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-740-express](https://www.ibm.com/docs/en/announcements/power-740-express?region=AP)
 
-📅 2022-10-25
+📅 2023-10-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -423,7 +423,7 @@ content update: 2023-11-09 00:08:01.435097714 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-750-express-server](https://www.ibm.com/docs/en/announcements/power-750-express-server?region=AP)
 
-📅 2022-10-25
+📅 2023-10-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
