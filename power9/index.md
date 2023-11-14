@@ -1,6 +1,6 @@
 # Power9
 
-content update: 2023-11-14 00:06:35.265426624 +0800 CST
+content update: 2023-11-15 00:06:41.322775938 +0800 CST
 
 ---
 
@@ -191,7 +191,7 @@ content update: 2023-11-14 00:06:35.265426624 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-system-s924-9009-42g](https://www.ibm.com/docs/en/announcements/power-system-s924-9009-42g?region=AP)
 
-📅 2023-07-11
+📅 2023-11-14
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
