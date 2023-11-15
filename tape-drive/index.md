@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2023-11-15 00:06:41.322775938 +0800 CST
+content update: 2023-11-16 00:06:55.26605643 +0800 CST
 
 ---
 
@@ -34,7 +34,7 @@ content update: 2023-11-15 00:06:41.322775938 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts2270-tape-drive-model-h7s](https://www.ibm.com/docs/en/announcements/ts2270-tape-drive-model-h7s?region=AP)
 
-📅 2023-06-27
+📅 2023-10-10
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

@@ -1,6 +1,6 @@
 # Open Software Family
 
-content update: 2023-11-15 00:06:41.322775938 +0800 CST
+content update: 2023-11-16 00:06:55.26605643 +0800 CST
 
 ---
 
