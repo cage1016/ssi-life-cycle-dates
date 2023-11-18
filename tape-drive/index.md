@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2023-11-18 00:08:06.000017031 +0800 CST
+content update: 2023-11-19 00:05:23.051170695 +0800 CST
 
 ---
 
@@ -78,7 +78,7 @@ content update: 2023-11-18 00:08:06.000017031 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts2290-sas-tape-drive-model-h9s](https://www.ibm.com/docs/en/announcements/ts2290-sas-tape-drive-model-h9s?region=AP)
 
-📅 2023-07-11
+📅 2023-10-10
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
