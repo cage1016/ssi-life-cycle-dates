@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2023-11-21 00:06:14.314296975 +0800 CST
+content update: 2023-11-22 00:05:17.250768398 +0800 CST
 
 ---
 
@@ -36,7 +36,7 @@ content update: 2023-11-21 00:06:14.314296975 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5000](https://www.ibm.com/docs/en/announcements/flashsystem-5000?region=AP)
 
-📅 2023-09-27
+📅 2023-11-21
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
