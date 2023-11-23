@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2023-11-23 00:07:25.739606673 +0800 CST
+content update: 2023-11-24 00:05:30.65281525 +0800 CST
 
 ---
 
@@ -65,7 +65,7 @@ content update: 2023-11-23 00:07:25.739606673 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-san42b-r](https://www.ibm.com/docs/en/announcements/system-storage-san42b-r?region=AP)
 
-📅 2023-07-04
+📅 2023-11-22T17:21:01Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

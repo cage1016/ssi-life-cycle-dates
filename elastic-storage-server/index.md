@@ -1,6 +1,6 @@
 # Elastic Storage Server
 
-content update: 2023-11-23 00:07:25.739606673 +0800 CST
+content update: 2023-11-24 00:05:30.65281525 +0800 CST
 
 ---
 
@@ -26,7 +26,7 @@ content update: 2023-11-23 00:07:25.739606673 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/elastic-storage-system-5000-2023-10-10](https://www.ibm.com/docs/en/announcements/elastic-storage-system-5000-2023-10-10?region=AP)
 
-📅 2023-10-10
+📅 2023-11-22T18:08:13Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -97,7 +97,7 @@ content update: 2023-11-23 00:07:25.739606673 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/elastic-storage-system-3500](https://www.ibm.com/docs/en/announcements/elastic-storage-system-3500?region=AP)
 
-📅 2023-11-14
+📅 2023-11-22T18:14:18Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -141,7 +141,7 @@ content update: 2023-11-23 00:07:25.739606673 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/elastic-storage-system-5000-2023-10-10-1](https://www.ibm.com/docs/en/announcements/elastic-storage-system-5000-2023-10-10-1?region=AP)
 
-📅 2023-10-10
+📅 2023-11-22T18:25:51Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
