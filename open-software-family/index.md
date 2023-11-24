@@ -1,6 +1,6 @@
 # Open Software Family
 
-content update: 2023-11-24 00:05:30.65281525 +0800 CST
+content update: 2023-11-25 00:05:26.143146935 +0800 CST
 
 ---
 
@@ -24,7 +24,7 @@ content update: 2023-11-24 00:05:30.65281525 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/san-volume-controller-models-sa2-sv2](https://www.ibm.com/docs/en/announcements/san-volume-controller-models-sa2-sv2?region=AP)
 
-📅 2023-09-27
+📅 2023-11-23T16:58:48Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -57,7 +57,7 @@ content update: 2023-11-24 00:05:30.65281525 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/san-volume-controller-model-sv3-2023-10-10](https://www.ibm.com/docs/en/announcements/san-volume-controller-model-sv3-2023-10-10?region=AP)
 
-📅 2023-10-10
+📅 2023-11-23T17:45:45Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -79,7 +79,7 @@ content update: 2023-11-24 00:05:30.65281525 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/san-volume-controller-models-sa2-sv2-2023-10-10](https://www.ibm.com/docs/en/announcements/san-volume-controller-models-sa2-sv2-2023-10-10?region=AP)
 
-📅 2023-10-10
+📅 2023-11-23T18:04:39Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -112,7 +112,7 @@ content update: 2023-11-24 00:05:30.65281525 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/san-volume-controller-model-sv3-2023-10-10-1](https://www.ibm.com/docs/en/announcements/san-volume-controller-model-sv3-2023-10-10-1?region=AP)
 
-📅 2023-10-10
+📅 2023-11-23T19:21:19Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

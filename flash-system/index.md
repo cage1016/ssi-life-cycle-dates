@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2023-11-24 00:05:30.65281525 +0800 CST
+content update: 2023-11-25 00:05:26.143146935 +0800 CST
 
 ---
 
@@ -349,7 +349,7 @@ content update: 2023-11-24 00:05:30.65281525 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-10-10](https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-10-10?region=AP)
 
-📅 2023-10-10
+📅 2023-11-23T19:41:38Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -375,7 +375,7 @@ content update: 2023-11-24 00:05:30.65281525 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5200-2023-10-24](https://www.ibm.com/docs/en/announcements/flashsystem-5200-2023-10-24?region=AP)
 
-📅 2023-10-31
+📅 2023-11-23T20:14:05Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -428,7 +428,7 @@ content update: 2023-11-24 00:05:30.65281525 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9200-expert-care](https://www.ibm.com/docs/en/announcements/flashsystem-9200-expert-care?region=AP)
 
-📅 2023-09-27
+📅 2023-11-23T20:34:37Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -472,7 +472,7 @@ content update: 2023-11-24 00:05:30.65281525 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9500-2023-10-10](https://www.ibm.com/docs/en/announcements/flashsystem-9500-2023-10-10?region=AP)
 
-📅 2023-10-10
+📅 2023-11-24T00:47:50Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -495,7 +495,7 @@ content update: 2023-11-24 00:05:30.65281525 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5015-flashsystem-5045-2023-10-10](https://www.ibm.com/docs/en/announcements/flashsystem-5015-flashsystem-5045-2023-10-10?region=AP)
 
-📅 2023-10-10
+📅 2023-11-24T01:20:54Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
