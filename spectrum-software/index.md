@@ -1,6 +1,6 @@
 # Spectrum Software
 
-content update: 2023-11-28 00:06:28.099862103 +0800 CST
+content update: 2023-11-29 00:05:17.058908209 +0800 CST
 
 ---
 
@@ -14,6 +14,7 @@ content update: 2023-11-28 00:06:28.099862103 +0800 CST
 - [5724-T60 IBM Security Guardium Key Lifecycle Manager 4.2](#5724-t60-ibm-security-guardium-key-lifecycle-manager-42)
 - [5725-F92 IBM Virtual Storage Center 5.4](#5725-f92-ibm-virtual-storage-center-54)
 - [5725-F93 IBM Spectrum Control 5.4](#5725-f93-ibm-spectrum-control-54)
+- [5737-B34 IBM Storage Copy Data Management 2.2](#5737-b34-ibm-storage-copy-data-management-22)
 - [5737-B34 IBM Storage Copy Data Management 2.2](#5737-b34-ibm-storage-copy-data-management-22)
 
 ---
@@ -329,6 +330,34 @@ content update: 2023-11-28 00:06:28.099862103 +0800 CST
 | 5725-G33 | 05.02.02 | 2015-02-07 | 2015-03-13 | 2018-12-11 | 2019-09-30 |
 | 5725-G33 | 05.02.00 | 2013-10-08 | 2013-10-25 | 2018-12-11 | 2019-09-30 |
 | 5725-G33 | 05.01.00 | 2012-06-04 | 2012-06-15 | 2017-09-15 | 2017-09-30 |
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 5737-B34 IBM Storage Copy Data Management 2.2
+
+🔗 [https://www.ibm.com/docs/en/announcements/storage-copy-data-management-22](https://www.ibm.com/docs/en/announcements/storage-copy-data-management-22?region=AP)
+
+📅 2023-11-27T17:42:15Z
+
+| Program Number | VRM | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- | --- |
+| 5737-B34 | 02.02.20 | 2023-06-13 | 2023-06-16 | - | - |
+| 5737-B34 | 02.02.14 | 2021-12-07 | 2021-12-10 | - | - |
+| 5737-B34 | 02.02.12 | 2020-11-17 | 2020-11-20 | - | - |
+| 5737-B34 | 02.02.11 | 2020-06-09 | 2020-06-12 | - | - |
+| 5737-B34 | 02.02.07 | 2017-07-25 | 2017-07-25 | - | - |
+| 5737-B34 | 02.02.06 | 2017-05-09 | 2017-05-09 | - | - |
+| 5737-B34 | 02.02.05 | 2016-10-25 | 2016-10-28 | - | - |
 
 
 

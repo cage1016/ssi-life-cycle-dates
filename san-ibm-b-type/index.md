@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2023-11-28 00:06:28.099862103 +0800 CST
+content update: 2023-11-29 00:05:17.058908209 +0800 CST
 
 ---
 
@@ -87,7 +87,7 @@ content update: 2023-11-28 00:06:28.099862103 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6](https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6?region=AP)
 
-📅 2023-07-04
+📅 2023-11-27T18:41:25Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -110,7 +110,7 @@ content update: 2023-11-28 00:06:28.099862103 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san128b-6](https://www.ibm.com/docs/en/announcements/storage-networking-san128b-6?region=AP)
 
-📅 2023-07-04
+📅 2023-11-27T22:08:15Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -133,7 +133,7 @@ content update: 2023-11-28 00:06:28.099862103 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san18b-6](https://www.ibm.com/docs/en/announcements/storage-networking-san18b-6?region=AP)
 
-📅 2023-07-04
+📅 2023-11-27T22:30:23Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -155,7 +155,7 @@ content update: 2023-11-28 00:06:28.099862103 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san128b-6-2023-10-10](https://www.ibm.com/docs/en/announcements/storage-networking-san128b-6-2023-10-10?region=AP)
 
-📅 2023-10-10
+📅 2023-11-27T22:34:01Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -178,7 +178,7 @@ content update: 2023-11-28 00:06:28.099862103 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san64b-7](https://www.ibm.com/docs/en/announcements/storage-networking-san64b-7?region=AP)
 
-📅 2023-11-14
+📅 2023-11-27T22:38:27Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -201,7 +201,7 @@ content update: 2023-11-28 00:06:28.099862103 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6-2023-10-10](https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6-2023-10-10?region=AP)
 
-📅 2023-10-10
+📅 2023-11-27T22:45:20Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -224,7 +224,7 @@ content update: 2023-11-28 00:06:28.099862103 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san256b-6](https://www.ibm.com/docs/en/announcements/storage-networking-san256b-6?region=AP)
 
-📅 2023-09-12
+📅 2023-11-27T22:56:25Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -268,7 +268,7 @@ content update: 2023-11-28 00:06:28.099862103 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san256b-7](https://www.ibm.com/docs/en/announcements/storage-networking-san256b-7?region=AP)
 
-📅 2023-10-10
+📅 2023-11-27T23:08:00Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -290,7 +290,7 @@ content update: 2023-11-28 00:06:28.099862103 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san512b-7](https://www.ibm.com/docs/en/announcements/storage-networking-san512b-7?region=AP)
 
-📅 2023-10-10
+📅 2023-11-27T23:08:06Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -312,7 +312,7 @@ content update: 2023-11-28 00:06:28.099862103 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san24b-6](https://www.ibm.com/docs/en/announcements/storage-networking-san24b-6?region=AP)
 
-📅 2023-07-04
+📅 2023-11-27T23:35:11Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -334,7 +334,7 @@ content update: 2023-11-28 00:06:28.099862103 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san128b-7](https://www.ibm.com/docs/en/announcements/storage-networking-san128b-7?region=AP)
 
-📅 2023-10-10
+📅 2023-11-27T23:29:00Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
