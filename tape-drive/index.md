@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2023-11-29 00:05:17.058908209 +0800 CST
+content update: 2023-11-30 00:05:23.829750762 +0800 CST
 
 ---
 
@@ -166,7 +166,7 @@ content update: 2023-11-29 00:05:17.058908209 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts1080-tape-drive-model-f8c](https://www.ibm.com/docs/en/announcements/ts1080-tape-drive-model-f8c?region=AP)
 
-📅 2023-06-13
+📅 2023-11-28T06:03:19Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

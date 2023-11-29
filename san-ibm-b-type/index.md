@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2023-11-29 00:05:17.058908209 +0800 CST
+content update: 2023-11-30 00:05:23.829750762 +0800 CST
 
 ---
 
@@ -246,7 +246,7 @@ content update: 2023-11-29 00:05:17.058908209 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san512b-6](https://www.ibm.com/docs/en/announcements/storage-networking-san512b-6?region=AP)
 
-📅 2023-09-12
+📅 2023-11-27T22:57:27Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
