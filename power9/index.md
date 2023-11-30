@@ -1,6 +1,6 @@
 # Power9
 
-content update: 2023-11-30 00:05:23.829750762 +0800 CST
+content update: 2023-12-01 00:05:59.54085357 +0800 CST
 
 ---
 
@@ -59,7 +59,7 @@ content update: 2023-11-30 00:05:23.829750762 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-system-l922-9008-22l](https://www.ibm.com/docs/en/announcements/power-system-l922-9008-22l?region=AP)
 
-📅 2023-07-11
+📅 2023-11-30T00:46:19Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -103,7 +103,7 @@ content update: 2023-11-30 00:05:23.829750762 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-system-s924-9009-42a](https://www.ibm.com/docs/en/announcements/power-system-s924-9009-42a?region=AP)
 
-📅 2023-07-11
+📅 2023-11-30T00:46:04Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
