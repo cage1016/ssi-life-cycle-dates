@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2023-12-06 00:07:44.748438069 +0800 CST
+content update: 2023-12-07 00:07:17.798358085 +0800 CST
 
 ---
 
@@ -202,7 +202,7 @@ content update: 2023-12-06 00:07:44.748438069 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000](https://www.ibm.com/docs/en/announcements/storwize-v7000?region=AP)
 
-📅 2021-10-26
+📅 2023-12-05T16:30:38Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -227,7 +227,7 @@ content update: 2023-12-06 00:07:44.748438069 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000f](https://www.ibm.com/docs/en/announcements/storwize-v7000f?region=AP)
 
-📅 2023-07-11
+📅 2023-12-05T17:19:22Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -251,7 +251,7 @@ content update: 2023-12-06 00:07:44.748438069 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000-2023-07-11](https://www.ibm.com/docs/en/announcements/storwize-v7000-2023-07-11?region=AP)
 
-📅 2023-07-11
+📅 2023-12-05T18:35:21Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -274,7 +274,7 @@ content update: 2023-12-06 00:07:44.748438069 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000-2021-10-26-1](https://www.ibm.com/docs/en/announcements/storwize-v7000-2021-10-26-1?region=AP)
 
-📅 2021-10-26
+📅 2023-12-05T18:47:21Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -297,7 +297,7 @@ content update: 2023-12-06 00:07:44.748438069 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7200-2023-09-12](https://www.ibm.com/docs/en/announcements/flashsystem-7200-2023-09-12?region=AP)
 
-📅 2023-09-12
+📅 2023-12-05T19:02:53Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -349,7 +349,7 @@ content update: 2023-12-06 00:07:44.748438069 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-10-10](https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-10-10?region=AP)
 
-📅 2023-11-23T19:41:38Z
+📅 2023-12-05T20:33:22Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -375,7 +375,7 @@ content update: 2023-12-06 00:07:44.748438069 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5200-2023-10-24](https://www.ibm.com/docs/en/announcements/flashsystem-5200-2023-10-24?region=AP)
 
-📅 2023-11-23T20:14:05Z
+📅 2023-12-05T22:00:45Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
