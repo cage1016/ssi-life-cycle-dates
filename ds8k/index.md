@@ -1,6 +1,6 @@
 # DS8K
 
-content update: 2023-12-12 00:06:28.616626942 +0800 CST
+content update: 2023-12-13 00:05:35.589101476 +0800 CST
 
 ---
 
@@ -29,7 +29,7 @@ content update: 2023-12-12 00:06:28.616626942 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-models-993-994-996-e96](https://www.ibm.com/docs/en/announcements/ds8900f-models-993-994-996-e96?region=AP)
 
-📅 2023-12-05
+📅 2023-12-12
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -54,7 +54,7 @@ content update: 2023-12-12 00:06:28.616626942 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-model-998](https://www.ibm.com/docs/en/announcements/ds8900f-model-998?region=AP)
 
-📅 2023-12-05
+📅 2023-12-12
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -76,7 +76,7 @@ content update: 2023-12-12 00:06:28.616626942 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-models-993-994-996-e96-2023-01-10](https://www.ibm.com/docs/en/announcements/ds8900f-models-993-994-996-e96-2023-01-10?region=AP)
 
-📅 2023-01-10
+📅 2023-12-12
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -101,7 +101,7 @@ content update: 2023-12-12 00:06:28.616626942 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-model-998-2022-11-15](https://www.ibm.com/docs/en/announcements/ds8900f-model-998-2022-11-15?region=AP)
 
-📅 2022-11-15
+📅 2023-12-12
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -123,7 +123,7 @@ content update: 2023-12-12 00:06:28.616626942 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-models-993-994-996-e96-2023-01-10-1](https://www.ibm.com/docs/en/announcements/ds8900f-models-993-994-996-e96-2023-01-10-1?region=AP)
 
-📅 2023-01-10
+📅 2023-12-12
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -148,7 +148,7 @@ content update: 2023-12-12 00:06:28.616626942 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-model-998-2022-11-15-1](https://www.ibm.com/docs/en/announcements/ds8900f-model-998-2022-11-15-1?region=AP)
 
-📅 2022-11-15
+📅 2023-12-12
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -170,7 +170,7 @@ content update: 2023-12-12 00:06:28.616626942 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-models-993-994-996-e96-2023-01-10-2](https://www.ibm.com/docs/en/announcements/ds8900f-models-993-994-996-e96-2023-01-10-2?region=AP)
 
-📅 2023-01-10
+📅 2023-12-12
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -195,7 +195,7 @@ content update: 2023-12-12 00:06:28.616626942 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-model-998-2022-11-15-2](https://www.ibm.com/docs/en/announcements/ds8900f-model-998-2022-11-15-2?region=AP)
 
-📅 2022-11-15
+📅 2023-12-12
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -217,7 +217,7 @@ content update: 2023-12-12 00:06:28.616626942 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-1-yr-warranty-all-flash-systems-storage-expert-care](https://www.ibm.com/docs/en/announcements/ds8900f-1-yr-warranty-all-flash-systems-storage-expert-care?region=AP)
 
-📅 2023-11-22T01:17:34Z
+📅 2023-12-12
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

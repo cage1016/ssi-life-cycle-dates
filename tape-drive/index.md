@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2023-12-12 00:06:28.616626942 +0800 CST
+content update: 2023-12-13 00:05:35.589101476 +0800 CST
 
 ---
 
@@ -56,7 +56,7 @@ content update: 2023-12-12 00:06:28.616626942 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts2280-tape-drive-model-h8s](https://www.ibm.com/docs/en/announcements/ts2280-tape-drive-model-h8s?region=AP)
 
-📅 2023-07-11
+📅 2023-12-12
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -323,7 +323,7 @@ content update: 2023-12-12 00:06:28.616626942 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-7226-model-1u3-multi-media-enclosure](https://www.ibm.com/docs/en/announcements/system-storage-7226-model-1u3-multi-media-enclosure?region=AP)
 
-📅 2023-06-27
+📅 2023-12-12
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

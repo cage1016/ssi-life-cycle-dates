@@ -1,6 +1,6 @@
 # Elastic Storage Server
 
-content update: 2023-12-12 00:06:28.616626942 +0800 CST
+content update: 2023-12-13 00:05:35.589101476 +0800 CST
 
 ---
 
@@ -97,7 +97,7 @@ content update: 2023-12-12 00:06:28.616626942 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/elastic-storage-system-3500](https://www.ibm.com/docs/en/announcements/elastic-storage-system-3500?region=AP)
 
-📅 2023-11-22T18:14:18Z
+📅 2023-12-11T16:45:08Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
