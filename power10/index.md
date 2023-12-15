@@ -1,6 +1,6 @@
 # Power10
 
-content update: 2023-12-15 00:05:05.863476911 +0800 CST
+content update: 2023-12-16 00:04:49.819302153 +0800 CST
 
 ---
 
@@ -50,7 +50,7 @@ content update: 2023-12-15 00:05:05.863476911 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-e1080-enterprise-server](https://www.ibm.com/docs/en/announcements/power-e1080-enterprise-server?region=AP)
 
-📅 2023-12-05T18:03:35Z
+📅 2023-12-14T18:03:29Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
