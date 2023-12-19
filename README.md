@@ -2,7 +2,7 @@
 
 [![SSI Crawling](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml/badge.svg)](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml)
 
-update: 2023-12-19 00:05:32.085370957 +0800 CST
+update: 2023-12-19 22:58:50.700207627 +0800 CST
 
 
 
@@ -49,6 +49,9 @@ update: 2023-12-19 00:05:32.085370957 +0800 CST
 
 
 - [SAN - IBM b-type](san-ibm-b-type/index.md)
+
+
+- [SAN - IBM c-type](san-ibm-c-type/index.md)
 
 
 - [Spectrum Software](spectrum-software/index.md)
