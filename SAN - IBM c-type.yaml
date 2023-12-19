@@ -2,10 +2,11 @@ displayName: SAN - IBM c-type
 category: Storage
 enabled: true
 models:
-    - SAN96C-6
-    - SAN50C-R
-    - SAN32C-6
-    - SAN48C-6
-    - SAN192C-6
-    - SAN384C-6
-    - SAN768C-6
+    - 8977-T96
+    - 8977-R50
+    - 8977-T32
+    - 9024-V48
+    - 8977-T48
+    - 8978-E04
+    - 8978-E08
+    - 8978-E16
