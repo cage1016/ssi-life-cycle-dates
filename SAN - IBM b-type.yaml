@@ -2,32 +2,85 @@ displayName: SAN - IBM b-type
 category: Storage
 enabled: true
 models:
-    - 2498-R42
-    - 2498-F96
-    - 8960-F64
-    - 8960-N64
-    - 8960-F65
-    - 8960-N65
-    - 8960-F96
-    - 8960-N96
-    - 8960-F97
-    - 8960-N97
-    - 8960-R18
-    - 8960-P64
-    - 8960-R64
-    - 8969-F24
-    - 8969-P96
-    - 8969-R96
-    - 8961-F04
-    - 8961-F74
-    - 8961-F08
-    - 8961-F78
-    - 9239-B01
-    - 9239-E01
-    - 9239-G01
-    - 9240-B03
-    - 9240-E03
-    - 9240-G03
-    - 9241-B05
-    - 9241-E05
-    - 9241-G05
+    - 2005-B16, IBM TotalStorage SAN16B-2 (Withdrawn)
+    - 2005-B32, IBM TotalStorage SAN32B-2 (Withdrawn)
+    - 2005-B5K, IBM TotalStorage SAN32B-3 (Withdrawn)
+    - 2005-B64, IBM System Storage SAN64B-2 (Withdrawn)
+    - 2005-H08, IBM TotalStorage SAN Switch - 8 Port (Withdrawn)
+    - 2005-H16, IBM TotalStorage SAN Switch - 16 Port (Withdrawn)
+    - 2005-R04, IBM System Storage SAN04B-R (Withdrawn)
+    - 2005-R18, IBM System Storage SAN18B-R (Withdrawn)
+    - 2026-224, IBM TotalStorage SAN24M1 Mid-Range Switch (Withdrawn)
+    - 2026-416, IBM TotalStorage SAN16M-2 Entry-Level Switch (Withdrawn)
+    - 2026-432, IBM TotalStorage SAN32M-2 Mid-Range Switch (Withdrawn)
+    - 2026-E12, IBM TotalStorage SAN12M1 Entry Switch (Withdrawn)
+    - 2027-140, IBM TotalStorage SAN140M (Withdrawn)
+    - 2027-232, IBM TotalStorage SAN32M1 (Withdrawn)
+    - 2027-256, IBM TotalStorage SAN256M (Withdrawn)
+    - 2027-C40, IBM TotalStorage SANC40M 40U Cabinet (Withdrawn)
+    - 2027-R04, IBM TotalStorage SAN04M-R (Withdrawn)
+    - 2027-R16, IBM TotalStorage SAN16M-R (Withdrawn)
+    - 2045-C40, IBM TotalStorage SANC40N 40U Cabinet (Withdrawn)
+    - 2045-N16, IBM TotalStorage SAN256N Director (Withdrawn)
+    - 2108-G07, IBM SAN Network Data Gateway (Withdrawn)
+    - 2108-R03, IBM SAN Data Gateway Router (Withdrawn)
+    - 2108-S20, IBM SAN Data Gateway (Withdrawn)
+    - 2109-A16, IBM TotalStorage SAN16B-R (Withdrawn)
+    - 2109-F16, IBM SAN Switch Model F16 - 16 Port (Withdrawn)
+    - 2109-F32, IBM TotalStorage SAN Switch Model F32 - 32 Port (Withdrawn)
+    - 2109-M12, IBM TotalStorage SAN Switch - 128 Port (Withdrawn)
+    - 2109-M14, IBM TotalStorage SAN Switch - 128 Port (Withdrawn)
+    - 2109-M48, IBM TotalStorage SAN256B - 256 Port Fabric Switch (Withdrawn)
+    - 2109-S08, IBM SAN Fibre Channel Switch - 8 Port (Withdrawn)
+    - 2109-S16, IBM SAN Fibre Channel Switch - 16 Port (Withdrawn)
+    - 2498-B24, IBM System Storage SAN24B-4 8Gbps b-type Switch (Withdrawn)
+    - 2498-B40, IBM System Storage SAN40B-4 8Gbps b-type Switch (Withdrawn)
+    - 2498-B80, IBM System Storage SAN80B-4 8Gbps b-type Switch (Withdrawn)
+    - 2498-E32, IBM System Storage SAN32B-E4 - Encryption Switch (Withdrawn)
+    - 2498-F24, IBM System Networking SAN24B-5 (Withdrawn)
+    - 2498-F48, IBM System Storage SAN48B-5 - 16 Gbps 48-port FC Switch (Withdrawn)
+    - 2498-F96, IBM System Networking SAN96B-5 (Front/port-side exhaust) (Withdrawn)
+    - 2498-N96, IBM System Networking SAN96B-5 (Rear/nonport-side exhaust) (Withdrawn)
+    - 2498-R06, IBM System Storage SAN06B-R - 8 Gbps Extension Switch (Withdrawn)
+    - 2498-R42, IBM System Storage SAN42B-R (Withdrawn)
+    - 2498-X24, IBM System Networking SAN24B-5 (Withdrawn)
+    - 2499-192, IBM System Storage SAN384B - 8 Gbps 192-port Director (Withdrawn)
+    - 2499-384, IBM System Storage SAN768B - 8 Gbps 384-port Director (Withdrawn)
+    - 2499-416, IBM System Storage SAN384B-2 - 16 Gbps 192-port Director (Withdrawn)
+    - 2499-816, IBM System Storage SAN768B-2 - 16 Gbps 384-port Director (Withdrawn)
+    - 3534-1RU, IBM SAN Fibre Channel Managed Hub (Withdrawn)
+    - 3534-F08, IBM TotalStorage SAN Switch - 8 Port (Withdrawn)
+    - 3758-B32, IBM Converged Switch B32 (Withdrawn)
+    - 3758-L32, IBM Converged Switch B32 (Withdrawn)
+    - 3759-C32, Brocade VDX6730-32 Converged Switch for IBM (Withdrawn)
+    - 3759-C76, Brocade VDX6730-76 Converged Switch for IBM (Withdrawn)
+    - 7140-160 IBM TotalStorage SAN Controller (Withdrawn)
+    - 8960-F24, IBM Storage Networking SAN24B-6 (Withdrawn)
+    - 8960-F64, IBM System Networking SAN64B-6 (Front/port-side exhaust) (Withdrawn)
+    - 8960-F65, IBM Storage Networking SAN64B-6 (Front/port-side exhaust)
+    - 8960-F96, IBM Storage Networking SAN128B-6 (Front/port-side exhaust) (Withdrawn)
+    - 8960-F97, IBM Storage Networking SAN128B-6 (Front/port-side exhaust)
+    - 8960-N64, IBM System Networking SAN64B-6 (Rear/nonport-side exhaust) (Withdrawn)
+    - 8960-N65, IBM Storage Networking SAN64B-6 (Rear/nonport-side exhaust)
+    - 8960-N96, IBM Storage Networking SAN128B-6 (Rear/nonport-side exhaust) (Withdrawn)
+    - 8960-N97, IBM Storage Networking SAN128B-6 (Rear/nonport-side exhaust)
+    - 8960-P64, IBM Storage Networking SAN64B-7
+    - 8960-R18, IBM Storage Networking SAN18B-6
+    - 8960-R64, IBM Storage Networking SAN64B-7
+    - 8961-F04, IBM Storage Networking SAN256B-6 Director (Withdrawn)
+    - 8961-F08, IBM Storage Networking SAN512B-6 Director (Withdrawn)
+    - 8961-F74, IBM Storage Networking SAN256B-7 Director
+    - 8961-F78, IBM Storage Networking SAN512B-7 Director
+    - 8969-F24, IBM Storage Networking SAN24B-6
+    - 8969-P96, IBM Storage Networking SAN128B-7
+    - 8969-R42, IBM Storage Networking SAN42B-R7
+    - 8969-R96, IBM Storage Networking SAN128B-7
+    - 9239-B01 IBM SANnav Management Portal Base Edition, 1 Year Subscription
+    - 9239-E01 IBM SANnav Management Portal Enterprise Edition, 1 Year Subscription
+    - 9239-G01 IBM SANnav Global View, 1 Year Subscription
+    - 9240-B03 IBM SANnav Management Portal Base Edition, 3 Year Subscription
+    - 9240-E03 IBM SANnav Management Portal Enterprise Edition, 3 Year Subscription
+    - 9240-G03 IBM SANnav Global View, 3 Year Subscription
+    - 9241-B05 IBM SANnav Management Portal Base Edition, 5 Year Subscription
+    - 9241-E05 IBM SANnav Management Portal Enterprise Edition, 5 Year Subscription
+    - 9241-G05 IBM SANnav Global View, 5 Year Subscription
