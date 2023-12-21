@@ -2,11 +2,12 @@ displayName: SAN - IBM c-type
 category: Storage
 enabled: true
 models:
-    - 8977-T96
-    - 8977-R50
-    - 8977-T32
-    - 9024-V48
-    - 8977-T48
-    - 8978-E04
-    - 8978-E08
-    - 8978-E16
+    - 8977-R50, IBM Storage Networking SAN50C-R (Withdrawn)
+    - 8978-E04, IBM Storage Networking SAN192C-6
+    - 8978-E08, IBM Storage Networking SAN384C-6
+    - 8977-R16, IBM Storage Networking SAN16C-R
+    - 8977-T32, IBM Storage Networking SAN32C-6
+    - 8978-E16, IBM Storage Networking SAN768C-6
+    - 8977-T48, IBM Storage Networking SAN48C-6
+    - 8977-T96, IBM Storage Networking SAN96C-6
+    - 9024-V48, IBM Storage Networking SAN48C-7
