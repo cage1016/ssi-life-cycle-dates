@@ -1,0 +1,10 @@
+displayName: IBM Storage Ready Nodes
+category: Storage
+enabled: true
+models:
+  - 4616-A1D Accesser 650 for IBM Cloud Object Storage
+  - 4616-C1D Controller 650 for IBM Cloud Object Storage
+  - 4616-M1D Manager 650 for IBM Cloud Object Storage
+  - 4616-S2D Slicestor 750 for IBM Cloud Object Storage
+  - 4616-X2D IBM Storage Ready Node for IBM Storage Ceph R750
+  - 4616-Y2D Storage Ready Node for IBM Storage Defender Data Protect R750
