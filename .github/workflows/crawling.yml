@@ -18,10 +18,13 @@ jobs:
       - name: Run SSI Crawling
         uses: addnab/docker-run-action@v3
         with:
-          image: ghcr.io/cage1016/ssi-crawling:0.2.2
+          image: ghcr.io/cage1016/ssi-crawling:0.2.3
           options: >
             --user root
-            --env NUM_WORKERS=30
+            --env NUM_WORKERS=50
+            --env INTERVAL_BASE=10
+            --env INTERVAL_RANDOMIZATION=30
+            --env MAX_RETRIES=2
             -v ${{ github.workspace }}:/tmp/:rw
             -w /tmp
           run: /layers/google.go.build/bin/main crawling -t Asia/Taipei
