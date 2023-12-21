@@ -1,6 +1,6 @@
 # Power10
 
-content update: 2023-12-21 15:04:16.021766345 +0800 CST
+content update: 2023-12-21 17:15:01.618509374 +0800 CST
 
 ---
 
@@ -38,6 +38,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 
 
 
+
 [↑ Back to top](#table-of-contents)
 
 ---
@@ -55,6 +56,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9080-HEX | 2021-09-08 | 2021-09-17 | - | - |
+
 
 
 
@@ -82,6 +84,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 
 
 
+
 [↑ Back to top](#table-of-contents)
 
 ---
@@ -99,6 +102,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9105-42A | 2022-07-12 | 2022-07-22 | - | - |
+
 
 
 
@@ -126,6 +130,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 
 
 
+
 [↑ Back to top](#table-of-contents)
 
 ---
@@ -143,6 +148,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9105-41B | 2022-07-12 | 2022-07-22 | - | - |
+
 
 > Note: Announcement date of
 October 28, 2022, for MTM 9105-41B (Rack and Tower) in China only.
@@ -171,6 +177,7 @@ October 28, 2022, for MTM 9105-41B (Rack and Tower) in China only.
 
 
 
+
 [↑ Back to top](#table-of-contents)
 
 ---
@@ -188,6 +195,7 @@ October 28, 2022, for MTM 9105-41B (Rack and Tower) in China only.
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9786-42H | 2022-07-12 | 2022-07-22 | - | - |
+
 
 
 

@@ -1,6 +1,6 @@
 # Power9
 
-content update: 2023-12-21 15:04:16.021766345 +0800 CST
+content update: 2023-12-21 17:15:01.618509374 +0800 CST
 
 ---
 
@@ -37,11 +37,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 8335-GTH | 2018-05-08 | 2018-05-25 | 2023-08-09 | - |
-| 8335-GTH | 2018-05-08 | 2018-05-25 | 2023-08-09 | - |
-| 8335-GTH | 2018-05-08 | 2018-05-25 | 2023-08-09 | - |
-| 8335-GTH | 2018-05-08 | 2018-05-25 | 2023-08-09 | - |
-| 8335-GTH | 2018-05-08 | 2018-05-25 | 2022-12-16 | - |
-| 8335-GTH | 2018-05-08 | 2018-05-25 | 2023-08-09 | - |
+
 
 
 
@@ -69,6 +65,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 
 
 
+
 [↑ Back to top](#table-of-contents)
 
 ---
@@ -86,6 +83,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9009-22A | 2018-02-13 | 2018-03-20 | 2021-01-29 | - |
+
 
 
 
@@ -113,6 +111,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 
 
 
+
 [↑ Back to top](#table-of-contents)
 
 ---
@@ -130,6 +129,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9009-41A | 2018-02-13 | 2018-03-20 | 2021-01-29 | - |
+
 
 
 
@@ -157,6 +157,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 
 
 
+
 [↑ Back to top](#table-of-contents)
 
 ---
@@ -174,6 +175,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9009-41G | 2020-07-14 | 2020-07-24 | 2023-10-20 | - |
+
 
 
 
@@ -201,6 +203,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 
 
 
+
 [↑ Back to top](#table-of-contents)
 
 ---
@@ -218,11 +221,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9040-MR9 | 2018-08-07 | 2018-08-17 | 2023-10-20 | - |
-| 9040-MR9 | 2018-08-07 | 2018-08-17 | 2023-10-20 | - |
-| 9040-MR9 | 2018-08-07 | 2018-08-17 | 2023-10-20 | - |
-| 9040-MR9 | 2018-08-07 | 2018-08-17 | 2023-10-20 | - |
-| 9040-MR9 | 2018-08-07 | 2018-08-17 | 2022-11-30 | - |
-| 9040-MR9 | 2018-08-07 | 2018-08-17 | 2023-10-20 | - |
+
 
 
 
@@ -250,6 +249,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 
 
 
+
 [↑ Back to top](#table-of-contents)
 
 ---
@@ -272,6 +272,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 
 
 
+
 [↑ Back to top](#table-of-contents)
 
 ---
@@ -289,6 +290,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9223-42S | 2020-10-06 | 2020-11-20 | 2023-10-20 | - |
+
 
 
 

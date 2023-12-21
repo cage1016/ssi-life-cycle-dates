@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2023-12-21 15:04:16.021766345 +0800 CST
+content update: 2023-12-21 17:15:01.618509374 +0800 CST
 
 ---
 
@@ -44,6 +44,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 
 
 
+
 [↑ Back to top](#table-of-contents)
 
 ---
@@ -61,6 +62,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3580-H8S | 2017-10-10 | 2017-11-17 | - | - |
+
 
 
 
@@ -88,6 +90,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 
 
 
+
 [↑ Back to top](#table-of-contents)
 
 ---
@@ -105,6 +108,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3588-F7C | 2015-10-06 | 2015-11-20 | 2023-12-31 | - |
+
 
 
 
@@ -132,6 +136,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 
 
 
+
 [↑ Back to top](#table-of-contents)
 
 ---
@@ -149,6 +154,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3588-F8A | 2017-10-10 | 2017-11-17 | 2023-06-30 | - |
+
 
 
 
@@ -176,6 +182,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 
 
 
+
 [↑ Back to top](#table-of-contents)
 
 ---
@@ -193,6 +200,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3588-F8S | 2018-11-20 | 2018-12-07 | 2023-12-31 | - |
+
 
 
 
@@ -222,6 +230,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 
 
 
+
 [↑ Back to top](#table-of-contents)
 
 ---
@@ -240,6 +249,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 | --- | --- | --- | --- | --- |
 | 3592-EH8 | 2014-10-06 | 2014-11-21 | 2022-12-31 | - |
 | 3592-E08 | 2014-10-06 | 2014-10-24 | 2022-12-31 | - |
+
 
 
 
@@ -267,6 +277,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 
 
 
+
 [↑ Back to top](#table-of-contents)
 
 ---
@@ -284,6 +295,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3592-60G | 2018-11-20 | 2018-12-07 | 2023-06-30 | - |
+
 
 
 
@@ -311,6 +323,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 
 
 
+
 [↑ Back to top](#table-of-contents)
 
 ---
@@ -328,6 +341,7 @@ content update: 2023-12-21 15:04:16.021766345 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7226-1U3 | 2012-02-28 | 2012-03-09 | - | - |
+
 
 
 
