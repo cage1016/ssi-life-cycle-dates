@@ -2,59 +2,100 @@ displayName: FlashSystem
 category: Storage
 enabled: true
 models:
-    - 2072-12G
-    - 2072-24G
-    - 2072-2N2
-    - 2072-2N4
-    - 2072-3N2
-    - 2072-3N4
-    - 2072-92G
-    - 2076-112
-    - 2076-124
-    - 2076-12F
-    - 2076-12G
-    - 2076-212
-    - 2076-224
-    - 2076-24F
-    - 2076-24G
-    - 2076-312
-    - 2076-324
-    - 2076-524
-    - 2076-624
-    - 2076-724
-    - 2076-824
-    - 2076-92F
-    - 2076-92G
-    - 2076-A9F
-    - 2076-AF6
-    - 2076-AFF
-    - 2076-U7A
-    - 2076-U7B
-    - 2076-U7C
-    - 4657-12G
-    - 4657-24G
-    - 4657-924
-    - 4657-92G
-    - 4657-U7D
-    - 4662-12G
-    - 4662-24G
-    - 4662-6H2
-    - 4662-92G
-    - 4662-UH6
-    - 4664-12G
-    - 4664-24G
-    - 4664-92G
-    - 4666-A9F
-    - 4666-AFF
-    - 4666-AH8
-    - 4666-UH8
-    - 9745-FS5
-    - 9745-FS7
-    - 9745-FS9
-    - 4680-2P2
-    - 4680-2P4
-    - 4680-3P2
-    - 4680-3P4
-    - 4680-12H
-    - 4680-24H
-    - 4680-92H
+    - 2072-2H2 FlashSystem 5010 LFF Control Enclosure (Withdrawn)
+    - 2072-2H4 FlashSystem 5010 SFF Control Enclosure (Withdrawn)
+    - 2072-2N2 FlashSystem 5015 LFF Control Enclosure
+    - 2072-2N4 FlashSystem 5015 SFF Control Enclosure
+    - 2072-3H2 FlashSystem 5030 LFF Control Enclosure (Withdrawn)
+    - 2072-3H4 FlashSystem 5030 SFF Control Enclosure (Withdrawn)
+    - 2072-3N2 FlashSystem 5035 LFF Control Enclosure
+    - 2072-3N4 FlashSystem 5035 SFF Control Enclosure
+    - 2076-12G FlashSystem V7000 LFF Disk Expansion Enclosure
+    - 2076-24G FlashSystem V7000 SFF Disk Expansion Enclosure
+    - 2076-824 IBM FlashSystem 7200 NVMe Control Enclosure (Withdrawn)
+    - 2076-92G FlashSystem 7000 HD LFF Expansion Enclosure
+    - 2077-4H4 FlashSystem 5100 NVMe Control Enclosure (Withdrawn)
+    - 2078-4H4 FlashSystem 5100 NVMe Control Enclosure (Withdrawn)
+    - 2078-UHB FlashSystem 5100 Utility NVMe Control Enclosure (Withdrawn)
+    - 4657-924 IBM FlashSystem 7300 NVMe Control Enclosure
+    - 4657-U7D IBM FlashSystem 7300 Utility Model NVMe Control Enclosure
+    - 4662-6H2 IBM FlashSystem 5200 NVMe Control Enclosure
+    - 4662-UH6 IBM FlashSystem 5200 Utility NVMe Control Enclosure
+    - 4664-12G IBM FlashSystem 7000 LFF Expansion Enclosure (Expert Care)
+    - 4664-24G IBM FlashSystem 7000 SFF Expansion Enclosure (Expert Care)
+    - 4664-824 IBM FlashSystem 7200 NVMe Control Enclosure (Expert Care) (Withdrawn)
+    - 4664-92G IBM FlashSystem 7000 High Density LFF Expansion Enclosure (Expert Care)
+    - 4664-U7C IBM FlashSystem 7200 Utility Model NVMe Control Enclosure (Expert Care) (Withdrawn)
+    - 4666-AG8 IBM FlashSystem 9200 SFF NVMe Control Enclosure (Expert Care) (Withdrawn)
+    - 4666-AG8 IBM FlashSystem 9202R (Expert Care) Rack Solution (Withdrawn)
+    - 4666-AG8 IBM FlashSystem 9203R (Expert Care) Rack Solution (Withdrawn)
+    - 4666-AG8 IBM FlashSystem 9204R (Expert Care) Rack Solution (Withdrawn)
+    - 4666-UG8 IBM FlashSystem 9200 Utility Model SFF NVMe Control Enclosure (Expert Care) (Withdrawn)
+    - 4680-2P2 IBM Storage FlashSystem 5015 LFF Control Enclosure
+    - 4680-2P4 IBM Storage FlashSystem 5015 SFF Control Enclosure
+    - 4680-3P2 IBM Storage FlashSystem 5045 LFF Control Enclosure
+    - 4680-3P4 IBM Storage FlashSystem 5045 SFF Control Enclosure
+    - 4983-AH8 IBM FlashSystem 9500 SFF NVMe Control Enclosure
+    - 4983-AH8 IBM FlashSystem 9500R Rack Solution
+    - 9745-FS5 Pseudo MTM for Utility Model variable use billing for FS5x00
+    - 9745-FS7 Pseudo MTM for Utility Model variable use billing for FS7x00
+    - 9745-FS9 Pseudo MTM for Utility Model variable use billing for FS9x00
+    - 9830-AE1 IBM FlashSystem 810 (Withdrawn)
+    - 9830-AS1 IBM FlashSystem 710 (Withdrawn)
+    - 9831-AE2 IBM FlashSystem 820 (Withdrawn)
+    - 9831-AS2 IBM FlashSystem 720 (Withdrawn)
+    - 9835-415 IBM FlashSystem A9000R (1 yr warranty) (Withdrawn)
+    - 9835-425 IBM FlashSystem A9000R (1 yr warranty) (Withdrawn)
+    - 9836-415 IBM FlashSystem A9000 (1 yr warranty) (Withdrawn)
+    - 9836-425 IBM FlashSystem A9000 (1 yr warranty) (Withdrawn)
+    - 9837-415 IBM FlashSystem A9000R (3 yr warranty) (Withdrawn)
+    - 9837-425 IBM FlashSystem A9000R (3 yr warranty) (Withdrawn)
+    - 9837-U25 IBM FlashSystem A9000R Utility Model (3 yr warranty) (Withdrawn)
+    - 9838-415 IBM FlashSystem A9000 (3 yr warranty) (Withdrawn)
+    - 9838-425 IBM FlashSystem A9000 (3 yr warranty) (Withdrawn)
+    - 9838-U25 IBM FlashSystem A9000 Utility Model (3 yr warranty) (Withdrawn)
+    - 9840-AE1 IBM FlashSystem 840 (1 yr warranty) (Withdrawn)
+    - 9840-AE2 IBM FlashSystem 900 (1 yr warranty) (Withdrawn)
+    - 9840-AE3 IBM FlashSystem 900 (1 yr warranty) (Withdrawn)
+    - 9843-AE1 IBM FlashSystem 840 (3 yr warranty) (Withdrawn)
+    - 9843-AE2 IBM FlashSystem 900 (3 yr warranty) (Withdrawn)
+    - 9843-AE3 IBM FlashSystem 900 (3 yr warranty) (Withdrawn)
+    - 9843-UF3 IBM FlashSystem 900 Utility Model (3 yr warranty) (Withdrawn)
+    - 9846-12F IBM FlashSystem V9000 LFF Expansion Enclosure (1 yr warranty) (Withdrawn)
+    - 9846-24F IBM FlashSystem V9000 SFF Expansion Enclosure (1 yr warranty) (Withdrawn)
+    - 9846-92F IBM FlashSystem V9000 HD Expansion Enclosure (1 yr warranty) (Withdrawn)
+    - 9846-A9F IBM FlashSystem 9000 High Density LFF Expansion Enclosure (1 year warranty) (Withdrawn)
+    - 9846-AC3 IBM FlashSystem V9000 Control Enclosure (1 yr warranty) (Withdrawn)
+    - 9846-AE1 IBM FlashSystem V840 Storage Enclosure (1 yr warranty) (Withdrawn)
+    - 9846-AE2 IBM FlashSystem V9000 Storage Enclosure (1 yr warranty) (Withdrawn)
+    - 9846-AE3 IBM FlashSystem V9000 Storage Enclosure (1 yr warranty) (Withdrawn)
+    - 9846-AF7 IBM FlashSystem 9110 SFF NVMe Control Enclosure (1 year warranty) (Withdrawn)
+    - 9846-AF8 IBM FlashSystem 9150 SFF NVMe Control Enclosure (1 yr warranty) (Withdrawn)
+    - 9846-AF8 IBM FlashSystem 9152 SFF NVMe Control Enclosure (1 yr warranty) (withdrawn)
+    - 9846-AFF IBM FlashSystem 9000 SFF Expansion Enclosure (1 year warranty) (Withdrawn)
+    - 9846-AG8 IBM FlashSystem 9200 SFF NVMe Control Enclosure (1 year warranty) (Withdrawn)
+    - 9847-IF1 IBM DeepFlash 150 IF1 1Yr (128 TB) (Withdrawn)
+    - 9847-IF2 IBM DeepFlash 150 IF2 1Yr (256 TB) (Withdrawn)
+    - 9847-IF3 IBM DeepFlash 150 IF3 1Yr (512 TB) (Withdrawn)
+    - 9848-12F IBM FlashSystem V9000 LFF Expansion Enclosure (3 yr warranty) (Withdrawn)
+    - 9848-24F IBM FlashSystem V9000 SFF Expansion Enclosure (3 yr warranty) (Withdrawn)
+    - 9848-92F IBM FlashSystem V9000 HD Expansion Enclosure (3 yr warranty) (Withdrawn)
+    - 9848-A9F IBM FlashSystem 9000 High Density LFF Expansion Enclosure (3 yr warranty) (Withdrawn)
+    - 9848-AC3 IBM FlashSystem V9000 Control Enclosure (3 yr warranty) (Withdrawn)
+    - 9848-AE1 IBM FlashSystem V840 Storage Enclosure (3 yr warranty) (Withdrawn)
+    - 9848-AE2 IBM FlashSystem V9000 Storage Enclosure (3 yr warranty) (Withdrawn)
+    - 9848-AE3 IBM FlashSystem V9000 Storage Enclosure (3 yr warranty) (Withdrawn)
+    - 9848-AF7 IBM FlashSystem 9110 SFF NVMe Control Enclosure (3 yr warranty) (Withdrawn)
+    - 9848-AF8 IBM FlashSystem 9150 SFF NVMe Control Enclosure (3 yr warranty) (Withdrawn)
+    - 9848-AF8 IBM FlashSystem 9152 SFF NVMe Control Enclosure (3 yr warranty) (withdrawn)
+    - 9848-AFF IBM FlashSystem 9000 SFF Expansion Enclosure (3 yr warranty) (Withdrawn)
+    - 9848-AG8 IBM FlashSystem 9200 SFF NVMe Control Enclosure (3 yr warranty) (Withdrawn)
+    - 9848-AG8 IBM FlashSystem 9202R (3 year) Rack Solution (Withdrawn)
+    - 9848-AG8 IBM FlashSystem 9203R (3 year) Rack Solution (Withdrawn)
+    - 9848-AG8 IBM FlashSystem 9204R (3 year) Rack Solution (Withdrawn)
+    - 9848-UF7 IBM FlashSystem 9110 Utility Model SFF NVMe Control Enclosure (3 yr warranty) (Withdrawn)
+    - 9848-UF8 IBM FlashSystem 9150 Utility Model SFF NVMe Control Enclosure (3 yr warranty) (Withdrawn)
+    - 9848-UG8 IBM FlashSystem 9200 Utility Model SFF NVMe Control Enclosure (3 yr warranty) (Withdrawn)
+    - 9849-IF1 IBM DeepFlash 150 IF1 3Yr (128 TB) (Withdrawn)
+    - 9849-IF2 IBM DeepFlash 150 IF2 3Yr (256 TB) (Withdrawn)
+    - 9849-IF3 IBM DeepFlash 150 IF3 3Yr (512 TB) (Withdrawn)
