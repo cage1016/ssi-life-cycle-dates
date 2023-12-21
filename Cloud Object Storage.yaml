@@ -2,5 +2,23 @@ displayName: Cloud Object Storage
 category: Storage
 enabled: true
 models:
-  - 3401-A02
-  - 3403-A02
+  - 3401-A00 IBM Cloud Object Storage Accesser 3105 (Withdrawn)
+  - 3401-A01 IBM Cloud Object Storage Accesser 4105 (Withdrawn)
+  - 3401-A02 IBM Cloud Object Storage SMC T5100
+  - 3401-M00 IBM Cloud Object Storage Manager 2105 (Withdrawn)
+  - 3401-M01 IBM Cloud Object Storage Manager 3105 (Withdrawn)
+  - 3401-S00 IBM Cloud Object Storage Slicestor 2212 (Withdrawn)
+  - 3401-S01 IBM Cloud Object Storage Slicestor 2448 (Withdrawn)
+  - 3401-S02 IBM Cloud Object Storage Slicestor 3448 (Withdrawn)
+  - 3401-S03 IBM Cloud Object Storage Slicestor 2584 (Withdrawn)
+  - 3401-S10 IBM Cloud Object Storage Slicestor S2212A (Withdrawn)
+  - 3403-A00 IBM Cloud Object Storage Accesser 3105 (Withdrawn)
+  - 3403-A01 IBM Cloud Object Storage Accesser 4105 (Withdrawn)
+  - 3403-A02 IBM Cloud Object Storage SMC T5100
+  - 3403-M00 IBM Cloud Object Storage Manager 2105 (Withdrawn)
+  - 3403-M01 IBM Cloud Object Storage Manager 3105 * (Withdrawn)
+  - 3403-S00 IBM Cloud Object Storage Slicestor 2212 (Withdrawn)
+  - 3403-S01 IBM Cloud Object Storage Slicestor 2448 (Withdrawn)
+  - 3403-S02 IBM Cloud Object Storage Slicestor 3448 (Withdrawn)
+  - 3403-S03 IBM Cloud Object Storage Slicestor 2584 (Withdrawn)
+  - 3403-S10 IBM Cloud Object Storage Slicestor S2212A (Withdrawn)
