@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2023-12-22 00:04:51.159273279 +0800 CST
+content update: 2023-12-23 00:04:52.606706499 +0800 CST
 
 ---
 
@@ -17,6 +17,7 @@ content update: 2023-12-22 00:04:51.159273279 +0800 CST
 - [Family 3599+01 IBM Tape Cartridges 3592](#family-359901-ibm-tape-cartridges-3592)
 - [Family 3599+02 IBM Tape Cart 3592](#family-359902-ibm-tape-cart-3592)
 - [Family 3599+03 IBM Tape Cartridge 3592](#family-359903-ibm-tape-cartridge-3592)
+- [3599-017 IBM 3592 Enterprise Tape Cartridge (Cleaning) Model 017](#3599-017-ibm-3592-enterprise-tape-cartridge-cleaning-model-017)
 
 ---
 
@@ -271,6 +272,29 @@ content update: 2023-12-22 00:04:51.159273279 +0800 CST
 | 3599-436 | 2019-01-08 | 2019-01-18 | - | - |
 | 3599-526 | 2019-01-08 | 2019-01-18 | - | - |
 | 3599-536 | 2019-01-08 | 2019-01-18 | - | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3599-017 IBM 3592 Enterprise Tape Cartridge (Cleaning) Model 017
+
+🔗 [https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-cartridge-cleaning-model-017](https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-cartridge-cleaning-model-017?region=AP)
+
+📅 2023-11-27T17:20:39Z
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3599-017 | 2003-09-09 | 2003-12-12 | - | - |
 
 
 

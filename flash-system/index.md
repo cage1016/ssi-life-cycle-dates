@@ -1,35 +1,91 @@
 # FlashSystem
 
-content update: 2023-12-22 00:04:51.159273279 +0800 CST
+content update: 2023-12-23 00:04:52.606706499 +0800 CST
 
 ---
 
 ### Table of contents
 
 
+- [Family 2072+05 IBM FlashSystem 5000](#family-207205-ibm-flashsystem-5000)
+- [Family 2072+06 IBM FlashSystem 5015 and 5035](#family-207206-ibm-flashsystem-5015-and-5035)
 - [Family 2072+06 IBM FlashSystem 5015 and 5035](#family-207206-ibm-flashsystem-5015-and-5035)
 - [Family 2076+07 IBM FlashSystem 7200](#family-207607-ibm-flashsystem-7200)
+- [Family 2078+05 IBM FlashSystem 5100](#family-207805-ibm-flashsystem-5100)
 - [Family 4657+01 IBM FlashSystem 7300](#family-465701-ibm-flashsystem-7300)
+- [Family 4662+01 IBM FlashSystem 5200](#family-466201-ibm-flashsystem-5200)
 - [Family 4664+01 IBM FlashSystem 7200 with Expert Care](#family-466401-ibm-flashsystem-7200-with-expert-care)
 - [Family 4666+01 IBM FlashSystem 9200 with Expert Care](#family-466601-ibm-flashsystem-9200-with-expert-care)
 - [Family 4680+01 IBM FlashSystem 5015 and FlashSystem 5045](#family-468001-ibm-flashsystem-5015-and-flashsystem-5045)
 - [Family 4983+01 IBM FlashSystem 9500 with License Machine Code](#family-498301-ibm-flashsystem-9500-with-license-machine-code)
-- [Family 9835+02 IBM FlashSystem A9000R](#family-983502-ibm-flashsystem-a9000r)
-- [Family 9836+02 IBM FlashSystem A9000](#family-983602-ibm-flashsystem-a9000)
+- [Family 9745+01 IBM FlashSystem Utility models Variable Use billing](#family-974501-ibm-flashsystem-utility-models-variable-use-billing)
+- [Family 9830+01 IBM FlashSystem 710 and FlashSystem 810](#family-983001-ibm-flashsystem-710-and-flashsystem-810)
 - [Family 9837+01 IBM FlashSystem A9000R](#family-983701-ibm-flashsystem-a9000r)
-- [Family 9837+02 IBM FlashSystem A9000R](#family-983702-ibm-flashsystem-a9000r)
-- [Family 9838+02 IBM FlashSystem A9000](#family-983802-ibm-flashsystem-a9000)
+- [Family 9837+03 IBM FlashSystem A9000R Utility Offerings](#family-983703-ibm-flashsystem-a9000r-utility-offerings)
 - [Family 9846+02 IBM FlashSystem V9000](#family-984602-ibm-flashsystem-v9000)
 - [Family 9846+03 IBM FlashSystem 9100](#family-984603-ibm-flashsystem-9100)
 - [Family 9847+01 IBM DeepFlash 150](#family-984701-ibm-deepflash-150)
-- [Family 9848+02 IBM FlashSystem V9000](#family-984802-ibm-flashsystem-v9000)
+- [Family 9848+01 IBM FlashSystem V840](#family-984801-ibm-flashsystem-v840)
 - [Family 9848+03 IBM FlashSystem 9100](#family-984803-ibm-flashsystem-9100)
-- [Family 9848+04 IBM FlashSystem 9200](#family-984804-ibm-flashsystem-9200)
-- [Family 9849+01 IBM DeepFlash 150](#family-984901-ibm-deepflash-150)
 
 ---
 
 [← Back to README](../README.md)
+
+
+
+
+
+### Family 2072+05 IBM FlashSystem 5000
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5000](https://www.ibm.com/docs/en/announcements/flashsystem-5000?region=AP)
+
+📅 2023-12-15T01:45:06Z
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2072-12G | 2020-02-11 | 2020-03-06 | - | - |
+| 2072-2H2 | 2020-02-11 | 2020-03-06 | 2021-04-10 | - |
+| 2072-2H4 | 2020-02-11 | 2020-03-06 | 2021-04-10 | - |
+| 2072-24G | 2020-02-11 | 2020-03-06 | - | - |
+| 2072-3H2 | 2020-02-11 | 2020-03-06 | 2021-04-10 | - |
+| 2072-3H4 | 2020-02-11 | 2020-03-06 | 2021-04-10 | - |
+| 2072-92G | 2020-02-11 | 2020-03-06 | - | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2072+06 IBM FlashSystem 5015 and 5035
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5015-5035-2023-10-10](https://www.ibm.com/docs/en/announcements/flashsystem-5015-5035-2023-10-10?region=AP)
+
+📅 2023-12-05T15:34:27Z
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2072-2N2 | 2021-02-09 | 2021-02-19 | 2023-12-30 | - |
+| 2072-2N4 | 2021-02-09 | 2021-02-19 | 2023-12-30 | - |
+| 2072-3N2 | 2021-02-09 | 2021-02-19 | 2023-12-30 | - |
+| 2072-3N4 | 2021-02-09 | 2021-02-19 | 2023-12-30 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
 
 
 
@@ -89,6 +145,33 @@ content update: 2023-12-22 00:04:51.159273279 +0800 CST
 
 
 
+### Family 2078+05 IBM FlashSystem 5100
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5100-2022-04-26](https://www.ibm.com/docs/en/announcements/flashsystem-5100-2022-04-26?region=AP)
+
+📅 2022-04-26
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2078-UHB | 2020-02-11 | 2020-03-06 | 2021-10-09 | - |
+| 2078-12G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
+| 2078-24G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
+| 2078-4H4 | 2020-02-11 | 2020-03-06 | 2021-10-09 | - |
+| 2078-92G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 4657+01 IBM FlashSystem 7300
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-10-10](https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-10-10?region=AP)
@@ -102,6 +185,33 @@ content update: 2023-12-22 00:04:51.159273279 +0800 CST
 | 4657-24G | 2022-02-08 | 2022-03-04 | - | - |
 | 4657-92G | 2022-02-08 | 2022-03-04 | - | - |
 | 4657-924 | 2022-02-08 | 2022-03-04 | - | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 4662+01 IBM FlashSystem 5200
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5200-2023-10-24](https://www.ibm.com/docs/en/announcements/flashsystem-5200-2023-10-24?region=AP)
+
+📅 2023-12-05T22:00:45Z
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 4662-12G | 2021-02-09 | 2021-02-19 | - | - |
+| 4662-24G | 2021-02-09 | 2021-02-19 | - | - |
+| 4662-6H2 | 2021-02-09 | 2021-02-19 | - | - |
+| 4662-92G | 2021-02-09 | 2021-02-19 | - | - |
+| 4662-UH6 | 2021-02-09 | 2021-02-19 | - | - |
 
 
 
@@ -225,15 +335,17 @@ content update: 2023-12-22 00:04:51.159273279 +0800 CST
 
 
 
-### Family 9835+02 IBM FlashSystem A9000R
+### Family 9745+01 IBM FlashSystem Utility models Variable Use billing
 
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-a9000r-2022-07-26](https://www.ibm.com/docs/en/announcements/flashsystem-a9000r-2022-07-26?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-utility-models-variable-use-billing](https://www.ibm.com/docs/en/announcements/flashsystem-utility-models-variable-use-billing?region=AP)
 
-📅 2022-07-26
+📅 2022-09-27
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 9835-425 | 2017-10-24 | 2017-11-24 | 2020-11-20 | 2023-07-31 |
+| 9745-FS5 | 2022-09-27 | 2022-09-27 | - | - |
+| 9745-FS7 | 2022-09-27 | 2022-09-27 | - | - |
+| 9745-FS9 | 2022-09-27 | 2022-09-27 | - | - |
 
 
 
@@ -248,15 +360,16 @@ content update: 2023-12-22 00:04:51.159273279 +0800 CST
 
 
 
-### Family 9836+02 IBM FlashSystem A9000
+### Family 9830+01 IBM FlashSystem 710 and FlashSystem 810
 
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-a9000-2022-07-26](https://www.ibm.com/docs/en/announcements/flashsystem-a9000-2022-07-26?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-710-flashsystem-810](https://www.ibm.com/docs/en/announcements/flashsystem-710-flashsystem-810?region=AP)
 
-📅 2022-07-26
+📅 2017-07-11
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 9836-425 | 2017-10-27 | 2017-11-24 | 2020-11-20 | 2023-07-31 |
+| 9830-AE1 | 2013-04-11 | 2013-04-15 | 2014-07-22 | 2018-01-31 |
+| 9830-AS1 | 2013-04-11 | 2013-04-15 | 2014-03-28 | 2018-01-31 |
 
 
 
@@ -294,38 +407,15 @@ content update: 2023-12-22 00:04:51.159273279 +0800 CST
 
 
 
-### Family 9837+02 IBM FlashSystem A9000R
+### Family 9837+03 IBM FlashSystem A9000R Utility Offerings
 
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-a9000r-2022-07-26-1](https://www.ibm.com/docs/en/announcements/flashsystem-a9000r-2022-07-26-1?region=AP)
-
-📅 2022-07-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9837-425 | 2017-10-24 | 2017-11-24 | 2020-11-20 | 2023-07-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 9838+02 IBM FlashSystem A9000
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-a9000-2022-07-26-1](https://www.ibm.com/docs/en/announcements/flashsystem-a9000-2022-07-26-1?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-a9000r-utility-offerings](https://www.ibm.com/docs/en/announcements/flashsystem-a9000r-utility-offerings?region=AP)
 
 📅 2022-07-26
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 9838-425 | 2017-10-27 | 2017-11-24 | 2020-11-20 | 2023-07-31 |
+| 9837-U25 | 2018-02-27 | 2018-03-09 | 2020-11-20 | 2023-07-31 |
 
 
 
@@ -421,21 +511,17 @@ content update: 2023-12-22 00:04:51.159273279 +0800 CST
 
 
 
-### Family 9848+02 IBM FlashSystem V9000
+### Family 9848+01 IBM FlashSystem V840
 
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-v9000-2022-07-26](https://www.ibm.com/docs/en/announcements/flashsystem-v9000-2022-07-26?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-v840-2020-07-14](https://www.ibm.com/docs/en/announcements/flashsystem-v840-2020-07-14?region=AP)
 
-📅 2022-07-26
+📅 2020-07-14
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 9848-AC2 | 2015-02-23 | 2015-04-24 | 2016-12-31 | 2022-12-31 |
-| 9848-AE2 | 2015-02-23 | 2015-04-24 | 2018-07-14 | 2022-12-31 |
-| 9848-12F | 2016-05-24 | 2016-06-10 | 2021-01-17 | 2023-12-31 |
-| 9848-AC3 | 2016-08-23 | 2016-09-09 | 2020-01-18 | 2023-12-31 |
-| 9848-24F | 2016-08-23 | 2016-09-09 | 2021-01-17 | 2023-12-31 |
-| 9848-92F | 2016-11-02 | 2016-12-09 | 2021-01-17 | 2023-12-31 |
-| 9848-AE3 | 2017-10-24 | 2017-12-08 | 2020-01-18 | 2023-12-31 |
+| 9848-AC0 | 2014-02-11 | 2014-03-07 | 2014-08-23 | 2019-12-31 |
+| 9848-AE1 | 2014-02-11 | 2014-03-07 | 2015-06-02 | 2019-12-31 |
+| 9848-AC1 | 2014-07-15 | 2014-07-18 | 2015-06-02 | 2019-12-31 |
 
 
 
@@ -468,56 +554,6 @@ content update: 2023-12-22 00:04:51.159273279 +0800 CST
 
 > Note: 9848-A9F and 9848-AFF effective marketing withdrawal date is
 2022/10/22 for Korea and Taiwan, and 2023/06/17 for India
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 9848+04 IBM FlashSystem 9200
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9200-2023-09-12-1](https://www.ibm.com/docs/en/announcements/flashsystem-9200-2023-09-12-1?region=AP)
-
-📅 2023-09-12
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9848-AG8 | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-| 9848-UG8 | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-
-
-> Note: 9848-AG8 and 9848-UG8 effective marketing withdrawal date is
-2022/10/22 for Korea and Taiwan, and 2023/06/17 for India
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 9849+01 IBM DeepFlash 150
-
-🔗 [https://www.ibm.com/docs/en/announcements/deepflash-150-2019-07-09](https://www.ibm.com/docs/en/announcements/deepflash-150-2019-07-09?region=AP)
-
-📅 2019-07-09
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9849-IF1 | 2016-11-08 | 2017-01-13 | 2017-05-09 | 2017-12-31 |
-| 9849-IF2 | 2016-11-08 | 2017-01-13 | 2017-05-09 | 2017-12-31 |
-| 9849-IF3 | 2016-11-08 | 2017-01-13 | 2017-05-09 | 2017-12-31 |
-
-
-
 
 
 
