@@ -2,7 +2,7 @@
 
 [![SSI Crawling](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml/badge.svg)](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml)
 
-update: 2023-12-23 00:04:52.606706499 +0800 CST
+update: 2023-12-24 00:04:46.830360047 +0800 CST
 
 
 
@@ -45,13 +45,13 @@ update: 2023-12-23 00:04:52.606706499 +0800 CST
 - [FlashSystem](flash-system/index.md)
 
 
-- [IBM Storage Ready Nodes](ibm-storage-ready-nodes/index.md)
-
-
 - [Open Software Family](open-software-family/index.md)
 
 
 - [SAN - IBM b-type](san-ibm-b-type/index.md)
+
+
+- [SAN - IBM c-type](san-ibm-c-type/index.md)
 
 
 - [Spectrum Software](spectrum-software/index.md)
