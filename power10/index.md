@@ -1,13 +1,13 @@
 # Power10
 
-content update: 2023-12-29 00:04:28.670434361 +0800 CST
+content update: 2023-12-30 00:04:56.37914493 +0800 CST
 
 ---
 
 ### Table of contents
 
 
-- [Family 9105+02 IBM Power S1024 (9105-42A)](#family-910502-ibm-power-s1024-9105-42a)
+- [Family 9105+01 IBM Power S1022 (9105-22A)](#family-910501-ibm-power-s1022-9105-22a)
 
 ---
 
@@ -17,15 +17,15 @@ content update: 2023-12-29 00:04:28.670434361 +0800 CST
 
 
 
-### Family 9105+02 IBM Power S1024 (9105-42A)
+### Family 9105+01 IBM Power S1022 (9105-22A)
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-s1024-9105-42a](https://www.ibm.com/docs/en/announcements/power-s1024-9105-42a?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/power-s1022-9105-22a](https://www.ibm.com/docs/en/announcements/power-s1022-9105-22a?region=AP)
 
 📅 2023-11-21
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 9105-42A | 2022-07-12 | 2022-07-22 | - | - |
+| 9105-22A | 2022-07-05 | 2022-07-22 | - | - |
 
 
 
