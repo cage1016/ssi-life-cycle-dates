@@ -1,6 +1,6 @@
 # IBM Storage Ready Nodes
 
-content update: 2023-12-29 00:04:28.670434361 +0800 CST
+content update: 2023-12-31 00:04:50.468396474 +0800 CST
 
 ---
 
@@ -8,6 +8,7 @@ content update: 2023-12-29 00:04:28.670434361 +0800 CST
 
 
 - [Family 4616+02 IBM Reseller Agreement for IBM Storage Ready Node for IBM Storage Ceph](#family-461602-ibm-reseller-agreement-for-ibm-storage-ready-node-for-ibm-storage-ceph)
+- [Family 4616+03 IBM Reseller Agreement for IBM Storage Ready Node for IBM Storage Defender Data Protect](#family-461603-ibm-reseller-agreement-for-ibm-storage-ready-node-for-ibm-storage-defender-data-protect)
 - [IBM Reseller Agreement for IBM Cloud Object Storage](#ibm-reseller-agreement-for-ibm-cloud-object-storage)
 
 ---
@@ -27,6 +28,29 @@ content update: 2023-12-29 00:04:28.670434361 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 4616-X2D | 2023-09-12 | 2023-11-03 | - | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 4616+03 IBM Reseller Agreement for IBM Storage Ready Node for IBM Storage Defender Data Protect
+
+🔗 [https://www.ibm.com/docs/en/announcements/reseller-agreement-storage-ready-node-storage-defender-data-protect-2023-10-24](https://www.ibm.com/docs/en/announcements/reseller-agreement-storage-ready-node-storage-defender-data-protect-2023-10-24?region=AP)
+
+📅 2023-12-12
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 4616-Y2D | 2023-09-12 | 2023-11-03 | - | - |
 
 
 
