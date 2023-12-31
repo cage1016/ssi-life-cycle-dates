@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2023-12-31 00:04:50.468396474 +0800 CST
+content update: 2024-01-01 00:05:06.850527018 +0800 CST
 
 ---
 
@@ -10,8 +10,6 @@ content update: 2023-12-31 00:04:50.468396474 +0800 CST
 - [Family 2072+05 IBM FlashSystem 5000](#family-207205-ibm-flashsystem-5000)
 - [Family 2072+06 IBM FlashSystem 5015 and 5035](#family-207206-ibm-flashsystem-5015-and-5035)
 - [Family 2076+07 IBM FlashSystem 7200](#family-207607-ibm-flashsystem-7200)
-- [Family 2077+05 IBM FlashSystem 5100](#family-207705-ibm-flashsystem-5100)
-- [Family 2078+05 IBM FlashSystem 5100](#family-207805-ibm-flashsystem-5100)
 - [Family 4657+01 IBM FlashSystem 7300](#family-465701-ibm-flashsystem-7300)
 - [Family 4662+01 IBM FlashSystem 5200](#family-466201-ibm-flashsystem-5200)
 - [Family 4664+01 IBM FlashSystem 7200 with Expert Care](#family-466401-ibm-flashsystem-7200-with-expert-care)
@@ -21,15 +19,12 @@ content update: 2023-12-31 00:04:50.468396474 +0800 CST
 - [Family 9745+01 IBM FlashSystem Utility models Variable Use billing](#family-974501-ibm-flashsystem-utility-models-variable-use-billing)
 - [Family 9830+01 IBM FlashSystem 710 and FlashSystem 810](#family-983001-ibm-flashsystem-710-and-flashsystem-810)
 - [Family 9831+01 IBM FlashSystem 720 and FlashSystem 820](#family-983101-ibm-flashsystem-720-and-flashsystem-820)
-- [Family 9835+01 IBM FlashSystem A9000R](#family-983501-ibm-flashsystem-a9000r)
 - [Family 9835+02 IBM FlashSystem A9000R](#family-983502-ibm-flashsystem-a9000r)
 - [Family 9836+01 IBM FlashSystem A9000](#family-983601-ibm-flashsystem-a9000)
 - [Family 9836+02 IBM FlashSystem A9000](#family-983602-ibm-flashsystem-a9000)
 - [Family 9837+01 IBM FlashSystem A9000R](#family-983701-ibm-flashsystem-a9000r)
-- [Family 9837+02 IBM FlashSystem A9000R](#family-983702-ibm-flashsystem-a9000r)
 - [Family 9837+03 IBM FlashSystem A9000R Utility Offerings](#family-983703-ibm-flashsystem-a9000r-utility-offerings)
 - [Family 9838+01 IBM FlashSystem A9000](#family-983801-ibm-flashsystem-a9000)
-- [Family 9838+02 IBM FlashSystem A9000](#family-983802-ibm-flashsystem-a9000)
 - [Family 9838+03 IBM FlashSystem A9000 Utility Offerings](#family-983803-ibm-flashsystem-a9000-utility-offerings)
 - [Family 9840+01 IBM FlashSystem 840](#family-984001-ibm-flashsystem-840)
 - [Family 9840+02 IBM FlashSystem 900](#family-984002-ibm-flashsystem-900)
@@ -128,59 +123,6 @@ content update: 2023-12-31 00:04:50.468396474 +0800 CST
 
 > Note: 2076-824 and 2076-U7C effective marketing withdrawal date is
 2022/10/22 for Korea and Taiwan, and 2023/06/17 for India.
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2077+05 IBM FlashSystem 5100
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5100](https://www.ibm.com/docs/en/announcements/flashsystem-5100?region=AP)
-
-📅 2022-04-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2077-12G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-| 2077-24G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-| 2077-4H4 | 2020-02-11 | 2020-03-06 | 2021-10-09 | - |
-| 2077-92G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2078+05 IBM FlashSystem 5100
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5100-2022-04-26](https://www.ibm.com/docs/en/announcements/flashsystem-5100-2022-04-26?region=AP)
-
-📅 2022-04-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2078-UHB | 2020-02-11 | 2020-03-06 | 2021-10-09 | - |
-| 2078-12G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-| 2078-24G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-| 2078-4H4 | 2020-02-11 | 2020-03-06 | 2021-10-09 | - |
-| 2078-92G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-
-
-
 
 
 
@@ -428,29 +370,6 @@ content update: 2023-12-31 00:04:50.468396474 +0800 CST
 
 
 
-### Family 9835+01 IBM FlashSystem A9000R
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-a9000r](https://www.ibm.com/docs/en/announcements/flashsystem-a9000r?region=AP)
-
-📅 2021-08-24
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9835-415 | 2016-04-27 | 2016-04-29 | 2018-06-02 | 2022-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 9835+02 IBM FlashSystem A9000R
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-a9000r-2022-07-26](https://www.ibm.com/docs/en/announcements/flashsystem-a9000r-2022-07-26?region=AP)
@@ -543,29 +462,6 @@ content update: 2023-12-31 00:04:50.468396474 +0800 CST
 
 
 
-### Family 9837+02 IBM FlashSystem A9000R
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-a9000r-2022-07-26-1](https://www.ibm.com/docs/en/announcements/flashsystem-a9000r-2022-07-26-1?region=AP)
-
-📅 2022-07-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9837-425 | 2017-10-24 | 2017-11-24 | 2020-11-20 | 2023-07-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 9837+03 IBM FlashSystem A9000R Utility Offerings
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-a9000r-utility-offerings](https://www.ibm.com/docs/en/announcements/flashsystem-a9000r-utility-offerings?region=AP)
@@ -598,29 +494,6 @@ content update: 2023-12-31 00:04:50.468396474 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9838-415 | 2016-04-27 | 2016-04-29 | 2018-06-02 | 2022-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 9838+02 IBM FlashSystem A9000
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-a9000-2022-07-26-1](https://www.ibm.com/docs/en/announcements/flashsystem-a9000-2022-07-26-1?region=AP)
-
-📅 2022-07-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9838-425 | 2017-10-27 | 2017-11-24 | 2020-11-20 | 2023-07-31 |
 
 
 
