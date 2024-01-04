@@ -1,18 +1,90 @@
 # Power10
 
-content update: 2024-01-04 00:05:41.025777771 +0800 CST
+content update: 2024-01-05 00:05:57.67349269 +0800 CST
 
 ---
 
 ### Table of contents
 
 
+- [Family 9043+01 IBM Power E1050 enterprise midrange technology-based server](#family-904301-ibm-power-e1050-enterprise-midrange-technology-based-server)
+- [Family 9080+04 IBM Power E1080 Enterprise server](#family-908004-ibm-power-e1080-enterprise-server)
+- [Family 9105+02 IBM Power S1024 (9105-42A)](#family-910502-ibm-power-s1024-9105-42a)
 - [Family 9105+03 IBM Power S1022s (9105-22B)](#family-910503-ibm-power-s1022s-9105-22b)
 - [Family 9786+02 IBM Power L1024 (9786-42H)](#family-978602-ibm-power-l1024-9786-42h)
 
 ---
 
 [← Back to README](../README.md)
+
+
+
+
+
+### Family 9043+01 IBM Power E1050 enterprise midrange technology-based server
+
+🔗 [https://www.ibm.com/docs/en/announcements/power-e1050-enterprise-midrange-technology-based-server](https://www.ibm.com/docs/en/announcements/power-e1050-enterprise-midrange-technology-based-server?region=AP)
+
+📅 2023-11-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9043-MRX | 2022-07-12 | 2022-07-22 | - | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 9080+04 IBM Power E1080 Enterprise server
+
+🔗 [https://www.ibm.com/docs/en/announcements/power-e1080-enterprise-server](https://www.ibm.com/docs/en/announcements/power-e1080-enterprise-server?region=AP)
+
+📅 2023-12-14T18:03:29Z
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9080-HEX | 2021-09-08 | 2021-09-17 | - | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 9105+02 IBM Power S1024 (9105-42A)
+
+🔗 [https://www.ibm.com/docs/en/announcements/power-s1024-9105-42a](https://www.ibm.com/docs/en/announcements/power-s1024-9105-42a?region=AP)
+
+📅 2023-11-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9105-42A | 2022-07-12 | 2022-07-22 | - | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
 
 
 
