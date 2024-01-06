@@ -1,14 +1,13 @@
 # Tape Media
 
-content update: 2024-01-05 00:05:57.67349269 +0800 CST
+content update: 2024-01-07 00:05:07.94048027 +0800 CST
 
 ---
 
 ### Table of contents
 
 
-- [Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004](#family-358901-ibm-ultrium-cartridges-models-002-003-004)
-- [Family 3589+12 IBM 3589 Ultrium Cleaning Cartridges Model 005 w/ customized labeling service](#family-358912-ibm-3589-ultrium-cleaning-cartridges-model-005-w-customized-labeling-service)
+- [Family 3589+11 IBM Ultrium 9 18 TB Data Cartridge Models 553 and 653](#family-358911-ibm-ultrium-9-18-tb-data-cartridge-models-553-and-653)
 - [Family 3599+02 IBM Tape Cart 3592](#family-359902-ibm-tape-cart-3592)
 - [Family 3599+03 IBM Tape Cartridge 3592](#family-359903-ibm-tape-cartridge-3592)
 
@@ -20,40 +19,16 @@ content update: 2024-01-05 00:05:57.67349269 +0800 CST
 
 
 
-### Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004
+### Family 3589+11 IBM Ultrium 9 18 TB Data Cartridge Models 553 and 653
 
-🔗 [https://www.ibm.com/docs/en/announcements/ultrium-cartridges-models-002-003-004](https://www.ibm.com/docs/en/announcements/ultrium-cartridges-models-002-003-004?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3589-002 | 2000-08-23 | 2000-09-01 | 2008-12-26 | - |
-| 3589-003 | 2000-08-23 | 2000-09-01 | 2008-12-26 | - |
-| 3589-004 | 2000-08-23 | 2000-09-01 | - | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3589+12 IBM 3589 Ultrium Cleaning Cartridges Model 005 w/ customized labeling service
-
-🔗 [https://www.ibm.com/docs/en/announcements/3589-ultrium-cleaning-cartridges-model-005-w-customized-labeling-service](https://www.ibm.com/docs/en/announcements/3589-ultrium-cleaning-cartridges-model-005-w-customized-labeling-service?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/ultrium-9-18-tb-data-cartridge-models-553-653](https://www.ibm.com/docs/en/announcements/ultrium-9-18-tb-data-cartridge-models-553-653?region=AP)
 
 📅 2023-10-10
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3589-005 | 2021-12-14 | 2021-12-17 | - | - |
+| 3589-553 | 2021-09-07 | 2021-09-10 | - | - |
+| 3589-653 | 2021-09-07 | 2021-09-10 | - | - |
 
 
 
