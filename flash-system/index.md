@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2024-01-12 00:05:01.683324613 +0800 CST
+content update: 2024-01-13 00:04:38.752767037 +0800 CST
 
 ---
 
@@ -223,7 +223,7 @@ content update: 2024-01-12 00:05:01.683324613 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5200-2023-10-24](https://www.ibm.com/docs/en/announcements/flashsystem-5200-2023-10-24?region=AP)
 
-📅 2024-01-09T06:15:56Z
+📅 2023-12-15T01:15:04Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
