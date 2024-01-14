@@ -1,6 +1,6 @@
 # IBM Storage Ready Nodes
 
-content update: 2024-01-14 00:04:29.308699404 +0800 CST
+content update: 2024-01-15 00:03:52.008578492 +0800 CST
 
 ---
 
@@ -8,6 +8,7 @@ content update: 2024-01-14 00:04:29.308699404 +0800 CST
 
 
 - [Family 4616+02 IBM Reseller Agreement for IBM Storage Ready Node for IBM Storage Ceph](#family-461602-ibm-reseller-agreement-for-ibm-storage-ready-node-for-ibm-storage-ceph)
+- [IBM Reseller Agreement for IBM Cloud Object Storage](#ibm-reseller-agreement-for-ibm-cloud-object-storage)
 
 ---
 
@@ -26,6 +27,33 @@ content update: 2024-01-14 00:04:29.308699404 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 4616-X2D | 2023-09-12 | 2023-11-03 | - | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### IBM Reseller Agreement for IBM Cloud Object Storage
+
+🔗 [https://www.ibm.com/docs/en/announcements/reseller-agreement-cloud-object-storage](https://www.ibm.com/docs/en/announcements/reseller-agreement-cloud-object-storage?region=AP)
+
+📅 2023-12-20T16:30:07Z
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 4616-A1D | 2023-07-25 | 2023-08-04 | - | - |
+| 4616-C1D | 2023-07-25 | 2023-08-04 | - | - |
+| 4616-J5D | 2023-07-25 | 2023-08-04 | - | - |
+| 4616-M1D | 2023-07-25 | 2023-08-04 | - | - |
+| 4616-S2D | 2023-07-25 | 2023-08-04 | - | - |
 
 
 
