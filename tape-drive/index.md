@@ -1,22 +1,47 @@
 # Tape Drive
 
-content update: 2024-01-15 00:03:52.008578492 +0800 CST
+content update: 2024-01-16 00:06:15.2615652 +0800 CST
 
 ---
 
 ### Table of contents
 
 
+- [Family 3580+18 IBM TS2270 Tape Drive Model H7S](#family-358018-ibm-ts2270-tape-drive-model-h7s)
 - [Family 3580+19 IBM TS2280 Tape Drive Model H8S](#family-358019-ibm-ts2280-tape-drive-model-h8s)
-- [Family 3580+20 IBM TS2290 SAS Tape Drive Model H9S](#family-358020-ibm-ts2290-sas-tape-drive-model-h9s)
-- [Family 3588+07 IBM TS1070 Tape Drive Model F7C](#family-358807-ibm-ts1070-tape-drive-model-f7c)
-- [Family 3588+10 IBM TS1080 Tape Drive Model F8C](#family-358810-ibm-ts1080-tape-drive-model-f8c)
+- [Family 3588+08 IBM TS1070 Tape Drive Model F7A](#family-358808-ibm-ts1070-tape-drive-model-f7a)
+- [Family 3588+09 IBM TS1080 Tape Drive Model F8A](#family-358809-ibm-ts1080-tape-drive-model-f8a)
+- [Family 3588+11 IBM TS1080 Tape Drive Model F8S](#family-358811-ibm-ts1080-tape-drive-model-f8s)
 - [Family 3588+12 IBM LTO 9 Tape Drive models F9C, F9S, and S9C](#family-358812-ibm-lto-9-tape-drive-models-f9c-f9s-and-s9c)
+- [Family 3592+13 IBM TS1160 Tape Drive Model 60F](#family-359213-ibm-ts1160-tape-drive-model-60f)
 - [Family 7226+01 IBM System Storage 7226 Model 1U3 Multi-Media Enclosure](#family-722601-ibm-system-storage-7226-model-1u3-multi-media-enclosure)
 
 ---
 
 [← Back to README](../README.md)
+
+
+
+
+
+### Family 3580+18 IBM TS2270 Tape Drive Model H7S
+
+🔗 [https://www.ibm.com/docs/en/announcements/ts2270-tape-drive-model-h7s](https://www.ibm.com/docs/en/announcements/ts2270-tape-drive-model-h7s?region=AP)
+
+📅 2023-10-10
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3580-H7S | 2015-10-06 | 2015-11-20 | 2024-06-30 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
 
 
 
@@ -45,15 +70,15 @@ content update: 2024-01-15 00:03:52.008578492 +0800 CST
 
 
 
-### Family 3580+20 IBM TS2290 SAS Tape Drive Model H9S
+### Family 3588+08 IBM TS1070 Tape Drive Model F7A
 
-🔗 [https://www.ibm.com/docs/en/announcements/ts2290-sas-tape-drive-model-h9s](https://www.ibm.com/docs/en/announcements/ts2290-sas-tape-drive-model-h9s?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/ts1070-tape-drive-model-f7a](https://www.ibm.com/docs/en/announcements/ts1070-tape-drive-model-f7a?region=AP)
 
-📅 2023-10-10
+📅 2024-01-09T18:47:01Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3580-H9S | 2021-11-23 | 2021-12-03 | - | - |
+| 3588-F7A | 2015-10-06 | 2015-10-23 | 2023-06-30 | - |
 
 
 
@@ -68,15 +93,15 @@ content update: 2024-01-15 00:03:52.008578492 +0800 CST
 
 
 
-### Family 3588+07 IBM TS1070 Tape Drive Model F7C
+### Family 3588+09 IBM TS1080 Tape Drive Model F8A
 
-🔗 [https://www.ibm.com/docs/en/announcements/ts1070-tape-drive-model-f7c](https://www.ibm.com/docs/en/announcements/ts1070-tape-drive-model-f7c?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/ts1080-tape-drive-model-f8a](https://www.ibm.com/docs/en/announcements/ts1080-tape-drive-model-f8a?region=AP)
 
 📅 2023-06-27
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3588-F7C | 2015-10-06 | 2015-11-20 | 2023-12-31 | - |
+| 3588-F8A | 2017-10-10 | 2017-11-17 | 2023-06-30 | - |
 
 
 
@@ -91,15 +116,15 @@ content update: 2024-01-15 00:03:52.008578492 +0800 CST
 
 
 
-### Family 3588+10 IBM TS1080 Tape Drive Model F8C
+### Family 3588+11 IBM TS1080 Tape Drive Model F8S
 
-🔗 [https://www.ibm.com/docs/en/announcements/ts1080-tape-drive-model-f8c](https://www.ibm.com/docs/en/announcements/ts1080-tape-drive-model-f8c?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/ts1080-tape-drive-model-f8s](https://www.ibm.com/docs/en/announcements/ts1080-tape-drive-model-f8s?region=AP)
 
-📅 2023-11-28T06:03:19Z
+📅 2023-06-27
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3588-F8C | 2017-10-10 | 2017-11-17 | - | - |
+| 3588-F8S | 2018-11-20 | 2018-12-07 | 2023-12-31 | - |
 
 
 
@@ -125,6 +150,29 @@ content update: 2024-01-15 00:03:52.008578492 +0800 CST
 | 3588-F9C | 2021-09-07 | 2021-09-10 | - | - |
 | 3588-F9S | 2021-09-07 | 2021-09-10 | 2023-12-31 | - |
 | 3588-S9C | 2021-09-07 | 2021-09-10 | - | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 3592+13 IBM TS1160 Tape Drive Model 60F
+
+🔗 [https://www.ibm.com/docs/en/announcements/ts1160-tape-drive-model-60f](https://www.ibm.com/docs/en/announcements/ts1160-tape-drive-model-60f?region=AP)
+
+📅 2023-10-10
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3592-60F | 2018-11-20 | 2018-12-07 | - | - |
 
 
 

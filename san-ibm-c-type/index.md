@@ -1,6 +1,6 @@
 # SAN - IBM c-type
 
-content update: 2024-01-15 00:03:52.008578492 +0800 CST
+content update: 2024-01-16 00:06:15.2615652 +0800 CST
 
 ---
 
@@ -8,7 +8,7 @@ content update: 2024-01-15 00:03:52.008578492 +0800 CST
 
 
 - [Family 8977+01 IBM Storage Networking SAN50C-R](#family-897701-ibm-storage-networking-san50c-r)
-- [Family 8977+02 IBM Storage Networking SAN32C-6 Fabric Switch](#family-897702-ibm-storage-networking-san32c-6-fabric-switch)
+- [Family 8977+03 IBM Storage Networking SAN96C-6](#family-897703-ibm-storage-networking-san96c-6)
 
 ---
 
@@ -41,15 +41,15 @@ content update: 2024-01-15 00:03:52.008578492 +0800 CST
 
 
 
-### Family 8977+02 IBM Storage Networking SAN32C-6 Fabric Switch
+### Family 8977+03 IBM Storage Networking SAN96C-6
 
-🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san32c-6-fabric-switch](https://www.ibm.com/docs/en/announcements/storage-networking-san32c-6-fabric-switch?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san96c-6](https://www.ibm.com/docs/en/announcements/storage-networking-san96c-6?region=AP)
 
-📅 2023-11-28T00:25:28Z
+📅 2023-11-28T00:20:06Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 8977-T32 | 2018-12-04 | 2018-12-07 | - | - |
+| 8977-T96 | 2019-07-09 | 2019-07-26 | - | - |
 
 
 
