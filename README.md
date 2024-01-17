@@ -2,7 +2,7 @@
 
 [![SSI Crawling](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml/badge.svg)](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml)
 
-update: 2024-01-17 00:05:44.860778455 +0800 CST
+update: 2024-01-18 00:05:27.819392492 +0800 CST
 
 
 
@@ -36,10 +36,10 @@ update: 2024-01-17 00:05:44.860778455 +0800 CST
 - [Disk](disk/index.md)
 
 
-- [IBM Storage Ready Nodes](ibm-storage-ready-nodes/index.md)
+- [Elastic Storage Server](elastic-storage-server/index.md)
 
 
-- [Open Software Family](open-software-family/index.md)
+- [FlashSystem](flash-system/index.md)
 
 
 - [SAN - IBM b-type](san-ibm-b-type/index.md)

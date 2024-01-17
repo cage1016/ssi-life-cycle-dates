@@ -1,13 +1,12 @@
 # Elastic Storage Server
 
-content update: 2024-01-16 00:06:15.2615652 +0800 CST
+content update: 2024-01-18 00:05:27.819392492 +0800 CST
 
 ---
 
 ### Table of contents
 
 
-- [Family 5105+01 IBM Elastic Storage System 5000](#family-510501-ibm-elastic-storage-system-5000)
 - [Family 5141+01 IBM Elastic Storage System 3000](#family-514101-ibm-elastic-storage-system-3000)
 - [Family 5141+02 IBM Elastic Storage System 3200](#family-514102-ibm-elastic-storage-system-3200)
 - [Family 5147+03 IBM ESS 2U24 Storage for Elastic Storage Server](#family-514703-ibm-ess-2u24-storage-for-elastic-storage-server)
@@ -16,29 +15,6 @@ content update: 2024-01-16 00:06:15.2615652 +0800 CST
 ---
 
 [← Back to README](../README.md)
-
-
-
-
-
-### Family 5105+01 IBM Elastic Storage System 5000
-
-🔗 [https://www.ibm.com/docs/en/announcements/elastic-storage-system-5000-2023-10-10](https://www.ibm.com/docs/en/announcements/elastic-storage-system-5000-2023-10-10?region=AP)
-
-📅 2023-11-22T18:08:13Z
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5105-22E | 2020-07-07 | 2020-08-14 | - | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
 
 
 
