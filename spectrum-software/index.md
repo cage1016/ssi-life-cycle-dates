@@ -1,39 +1,19 @@
 # Spectrum Software
 
-content update: 2024-01-18 00:05:27.819392492 +0800 CST
+content update: 2024-01-19 00:05:45.058707222 +0800 CST
 
 ---
 
 ### Table of contents
 
 
-- [](#)
 - [5639-691 IBM Storage Protect Plus for IBM FlashSystem 10.1](#5639-691-ibm-storage-protect-plus-for-ibm-flashsystem-101)
 - [5725-F92 IBM Virtual Storage Center 5.4](#5725-f92-ibm-virtual-storage-center-54)
+- [5725-F93 IBM Spectrum Control 5.4](#5725-f93-ibm-spectrum-control-54)
 
 ---
 
 [← Back to README](../README.md)
-
-
-
-
-
-### 
-
-🔗 [](?region=AP)
-
-📅 
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
 
 
 
@@ -80,6 +60,32 @@ content update: 2024-01-18 00:05:27.819392492 +0800 CST
 | 5608-AP1 | 05.02.08 | 2015-12-08 | 2015-12-11 | 2018-12-11 |
 | 5725-P92 | 05.02.08 | 2015-12-08 | 2015-12-11 | 2018-12-11 |
 | 5608-ACL | 05.02.08 | 2015-12-08 | 2015-12-11 | 2018-12-11 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 5725-F93 IBM Spectrum Control 5.4
+
+🔗 [https://www.ibm.com/docs/en/announcements/spectrum-control-54](https://www.ibm.com/docs/en/announcements/spectrum-control-54?region=AP)
+
+📅 2023-03-14
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 5725-F93 | 05.04.00 | 2020-08-18 | 2020-08-20 | - |
+| 5608-PC1 | 05.01.00 | 2012-06-04 | 2012-06-15 | 2017-09-15 |
+| 5608-PC2 | 05.01.00 | 2012-06-04 | 2012-06-15 | 2017-09-15 |
+| 5725-G33 | 05.01.00 | 2012-06-04 | 2012-06-15 | 2017-09-15 |
 
 
 
