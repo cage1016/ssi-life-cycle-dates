@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2024-01-22 00:04:27.82276139 +0800 CST
+content update: 2024-01-23 15:15:04.720358039 +0800 CST
 
 ---
 
@@ -25,7 +25,7 @@ content update: 2024-01-22 00:04:27.82276139 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts4300-tape-library-models-l3a-e3a](https://www.ibm.com/docs/en/announcements/ts4300-tape-library-models-l3a-e3a?region=AP)
 
-📅 2023-11-14
+📅 2024-01-23T01:15:23Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -78,7 +78,7 @@ content update: 2024-01-22 00:04:27.82276139 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts4500-tape-library-l55d55s55l25d25s25tr1](https://www.ibm.com/docs/en/announcements/ts4500-tape-library-l55d55s55l25d25s25tr1?region=AP)
 
-📅 2024-01-09T19:00:39Z
+📅 2024-01-23T01:30:04Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -107,7 +107,7 @@ content update: 2024-01-22 00:04:27.82276139 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/3952-tape-frame-model-f07-ts7700](https://www.ibm.com/docs/en/announcements/3952-tape-frame-model-f07-ts7700?region=AP)
 
-📅 2023-10-10
+📅 2024-01-23T01:15:24Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
