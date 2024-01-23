@@ -22,8 +22,8 @@ jobs:
           options: >
             --user root
             --env NUM_WORKERS=50
-            --env INTERVAL_BASE=10
-            --env INTERVAL_RANDOMIZATION=30
+            --env INTERVAL_BASE=100
+            --env INTERVAL_RANDOMIZATION=100
             --env MAX_RETRIES=2
             -v ${{ github.workspace }}:/tmp/:rw
             -w /tmp
