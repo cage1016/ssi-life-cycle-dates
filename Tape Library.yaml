@@ -2,11 +2,52 @@ displayName: Tape Library
 category: Storage
 enabled: true
 models:
-  - 3555-L3A
-  - 3572-S7H
-  - 3572-S8H
-  - 3572-S9H
-  - 3584-L25
-  - 3584-L55
-  - 3952-F07
-  - 3957-VED
+  - 3494-L10 Unit for 1 3490-CxA or 2 3490-F1As (Withdrawn)
+  - 3494-L12 Unit for up to 2 3590 tape drives (Withdrawn)
+  - 3494-L14 Unit for up to 2 3590 tape drives (Withdrawn)
+  - 3494-L22 Unit for up to 4 3592 tape drives (Withdrawn)
+  - 3555-L3A TS4300 Tape Library
+  - 3572-S3H TS2900 LTO3 HH SAS Tape Autoloader (Withdrawn)
+  - 3572-S4H TS2900 LTO4 HH SAS Tape Autoloader (Withdrawn)
+  - 3572-S5H TS2900 LTO5 HH SAS Tape Autoloader (Withdrawn)
+  - 3572-S6H TS2900 Tape Autoloader with LTO Ultrium 6 Half-high SAS Tape Drive (Withdrawn)
+  - 3572-S7H TS2900 Tape Autoloader with LTO Ultrium 7 Half-high SAS Tape Drive
+  - 3572-S8H TS2900 Tape Autoloader with LTO Ultrium 8 Half-high SAS Tape Drive
+  - 3572-S9H TS2900 Tape Autoloader with LTO Ultrium 9 Half-high SAS Tape Drive
+  - 3573-L2U TS3100 Tape Library Express (Withdrawn)
+  - 3573-L4U TS3200 Tape Library Express (Withdrawn)
+  - 3575-L06 IBM Magstar MP 60-cartridge library (Withdrawn)
+  - 3575-L12 IBM Magstar MP 120-cartridge library (Withdrawn)
+  - 3575-L18 IBM Magstar MP 180-cartridge library (Withdrawn)
+  - 3575-L24 IBM Magstar MP 240-cartridge library (Withdrawn)
+  - 3575-L32 IBM Magstar MP 320-cartridge library (Withdrawn)
+  - 3576-L5B TS3310 Tape Library (Withdrawn)
+  - 3577-L5U TS3400 Tape Library (Withdrawn)
+  - 3582-L23 Ultrium Tape Library (express offered) (Withdrawn)
+  - 3583-L18 Ultrium Scalable Tape Library (Withdrawn)
+  - 3583-L36 Ultrium Scalable Tape Library (express offered) (Withdrawn)
+  - 3583-L72 Ultrium Scalable Tape Library (express offered) (Withdrawn)
+  - 3584-L22 Tape Library Base Frame (Withdrawn)
+  - 3584-L23 TS3500 Tape Library (Withdrawn)
+  - 3584-L25 TS4500 HD2 BASE FRAME ENT
+  - 3584-L32 Tape Library Base Frame (Withdrawn)
+  - 3584-L52 Tape Library Base Frame (Withdrawn)
+  - 3584-L53 TS3500 Tape Library (Withdrawn)
+  - 3584-L55 TS4500 HD2 BASE FRAME LTO
+  - 3948-F07 IBM TS7700 Tape Frame Model F07
+  - 3948-VED TS7700 Server in a Customer Rack
+  - 3952-F05 Tape Frame for TS7500/TS7700 Virtualization Engines and 3592 Tape Controller (Withdrawn)
+  - 3952-F06 Tape Frame for TS7700 (Withdrawn)
+  - 3952-F07 Tape Frame for TS7700
+  - 3953-F05 Tape Controller Frame (Withdrawn)
+  - 3957-VED TS7700 Server in a Customer Rack
+  - 3958-AP1 TS7650 ProtecTIER De-duplication Appliance (Withdrawn)
+  - 3958-DD1 IBM System Storage TS7650G Server (Withdrawn)
+  - 3958-DD3 TS7650G ProtecTIER De-duplication Gateway (Withdrawn)
+  - 3958-DD4 TS7650G ProtecTIER De-duplication Gateway (Withdrawn)
+  - 3958-DD5 TS7650G ProtecTIER Gateway Server (Withdrawn)
+  - 3958-DD6 TS7650G ProtecTIER Server (Withdrawn)
+  - 3958-DE2 TS7680 ProtecTIER De-duplication Gateway for System z (Withdrawn)
+  - 3959-SM1 TS7610 ProtecTIER De-duplication Appliance Express (Withdrawn)
+  - 3959-SM2 TS7620 ProtecTIER De-duplication Appliance Express (Withdrawn)
+  - 4882-L9A IBM Diamondback Tape Library

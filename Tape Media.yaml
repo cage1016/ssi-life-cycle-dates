@@ -2,27 +2,100 @@ displayName: Tape Media
 category: Storage
 enabled: true
 models:
-  - 3589-004
-  - 3589-005
-  - 3589-452
-  - 3589-550
-  - 3589-551
-  - 3589-552
-  - 3589-553
-  - 3589-650
-  - 3589-651
-  - 3589-652
-  - 3589-653
-  - 3599-017
-  - 3599-420
-  - 3599-425
-  - 3599-426
-  - 3599-430
-  - 3599-435
-  - 3599-436
-  - 3599-520
-  - 3599-525
-  - 3599-526
-  - 3599-530
-  - 3599-535
-  - 3599-536
+  - 3499-001 IBM label and initialized 3490E data cartridges (Withdrawn)
+  - 3499-002 IBM label only 3490E data cartridges (Withdrawn)
+  - 3499-003 IBM standard 3490E data cartridges (Withdrawn)
+  - 3499-004 IBM label and initialized 3480 data cartridges (Withdrawn)
+  - 3499-005 IBM label only 3480 data cartridges (Withdrawn)
+  - 3499-006 IBM standard 3480 data cartridges (Withdrawn)
+  - 3499-007 IBM 3480/3490 cleaning cartridges (Withdrawn)
+  - 3579-001 IBM Magstar MP Fast Access LinearTape Cartridges B Format (Withdrawn)
+  - 3579-002 IBM Magstar MP Fast Access LinearTape Cartridges C Format (Withdrawn)
+  - 3579-003 IBM Magstar MP Fast Access Linear Tape Cartridges C format XL (Withdrawn)
+  - 3579-004 IBM Magstar MP Cleaning Cartridges (Withdrawn)
+  - 3579-005 IBM Magstar MP Magazines (Withdrawn)
+  - 3589-002 IBM 100GB Ultrium tape cartridge with label (Withdrawn)
+  - 3589-003 IBM 100GB Ultrium tape cartridges (Withdrawn)
+  - 3589-004 IBM Ultrium cleaning cartridges
+  - 3589-005 IBM 3589 Ultrium Cleaning Cartridges Model 005
+  - 3589-006 IBM 200GB Ultrium tape cartridge with label (Withdrawn)
+  - 3589-007 IBM 200GB Ultrium tape cartridges (Withdrawn)
+  - 3589-008 IBM 400GB Ultrium tape cartridges with label (Withdrawn)
+  - 3589-009 IBM 400GB Ultrium tape cartridges (Withdrawn)
+  - 3589-010 IBM 800GB Ultrium tape cartridges labeled (Withdrawn)
+  - 3589-011 IBM 800GB Ultrium tape cartridges (Withdrawn)
+  - 3589-014 IBM 1.5 TB Ultrium Tape Cartridges Labeled (Withdrawn)
+  - 3589-015 IBM 1.5 TB Ultrium Tape Cartridges (Withdrawn)
+  - 3589-028 IBM 400GB WORM Ultrium Tape Cartridges Labeled (Withdrawn)
+  - 3589-029 IBM WORM 400GB Ultrium Tape Cartridges (Withdrawn)
+  - 3589-032 IBM 800GB WORM Ultrium Tape Cartridges Labeled (Withdrawn)
+  - 3589-033 IBM WORM 800GB Ultrium Tape Cartridges (Withdrawn)
+  - 3589-034 IBM 1.5 TB Ultrium Tape WORM Cartridges Labeled (Withdrawn)
+  - 3589-035 IBM 1.5 TB Ultrium Tape WORM Cartridges (Withdrawn)
+  - 3589-452 IBM 9 TB Ultrium 7 Uninitialized Tape Cartridge 20-pack M8 Labeled
+  - 3589-550 IBM 2.5 TB Ultrium 6 Tape Cartridge 20-pack Labeled (Withdrawn)
+  - 3589-551 IBM 6 TB Ultrium 7 Tape Cartridge 20-pack Labeled
+  - 3589-552 IBM 12 TB Ultrium 8 Tape Cartridge 20-pack Labeled
+  - 3589-553 IBM 18 TB Ultrium 9 Tape Cartridge 20-pack Labeled
+  - 3589-570 IBM 2.5 TB Ultrium Tape WORM Cartridge Labeled (Withdrawn)
+  - 3589-571 IBM 6 TB Ultrium 7 WORM Tape Cartridge 20-pack Labeled (Withdrawn)
+  - 3589-650 IBM 2.5 TB Ultrium 6 Tape Cartridge (Withdrawn)
+  - 3589-651 IBM 6 TB Ultrium 7 Tape Cartridge
+  - 3589-652 IBM 12 TB Ultrium 8 Tape Cartridge
+  - 3589-653 IBM 18 TB Ultrium 9 Tape Cartridge
+  - 3589-670 IBM 2.5 TB Ultrium Tape WORM Cartridge (Withdrawn)
+  - 3589-671 IBM 6 TB Ultrium 7 WORM Tape Cartridge 20-pack (Withdrawn)
+  - 3599-001 IBM label and initialized 3590 data cartridges (Withdrawn)
+  - 3599-002 IBM label only 3590 data cartridges (Withdrawn)
+  - 3599-003 IBM standard 3590 data cartridges (Withdrawn)
+  - 3599-004 IBM labeled and initilized 3590 Magstar Extended Length cartridges (Withdrawn)
+  - 3599-005 IBM labeled 3590 Magstar Extended Length cartridges (Withdrawn)
+  - 3599-006 IBM standard 3590 Magstar Extended Length cartridges (Withdrawn)
+  - 3599-007 IBM 3590 Magstar cleaning cartridges (Withdrawn)
+  - 3599-008 IBM 3590 Magstar 10 Cartridge Magazine (Withdrawn)
+  - 3599-011 IBM 3592 Enterprise Tape Cartridge with Labeling and Initialization (Withdrawn)
+  - 3599-012 IBM 3592 Enterprise Tape Cartridge with Labeling Only (Withdrawn)
+  - 3599-013 IBM 3592 Enterprise Tape Cartridge w/o Labeling or Initialization (Withdrawn)
+  - 3599-014 IBM Tape Cartridge 3592 Extended Data with Labeling and Initialization (Withdrawn)
+  - 3599-015 IBM Tape Cartridge 3592 Extended Data with Labeling Only (Withdrawn)
+  - 3599-016 IBM Tape Cartridge 3592 Extended Data w/o Labeling or Initialization (Withdrawn)
+  - 3599-017 IBM 3592 Enterprise cleaning cartridge
+  - 3599-021 IBM 3592 Enterprise Tape Cartridges, 300 GB WORM, with Labeling and Initialization (Withdrawn)
+  - 3599-022 IBM 3592 Enterprise Tape Cartridges, 300 GB WORM, with Labeling Only (Withdrawn)
+  - 3599-023 IBM 3592 Enterprise Tape Cartridges, 300 GB WORM, w/o Labeling or Initialization (Withdrawn)
+  - 3599-024 IBM Tape Cartridge 3592 Extended WORM with Labeling and Initialization (Withdrawn)
+  - 3599-025 IBM Tape Cartridge 3592 Extended WORM with Labeling Only (Withdrawn)
+  - 3599-026 IBM Tape Cartridge 3592 Extended WORM w/o Labeling or Initialization (Withdrawn)
+  - 3599-420 Tape Cart 3592 Labeled and Initialized Data Cartridges - Type C (Withdrawn)
+  - 3599-425 Tape Cart 3592 Labeled and Initialized Data Cartridges - Type D
+  - 3599-426 Tape Cart 3592 Labeled and Initialized Data Cartridges - Type E
+  - 3599-427 Tape Cart 3592 Labeled and Initialized Data Cartridges - Type F
+  - 3599-430 Tape Cart 3592 Labeled and Initialized Economy Data - Type C (Withdrawn)
+  - 3599-435 Tape Cart 3592 Labeled and Initialized Economy Data - Type D
+  - 3599-436 Tape Cart 3592 Labeled and Initialized Economy Data - Type E
+  - 3599-440 Tape Cart 3592 Labeled and Initialized WORM Cartridges - Type C (Withdrawn)
+  - 3599-445 Tape Cart 3592 Labeled and Initialized WORM Cartridges - Type D (Withdrawn)
+  - 3599-520 Tape Cart 3592 Labeled Data Cartridges - Type C (Withdrawn)
+  - 3599-525 Tape Cart 3592 Labeled Data Cartridges - Type D
+  - 3599-526 Tape Cart 3592 Labeled Data Cartridges - Type E
+  - 3599-527 Tape Cart 3592 Labeled Data Cartridges - Type F
+  - 3599-530 Tape Cart 3592 Labeled Economy Data - Type C (Withdrawn)
+  - 3599-535 Tape Cart 3592 Labeled Economy Data - Type D
+  - 3599-536 Tape Cart 3592 Labeled Economy Data - Type E
+  - 3599-540 Tape Cart 3592 Labeled WORM Cartridges - Type C (Withdrawn)
+  - 3599-545 Tape Cart 3592 Labeled WORM Cartridges - Type D (Withdrawn)
+  - 3599-620 Tape Cart 3592 Data Cartridges - Type C (Withdrawn)
+  - 3599-625 Tape Cart 3592 Data Cartridges - Type D (Withdrawn)
+  - 3599-630 Tape Cart 3592 Economy Data - Type C (Withdrawn)
+  - 3599-635 Tape Cart 3592 Economy Data - Type D (Withdrawn)
+  - 3599-640 Tape Cart 3592 WORM Cartridges - Type C (Withdrawn)
+  - 3599-645 Tape Cart 3592 WORM Cartridges - Type D (Withdrawn)
+  - 3599-E11 IBM 3592 Enterprise Tape Cartridges (Economy), 60 GB, with Labeling and Initialization (Withdrawn)
+  - 3599-E12 IBM 3592 Enterprise Tape Cartridges (Economy), 60 GB, with Labeling Only (Withdrawn)
+  - 3599-E13 IBM 3592 Enterprise Tape Cartridges (Economy), 60 GB, w/o Labeling or Initialization (Withdrawn)
+  - 3599-E21 IBM 3592 Enterprise Tape Cartridges (Economy), 60 GB WORM, with Labeling and Initialization (Withdrawn)
+  - 3599-E22 IBM 3592 Enterprise Tape Cartridges (Economy), 60 GB WORM, with Labeling Only (Withdrawn)
+  - 3599-E23 IBM 3592 Enterprise Tape Cartridges (Economy), 60 GB WORM, w/o Labeling or Initialization (Withdrawn)
+  - 3859-D02 40GB DLTtape IV Cartridges with Labeling Services (Withdrawn)
+  - 3859-D03 40GB DLTtape IV Cartridges (Withdrawn)
+  - 3859-D04 DLTtape cleaning cartridges (Withdrawn)
