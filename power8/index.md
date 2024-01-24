@@ -1,6 +1,6 @@
 # Power8
 
-content update: 2024-01-24 23:56:14.237092134 +0800 CST
+content update: 2024-01-25 00:07:07.043942099 +0800 CST
 
 ---
 
@@ -8,7 +8,7 @@ content update: 2024-01-24 23:56:14.237092134 +0800 CST
 
 
 - [Family 8286+02 IBM Power System S824 server](#family-828602-ibm-power-system-s824-server)
-- [Family 9080+01 IBM Power System E880C (9080-MHE)](#family-908001-ibm-power-system-e880c-9080-mhe)
+- [Family 9080+02 IBM Power E870C Enterprise server Model MME](#family-908002-ibm-power-e870c-enterprise-server-model-mme)
 
 ---
 
@@ -41,15 +41,15 @@ content update: 2024-01-24 23:56:14.237092134 +0800 CST
 
 
 
-### Family 9080+01 IBM Power System E880C (9080-MHE)
+### Family 9080+02 IBM Power E870C Enterprise server Model MME
 
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-e880c-9080-mhe](https://www.ibm.com/docs/en/announcements/power-system-e880c-9080-mhe?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/power-e870c-enterprise-server-model-mme](https://www.ibm.com/docs/en/announcements/power-e870c-enterprise-server-model-mme?region=AP)
 
 📅 2022-11-15
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 9080-MHE | 2016-09-19 | 2016-09-29 | 2019-12-31 | 2024-10-31 |
+| 9080-MME | 2016-09-19 | 2016-09-29 | 2019-12-31 | 2024-10-31 |
 
 
 
