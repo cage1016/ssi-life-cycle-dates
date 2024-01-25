@@ -1,6 +1,6 @@
 # Spectrum Software
 
-content update: 2024-01-25 00:07:07.043942099 +0800 CST
+content update: 2024-01-26 00:07:21.246909304 +0800 CST
 
 ---
 
@@ -8,6 +8,7 @@ content update: 2024-01-25 00:07:07.043942099 +0800 CST
 
 
 - [](#)
+- [5639-003 IBM Copy Manager for IBM Spectrum Virtualize 1.1](#5639-003-ibm-copy-manager-for-ibm-spectrum-virtualize-11)
 - [5639-691 IBM Storage Protect Plus for IBM FlashSystem 10.1](#5639-691-ibm-storage-protect-plus-for-ibm-flashsystem-101)
 - [5641-VC8 IBM Storage Virtualize Software for SAN Volume Controller 8.6](#5641-vc8-ibm-storage-virtualize-software-for-san-volume-controller-86)
 - [5724-T60 IBM Security Guardium Key Lifecycle Manager 4.2](#5724-t60-ibm-security-guardium-key-lifecycle-manager-42)
@@ -29,6 +30,29 @@ content update: 2024-01-25 00:07:07.043942099 +0800 CST
 
 📅 
 
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 5639-003 IBM Copy Manager for IBM Spectrum Virtualize 1.1
+
+🔗 [https://www.ibm.com/docs/en/announcements/copy-manager-spectrum-virtualize-11](https://www.ibm.com/docs/en/announcements/copy-manager-spectrum-virtualize-11?region=AP)
+
+📅 2021-08-17
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 5639-003 | 01.01.00 | 2021-08-17 | 2021-08-27 | - |
 
 
 
