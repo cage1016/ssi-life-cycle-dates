@@ -1,13 +1,15 @@
 # FlashSystem
 
-content update: 2024-01-27 00:06:57.401165542 +0800 CST
+content update: 2024-01-28 00:06:45.885130184 +0800 CST
 
 ---
 
 ### Table of contents
 
 
+- [Family 2072+05 IBM FlashSystem 5000](#family-207205-ibm-flashsystem-5000)
 - [Family 2072+06 IBM FlashSystem 5015 and 5035](#family-207206-ibm-flashsystem-5015-and-5035)
+- [Family 2076+07 IBM FlashSystem 7200](#family-207607-ibm-flashsystem-7200)
 - [Family 2077+05 IBM FlashSystem 5100](#family-207705-ibm-flashsystem-5100)
 - [Family 4662+01 IBM FlashSystem 5200](#family-466201-ibm-flashsystem-5200)
 - [Family 4664+01 IBM FlashSystem 7200 with Expert Care](#family-466401-ibm-flashsystem-7200-with-expert-care)
@@ -50,6 +52,35 @@ content update: 2024-01-27 00:06:57.401165542 +0800 CST
 
 
 
+### Family 2072+05 IBM FlashSystem 5000
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5000](https://www.ibm.com/docs/en/announcements/flashsystem-5000?region=AP)
+
+📅 2024-01-23T06:15:20Z
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2072-12G | 2020-02-11 | 2020-03-06 | - | - |
+| 2072-2H2 | 2020-02-11 | 2020-03-06 | 2021-04-10 | - |
+| 2072-2H4 | 2020-02-11 | 2020-03-06 | 2021-04-10 | - |
+| 2072-24G | 2020-02-11 | 2020-03-06 | - | - |
+| 2072-3H2 | 2020-02-11 | 2020-03-06 | 2021-04-10 | - |
+| 2072-3H4 | 2020-02-11 | 2020-03-06 | 2021-04-10 | - |
+| 2072-92G | 2020-02-11 | 2020-03-06 | - | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 2072+06 IBM FlashSystem 5015 and 5035
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5015-5035-2023-10-10](https://www.ibm.com/docs/en/announcements/flashsystem-5015-5035-2023-10-10?region=AP)
@@ -65,6 +96,34 @@ content update: 2024-01-27 00:06:57.401165542 +0800 CST
 
 
 
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2076+07 IBM FlashSystem 7200
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7200-2023-09-12](https://www.ibm.com/docs/en/announcements/flashsystem-7200-2023-09-12?region=AP)
+
+📅 2024-01-23T06:15:22Z
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2076-U7C | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
+| 2076-12G | 2020-02-11 | 2020-03-06 | - | - |
+| 2076-24G | 2020-02-11 | 2020-03-06 | - | - |
+| 2076-824 | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
+| 2076-92G | 2020-02-11 | 2020-03-06 | - | - |
+
+
+> Note: 2076-824 and 2076-U7C effective marketing withdrawal date is
+2022/10/22 for Korea and Taiwan, and 2023/06/17 for India.
 
 
 

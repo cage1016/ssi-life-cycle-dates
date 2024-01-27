@@ -1,12 +1,13 @@
 # Power10
 
-content update: 2024-01-27 00:06:57.401165542 +0800 CST
+content update: 2024-01-28 00:06:45.885130184 +0800 CST
 
 ---
 
 ### Table of contents
 
 
+- [Family 9043+01 IBM Power E1050 enterprise midrange technology-based server](#family-904301-ibm-power-e1050-enterprise-midrange-technology-based-server)
 - [Family 9080+04 IBM Power E1080 Enterprise server](#family-908004-ibm-power-e1080-enterprise-server)
 - [Family 9105+04 IBM Power S1014 (9105-41B)](#family-910504-ibm-power-s1014-9105-41b)
 - [Family 9786+01 IBM Power L1022 (9786-22H)](#family-978601-ibm-power-l1022-9786-22h)
@@ -14,6 +15,29 @@ content update: 2024-01-27 00:06:57.401165542 +0800 CST
 ---
 
 [← Back to README](../README.md)
+
+
+
+
+
+### Family 9043+01 IBM Power E1050 enterprise midrange technology-based server
+
+🔗 [https://www.ibm.com/docs/en/announcements/power-e1050-enterprise-midrange-technology-based-server](https://www.ibm.com/docs/en/announcements/power-e1050-enterprise-midrange-technology-based-server?region=AP)
+
+📅 2024-01-10T17:02:18Z
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9043-MRX | 2022-07-12 | 2022-07-22 | - | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
 
 
 

@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2024-01-27 00:06:57.401165542 +0800 CST
+content update: 2024-01-28 00:06:45.885130184 +0800 CST
 
 ---
 
@@ -20,12 +20,14 @@ content update: 2024-01-27 00:06:57.401165542 +0800 CST
 - [3583-L18 IBM TotalStorage Ultrium Scalable Tape Library Model L18](#3583-l18-ibm-totalstorage-ultrium-scalable-tape-library-model-l18)
 - [3583-L36 IBM TotalStorage Ultrium Scalable Tape Library Model L36](#3583-l36-ibm-totalstorage-ultrium-scalable-tape-library-model-l36)
 - [3583-L72 IBM TotalStorage Ultrium Scalable Tape Library Model L72](#3583-l72-ibm-totalstorage-ultrium-scalable-tape-library-model-l72)
+- [Family 3584+05 IBM TotalStorage 3584 Tape Library Model L22](#family-358405-ibm-totalstorage-3584-tape-library-model-l22)
 - [Family 3584+07 IBM TotalStorage 3584 Tape Library Model L52](#family-358407-ibm-totalstorage-3584-tape-library-model-l52)
 - [Family 3584+12 IBM System Storage TS3500 Tape Library Model L53](#family-358412-ibm-system-storage-ts3500-tape-library-model-l53)
 - [Family 3584+15 IBM TS4500 Tape Library L55, D55, S55, L25, D25, S25, TR1](#family-358415-ibm-ts4500-tape-library-l55-d55-s55-l25-d25-s25-tr1)
 - [Family 3948+01 IBM TS7700 Release 5.4](#family-394801-ibm-ts7700-release-54)
 - [Family 3952+01 IBM System Storage Tape Frame](#family-395201-ibm-system-storage-tape-frame)
 - [Family 3957+06 IBM TS7770 Models VED](#family-395706-ibm-ts7770-models-ved)
+- [Family 3958+01 IBM System Storage TS7650G Server](#family-395801-ibm-system-storage-ts7650g-server)
 - [Family 3958+02 IBM System Storage TS7650G Server](#family-395802-ibm-system-storage-ts7650g-server)
 - [Family 3958+03 IBM System Storage TS7650 ProtecTIER De-duplication Appliance](#family-395803-ibm-system-storage-ts7650-protectier-de-duplication-appliance)
 - [Family 3958+04 IBM TS7680 ProtecTIER Deduplication Gateway for System z](#family-395804-ibm-ts7680-protectier-deduplication-gateway-for-system-z)
@@ -346,6 +348,29 @@ content update: 2024-01-27 00:06:57.401165542 +0800 CST
 
 
 
+### Family 3584+05 IBM TotalStorage 3584 Tape Library Model L22
+
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-3584-tape-library-model-l22](https://www.ibm.com/docs/en/announcements/totalstorage-3584-tape-library-model-l22?region=AP)
+
+📅 2023-11-27T16:51:21Z
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3584-L22 | 2004-04-27 | 2004-06-11 | 2006-12-01 | 2021-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 3584+07 IBM TotalStorage 3584 Tape Library Model L52
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-3584-tape-library-model-l52](https://www.ibm.com/docs/en/announcements/totalstorage-3584-tape-library-model-l52?region=AP)
@@ -481,6 +506,29 @@ content update: 2024-01-27 00:06:57.401165542 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3957-VED | 2019-10-22 | 2019-11-22 | 2023-05-31 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 3958+01 IBM System Storage TS7650G Server
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts7650g-server-2019-12-10](https://www.ibm.com/docs/en/announcements/system-storage-ts7650g-server-2019-12-10?region=AP)
+
+📅 2019-12-10
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3958-DD1 | 2008-08-26 | 2008-08-29 | 2009-03-28 | 2018-11-30 |
 
 
 

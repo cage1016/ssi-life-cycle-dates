@@ -1,12 +1,13 @@
 # Power9
 
-content update: 2024-01-27 00:06:57.401165542 +0800 CST
+content update: 2024-01-28 00:06:45.885130184 +0800 CST
 
 ---
 
 ### Table of contents
 
 
+- [Family 9008+01 IBM Power System L922 (9008-22L)](#family-900801-ibm-power-system-l922-9008-22l)
 - [Family 9009+01 IBM Power System S922 (9009-22A)](#family-900901-ibm-power-system-s922-9009-22a)
 - [Family 9009+02 IBM Power System S924 (9009-42A)](#family-900902-ibm-power-system-s924-9009-42a)
 - [Family 9009+04 IBM Power System S922 (9009-22G)](#family-900904-ibm-power-system-s922-9009-22g)
@@ -17,6 +18,29 @@ content update: 2024-01-27 00:06:57.401165542 +0800 CST
 ---
 
 [← Back to README](../README.md)
+
+
+
+
+
+### Family 9008+01 IBM Power System L922 (9008-22L)
+
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-l922-9008-22l](https://www.ibm.com/docs/en/announcements/power-system-l922-9008-22l?region=AP)
+
+📅 2024-01-09T06:15:59Z
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9008-22L | 2018-02-13 | 2018-03-20 | 2021-01-29 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
 
 
 
