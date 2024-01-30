@@ -1,6 +1,6 @@
 # Power9
 
-content update: 2024-01-30 00:07:09.053097363 +0800 CST
+content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 ---
 
@@ -8,9 +8,12 @@ content update: 2024-01-30 00:07:09.053097363 +0800 CST
 
 
 - [Family 8335+05 IBM Power System AC922 (8335-GTH)](#family-833505-ibm-power-system-ac922-8335-gth)
+- [Family 9008+01 IBM Power System L922 (9008-22L)](#family-900801-ibm-power-system-l922-9008-22l)
 - [Family 9009+01 IBM Power System S922 (9009-22A)](#family-900901-ibm-power-system-s922-9009-22a)
+- [Family 9009+02 IBM Power System S924 (9009-42A)](#family-900902-ibm-power-system-s924-9009-42a)
 - [Family 9009+03 IBM Power System S914 (9009-41A)](#family-900903-ibm-power-system-s914-9009-41a)
 - [Family 9009+04 IBM Power System S922 (9009-22G)](#family-900904-ibm-power-system-s922-9009-22g)
+- [Family 9009+05 IBM Power System S914 (9009-41G)](#family-900905-ibm-power-system-s914-9009-41g)
 - [Family 9009+06 IBM Power System S924 (9009-42G)](#family-900906-ibm-power-system-s924-9009-42g)
 - [Family 9040+01 IBM Power System E950 (9040-MR9)](#family-904001-ibm-power-system-e950-9040-mr9)
 - [Family 9080+03 IBM Power System E980 (9080-M9S)](#family-908003-ibm-power-system-e980-9080-m9s)
@@ -48,6 +51,29 @@ content update: 2024-01-30 00:07:09.053097363 +0800 CST
 
 
 
+### Family 9008+01 IBM Power System L922 (9008-22L)
+
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-l922-9008-22l](https://www.ibm.com/docs/en/announcements/power-system-l922-9008-22l?region=AP)
+
+📅 2024-01-09T06:15:59Z
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9008-22L | 2018-02-13 | 2018-03-20 | 2021-01-29 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 9009+01 IBM Power System S922 (9009-22A)
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-system-s922-9009-22a](https://www.ibm.com/docs/en/announcements/power-system-s922-9009-22a?region=AP)
@@ -57,6 +83,29 @@ content update: 2024-01-30 00:07:09.053097363 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9009-22A | 2018-02-13 | 2018-03-20 | 2021-01-29 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 9009+02 IBM Power System S924 (9009-42A)
+
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-s924-9009-42a](https://www.ibm.com/docs/en/announcements/power-system-s924-9009-42a?region=AP)
+
+📅 2023-11-30T00:46:04Z
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9009-42A | 2018-02-13 | 2018-03-20 | 2021-01-29 | - |
 
 
 
@@ -103,6 +152,29 @@ content update: 2024-01-30 00:07:09.053097363 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9009-22G | 2020-07-14 | 2020-07-24 | 2023-10-20 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 9009+05 IBM Power System S914 (9009-41G)
+
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-s914-9009-41g-2023-10-24](https://www.ibm.com/docs/en/announcements/power-system-s914-9009-41g-2023-10-24?region=AP)
+
+📅 2024-01-09T06:16:00Z
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9009-41G | 2020-07-14 | 2020-07-24 | 2023-10-20 | - |
 
 
 
