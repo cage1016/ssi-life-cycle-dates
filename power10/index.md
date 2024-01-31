@@ -1,6 +1,6 @@
 # Power10
 
-content update: 2024-01-31 00:07:31.939048272 +0800 CST
+content update: 2024-02-01 00:07:27.528954429 +0800 CST
 
 ---
 
@@ -28,7 +28,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-e1050-enterprise-midrange-technology-based-server](https://www.ibm.com/docs/en/announcements/power-e1050-enterprise-midrange-technology-based-server?region=AP)
 
-📅 2024-01-10T17:02:18Z
+📅 2024-01-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -51,7 +51,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-e1080-enterprise-server](https://www.ibm.com/docs/en/announcements/power-e1080-enterprise-server?region=AP)
 
-📅 2024-01-10T17:03:28Z
+📅 2024-01-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -74,7 +74,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-s1022-9105-22a](https://www.ibm.com/docs/en/announcements/power-s1022-9105-22a?region=AP)
 
-📅 2024-01-09T06:16:05Z
+📅 2024-01-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -97,7 +97,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-s1024-9105-42a](https://www.ibm.com/docs/en/announcements/power-s1024-9105-42a?region=AP)
 
-📅 2024-01-10T17:04:22Z
+📅 2024-01-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -120,7 +120,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-s1022s-9105-22b](https://www.ibm.com/docs/en/announcements/power-s1022s-9105-22b?region=AP)
 
-📅 2024-01-10T17:04:07Z
+📅 2024-01-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -143,7 +143,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-s1014-9105-41b](https://www.ibm.com/docs/en/announcements/power-s1014-9105-41b?region=AP)
 
-📅 2024-01-10T17:04:04Z
+📅 2024-01-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -167,7 +167,7 @@ October 28, 2022, for MTM 9105-41B (Rack and Tower) in China only.
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-l1022-9786-22h](https://www.ibm.com/docs/en/announcements/power-l1022-9786-22h?region=AP)
 
-📅 2024-01-10T17:16:29Z
+📅 2024-01-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -190,7 +190,7 @@ October 28, 2022, for MTM 9105-41B (Rack and Tower) in China only.
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-l1024-9786-42h](https://www.ibm.com/docs/en/announcements/power-l1024-9786-42h?region=AP)
 
-📅 2024-01-10T17:16:36Z
+📅 2024-01-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

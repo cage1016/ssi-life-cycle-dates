@@ -1,6 +1,6 @@
 # Spectrum Software
 
-content update: 2024-01-31 00:07:31.939048272 +0800 CST
+content update: 2024-02-01 00:07:27.528954429 +0800 CST
 
 ---
 
@@ -9,6 +9,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 - [](#)
 - [5639-691 IBM Storage Protect Plus for IBM FlashSystem 10.1](#5639-691-ibm-storage-protect-plus-for-ibm-flashsystem-101)
+- [5641-VC8 IBM Storage Virtualize Software for SAN Volume Controller 8.6](#5641-vc8-ibm-storage-virtualize-software-for-san-volume-controller-86)
 - [5641-VC8 IBM Storage Virtualize Software for SAN Volume Controller 8.6](#5641-vc8-ibm-storage-virtualize-software-for-san-volume-controller-86)
 - [5724-T60 IBM Security Guardium Key Lifecycle Manager 4.2](#5724-t60-ibm-security-guardium-key-lifecycle-manager-42)
 - [5725-F92 IBM Virtual Storage Center 5.4](#5725-f92-ibm-virtual-storage-center-54)
@@ -75,6 +76,34 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 🔗 [https://www.ibm.com/docs/en/announcements/storage-virtualize-software-san-volume-controller-86](https://www.ibm.com/docs/en/announcements/storage-virtualize-software-san-volume-controller-86?region=AP)
 
 📅 2023-12-05T06:18:21Z
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 5641-VC8 | 08.01.00 | 2017-08-22 | 2017-09-22 | 2019-12-28 |
+| 5725-M19 | 08.01.00 | 2017-08-22 | 2017-09-22 | 2019-12-28 |
+| 5641-CP8 | 08.01.00 | 2017-08-22 | 2017-09-22 | 2019-12-28 |
+| 5725-H04 | 08.01.00 | 2017-08-22 | 2017-09-22 | 2019-12-28 |
+| 5641-B08 | 08.01.00 | 2017-08-22 | 2017-09-22 | 2019-12-28 |
+| 5725-Y35 | 08.01.00 | 2017-08-22 | 2017-09-22 | 2019-12-28 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 5641-VC8 IBM Storage Virtualize Software for SAN Volume Controller 8.6
+
+🔗 [https://www.ibm.com/docs/en/announcements/storage-virtualize-software-san-volume-controller-86](https://www.ibm.com/docs/en/announcements/storage-virtualize-software-san-volume-controller-86?region=AP)
+
+📅 2023-12-05
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

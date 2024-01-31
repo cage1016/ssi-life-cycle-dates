@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2024-01-31 00:07:31.939048272 +0800 CST
+content update: 2024-02-01 00:07:27.528954429 +0800 CST
 
 ---
 
@@ -11,6 +11,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 - [3494-L10 IBM TotalStorage Enterprise Tape Library Base Frame Model L10](#3494-l10-ibm-totalstorage-enterprise-tape-library-base-frame-model-l10)
 - [3494-L12 IBM TotalStorage Enterprise Tape Library Base Frame Model L12](#3494-l12-ibm-totalstorage-enterprise-tape-library-base-frame-model-l12)
 - [3494-L14 IBM TotalStorage Enterprise Tape Library Base Frame Model L14](#3494-l14-ibm-totalstorage-enterprise-tape-library-base-frame-model-l14)
+- [3494-L22 IBM TotalStorage Enterprise Tape Library Base Frame Model L22](#3494-l22-ibm-totalstorage-enterprise-tape-library-base-frame-model-l22)
 - [Family 3555+01 IBM TS4300 tape library Models L3A and E3A](#family-355501-ibm-ts4300-tape-library-models-l3a-and-e3a)
 - [Family 3572+01 IBM System Storage TS2900 Tape Autoloader](#family-357201-ibm-system-storage-ts2900-tape-autoloader)
 - [Family 3573+01 IBM System Storage TS3100 Tape Library Express Model L2U](#family-357301-ibm-system-storage-ts3100-tape-library-express-model-l2u)
@@ -140,6 +141,29 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 
 
+### 3494-L22 IBM TotalStorage Enterprise Tape Library Base Frame Model L22
+
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-library-base-frame-model-l22](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-library-base-frame-model-l22?region=AP)
+
+📅 2016-06-28
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3494-L22 | 2003-09-09 | 2003-10-31 | 2006-12-01 | 2017-01-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 3555+01 IBM TS4300 tape library Models L3A and E3A
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts4300-tape-library-models-l3a-e3a](https://www.ibm.com/docs/en/announcements/ts4300-tape-library-models-l3a-e3a?region=AP)
@@ -197,7 +221,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts3100-tape-library-express-model-l2u](https://www.ibm.com/docs/en/announcements/system-storage-ts3100-tape-library-express-model-l2u?region=AP)
 
-📅 2023-11-27T16:25:08Z
+📅 2023-05-23
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -358,7 +382,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-3584-tape-library-model-l32](https://www.ibm.com/docs/en/announcements/totalstorage-3584-tape-library-model-l32?region=AP)
 
-📅 2023-11-27T16:50:16Z
+📅 2023-05-23
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -381,7 +405,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-3584-tape-library-model-l22](https://www.ibm.com/docs/en/announcements/totalstorage-3584-tape-library-model-l22?region=AP)
 
-📅 2023-11-27T16:51:21Z
+📅 2023-05-23
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -404,7 +428,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-3584-tape-library-model-l52](https://www.ibm.com/docs/en/announcements/totalstorage-3584-tape-library-model-l52?region=AP)
 
-📅 2023-11-27T16:51:48Z
+📅 2023-05-23
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -427,7 +451,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts3500-tape-library-model-l23](https://www.ibm.com/docs/en/announcements/system-storage-ts3500-tape-library-model-l23?region=AP)
 
-📅 2023-11-27T16:53:07Z
+📅 2023-05-23
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -450,7 +474,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts3500-tape-library-model-l53](https://www.ibm.com/docs/en/announcements/system-storage-ts3500-tape-library-model-l53?region=AP)
 
-📅 2023-11-27T16:53:39Z
+📅 2023-05-23
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -473,7 +497,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts4500-tape-library-l55d55s55l25d25s25tr1](https://www.ibm.com/docs/en/announcements/ts4500-tape-library-l55d55s55l25d25s25tr1?region=AP)
 
-📅 2024-01-23T01:30:04Z
+📅 2024-01-23
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -576,7 +600,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/3952-tape-frame-model-f07-ts7700](https://www.ibm.com/docs/en/announcements/3952-tape-frame-model-f07-ts7700?region=AP)
 
-📅 2024-01-23T01:15:24Z
+📅 2024-01-23
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -853,7 +877,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/diamondback-tape-library-1-year-cru-warranty](https://www.ibm.com/docs/en/announcements/diamondback-tape-library-1-year-cru-warranty?region=AP)
 
-📅 2023-12-05T20:33:46Z
+📅 2023-12-12
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

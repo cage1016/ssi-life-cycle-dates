@@ -1,6 +1,6 @@
 # Power9
 
-content update: 2024-01-31 00:07:31.939048272 +0800 CST
+content update: 2024-02-01 00:07:27.528954429 +0800 CST
 
 ---
 
@@ -55,7 +55,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-system-l922-9008-22l](https://www.ibm.com/docs/en/announcements/power-system-l922-9008-22l?region=AP)
 
-📅 2024-01-09T06:15:59Z
+📅 2024-01-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -78,7 +78,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-system-s922-9009-22a](https://www.ibm.com/docs/en/announcements/power-system-s922-9009-22a?region=AP)
 
-📅 2024-01-09T06:16:02Z
+📅 2024-01-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -124,7 +124,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-system-s914-9009-41a](https://www.ibm.com/docs/en/announcements/power-system-s914-9009-41a?region=AP)
 
-📅 2024-01-09T06:15:58Z
+📅 2024-01-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -147,7 +147,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-system-s922-9009-22g](https://www.ibm.com/docs/en/announcements/power-system-s922-9009-22g?region=AP)
 
-📅 2024-01-09T06:16:12Z
+📅 2024-01-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -170,7 +170,7 @@ content update: 2024-01-31 00:07:31.939048272 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-system-s914-9009-41g-2023-10-24](https://www.ibm.com/docs/en/announcements/power-system-s914-9009-41g-2023-10-24?region=AP)
 
-📅 2024-01-09T06:16:00Z
+📅 2024-01-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
