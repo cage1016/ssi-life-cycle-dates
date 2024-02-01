@@ -1,6 +1,6 @@
 # Open Software Family
 
-content update: 2024-02-01 00:07:27.528954429 +0800 CST
+content update: 2024-02-02 00:07:22.038069541 +0800 CST
 
 ---
 
@@ -26,7 +26,7 @@ content update: 2024-02-01 00:07:27.528954429 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/san-volume-controller-models-sa2-sv2](https://www.ibm.com/docs/en/announcements/san-volume-controller-models-sa2-sv2?region=AP)
 
-📅 2023-11-23T16:58:48Z
+📅 2023-12-12
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -50,7 +50,7 @@ content update: 2024-02-01 00:07:27.528954429 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/san-volume-controller-models-sa2-sv2](https://www.ibm.com/docs/en/announcements/san-volume-controller-models-sa2-sv2?region=AP)
 
-📅 2023-12-12
+📅 2023-11-23T16:58:48Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

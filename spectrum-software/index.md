@@ -1,6 +1,6 @@
 # Spectrum Software
 
-content update: 2024-02-01 00:07:27.528954429 +0800 CST
+content update: 2024-02-02 00:07:22.038069541 +0800 CST
 
 ---
 
@@ -8,6 +8,7 @@ content update: 2024-02-01 00:07:27.528954429 +0800 CST
 
 
 - [](#)
+- [5639-003 IBM Copy Manager for IBM Spectrum Virtualize 1.1](#5639-003-ibm-copy-manager-for-ibm-spectrum-virtualize-11)
 - [5639-691 IBM Storage Protect Plus for IBM FlashSystem 10.1](#5639-691-ibm-storage-protect-plus-for-ibm-flashsystem-101)
 - [5641-VC8 IBM Storage Virtualize Software for SAN Volume Controller 8.6](#5641-vc8-ibm-storage-virtualize-software-for-san-volume-controller-86)
 - [5641-VC8 IBM Storage Virtualize Software for SAN Volume Controller 8.6](#5641-vc8-ibm-storage-virtualize-software-for-san-volume-controller-86)
@@ -30,6 +31,29 @@ content update: 2024-02-01 00:07:27.528954429 +0800 CST
 
 📅 
 
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 5639-003 IBM Copy Manager for IBM Spectrum Virtualize 1.1
+
+🔗 [https://www.ibm.com/docs/en/announcements/copy-manager-spectrum-virtualize-11](https://www.ibm.com/docs/en/announcements/copy-manager-spectrum-virtualize-11?region=AP)
+
+📅 2021-08-17
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 5639-003 | 01.01.00 | 2021-08-17 | 2021-08-27 | - |
 
 
 
@@ -75,7 +99,7 @@ content update: 2024-02-01 00:07:27.528954429 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-virtualize-software-san-volume-controller-86](https://www.ibm.com/docs/en/announcements/storage-virtualize-software-san-volume-controller-86?region=AP)
 
-📅 2023-12-05T06:18:21Z
+📅 2023-12-05
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -103,7 +127,7 @@ content update: 2024-02-01 00:07:27.528954429 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-virtualize-software-san-volume-controller-86](https://www.ibm.com/docs/en/announcements/storage-virtualize-software-san-volume-controller-86?region=AP)
 
-📅 2023-12-05
+📅 2023-12-05T06:18:21Z
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
