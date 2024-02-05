@@ -21,9 +21,9 @@ jobs:
           image: ghcr.io/cage1016/ssi-crawling:0.2.3
           options: >
             --user root
-            --env NUM_WORKERS=50
-            --env INTERVAL_BASE=100
-            --env INTERVAL_RANDOMIZATION=100
+            --env NUM_WORKERS=20
+            --env INTERVAL_BASE=800
+            --env INTERVAL_RANDOMIZATION=500
             --env MAX_RETRIES=2
             -v ${{ github.workspace }}:/tmp/:rw
             -w /tmp
