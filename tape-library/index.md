@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2024-02-06 00:30:34.353251519 +0800 CST
+content update: 2024-02-07 00:32:10.32734385 +0800 CST
 
 ---
 
@@ -31,10 +31,7 @@ content update: 2024-02-06 00:30:34.353251519 +0800 CST
 - [Family 3948+01 IBM TS7700 Release 5.4](#family-394801-ibm-ts7700-release-54)
 - [Family 3952+01 IBM System Storage Tape Frame](#family-395201-ibm-system-storage-tape-frame)
 - [Family 3952+02 IBM TS7770 R5.x Model F06](#family-395202-ibm-ts7770-r5x-model-f06)
-- [Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700](#family-395203-ibm-3952-tape-frame-model-f07-for-ibm-ts7700)
 - [Family 3953+01 IBM TotalStorage Library Manager and Tape Frame](#family-395301-ibm-totalstorage-library-manager-and-tape-frame)
-- [Family 3957+06 IBM TS7770 Models VED](#family-395706-ibm-ts7770-models-ved)
-- [Family 3958+01 IBM System Storage TS7650G Server](#family-395801-ibm-system-storage-ts7650g-server)
 - [Family 3958+02 IBM System Storage TS7650G Server](#family-395802-ibm-system-storage-ts7650g-server)
 - [Family 3958+03 IBM System Storage TS7650 ProtecTIER De-duplication Appliance](#family-395803-ibm-system-storage-ts7650-protectier-de-duplication-appliance)
 - [Family 3958+04 IBM TS7680 ProtecTIER Deduplication Gateway for System z](#family-395804-ibm-ts7680-protectier-deduplication-gateway-for-system-z)
@@ -621,29 +618,6 @@ content update: 2024-02-06 00:30:34.353251519 +0800 CST
 
 
 
-### Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700
-
-🔗 [https://www.ibm.com/docs/en/announcements/3952-tape-frame-model-f07-ts7700](https://www.ibm.com/docs/en/announcements/3952-tape-frame-model-f07-ts7700?region=AP)
-
-📅 2024-01-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3952-F07 | 2021-05-25 | 2021-06-18 | - | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 3953+01 IBM TotalStorage Library Manager and Tape Frame
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-library-manager-tape-frame](https://www.ibm.com/docs/en/announcements/totalstorage-library-manager-tape-frame?region=AP)
@@ -654,52 +628,6 @@ content update: 2024-02-06 00:30:34.353251519 +0800 CST
 | --- | --- | --- | --- | --- |
 | 3953-F05 | 2005-05-10 | 2005-06-03 | 2012-12-28 | 2022-12-31 |
 | 3953-L05 | 2005-05-10 | 2005-06-03 | 2011-09-23 | 2018-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3957+06 IBM TS7770 Models VED
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts7770-models-ved](https://www.ibm.com/docs/en/announcements/ts7770-models-ved?region=AP)
-
-📅 2023-05-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3957-VED | 2019-10-22 | 2019-11-22 | 2023-05-31 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3958+01 IBM System Storage TS7650G Server
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts7650g-server-2019-12-10](https://www.ibm.com/docs/en/announcements/system-storage-ts7650g-server-2019-12-10?region=AP)
-
-📅 2019-12-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3958-DD1 | 2008-08-26 | 2008-08-29 | 2009-03-28 | 2018-11-30 |
 
 
 

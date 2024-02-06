@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2024-02-06 00:30:34.353251519 +0800 CST
+content update: 2024-02-07 00:32:10.32734385 +0800 CST
 
 ---
 
@@ -9,7 +9,6 @@ content update: 2024-02-06 00:30:34.353251519 +0800 CST
 
 - [](#)
 - [3499-002 IBM Label Only 3490E Data Cartridges Model 002](#3499-002-ibm-label-only-3490e-data-cartridges-model-002)
-- [3499-003 IBM Standard 3490E Data Cartridges Model 003](#3499-003-ibm-standard-3490e-data-cartridges-model-003)
 - [3499-004 IBM Labeled and Initialized (L&I) 3480 Data Cartridges Model 004](#3499-004-ibm-labeled-and-initialized-l-i-3480-data-cartridges-model-004)
 - [3499-005 IBM Label Only 3480 Data Cartridges Model 005](#3499-005-ibm-label-only-3480-data-cartridges-model-005)
 - [3499-006 IBM Standard 3480 Data Cartridges Model 006](#3499-006-ibm-standard-3480-data-cartridges-model-006)
@@ -23,6 +22,7 @@ content update: 2024-02-06 00:30:34.353251519 +0800 CST
 - [Family 3589+07 IBM Ultrium 6 2.5 TB Data Cartridge Models 550,650,570,670](#family-358907-ibm-ultrium-6-25-tb-data-cartridge-models-550-650-570-670)
 - [Family 3589+08 IBM Ultrium 7 6 TB Data Cartridge Models 551, 651, 571, 671](#family-358908-ibm-ultrium-7-6-tb-data-cartridge-models-551-651-571-671)
 - [Family 3589+09 IBM Ultrium 8 12 TB Data Cartridge Models 552 and 652](#family-358909-ibm-ultrium-8-12-tb-data-cartridge-models-552-and-652)
+- [Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452](#family-358910-ibm-ultrium-7-9-tb-uninitialized-data-cartridge-model-452)
 - [Family 3589+11 IBM Ultrium 9 18 TB Data Cartridge Models 553 and 653](#family-358911-ibm-ultrium-9-18-tb-data-cartridge-models-553-and-653)
 - [Family 3589+12 IBM 3589 Ultrium Cleaning Cartridges Model 005 w/ customized labeling service](#family-358912-ibm-3589-ultrium-cleaning-cartridges-model-005-w-customized-labeling-service)
 - [Family 3599+01 IBM Tape Cartridges 3592](#family-359901-ibm-tape-cartridges-3592)
@@ -91,26 +91,6 @@ content update: 2024-02-06 00:30:34.353251519 +0800 CST
 ### 3499-002 IBM Label Only 3490E Data Cartridges Model 002
 
 🔗 [https://www.ibm.com/docs/en/announcements/label-only-3490e-data-cartridges-model-002](https://www.ibm.com/docs/en/announcements/label-only-3490e-data-cartridges-model-002?region=AP)
-
-📅 2003-11-24
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3499-003 IBM Standard 3490E Data Cartridges Model 003
-
-🔗 [https://www.ibm.com/docs/en/announcements/standard-3490e-data-cartridges-model-003](https://www.ibm.com/docs/en/announcements/standard-3490e-data-cartridges-model-003?region=AP)
 
 📅 2003-11-24
 
@@ -419,6 +399,29 @@ content update: 2024-02-06 00:30:34.353251519 +0800 CST
 | --- | --- | --- | --- | --- |
 | 3589-552 | 2017-12-19 | 2018-01-17 | - | - |
 | 3589-652 | 2017-12-19 | 2018-01-17 | - | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452
+
+🔗 [https://www.ibm.com/docs/en/announcements/ultrium-7-9-tb-uninitialized-data-cartridge-model-452](https://www.ibm.com/docs/en/announcements/ultrium-7-9-tb-uninitialized-data-cartridge-model-452?region=AP)
+
+📅 2023-07-04
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3589-452 | 2017-12-19 | 2017-12-19 | - | - |
 
 
 
