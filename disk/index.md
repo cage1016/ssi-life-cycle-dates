@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-02-07 00:32:10.32734385 +0800 CST
+content update: 2024-02-08 00:32:02.352541276 +0800 CST
 
 ---
 
@@ -8,7 +8,6 @@ content update: 2024-02-07 00:32:10.32734385 +0800 CST
 
 
 - [](#)
-- [Family 1269+02 IBM System Storage DCS9900 Storage System](#family-126902-ibm-system-storage-dcs9900-storage-system)
 - [Family 1710+01 IBM TotalStorage DS4000 EXP100 Storage Expansion Unit](#family-171001-ibm-totalstorage-ds4000-exp100-storage-expansion-unit)
 - [1722-60U IBM TotalStorage DS4300 Midrange Disk System Model 60U](#1722-60u-ibm-totalstorage-ds4300-midrange-disk-system-model-60u)
 - [1722-6LU IBM TotalStorage DS4300 Midrange Disk System Model 6LU](#1722-6lu-ibm-totalstorage-ds4300-midrange-disk-system-model-6lu)
@@ -26,7 +25,6 @@ content update: 2024-02-07 00:32:10.32734385 +0800 CST
 - [Family 1813+02 IBM System Storage DCS3860 (AAS)](#family-181302-ibm-system-storage-dcs3860-aas)
 - [Family 1813+03 IBM System Storage DCS3860 Controller 96C](#family-181303-ibm-system-storage-dcs3860-controller-96c)
 - [Family 1814+01 IBM System Storage DS4700 Express Models](#family-181401-ibm-system-storage-ds4700-express-models)
-- [Family 1814+02 IBM System Storage DS4200 Express Model 7V](#family-181402-ibm-system-storage-ds4200-express-model-7v)
 - [Family 1814+03 IBM System Storage DS4700 Express Models 70-DC and 72-DC](#family-181403-ibm-system-storage-ds4700-express-models-70-dc-and-72-dc)
 - [Family 1814+04 IBM System Storage DS5020 Midrange Disk EXP520 Expansion Unit](#family-181404-ibm-system-storage-ds5020-midrange-disk-exp520-expansion-unit)
 - [Family 1815+01 IBM TotalStorage DS4800 Midrange Disk System](#family-181501-ibm-totalstorage-ds4800-midrange-disk-system)
@@ -62,10 +60,15 @@ content update: 2024-02-07 00:32:10.32734385 +0800 CST
 - [Family 2101+02 IBM Storage Solutions Rack Model 200](#family-210102-ibm-storage-solutions-rack-model-200)
 - [2104-DL1 IBM Expandable Storage Plus Model DL1](#2104-dl1-ibm-expandable-storage-plus-model-dl1)
 - [2104-DS4 IBM TotalStorage Expandable Storage Plus 320 Model DS4](#2104-ds4-ibm-totalstorage-expandable-storage-plus-320-model-ds4)
+- [2104-DU3 IBM Expandable Storage Plus Drawer Model DU3](#2104-du3-ibm-expandable-storage-plus-drawer-model-du3)
 - [2104-TL1 IBM Expandable Storage Plus Model TL1](#2104-tl1-ibm-expandable-storage-plus-model-tl1)
 - [2104-TS4 IBM TotalStorage Expandable Storage Plus 320 Model TS4](#2104-ts4-ibm-totalstorage-expandable-storage-plus-320-model-ts4)
+- [2104-TU3 IBM Expandable Storage Plus Tower Model TU3](#2104-tu3-ibm-expandable-storage-plus-tower-model-tu3)
 - [2105-100 IBM Versatile Storage Server Model 100](#2105-100-ibm-versatile-storage-server-model-100)
 - [2105-750 IBM TotalStorage Enterprise Storage Server Model 750](#2105-750-ibm-totalstorage-enterprise-storage-server-model-750)
+- [2105-800 IBM TotalStorage Enterprise Storage Server Model 800](#2105-800-ibm-totalstorage-enterprise-storage-server-model-800)
+- [2105-B09 IBM Versatile Storage Server Model B09](#2105-b09-ibm-versatile-storage-server-model-b09)
+- [2105-E10 IBM Enterprise Storage Server Model E10](#2105-e10-ibm-enterprise-storage-server-model-e10)
 - [2105-E20 IBM Enterprise Storage Server Model E20](#2105-e20-ibm-enterprise-storage-server-model-e20)
 - [2105-F10 IBM Enterprise Storage Server Model F10](#2105-f10-ibm-enterprise-storage-server-model-f10)
 - [2105-F20 IBM Enterprise Storage Server Model F20](#2105-f20-ibm-enterprise-storage-server-model-f20)
@@ -252,31 +255,6 @@ content update: 2024-02-07 00:32:10.32734385 +0800 CST
 
 📅 
 
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 1269+02 IBM System Storage DCS9900 Storage System
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-dcs9900-storage-system](https://www.ibm.com/docs/en/announcements/system-storage-dcs9900-storage-system?region=AP)
-
-📅 2018-07-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1269-CP2 | 2008-10-14 | 2008-10-24 | 2011-10-15 | 2016-12-31 |
-| 1269-3S1 | 2008-10-14 | 2008-10-24 | 2012-10-20 | 2016-12-31 |
-| 1269-3S2 | 2008-11-25 | 2008-12-05 | 2009-05-26 | 2016-12-31 |
 
 
 
@@ -673,29 +651,6 @@ content update: 2024-02-07 00:32:10.32734385 +0800 CST
 | --- | --- | --- | --- | --- |
 | 1814-70A | 2006-05-09 | 2006-06-09 | 2009-12-11 | 2017-01-31 |
 | 1814-72A | 2006-05-09 | 2006-06-09 | 2009-12-11 | 2017-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 1814+02 IBM System Storage DS4200 Express Model 7V
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds4200-express-model-7v](https://www.ibm.com/docs/en/announcements/system-storage-ds4200-express-model-7v?region=AP)
-
-📅 2016-07-19
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1814-7VA | 2007-10-23 | 2007-10-23 | 2008-12-31 | 2017-01-31 |
 
 
 
@@ -1587,6 +1542,29 @@ content update: 2024-02-07 00:32:10.32734385 +0800 CST
 
 
 
+### 2104-DU3 IBM Expandable Storage Plus Drawer Model DU3
+
+🔗 [https://www.ibm.com/docs/en/announcements/expandable-storage-plus-drawer-model-du3](https://www.ibm.com/docs/en/announcements/expandable-storage-plus-drawer-model-du3?region=AP)
+
+📅 2011-06-23
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2104-DU3 | 2000-10-03 | 2000-10-13 | 2004-02-13 | 2012-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 2104-TL1 IBM Expandable Storage Plus Model TL1
 
 🔗 [https://www.ibm.com/docs/en/announcements/expandable-storage-plus-model-tl1](https://www.ibm.com/docs/en/announcements/expandable-storage-plus-model-tl1?region=AP)
@@ -1633,6 +1611,29 @@ content update: 2024-02-07 00:32:10.32734385 +0800 CST
 
 
 
+### 2104-TU3 IBM Expandable Storage Plus Tower Model TU3
+
+🔗 [https://www.ibm.com/docs/en/announcements/expandable-storage-plus-tower-model-tu3](https://www.ibm.com/docs/en/announcements/expandable-storage-plus-tower-model-tu3?region=AP)
+
+📅 2011-06-23
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2104-TU3 | 2000-10-03 | 2000-10-13 | 2004-02-13 | 2012-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 2105-100 IBM Versatile Storage Server Model 100
 
 🔗 [https://www.ibm.com/docs/en/announcements/versatile-storage-server-model-100](https://www.ibm.com/docs/en/announcements/versatile-storage-server-model-100?region=AP)
@@ -1665,6 +1666,75 @@ content update: 2024-02-07 00:32:10.32734385 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2105-750 | 2004-04-07 | 2004-05-28 | 2006-04-28 | 2012-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 2105-800 IBM TotalStorage Enterprise Storage Server Model 800
+
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-storage-server-model-800](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-storage-server-model-800?region=AP)
+
+📅 2017-01-24
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2105-800 | 2002-07-15 | 2002-08-16 | 2006-04-28 | 2014-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 2105-B09 IBM Versatile Storage Server Model B09
+
+🔗 [https://www.ibm.com/docs/en/announcements/versatile-storage-server-model-b09](https://www.ibm.com/docs/en/announcements/versatile-storage-server-model-b09?region=AP)
+
+📅 2008-07-10
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2105-B09 | 1998-06-02 | 1998-08-21 | 1999-11-24 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 2105-E10 IBM Enterprise Storage Server Model E10
+
+🔗 [https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-e10](https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-e10?region=AP)
+
+📅 2009-06-25
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2105-E10 | 1999-07-27 | 1999-09-24 | 2000-09-29 | - |
 
 
 
