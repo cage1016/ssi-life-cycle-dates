@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2024-02-08 00:32:02.352541276 +0800 CST
+content update: 2024-02-09 00:32:09.868887409 +0800 CST
 
 ---
 
@@ -11,7 +11,6 @@ content update: 2024-02-08 00:32:02.352541276 +0800 CST
 - [Family 2005+01 IBM TotalStorage SAN Switch Models H08 and H16](#family-200501-ibm-totalstorage-san-switch-models-h08-and-h16)
 - [Family 2005+02 IBM TotalStorage SANB32 Switch](#family-200502-ibm-totalstorage-sanb32-switch)
 - [Family 2005+04 IBM TotalStorage SANB16B-2 Fabric Switch](#family-200504-ibm-totalstorage-sanb16b-2-fabric-switch)
-- [Family 2005+06 IBM System Storage SANR18B-R](#family-200506-ibm-system-storage-sanr18b-r)
 - [Family 2005+07 IBM System Storage SANB64B-2 Fabric Switch](#family-200507-ibm-system-storage-sanb64b-2-fabric-switch)
 - [Family 2005+08 IBM System Storage SANB32B-3 Fabric Switch](#family-200508-ibm-system-storage-sanb32b-3-fabric-switch)
 - [Family 2005+09 IBM System Storage SAN04B-R](#family-200509-ibm-system-storage-san04b-r)
@@ -58,7 +57,6 @@ content update: 2024-02-08 00:32:02.352541276 +0800 CST
 - [Family 8960+07 IBM Storage Networking SAN64B-6](#family-896007-ibm-storage-networking-san64b-6)
 - [Family 8961+01 IBM Storage Networking SAN256B-6](#family-896101-ibm-storage-networking-san256b-6)
 - [Family 8961+02 IBM Storage Networking SAN512B-6](#family-896102-ibm-storage-networking-san512b-6)
-- [Family 8961+03 IBM Storage Networking SAN256B-7](#family-896103-ibm-storage-networking-san256b-7)
 - [Family 8961+04 IBM Storage Networking SAN512B-7](#family-896104-ibm-storage-networking-san512b-7)
 - [Family 8969+01 IBM IBM Storage Networking SAN24B-6](#family-896901-ibm-ibm-storage-networking-san24b-6)
 - [Family 8969+02 IBM Storage Networking SAN128B-7](#family-896902-ibm-storage-networking-san128b-7)
@@ -151,29 +149,6 @@ content update: 2024-02-08 00:32:02.352541276 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2005-B16 | 2005-07-26 | 2005-08-26 | 2008-11-29 | 2012-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2005+06 IBM System Storage SANR18B-R
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-sanr18b-r](https://www.ibm.com/docs/en/announcements/system-storage-sanr18b-r?region=AP)
-
-📅 2013-10-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2005-R18 | 2006-05-09 | 2006-06-09 | 2009-01-03 | 2012-12-31 |
 
 
 
@@ -1244,29 +1219,6 @@ content update: 2024-02-08 00:32:02.352541276 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 8961-F08 | 2016-10-11 | 2016-11-11 | 2023-07-11 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 8961+03 IBM Storage Networking SAN256B-7
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san256b-7](https://www.ibm.com/docs/en/announcements/storage-networking-san256b-7?region=AP)
-
-📅 2023-12-05
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 8961-F74 | 2020-10-13 | 2020-11-20 | - | - |
 
 
 

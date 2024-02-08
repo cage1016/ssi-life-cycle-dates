@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2024-02-08 00:32:02.352541276 +0800 CST
+content update: 2024-02-09 00:32:09.868887409 +0800 CST
 
 ---
 
@@ -10,7 +10,6 @@ content update: 2024-02-08 00:32:02.352541276 +0800 CST
 - [Family 2072+05 IBM FlashSystem 5000](#family-207205-ibm-flashsystem-5000)
 - [Family 2072+06 IBM FlashSystem 5015 and 5035](#family-207206-ibm-flashsystem-5015-and-5035)
 - [Family 2076+07 IBM FlashSystem 7200](#family-207607-ibm-flashsystem-7200)
-- [Family 2077+05 IBM FlashSystem 5100](#family-207705-ibm-flashsystem-5100)
 - [Family 2078+05 IBM FlashSystem 5100](#family-207805-ibm-flashsystem-5100)
 - [Family 4657+01 IBM FlashSystem 7300](#family-465701-ibm-flashsystem-7300)
 - [Family 4662+01 IBM FlashSystem 5200](#family-466201-ibm-flashsystem-5200)
@@ -40,7 +39,6 @@ content update: 2024-02-08 00:32:02.352541276 +0800 CST
 - [Family 9846+01 IBM FlashSystem V840](#family-984601-ibm-flashsystem-v840)
 - [Family 9846+02 IBM FlashSystem V9000](#family-984602-ibm-flashsystem-v9000)
 - [Family 9846+03 IBM FlashSystem 9100](#family-984603-ibm-flashsystem-9100)
-- [Family 9846+04 IBM FlashSystem 9200](#family-984604-ibm-flashsystem-9200)
 - [Family 9847+01 IBM DeepFlash 150](#family-984701-ibm-deepflash-150)
 - [Family 9848+01 IBM FlashSystem V840](#family-984801-ibm-flashsystem-v840)
 - [Family 9848+02 IBM FlashSystem V9000](#family-984802-ibm-flashsystem-v9000)
@@ -128,32 +126,6 @@ content update: 2024-02-08 00:32:02.352541276 +0800 CST
 
 > Note: 2076-824 and 2076-U7C effective marketing withdrawal date is
 2022/10/22 for Korea and Taiwan, and 2023/06/17 for India.
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2077+05 IBM FlashSystem 5100
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5100](https://www.ibm.com/docs/en/announcements/flashsystem-5100?region=AP)
-
-📅 2022-04-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2077-12G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-| 2077-24G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-| 2077-4H4 | 2020-02-11 | 2020-03-06 | 2021-10-09 | - |
-| 2077-92G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-
-
-
 
 
 
@@ -867,30 +839,6 @@ content update: 2024-02-08 00:32:02.352541276 +0800 CST
 
 > Note: 9846-A9F and 9846-AFF effective marketing withdrawal date is
 2022/10/22 for Korea and Taiwan, and 2023/06/17 for India
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 9846+04 IBM FlashSystem 9200
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9200-2023-09-12](https://www.ibm.com/docs/en/announcements/flashsystem-9200-2023-09-12?region=AP)
-
-📅 2023-09-12
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9846-AG8 | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-
-
-> Note: 9846-AG8 effective marketing withdrawal date is 2022/10/22 for
-Korea and Taiwan, and 2023/06/17 for India
 
 
 

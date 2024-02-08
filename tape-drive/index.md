@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2024-02-08 00:32:02.352541276 +0800 CST
+content update: 2024-02-09 00:32:09.868887409 +0800 CST
 
 ---
 
@@ -46,7 +46,6 @@ content update: 2024-02-08 00:32:02.352541276 +0800 CST
 - [Family 3588+01 IBM TotalStorage 3588 Tape Drive Model F3A](#family-358801-ibm-totalstorage-3588-tape-drive-model-f3a)
 - [Family 3588+02 IBM System Storage TS1030 Tape Drive Model F3B](#family-358802-ibm-system-storage-ts1030-tape-drive-model-f3b)
 - [Family 3588+03 IBM System Storage TS1040 Tape Drive Model F4A](#family-358803-ibm-system-storage-ts1040-tape-drive-model-f4a)
-- [Family 3588+04 IBM System Storage TS1050 Tape Drive Model F5A](#family-358804-ibm-system-storage-ts1050-tape-drive-model-f5a)
 - [Family 3588+05 IBM System Storage TS1060 Tape Drive Model F6A](#family-358805-ibm-system-storage-ts1060-tape-drive-model-f6a)
 - [Family 3588+06 IBM TS1050 and TS1060 Tape Drive Models F5C,F6C](#family-358806-ibm-ts1050-and-ts1060-tape-drive-models-f5c-f6c)
 - [Family 3588+07 IBM TS1070 Tape Drive Model F7C](#family-358807-ibm-ts1070-tape-drive-model-f7c)
@@ -90,12 +89,10 @@ content update: 2024-02-08 00:32:02.352541276 +0800 CST
 - [7206-220 IBM External 20 GB 4mm DDS-4 Tape Drive Model 220](#7206-220-ibm-external-20-gb-4mm-dds-4-tape-drive-model-220)
 - [7206-336 IBM External 36 GB DAT72 (DDS Gen5) Tape Drive Model 336](#7206-336-ibm-external-36-gb-dat72-dds-gen5-tape-drive-model-336)
 - [7206-VX2 IBM External Tape Drive Model VX2](#7206-vx2-ibm-external-tape-drive-model-vx2)
-- [7206-VX3 IBM External Tape Drive Model VX3](#7206-vx3-ibm-external-tape-drive-model-vx3)
 - [7207-122 IBM 4 GB External SLR5 QIC Tape Drive Model 122](#7207-122-ibm-4-gb-external-slr5-qic-tape-drive-model-122)
 - [7208-001 IBM External 8mm Tape Drive Model 001](#7208-001-ibm-external-8mm-tape-drive-model-001)
 - [7208-002 IBM External 8mm Tape Drive Model 002](#7208-002-ibm-external-8mm-tape-drive-model-002)
 - [7208-011 IBM External 8mm Tape Drive Model 011](#7208-011-ibm-external-8mm-tape-drive-model-011)
-- [7208-012 IBM External 8mm Tape Drive Model 012](#7208-012-ibm-external-8mm-tape-drive-model-012)
 - [7208-222 IBM External 8mm Tape Drive Model 222](#7208-222-ibm-external-8mm-tape-drive-model-222)
 - [7208-232 IBM External 8mm Tape Subsystem Model 232](#7208-232-ibm-external-8mm-tape-subsystem-model-232)
 - [7208-234 IBM External 8mm Tape Drive Model 234](#7208-234-ibm-external-8mm-tape-drive-model-234)
@@ -110,7 +107,6 @@ content update: 2024-02-08 00:32:02.352541276 +0800 CST
 - [Family 7216+01 IBM System Storage 7216 Multi-Media Enclosure](#family-721601-ibm-system-storage-7216-multi-media-enclosure)
 - [Family 7226+01 IBM System Storage 7226 Model 1U3 Multi-Media Enclosure](#family-722601-ibm-system-storage-7226-model-1u3-multi-media-enclosure)
 - [7329-308 IBM SLR100 Tape Autoloader Model 308](#7329-308-ibm-slr100-tape-autoloader-model-308)
-- [7332-005 IBM 4MM DDS-2 Tape Autoloader Model 005](#7332-005-ibm-4mm-dds-2-tape-autoloader-model-005)
 - [7332-110 IBM 4mm DDS-3 Tape Cartridge Autoloader Model 110](#7332-110-ibm-4mm-dds-3-tape-cartridge-autoloader-model-110)
 - [7332-220 IBM 4mm DDS-4 Tape Cartridge Autoloader Model 220](#7332-220-ibm-4mm-dds-4-tape-cartridge-autoloader-model-220)
 - [7336-205 IBM 4-mm Tape Library Model 205](#7336-205-ibm-4-mm-tape-library-model-205)
@@ -1016,29 +1012,6 @@ content update: 2024-02-08 00:32:02.352541276 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3588-F4A | 2007-04-24 | 2007-04-27 | 2016-04-29 | 2023-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3588+04 IBM System Storage TS1050 Tape Drive Model F5A
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts1050-tape-drive-model-f5a](https://www.ibm.com/docs/en/announcements/system-storage-ts1050-tape-drive-model-f5a?region=AP)
-
-📅 2023-07-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3588-F5A | 2010-04-12 | 2010-04-16 | 2018-03-17 | 2024-12-31 |
 
 
 
@@ -2048,29 +2021,6 @@ content update: 2024-02-08 00:32:02.352541276 +0800 CST
 
 
 
-### 7206-VX3 IBM External Tape Drive Model VX3
-
-🔗 [https://www.ibm.com/docs/en/announcements/external-tape-drive-model-vx3](https://www.ibm.com/docs/en/announcements/external-tape-drive-model-vx3?region=AP)
-
-📅 2011-06-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7206-VX3 | 2006-04-11 | 2006-05-12 | 2007-12-14 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 7207-122 IBM 4 GB External SLR5 QIC Tape Drive Model 122
 
 🔗 [https://www.ibm.com/docs/en/announcements/4-gb-external-slr5-qic-tape-drive-model-122](https://www.ibm.com/docs/en/announcements/4-gb-external-slr5-qic-tape-drive-model-122?region=AP)
@@ -2146,29 +2096,6 @@ content update: 2024-02-08 00:32:02.352541276 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7208-011 | 1992-09-01 | 1992-09-01 | 1998-09-25 | 2015-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7208-012 IBM External 8mm Tape Drive Model 012
-
-🔗 [https://www.ibm.com/docs/en/announcements/external-8mm-tape-drive-model-012](https://www.ibm.com/docs/en/announcements/external-8mm-tape-drive-model-012?region=AP)
-
-📅 2014-07-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7208-012 | 1993-02-01 | 1993-02-01 | 1998-06-26 | 2015-01-31 |
 
 
 
@@ -2482,26 +2409,6 @@ content update: 2024-02-08 00:32:02.352541276 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7329-308 | 2001-04-23 | 2001-05-25 | 2002-06-07 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7332-005 IBM 4MM DDS-2 Tape Autoloader Model 005
-
-🔗 [https://www.ibm.com/docs/en/announcements/4mm-dds-2-tape-autoloader-model-005](https://www.ibm.com/docs/en/announcements/4mm-dds-2-tape-autoloader-model-005?region=AP)
-
-📅 2002-06-04
-
 
 
 
