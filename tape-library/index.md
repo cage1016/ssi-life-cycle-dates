@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2024-02-09 00:32:09.868887409 +0800 CST
+content update: 2024-02-10 00:31:24.326105104 +0800 CST
 
 ---
 
@@ -11,11 +11,9 @@ content update: 2024-02-09 00:32:09.868887409 +0800 CST
 - [3494-L10 IBM TotalStorage Enterprise Tape Library Base Frame Model L10](#3494-l10-ibm-totalstorage-enterprise-tape-library-base-frame-model-l10)
 - [3494-L12 IBM TotalStorage Enterprise Tape Library Base Frame Model L12](#3494-l12-ibm-totalstorage-enterprise-tape-library-base-frame-model-l12)
 - [3494-L14 IBM TotalStorage Enterprise Tape Library Base Frame Model L14](#3494-l14-ibm-totalstorage-enterprise-tape-library-base-frame-model-l14)
-- [3494-L22 IBM TotalStorage Enterprise Tape Library Base Frame Model L22](#3494-l22-ibm-totalstorage-enterprise-tape-library-base-frame-model-l22)
 - [Family 3555+01 IBM TS4300 tape library Models L3A and E3A](#family-355501-ibm-ts4300-tape-library-models-l3a-and-e3a)
 - [Family 3572+01 IBM System Storage TS2900 Tape Autoloader](#family-357201-ibm-system-storage-ts2900-tape-autoloader)
 - [Family 3573+01 IBM System Storage TS3100 Tape Library Express Model L2U](#family-357301-ibm-system-storage-ts3100-tape-library-express-model-l2u)
-- [Family 3573+03 IBM System Storage TS3200 Tape Library Express Model L4U](#family-357303-ibm-system-storage-ts3200-tape-library-express-model-l4u)
 - [Family 3576+01 IBM System Storage TS3310 Tape Library and Expansion Modules](#family-357601-ibm-system-storage-ts3310-tape-library-and-expansion-modules)
 - [Family 3577+01 IBM System Storage TS3400 Tape Library Model L5U](#family-357701-ibm-system-storage-ts3400-tape-library-model-l5u)
 - [3582-L23 IBM TotalStorage Ultrium Tape Library Model L23](#3582-l23-ibm-totalstorage-ultrium-tape-library-model-l23)
@@ -31,7 +29,6 @@ content update: 2024-02-09 00:32:09.868887409 +0800 CST
 - [Family 3948+01 IBM TS7700 Release 5.4](#family-394801-ibm-ts7700-release-54)
 - [Family 3952+01 IBM System Storage Tape Frame](#family-395201-ibm-system-storage-tape-frame)
 - [Family 3952+02 IBM TS7770 R5.x Model F06](#family-395202-ibm-ts7770-r5x-model-f06)
-- [Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700](#family-395203-ibm-3952-tape-frame-model-f07-for-ibm-ts7700)
 - [Family 3953+01 IBM TotalStorage Library Manager and Tape Frame](#family-395301-ibm-totalstorage-library-manager-and-tape-frame)
 - [Family 3957+06 IBM TS7770 Models VED](#family-395706-ibm-ts7770-models-ved)
 - [Family 3958+01 IBM System Storage TS7650G Server](#family-395801-ibm-system-storage-ts7650g-server)
@@ -142,29 +139,6 @@ content update: 2024-02-09 00:32:09.868887409 +0800 CST
 
 
 
-### 3494-L22 IBM TotalStorage Enterprise Tape Library Base Frame Model L22
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-library-base-frame-model-l22](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-library-base-frame-model-l22?region=AP)
-
-📅 2016-06-28
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3494-L22 | 2003-09-09 | 2003-10-31 | 2006-12-01 | 2017-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 3555+01 IBM TS4300 tape library Models L3A and E3A
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts4300-tape-library-models-l3a-e3a](https://www.ibm.com/docs/en/announcements/ts4300-tape-library-models-l3a-e3a?region=AP)
@@ -227,29 +201,6 @@ content update: 2024-02-09 00:32:09.868887409 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3573-L2U | 2006-04-11 | 2006-05-12 | 2018-03-24 | 2023-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3573+03 IBM System Storage TS3200 Tape Library Express Model L4U
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts3200-tape-library-express-model-l4u](https://www.ibm.com/docs/en/announcements/system-storage-ts3200-tape-library-express-model-l4u?region=AP)
-
-📅 2022-07-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3573-L4U | 2006-05-09 | 2006-06-09 | 2018-03-24 | 2023-12-31 |
 
 
 
@@ -607,29 +558,6 @@ content update: 2024-02-09 00:32:09.868887409 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3952-F06 | 2016-05-10 | 2016-06-03 | 2021-08-30 | 2024-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700
-
-🔗 [https://www.ibm.com/docs/en/announcements/3952-tape-frame-model-f07-ts7700](https://www.ibm.com/docs/en/announcements/3952-tape-frame-model-f07-ts7700?region=AP)
-
-📅 2024-01-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3952-F07 | 2021-05-25 | 2021-06-18 | - | - |
 
 
 
