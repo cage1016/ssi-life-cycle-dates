@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2024-02-13 00:32:11.862482541 +0800 CST
+content update: 2024-02-14 00:33:05.797700116 +0800 CST
 
 ---
 
@@ -485,7 +485,7 @@ content update: 2024-02-13 00:32:11.862482541 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/3589-ultrium-cleaning-cartridges-model-005-w-customized-labeling-service](https://www.ibm.com/docs/en/announcements/3589-ultrium-cleaning-cartridges-model-005-w-customized-labeling-service?region=AP)
 
-📅 2023-10-10
+📅 2023-11-21
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

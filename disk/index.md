@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-02-13 00:32:11.862482541 +0800 CST
+content update: 2024-02-14 00:33:05.797700116 +0800 CST
 
 ---
 
@@ -136,19 +136,15 @@ content update: 2024-02-13 00:32:11.862482541 +0800 CST
 - [3552-1RU IBM TotalStorage FAStT500 Storage Server Model 1RU](#3552-1ru-ibm-totalstorage-fastt500-storage-server-model-1ru)
 - [Family 3560+01 IBM FAStT EXP500 Expansion Unit](#family-356001-ibm-fastt-exp500-expansion-unit)
 - [3990-001 IBM Storage Control Model 001](#3990-001-ibm-storage-control-model-001)
-- [3990-002 IBM Storage Control Model 002](#3990-002-ibm-storage-control-model-002)
 - [3990-006 IBM Storage Control Model 006](#3990-006-ibm-storage-control-model-006)
 - [Family 4939+01 IBM Flex System V7000 Storage Node Hardware - AAS](#family-493901-ibm-flex-system-v7000-storage-node-hardware-aas)
 - [Family 5331+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533101-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
 - [Family 5331+02 IBM DS8882F Model 983](#family-533102-ibm-ds8882f-model-983)
 - [Family 5331+03 IBM DS8900F Models 993, 994, 996, and E96](#family-533103-ibm-ds8900f-models-993-994-996-and-e96)
-- [Family 5331+04 IBM DS8900F Model 998](#family-533104-ibm-ds8900f-model-998)
 - [Family 5332+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533201-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
-- [Family 5332+02 IBM DS8882F Model 983](#family-533202-ibm-ds8882f-model-983)
 - [Family 5332+03 IBM DS8900F Models 993, 994, 996, and E96](#family-533203-ibm-ds8900f-models-993-994-996-and-e96)
 - [Family 5332+04 IBM DS8900F Model 998](#family-533204-ibm-ds8900f-model-998)
 - [Family 5333+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533301-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
-- [Family 5333+02 IBM DS8882F Model 983](#family-533302-ibm-ds8882f-model-983)
 - [Family 5333+03 IBM DS8900F Models 993, 994, 996, and E96](#family-533303-ibm-ds8900f-models-993-994-996-and-e96)
 - [Family 5333+04 IBM DS8900F Model 998](#family-533304-ibm-ds8900f-model-998)
 - [Family 5334+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533401-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
@@ -3342,29 +3338,6 @@ content update: 2024-02-13 00:32:11.862482541 +0800 CST
 
 
 
-### 3990-002 IBM Storage Control Model 002
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-control-model-002](https://www.ibm.com/docs/en/announcements/storage-control-model-002?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3990-002 | 1987-09-30 | 1988-08-26 | 1996-04-26 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 3990-006 IBM Storage Control Model 006
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-control-model-006](https://www.ibm.com/docs/en/announcements/storage-control-model-006?region=AP)
@@ -3490,29 +3463,6 @@ content update: 2024-02-13 00:32:11.862482541 +0800 CST
 
 
 
-### Family 5331+04 IBM DS8900F Model 998
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-model-998](https://www.ibm.com/docs/en/announcements/ds8900f-model-998?region=AP)
-
-📅 2023-12-12
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5331-998 | 2021-07-27 | 2021-08-20 | 2022-05-31 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 5332+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E
 
 🔗 [https://www.ibm.com/docs/en/announcements/ds8880-models-984-98585e-98686e-98888e-2023-01-31](https://www.ibm.com/docs/en/announcements/ds8880-models-984-98585e-98686e-98888e-2023-01-31?region=AP)
@@ -3528,29 +3478,6 @@ content update: 2024-02-13 00:32:11.862482541 +0800 CST
 | 5332-985 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
 | 5332-986 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
 | 5332-988 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 5332+02 IBM DS8882F Model 983
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8882f-model-983-2023-01-31](https://www.ibm.com/docs/en/announcements/ds8882f-model-983-2023-01-31?region=AP)
-
-📅 2023-01-31
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5332-983 | 2018-08-21 | 2018-09-07 | 2020-06-30 | 2024-06-30 |
 
 
 
@@ -3629,29 +3556,6 @@ content update: 2024-02-13 00:32:11.862482541 +0800 CST
 | 5333-985 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
 | 5333-986 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
 | 5333-988 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 5333+02 IBM DS8882F Model 983
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8882f-model-983-2023-01-31-1](https://www.ibm.com/docs/en/announcements/ds8882f-model-983-2023-01-31-1?region=AP)
-
-📅 2023-01-31
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5333-983 | 2018-08-21 | 2018-09-07 | 2020-06-30 | 2024-06-30 |
 
 
 
