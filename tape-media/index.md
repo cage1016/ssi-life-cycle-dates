@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2024-02-14 00:33:05.797700116 +0800 CST
+content update: 2024-02-15 00:31:59.540839631 +0800 CST
 
 ---
 
@@ -57,7 +57,6 @@ content update: 2024-02-14 00:33:05.797700116 +0800 CST
 - [3599-E21 IBM 3592 Enterprise Tape Economy WORM Cartridge with Labeling, Initialization Model E21](#3599-e21-ibm-3592-enterprise-tape-economy-worm-cartridge-with-labeling-initialization-model-e21)
 - [3599-E22 IBM 3592 Enterprise Tape Economy WORM Cartridge with Labeling Model E22](#3599-e22-ibm-3592-enterprise-tape-economy-worm-cartridge-with-labeling-model-e22)
 - [3599-E23 IBM 3592 Enterprise Tape Economy WORM Cartridge Model E23](#3599-e23-ibm-3592-enterprise-tape-economy-worm-cartridge-model-e23)
-- [3859-D02 IBM 40 GB DLTtape IV Cartridges Labeled Model D02](#3859-d02-ibm-40-gb-dlttape-iv-cartridges-labeled-model-d02)
 - [3859-D03 IBM 40 GB DLTtape IV Cartridges Model D03](#3859-d03-ibm-40-gb-dlttape-iv-cartridges-model-d03)
 - [3859-D04 IBM 40 GB DTLtape Cleaning Cartridge Model D04](#3859-d04-ibm-40-gb-dtltape-cleaning-cartridge-model-d04)
 
@@ -1223,26 +1222,6 @@ content update: 2024-02-14 00:33:05.797700116 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3599-E23 | 2004-04-27 | 2004-05-21 | 2009-05-29 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3859-D02 IBM 40 GB DLTtape IV Cartridges Labeled Model D02
-
-🔗 [https://www.ibm.com/docs/en/announcements/40-gb-dlttape-iv-cartridges-labeled-model-d02](https://www.ibm.com/docs/en/announcements/40-gb-dlttape-iv-cartridges-labeled-model-d02?region=AP)
-
-📅 2004-12-13
-
 
 
 
