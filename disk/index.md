@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-02-16 00:32:17.846233966 +0800 CST
+content update: 2024-02-17 00:32:59.867290821 +0800 CST
 
 ---
 
@@ -119,6 +119,7 @@ content update: 2024-02-16 00:32:17.846233966 +0800 CST
 - [3390-A28 IBM Direct Access Storage Device (DASD) Model A28](#3390-a28-ibm-direct-access-storage-device-dasd-model-a28)
 - [3390-A34 IBM Direct Access Storage Device (DASD) Model A34](#3390-a34-ibm-direct-access-storage-device-dasd-model-a34)
 - [3390-A38 IBM Direct Access Storage Device (DASD) Model A38](#3390-a38-ibm-direct-access-storage-device-dasd-model-a38)
+- [3390-A94 IBM Direct Access Storage Device (DASD) Model A94](#3390-a94-ibm-direct-access-storage-device-dasd-model-a94)
 - [3390-A98 IBM Direct Access Storage Device (DASD) Model A98](#3390-a98-ibm-direct-access-storage-device-dasd-model-a98)
 - [3390-B14 IBM Direct Access Storage Device (DASD) Model B14](#3390-b14-ibm-direct-access-storage-device-dasd-model-b14)
 - [3390-B18 IBM Direct Access Storage Device (DASD) Model B18](#3390-b18-ibm-direct-access-storage-device-dasd-model-b18)
@@ -2938,6 +2939,29 @@ content update: 2024-02-16 00:32:17.846233966 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3390-A38 | 1991-09-11 | 1991-09-27 | 1996-04-26 | 2008-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3390-A94 IBM Direct Access Storage Device (DASD) Model A94
+
+🔗 [https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-a94](https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-a94?region=AP)
+
+📅 2008-03-07
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3390-A94 | 1993-09-07 | 1993-09-07 | 1996-12-31 | 2008-12-31 |
 
 
 
