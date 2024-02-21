@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2024-02-21 00:32:12.573571156 +0800 CST
+content update: 2024-02-22 00:32:09.816136428 +0800 CST
 
 ---
 
@@ -21,6 +21,7 @@ content update: 2024-02-21 00:32:12.573571156 +0800 CST
 - [3490-D42 IBM Magnetic Tape Subsystem Model D42](#3490-d42-ibm-magnetic-tape-subsystem-model-d42)
 - [3490-E01 IBM Magnetic Tape Subsystem Model E01](#3490-e01-ibm-magnetic-tape-subsystem-model-e01)
 - [3490-F11 IBM Magnetic Tape Subsystem Model F11](#3490-f11-ibm-magnetic-tape-subsystem-model-f11)
+- [3490-FC0 IBM Rack Model FC0](#3490-fc0-ibm-rack-model-fc0)
 - [Family 3580+01 IBM Ultrium Tape Drive](#family-358001-ibm-ultrium-tape-drive)
 - [Family 3580+02 IBM TotalStorage Ultrium Tape Drive](#family-358002-ibm-totalstorage-ultrium-tape-drive)
 - [Family 3580+03 IBM TotalStorage 3580 Ultrium 3 LTO Tape Drive](#family-358003-ibm-totalstorage-3580-ultrium-3-lto-tape-drive)
@@ -429,6 +430,29 @@ content update: 2024-02-21 00:32:12.573571156 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3490-F11 | 1997-02-11 | 1997-02-21 | 2002-06-28 | 2007-06-30 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3490-FC0 IBM Rack Model FC0
+
+🔗 [https://www.ibm.com/docs/en/announcements/rack-model-fc0](https://www.ibm.com/docs/en/announcements/rack-model-fc0?region=AP)
+
+📅 2007-03-20
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3490-FC0 | 1998-03-03 | 1998-03-20 | 2002-06-28 | 2007-06-30 |
 
 
 
