@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-02-22 00:32:09.816136428 +0800 CST
+content update: 2024-02-23 00:31:52.206409222 +0800 CST
 
 ---
 
@@ -17,7 +17,6 @@ content update: 2024-02-22 00:32:09.816136428 +0800 CST
 - [1740-710 IBM TotalStorage DS4000 EXP710 Storage Expansion Unit Model 710](#1740-710-ibm-totalstorage-ds4000-exp710-storage-expansion-unit-model-710)
 - [1742-1RU IBM TotalStorage DS4400 Midrange Disk System Model 1RU](#1742-1ru-ibm-totalstorage-ds4400-midrange-disk-system-model-1ru)
 - [1742-90U IBM TotalStorage DS4500 Midrange Disk System Model 90U](#1742-90u-ibm-totalstorage-ds4500-midrange-disk-system-model-90u)
-- [Family 1747+02 IBM System Storage EXP2500 Express Storage Enclosures (AAS / WTAAS)](#family-174702-ibm-system-storage-exp2500-express-storage-enclosures-aas-wtaas)
 - [Family 1750+01 IBM TotalStorage DS6800 and DS6000 Expansion Enclosure](#family-175001-ibm-totalstorage-ds6800-and-ds6000-expansion-enclosure)
 - [Family 1750+02 IBM System Storage DS6800 and DS6000](#family-175002-ibm-system-storage-ds6800-and-ds6000)
 - [Family 1812+01 IBM System Storage DS4000 EXP810 Storage Expansion Unit](#family-181201-ibm-system-storage-ds4000-exp810-storage-expansion-unit)
@@ -25,13 +24,8 @@ content update: 2024-02-22 00:32:09.816136428 +0800 CST
 - [Family 1812+03 IBM System Storage DS4000 EXP810 Expansion Unit Model 81S](#family-181203-ibm-system-storage-ds4000-exp810-expansion-unit-model-81s)
 - [Family 1813+02 IBM System Storage DCS3860 (AAS)](#family-181302-ibm-system-storage-dcs3860-aas)
 - [Family 1813+03 IBM System Storage DCS3860 Controller 96C](#family-181303-ibm-system-storage-dcs3860-controller-96c)
-- [Family 1814+01 IBM System Storage DS4700 Express Models](#family-181401-ibm-system-storage-ds4700-express-models)
-- [Family 1814+02 IBM System Storage DS4200 Express Model 7V](#family-181402-ibm-system-storage-ds4200-express-model-7v)
 - [Family 1814+03 IBM System Storage DS4700 Express Models 70-DC and 72-DC](#family-181403-ibm-system-storage-ds4700-express-models-70-dc-and-72-dc)
-- [Family 1814+04 IBM System Storage DS5020 Midrange Disk EXP520 Expansion Unit](#family-181404-ibm-system-storage-ds5020-midrange-disk-exp520-expansion-unit)
 - [Family 1815+01 IBM TotalStorage DS4800 Midrange Disk System](#family-181501-ibm-totalstorage-ds4800-midrange-disk-system)
-- [Family 1815+02 IBM TotalStorage DS4800 Model 88 Midrange Disk System](#family-181502-ibm-totalstorage-ds4800-model-88-midrange-disk-system)
-- [Family 1815+03 IBM System Storage DS4800 Model 80 Midrange Disk System](#family-181503-ibm-system-storage-ds4800-model-80-midrange-disk-system)
 - [Family 1818+01 IBM System Storage DS5000 Series Midrange Disk System](#family-181801-ibm-system-storage-ds5000-series-midrange-disk-system)
 - [Family 1818+02 IBM System Storage DS Remote Support Manager for Storage](#family-181802-ibm-system-storage-ds-remote-support-manager-for-storage)
 - [Family 1818+03 IBM System Storage DS Remote Support Manager for Storage](#family-181803-ibm-system-storage-ds-remote-support-manager-for-storage)
@@ -72,12 +66,7 @@ content update: 2024-02-22 00:32:09.816136428 +0800 CST
 - [2105-B09 IBM Versatile Storage Server Model B09](#2105-b09-ibm-versatile-storage-server-model-b09)
 - [2105-E10 IBM Enterprise Storage Server Model E10](#2105-e10-ibm-enterprise-storage-server-model-e10)
 - [2105-E20 IBM Enterprise Storage Server Model E20](#2105-e20-ibm-enterprise-storage-server-model-e20)
-- [2105-F10 IBM Enterprise Storage Server Model F10](#2105-f10-ibm-enterprise-storage-server-model-f10)
-- [2105-F20 IBM Enterprise Storage Server Model F20](#2105-f20-ibm-enterprise-storage-server-model-f20)
-- [2106-200 IBM MSS Controller Enclosure Model 200](#2106-200-ibm-mss-controller-enclosure-model-200)
 - [2106-D10 IBM MSS 10 Bay Single Bus Disk Drive Model D10](#2106-d10-ibm-mss-10-bay-single-bus-disk-drive-model-d10)
-- [2106-D14 IBM MSS 14 Bay Single Bus Disk Drive Model D14](#2106-d14-ibm-mss-14-bay-single-bus-disk-drive-model-d14)
-- [2106-D20 IBM MSS 10 Bay Dual Bus Disk Drive Model D20](#2106-d20-ibm-mss-10-bay-dual-bus-disk-drive-model-d20)
 - [2106-D24 IBM MSS 14 Dual Bus Disk Drive Enclosure Model D24](#2106-d24-ibm-mss-14-dual-bus-disk-drive-enclosure-model-d24)
 - [Family 2107+02 IBM System Storage DS8000 Series Disk Storage Model 9A2](#family-210702-ibm-system-storage-ds8000-series-disk-storage-model-9a2)
 - [Family 2107+04 IBM System Storage DS8000 Series Disk Storage Model 921](#family-210704-ibm-system-storage-ds8000-series-disk-storage-model-921)
@@ -160,7 +149,6 @@ content update: 2024-02-22 00:32:09.816136428 +0800 CST
 - [7027-HSD IBM High Capacity Drawer Model HSD](#7027-hsd-ibm-high-capacity-drawer-model-hsd)
 - [7133-010 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 010](#7133-010-ibm-serial-storage-architecture-ssa-disk-subsystem-model-010)
 - [7133-020 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 020](#7133-020-ibm-serial-storage-architecture-ssa-disk-subsystem-model-020)
-- [7133-500 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 500](#7133-500-ibm-serial-storage-architecture-ssa-disk-subsystem-model-500)
 - [7133-600 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 600](#7133-600-ibm-serial-storage-architecture-ssa-disk-subsystem-model-600)
 - [7133-D40 IBM Serial Disk System Advanced Model D40](#7133-d40-ibm-serial-disk-system-advanced-model-d40)
 - [7133-T40 IBM Serial Disk System Advanced Model T40](#7133-t40-ibm-serial-disk-system-advanced-model-t40)
@@ -234,8 +222,6 @@ content update: 2024-02-22 00:32:09.816136428 +0800 CST
 - [9393-002 IBM RAMAC Virtual Array Storage Model 002](#9393-002-ibm-ramac-virtual-array-storage-model-002)
 - [9393-T42 IBM RAMAC Virtual Array Storage Model T42](#9393-t42-ibm-ramac-virtual-array-storage-model-t42)
 - [9393-T82 IBM RAMAC Virtual Array Storage Model T82](#9393-t82-ibm-ramac-virtual-array-storage-model-t82)
-- [9393-UPA IBM RAMAC Virtual Array Storage Model UPA](#9393-upa-ibm-ramac-virtual-array-storage-model-upa)
-- [9393-UPC IBM RAMAC Virtual Array Storage Model UPC](#9393-upc-ibm-ramac-virtual-array-storage-model-upc)
 - [9393-X83 IBM RAMAC Virtual Array Turbo Model X83](#9393-x83-ibm-ramac-virtual-array-turbo-model-x83)
 - [9394-001 IBM RAMAC 2 Array Subsystem Model 001](#9394-001-ibm-ramac-2-array-subsystem-model-001)
 - [9394-002 IBM RAMAC 2 Array Subsystem Model 002](#9394-002-ibm-ramac-2-array-subsystem-model-002)
@@ -480,30 +466,6 @@ content update: 2024-02-22 00:32:09.816136428 +0800 CST
 
 
 
-### Family 1747+02 IBM System Storage EXP2500 Express Storage Enclosures (AAS / WTAAS)
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-exp2500-express-storage-enclosures-aas-wtaas](https://www.ibm.com/docs/en/announcements/system-storage-exp2500-express-storage-enclosures-aas-wtaas?region=AP)
-
-📅 2019-07-09
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1747-HC1 | 2014-07-08 | 2014-07-11 | 2017-01-14 | 2019-12-31 |
-| 1747-HC2 | 2014-07-08 | 2014-07-11 | 2017-01-14 | 2019-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 1750+01 IBM TotalStorage DS6800 and DS6000 Expansion Enclosure
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds6800-ds6000-expansion-enclosure](https://www.ibm.com/docs/en/announcements/totalstorage-ds6800-ds6000-expansion-enclosure?region=AP)
@@ -668,53 +630,6 @@ content update: 2024-02-22 00:32:09.816136428 +0800 CST
 
 
 
-### Family 1814+01 IBM System Storage DS4700 Express Models
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds4700-express-models](https://www.ibm.com/docs/en/announcements/system-storage-ds4700-express-models?region=AP)
-
-📅 2016-07-19
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1814-70A | 2006-05-09 | 2006-06-09 | 2009-12-11 | 2017-01-31 |
-| 1814-72A | 2006-05-09 | 2006-06-09 | 2009-12-11 | 2017-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 1814+02 IBM System Storage DS4200 Express Model 7V
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds4200-express-model-7v](https://www.ibm.com/docs/en/announcements/system-storage-ds4200-express-model-7v?region=AP)
-
-📅 2016-07-19
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1814-7VA | 2007-10-23 | 2007-10-23 | 2008-12-31 | 2017-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 1814+03 IBM System Storage DS4700 Express Models 70-DC and 72-DC
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds4700-express-models-70-dc-72-dc](https://www.ibm.com/docs/en/announcements/system-storage-ds4700-express-models-70-dc-72-dc?region=AP)
@@ -739,30 +654,6 @@ content update: 2024-02-22 00:32:09.816136428 +0800 CST
 
 
 
-### Family 1814+04 IBM System Storage DS5020 Midrange Disk EXP520 Expansion Unit
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds5020-midrange-disk-exp520-expansion-unit](https://www.ibm.com/docs/en/announcements/system-storage-ds5020-midrange-disk-exp520-expansion-unit?region=AP)
-
-📅 2018-07-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1814-20A | 2009-08-25 | 2009-09-04 | 2014-01-11 | 2018-01-31 |
-| 1814-52A | 2009-08-25 | 2009-09-04 | 2014-03-22 | 2018-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 1815+01 IBM TotalStorage DS4800 Midrange Disk System
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4800-midrange-disk-system](https://www.ibm.com/docs/en/announcements/totalstorage-ds4800-midrange-disk-system?region=AP)
@@ -773,52 +664,6 @@ content update: 2024-02-22 00:32:09.816136428 +0800 CST
 | --- | --- | --- | --- | --- |
 | 1815-82A | 2005-05-10 | 2005-06-17 | 2009-12-31 | 2017-01-31 |
 | 1815-84A | 2005-05-10 | 2005-06-17 | 2009-03-31 | 2017-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 1815+02 IBM TotalStorage DS4800 Model 88 Midrange Disk System
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4800-model-88-midrange-disk-system](https://www.ibm.com/docs/en/announcements/totalstorage-ds4800-model-88-midrange-disk-system?region=AP)
-
-📅 2016-07-19
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1815-88A | 2005-08-30 | 2005-09-09 | 2009-03-31 | 2017-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 1815+03 IBM System Storage DS4800 Model 80 Midrange Disk System
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds4800-model-80-midrange-disk-system](https://www.ibm.com/docs/en/announcements/system-storage-ds4800-model-80-midrange-disk-system?region=AP)
-
-📅 2016-07-19
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1815-80A | 2006-05-23 | 2006-06-09 | 2009-12-31 | 2017-01-31 |
 
 
 
@@ -1822,75 +1667,6 @@ content update: 2024-02-22 00:32:09.816136428 +0800 CST
 
 
 
-### 2105-F10 IBM Enterprise Storage Server Model F10
-
-🔗 [https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-f10](https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-f10?region=AP)
-
-📅 2009-06-25
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2105-F10 | 2000-03-28 | 2000-03-31 | 2002-11-22 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2105-F20 IBM Enterprise Storage Server Model F20
-
-🔗 [https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-f20](https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-f20?region=AP)
-
-📅 2013-07-02
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2105-F20 | 2000-03-28 | 2000-03-31 | 2003-12-31 | 2012-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2106-200 IBM MSS Controller Enclosure Model 200
-
-🔗 [https://www.ibm.com/docs/en/announcements/mss-controller-enclosure-model-200](https://www.ibm.com/docs/en/announcements/mss-controller-enclosure-model-200?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2106-200 | 2000-08-29 | 2000-09-29 | 2001-11-15 | 2007-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 2106-D10 IBM MSS 10 Bay Single Bus Disk Drive Model D10
 
 🔗 [https://www.ibm.com/docs/en/announcements/mss-10-bay-single-bus-disk-drive-model-d10](https://www.ibm.com/docs/en/announcements/mss-10-bay-single-bus-disk-drive-model-d10?region=AP)
@@ -1900,52 +1676,6 @@ content update: 2024-02-22 00:32:09.816136428 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2106-D10 | 2000-08-29 | 2000-09-29 | 2001-11-15 | 2007-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2106-D14 IBM MSS 14 Bay Single Bus Disk Drive Model D14
-
-🔗 [https://www.ibm.com/docs/en/announcements/mss-14-bay-single-bus-disk-drive-model-d14](https://www.ibm.com/docs/en/announcements/mss-14-bay-single-bus-disk-drive-model-d14?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2106-D14 | 2000-08-29 | 2000-09-29 | 2002-11-22 | 2007-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2106-D20 IBM MSS 10 Bay Dual Bus Disk Drive Model D20
-
-🔗 [https://www.ibm.com/docs/en/announcements/mss-10-bay-dual-bus-disk-drive-model-d20](https://www.ibm.com/docs/en/announcements/mss-10-bay-dual-bus-disk-drive-model-d20?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2106-D20 | 2000-08-29 | 2000-09-29 | 2001-11-15 | 2007-12-31 |
 
 
 
@@ -3929,29 +3659,6 @@ content update: 2024-02-22 00:32:09.816136428 +0800 CST
 
 
 
-### 7133-500 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 500
-
-🔗 [https://www.ibm.com/docs/en/announcements/serial-storage-architecture-ssa-disk-subsystem-model-500](https://www.ibm.com/docs/en/announcements/serial-storage-architecture-ssa-disk-subsystem-model-500?region=AP)
-
-📅 2018-07-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7133-500 | 1995-07-25 | 1995-08-11 | 1997-05-05 | 2019-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 7133-600 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 600
 
 🔗 [https://www.ibm.com/docs/en/announcements/serial-storage-architecture-ssa-disk-subsystem-model-600](https://www.ibm.com/docs/en/announcements/serial-storage-architecture-ssa-disk-subsystem-model-600?region=AP)
@@ -5599,46 +5306,6 @@ content update: 2024-02-22 00:32:09.816136428 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9393-T82 | 1997-04-08 | 1997-08-29 | 1999-06-18 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9393-UPA IBM RAMAC Virtual Array Storage Model UPA
-
-🔗 [https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-upa](https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-upa?region=AP)
-
-📅 1999-04-26
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9393-UPC IBM RAMAC Virtual Array Storage Model UPC
-
-🔗 [https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-upc](https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-upc?region=AP)
-
-📅 1999-04-26
-
 
 
 
