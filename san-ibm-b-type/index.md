@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2024-02-23 00:31:52.206409222 +0800 CST
+content update: 2024-02-24 00:31:49.726503222 +0800 CST
 
 ---
 
@@ -34,10 +34,14 @@ content update: 2024-02-23 00:31:52.206409222 +0800 CST
 - [Family 2498+02 IBM System Storage SAN06B-R](#family-249802-ibm-system-storage-san06b-r)
 - [Family 2498+03 IBM System Storage SAN32B-E4](#family-249803-ibm-system-storage-san32b-e4)
 - [Family 2498+04 IBM System Storage SAN48B-5](#family-249804-ibm-system-storage-san48b-5)
+- [Family 2498+05 IBM System Networking SAN24B-5](#family-249805-ibm-system-networking-san24b-5)
+- [Family 2498+06 IBM System Networking SAN96B-5](#family-249806-ibm-system-networking-san96b-5)
 - [Family 2498+07 IBM System Storage SAN40B-4](#family-249807-ibm-system-storage-san40b-4)
 - [Family 2498+08 IBM System Storage SAN80B-4](#family-249808-ibm-system-storage-san80b-4)
 - [Family 2498+09 IBM System Networking SAN24B-5](#family-249809-ibm-system-networking-san24b-5)
+- [Family 2498+11 IBM System Storage SAN42B-R](#family-249811-ibm-system-storage-san42b-r)
 - [Family 2499+01 IBM System Storage SAN768B](#family-249901-ibm-system-storage-san768b)
+- [Family 2499+02 IBM System Storage SAN384B](#family-249902-ibm-system-storage-san384b)
 - [Family 2499+03 IBM Systems Storage SAN768B-2 and SAN384B-2](#family-249903-ibm-systems-storage-san768b-2-and-san384b-2)
 - [3534-1RU IBM SAN Fibre Channel Managed Hub Model 1RU](#3534-1ru-ibm-san-fibre-channel-managed-hub-model-1ru)
 - [3534-F08 IBM TotalStorage Storage Area Network (SAN) Model F08](#3534-f08-ibm-totalstorage-storage-area-network-san-model-f08)
@@ -694,6 +698,53 @@ content update: 2024-02-23 00:31:52.206409222 +0800 CST
 
 
 
+### Family 2498+05 IBM System Networking SAN24B-5
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-networking-san24b-5](https://www.ibm.com/docs/en/announcements/system-networking-san24b-5?region=AP)
+
+📅 2023-07-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2498-F24 | 2012-04-24 | 2012-05-04 | 2014-10-17 | 2025-04-30 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2498+06 IBM System Networking SAN96B-5
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-networking-san96b-5](https://www.ibm.com/docs/en/announcements/system-networking-san96b-5?region=AP)
+
+📅 2023-07-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2498-F96 | 2013-05-14 | 2013-05-24 | 2023-02-28 | - |
+| 2498-N96 | 2013-05-14 | 2013-07-12 | 2018-07-26 | 2027-08-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 2498+07 IBM System Storage SAN40B-4
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-san40b-4](https://www.ibm.com/docs/en/announcements/system-storage-san40b-4?region=AP)
@@ -763,6 +814,29 @@ content update: 2024-02-23 00:31:52.206409222 +0800 CST
 
 
 
+### Family 2498+11 IBM System Storage SAN42B-R
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-san42b-r](https://www.ibm.com/docs/en/announcements/system-storage-san42b-r?region=AP)
+
+📅 2024-01-23
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2498-R42 | 2014-11-25 | 2014-12-12 | 2023-09-12 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 2499+01 IBM System Storage SAN768B
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-san768b](https://www.ibm.com/docs/en/announcements/system-storage-san768b?region=AP)
@@ -772,6 +846,29 @@ content update: 2024-02-23 00:31:52.206409222 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2499-384 | 2008-02-12 | 2008-02-22 | 2014-08-30 | 2019-10-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2499+02 IBM System Storage SAN384B
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-san384b](https://www.ibm.com/docs/en/announcements/system-storage-san384b?region=AP)
+
+📅 2021-02-23
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2499-192 | 2009-07-14 | 2009-07-17 | 2014-08-30 | 2019-10-31 |
 
 
 
