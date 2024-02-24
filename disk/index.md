@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-02-24 00:31:49.726503222 +0800 CST
+content update: 2024-02-25 00:31:44.968805094 +0800 CST
 
 ---
 
@@ -71,6 +71,8 @@ content update: 2024-02-24 00:31:49.726503222 +0800 CST
 - [2105-800 IBM TotalStorage Enterprise Storage Server Model 800](#2105-800-ibm-totalstorage-enterprise-storage-server-model-800)
 - [2105-B09 IBM Versatile Storage Server Model B09](#2105-b09-ibm-versatile-storage-server-model-b09)
 - [2105-E10 IBM Enterprise Storage Server Model E10](#2105-e10-ibm-enterprise-storage-server-model-e10)
+- [2105-E20 IBM Enterprise Storage Server Model E20](#2105-e20-ibm-enterprise-storage-server-model-e20)
+- [2105-F10 IBM Enterprise Storage Server Model F10](#2105-f10-ibm-enterprise-storage-server-model-f10)
 - [2105-F20 IBM Enterprise Storage Server Model F20](#2105-f20-ibm-enterprise-storage-server-model-f20)
 - [2106-200 IBM MSS Controller Enclosure Model 200](#2106-200-ibm-mss-controller-enclosure-model-200)
 - [2106-D10 IBM MSS 10 Bay Single Bus Disk Drive Model D10](#2106-d10-ibm-mss-10-bay-single-bus-disk-drive-model-d10)
@@ -1783,6 +1785,52 @@ content update: 2024-02-24 00:31:49.726503222 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2105-E10 | 1999-07-27 | 1999-09-24 | 2000-09-29 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 2105-E20 IBM Enterprise Storage Server Model E20
+
+🔗 [https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-e20](https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-e20?region=AP)
+
+📅 2009-06-25
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2105-E20 | 1999-07-27 | 1999-09-24 | 2000-09-29 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 2105-F10 IBM Enterprise Storage Server Model F10
+
+🔗 [https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-f10](https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-f10?region=AP)
+
+📅 2009-06-25
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2105-F10 | 2000-03-28 | 2000-03-31 | 2002-11-22 | - |
 
 
 
