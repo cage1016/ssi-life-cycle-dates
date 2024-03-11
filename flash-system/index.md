@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2024-03-11 00:31:51.007392408 +0800 CST
+content update: 2024-03-12 00:32:22.588283878 +0800 CST
 
 ---
 
@@ -15,7 +15,6 @@ content update: 2024-03-11 00:31:51.007392408 +0800 CST
 - [Family 4657+01 IBM FlashSystem 7300](#family-465701-ibm-flashsystem-7300)
 - [Family 4662+01 IBM FlashSystem 5200](#family-466201-ibm-flashsystem-5200)
 - [Family 4664+01 IBM FlashSystem 7200 with Expert Care](#family-466401-ibm-flashsystem-7200-with-expert-care)
-- [Family 4666+01 IBM FlashSystem 9200 with Expert Care](#family-466601-ibm-flashsystem-9200-with-expert-care)
 - [Family 4680+01 IBM FlashSystem 5015 and FlashSystem 5045](#family-468001-ibm-flashsystem-5015-and-flashsystem-5045)
 - [Family 4983+01 IBM FlashSystem 9500 with License Machine Code](#family-498301-ibm-flashsystem-9500-with-license-machine-code)
 - [Family 9745+01 IBM FlashSystem Utility models Variable Use billing](#family-974501-ibm-flashsystem-utility-models-variable-use-billing)
@@ -262,33 +261,6 @@ content update: 2024-03-11 00:31:51.007392408 +0800 CST
 
 
 > Note: 4664-824 and 4664-U7C effective marketing withdrawal date is
-2022/10/22 for Korea and Taiwan, and 2023/06/17 for India
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 4666+01 IBM FlashSystem 9200 with Expert Care
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9200-expert-care](https://www.ibm.com/docs/en/announcements/flashsystem-9200-expert-care?region=AP)
-
-📅 2024-01-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 4666-AFF | 2021-08-17 | 2021-08-27 | - | - |
-| 4666-A9F | 2021-08-17 | 2021-08-27 | - | - |
-| 4666-AG8 | 2021-08-17 | 2021-08-27 | 2022-07-16 | - |
-| 4666-UG8 | 2021-08-17 | 2021-08-27 | 2022-07-16 | - |
-
-
-> Note: 4666-AG8 and 4666-UG8 effective marketing withdrawal date is
 2022/10/22 for Korea and Taiwan, and 2023/06/17 for India
 
 
