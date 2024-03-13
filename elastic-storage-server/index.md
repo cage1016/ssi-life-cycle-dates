@@ -1,6 +1,6 @@
 # Elastic Storage Server
 
-content update: 2024-03-13 00:33:31.8642086 +0800 CST
+content update: 2024-03-14 00:32:16.795600792 +0800 CST
 
 ---
 
@@ -30,7 +30,7 @@ content update: 2024-03-13 00:33:31.8642086 +0800 CST
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 5105-22E | 2020-07-07 | 2020-08-14 | - | - |
+| 5105-22E | 2020-07-07 | 2020-08-14 | 2024-06-28 | - |
 
 
 
