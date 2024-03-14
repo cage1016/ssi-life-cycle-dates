@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-03-14 00:32:16.795600792 +0800 CST
+content update: 2024-03-15 00:32:09.77778633 +0800 CST
 
 ---
 
@@ -180,9 +180,7 @@ content update: 2024-03-14 00:32:16.795600792 +0800 CST
 - [7204-402 IBM External Disk Drive Model 402](#7204-402-ibm-external-disk-drive-model-402)
 - [7204-404 IBM External Disk Drive Model 404](#7204-404-ibm-external-disk-drive-model-404)
 - [7204-409 IBM 9.1 GB External Disk Drive Model 409](#7204-409-ibm-91-gb-external-disk-drive-model-409)
-- [7204-419 IBM 18.2 GB External Disk Drive Model 419](#7204-419-ibm-182-gb-external-disk-drive-model-419)
 - [7204-518 IBM 7204 18.2 GB External Disk Drive Model 518](#7204-518-ibm-7204-182-gb-external-disk-drive-model-518)
-- [7204-536 IBM 36.4 GB External Disk Drive Model 536](#7204-536-ibm-364-gb-external-disk-drive-model-536)
 - [7204-573 IBM External Disk Drive Model 573](#7204-573-ibm-external-disk-drive-model-573)
 - [7204-646 IBM 7204 External Disk Drive Model 646](#7204-646-ibm-7204-external-disk-drive-model-646)
 - [9333-010 IBM High-Performance Disk Drive Subsystem Model 010](#9333-010-ibm-high-performance-disk-drive-subsystem-model-010)
@@ -201,10 +199,8 @@ content update: 2024-03-14 00:32:16.795600792 +0800 CST
 - [9337-010 IBM Disk Array Subsystem Model 010](#9337-010-ibm-disk-array-subsystem-model-010)
 - [9337-015 IBM Disk Array Subsystem Model 015](#9337-015-ibm-disk-array-subsystem-model-015)
 - [9337-020 IBM Disk Array Subsystem Model 020](#9337-020-ibm-disk-array-subsystem-model-020)
-- [9337-025 IBM Disk Array Subsystem Model 025](#9337-025-ibm-disk-array-subsystem-model-025)
 - [9337-040 IBM Disk Array Subsystem Model 040](#9337-040-ibm-disk-array-subsystem-model-040)
 - [9337-110 IBM Disk Array Subsystem Model 110](#9337-110-ibm-disk-array-subsystem-model-110)
-- [9337-115 IBM Disk Array Subsystem Model 115](#9337-115-ibm-disk-array-subsystem-model-115)
 - [9337-120 IBM Disk Array Subsystem Model 120](#9337-120-ibm-disk-array-subsystem-model-120)
 - [9337-125 IBM Disk Array Subsystem Model 125](#9337-125-ibm-disk-array-subsystem-model-125)
 - [9337-140 IBM Disk Array Subsystem Model 140](#9337-140-ibm-disk-array-subsystem-model-140)
@@ -4374,29 +4370,6 @@ content update: 2024-03-14 00:32:16.795600792 +0800 CST
 
 
 
-### 7204-419 IBM 18.2 GB External Disk Drive Model 419
-
-🔗 [https://www.ibm.com/docs/en/announcements/182-gb-external-disk-drive-model-419](https://www.ibm.com/docs/en/announcements/182-gb-external-disk-drive-model-419?region=AP)
-
-📅 2007-06-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7204-419 | 1999-09-07 | 1999-09-24 | 2002-10-11 | 2007-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 7204-518 IBM 7204 18.2 GB External Disk Drive Model 518
 
 🔗 [https://www.ibm.com/docs/en/announcements/7204-182-gb-external-disk-drive-model-518](https://www.ibm.com/docs/en/announcements/7204-182-gb-external-disk-drive-model-518?region=AP)
@@ -4406,29 +4379,6 @@ content update: 2024-03-14 00:32:16.795600792 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7204-518 | 2002-07-09 | 2002-07-19 | 2005-03-25 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7204-536 IBM 36.4 GB External Disk Drive Model 536
-
-🔗 [https://www.ibm.com/docs/en/announcements/364-gb-external-disk-drive-model-536](https://www.ibm.com/docs/en/announcements/364-gb-external-disk-drive-model-536?region=AP)
-
-📅 2009-06-24
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7204-536 | 2002-07-09 | 2002-07-19 | 2005-03-25 | - |
 
 
 
@@ -4857,29 +4807,6 @@ content update: 2024-03-14 00:32:16.795600792 +0800 CST
 
 
 
-### 9337-025 IBM Disk Array Subsystem Model 025
-
-🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-025](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-025?region=AP)
-
-📅 2008-03-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9337-025 | 1993-09-07 | 1993-09-24 | 1996-09-13 | 2008-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 9337-040 IBM Disk Array Subsystem Model 040
 
 🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-040](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-040?region=AP)
@@ -4912,29 +4839,6 @@ content update: 2024-03-14 00:32:16.795600792 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9337-110 | 1992-09-30 | 1992-11-30 | 1994-05-02 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9337-115 IBM Disk Array Subsystem Model 115
-
-🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-115](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-115?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9337-115 | 1993-09-07 | 1993-09-24 | 1994-12-30 | - |
 
 
 
