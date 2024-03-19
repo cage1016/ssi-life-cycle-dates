@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-03-19 00:32:21.472364959 +0800 CST
+content update: 2024-03-20 00:32:14.352075872 +0800 CST
 
 ---
 
@@ -30,6 +30,7 @@ content update: 2024-03-19 00:32:21.472364959 +0800 CST
 - [Family 1814+03 IBM System Storage DS4700 Express Models 70-DC and 72-DC](#family-181403-ibm-system-storage-ds4700-express-models-70-dc-and-72-dc)
 - [Family 1814+04 IBM System Storage DS5020 Midrange Disk EXP520 Expansion Unit](#family-181404-ibm-system-storage-ds5020-midrange-disk-exp520-expansion-unit)
 - [Family 1815+01 IBM TotalStorage DS4800 Midrange Disk System](#family-181501-ibm-totalstorage-ds4800-midrange-disk-system)
+- [Family 1815+02 IBM TotalStorage DS4800 Model 88 Midrange Disk System](#family-181502-ibm-totalstorage-ds4800-model-88-midrange-disk-system)
 - [Family 1815+03 IBM System Storage DS4800 Model 80 Midrange Disk System](#family-181503-ibm-system-storage-ds4800-model-80-midrange-disk-system)
 - [Family 1818+01 IBM System Storage DS5000 Series Midrange Disk System](#family-181801-ibm-system-storage-ds5000-series-midrange-disk-system)
 - [Family 1818+02 IBM System Storage DS Remote Support Manager for Storage](#family-181802-ibm-system-storage-ds-remote-support-manager-for-storage)
@@ -180,6 +181,8 @@ content update: 2024-03-19 00:32:21.472364959 +0800 CST
 - [7204-404 IBM External Disk Drive Model 404](#7204-404-ibm-external-disk-drive-model-404)
 - [7204-409 IBM 9.1 GB External Disk Drive Model 409](#7204-409-ibm-91-gb-external-disk-drive-model-409)
 - [7204-419 IBM 18.2 GB External Disk Drive Model 419](#7204-419-ibm-182-gb-external-disk-drive-model-419)
+- [7204-518 IBM 7204 18.2 GB External Disk Drive Model 518](#7204-518-ibm-7204-182-gb-external-disk-drive-model-518)
+- [7204-536 IBM 36.4 GB External Disk Drive Model 536](#7204-536-ibm-364-gb-external-disk-drive-model-536)
 - [7204-573 IBM External Disk Drive Model 573](#7204-573-ibm-external-disk-drive-model-573)
 - [7204-646 IBM 7204 External Disk Drive Model 646](#7204-646-ibm-7204-external-disk-drive-model-646)
 - [9333-010 IBM High-Performance Disk Drive Subsystem Model 010](#9333-010-ibm-high-performance-disk-drive-subsystem-model-010)
@@ -770,6 +773,29 @@ content update: 2024-03-19 00:32:21.472364959 +0800 CST
 | --- | --- | --- | --- | --- |
 | 1815-82A | 2005-05-10 | 2005-06-17 | 2009-12-31 | 2017-01-31 |
 | 1815-84A | 2005-05-10 | 2005-06-17 | 2009-03-31 | 2017-01-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 1815+02 IBM TotalStorage DS4800 Model 88 Midrange Disk System
+
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4800-model-88-midrange-disk-system](https://www.ibm.com/docs/en/announcements/totalstorage-ds4800-model-88-midrange-disk-system?region=AP)
+
+📅 2016-07-19
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 1815-88A | 2005-08-30 | 2005-09-09 | 2009-03-31 | 2017-01-31 |
 
 
 
@@ -4357,6 +4383,52 @@ content update: 2024-03-19 00:32:21.472364959 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7204-419 | 1999-09-07 | 1999-09-24 | 2002-10-11 | 2007-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7204-518 IBM 7204 18.2 GB External Disk Drive Model 518
+
+🔗 [https://www.ibm.com/docs/en/announcements/7204-182-gb-external-disk-drive-model-518](https://www.ibm.com/docs/en/announcements/7204-182-gb-external-disk-drive-model-518?region=AP)
+
+📅 2009-06-24
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7204-518 | 2002-07-09 | 2002-07-19 | 2005-03-25 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7204-536 IBM 36.4 GB External Disk Drive Model 536
+
+🔗 [https://www.ibm.com/docs/en/announcements/364-gb-external-disk-drive-model-536](https://www.ibm.com/docs/en/announcements/364-gb-external-disk-drive-model-536?region=AP)
+
+📅 2009-06-24
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7204-536 | 2002-07-09 | 2002-07-19 | 2005-03-25 | - |
 
 
 
