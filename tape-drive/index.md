@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2024-03-21 00:32:43.439202838 +0800 CST
+content update: 2024-03-22 00:31:50.234089558 +0800 CST
 
 ---
 
@@ -27,7 +27,6 @@ content update: 2024-03-21 00:32:43.439202838 +0800 CST
 - [Family 3580+03 IBM TotalStorage 3580 Ultrium 3 LTO Tape Drive](#family-358003-ibm-totalstorage-3580-ultrium-3-lto-tape-drive)
 - [Family 3580+06 IBM Storage System TS2230 Tape Drive Model H3L](#family-358006-ibm-storage-system-ts2230-tape-drive-model-h3l)
 - [Family 3580+07 IBM System Storage TS2340 Tape Drive Express Models L43 and S43](#family-358007-ibm-system-storage-ts2340-tape-drive-express-models-l43-and-s43)
-- [Family 3580+08 IBM System Storage TS2230 Tape Drive H3S LTO 3 Half-High](#family-358008-ibm-system-storage-ts2230-tape-drive-h3s-lto-3-half-high)
 - [Family 3580+09 IBM System Storage TS2240 Tape Drive Express Model H4S](#family-358009-ibm-system-storage-ts2240-tape-drive-express-model-h4s)
 - [Family 3580+12 IBM System Storage TS2250 Tape Drive Express Model H5S](#family-358012-ibm-system-storage-ts2250-tape-drive-express-model-h5s)
 - [Family 3580+13 IBM System Storage TS2350 Tape Drive Express Model S53](#family-358013-ibm-system-storage-ts2350-tape-drive-express-model-s53)
@@ -573,29 +572,6 @@ content update: 2024-03-21 00:32:43.439202838 +0800 CST
 | --- | --- | --- | --- | --- |
 | 3580-L43 | 2007-04-24 | 2007-05-11 | 2011-11-25 | 2022-12-31 |
 | 3580-S43 | 2007-04-24 | 2007-05-11 | 2010-11-26 | 2022-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3580+08 IBM System Storage TS2230 Tape Drive H3S LTO 3 Half-High
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts2230-tape-drive-h3s-lto-3-half-high](https://www.ibm.com/docs/en/announcements/system-storage-ts2230-tape-drive-h3s-lto-3-half-high?region=AP)
-
-📅 2023-05-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3580-H3S | 2007-07-10 | 2007-08-03 | 2010-12-03 | 2015-04-30 |
 
 
 
