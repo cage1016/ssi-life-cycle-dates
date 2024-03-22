@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2024-03-22 00:31:50.234089558 +0800 CST
+content update: 2024-03-23 00:32:56.943867564 +0800 CST
 
 ---
 
@@ -22,6 +22,7 @@ content update: 2024-03-22 00:31:50.234089558 +0800 CST
 - [Family 9830+01 IBM FlashSystem 710 and FlashSystem 810](#family-983001-ibm-flashsystem-710-and-flashsystem-810)
 - [Family 9831+01 IBM FlashSystem 720 and FlashSystem 820](#family-983101-ibm-flashsystem-720-and-flashsystem-820)
 - [Family 9835+01 IBM FlashSystem A9000R](#family-983501-ibm-flashsystem-a9000r)
+- [Family 9835+02 IBM FlashSystem A9000R](#family-983502-ibm-flashsystem-a9000r)
 - [Family 9836+01 IBM FlashSystem A9000](#family-983601-ibm-flashsystem-a9000)
 - [Family 9836+02 IBM FlashSystem A9000](#family-983602-ibm-flashsystem-a9000)
 - [Family 9837+01 IBM FlashSystem A9000R](#family-983701-ibm-flashsystem-a9000r)
@@ -32,12 +33,14 @@ content update: 2024-03-22 00:31:50.234089558 +0800 CST
 - [Family 9838+03 IBM FlashSystem A9000 Utility Offerings](#family-983803-ibm-flashsystem-a9000-utility-offerings)
 - [Family 9840+01 IBM FlashSystem 840](#family-984001-ibm-flashsystem-840)
 - [Family 9840+02 IBM FlashSystem 900](#family-984002-ibm-flashsystem-900)
+- [Family 9840+03 IBM FlashSystem 900](#family-984003-ibm-flashsystem-900)
 - [Family 9843+01 IBM FlashSystem 840](#family-984301-ibm-flashsystem-840)
 - [Family 9843+02 IBM FlashSystem 900](#family-984302-ibm-flashsystem-900)
 - [Family 9843+03 IBM FlashSystem 900](#family-984303-ibm-flashsystem-900)
 - [Family 9846+01 IBM FlashSystem V840](#family-984601-ibm-flashsystem-v840)
 - [Family 9846+02 IBM FlashSystem V9000](#family-984602-ibm-flashsystem-v9000)
 - [Family 9846+03 IBM FlashSystem 9100](#family-984603-ibm-flashsystem-9100)
+- [Family 9846+04 IBM FlashSystem 9200](#family-984604-ibm-flashsystem-9200)
 - [Family 9847+01 IBM DeepFlash 150](#family-984701-ibm-deepflash-150)
 - [Family 9848+01 IBM FlashSystem V840](#family-984801-ibm-flashsystem-v840)
 - [Family 9848+02 IBM FlashSystem V9000](#family-984802-ibm-flashsystem-v9000)
@@ -448,6 +451,29 @@ content update: 2024-03-22 00:31:50.234089558 +0800 CST
 
 
 
+### Family 9835+02 IBM FlashSystem A9000R
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-a9000r-2022-07-26](https://www.ibm.com/docs/en/announcements/flashsystem-a9000r-2022-07-26?region=AP)
+
+📅 2022-07-26
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9835-425 | 2017-10-24 | 2017-11-24 | 2020-11-20 | 2023-07-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 9836+01 IBM FlashSystem A9000
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-a9000](https://www.ibm.com/docs/en/announcements/flashsystem-a9000?region=AP)
@@ -678,6 +704,29 @@ content update: 2024-03-22 00:31:50.234089558 +0800 CST
 
 
 
+### Family 9840+03 IBM FlashSystem 900
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-900-2023-07-11](https://www.ibm.com/docs/en/announcements/flashsystem-900-2023-07-11?region=AP)
+
+📅 2023-07-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9840-AE3 | 2017-10-24 | 2017-11-17 | 2020-11-20 | 2024-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 9843+01 IBM FlashSystem 840
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-840](https://www.ibm.com/docs/en/announcements/flashsystem-840?region=AP)
@@ -818,6 +867,30 @@ content update: 2024-03-22 00:31:50.234089558 +0800 CST
 
 > Note: 9846-A9F and 9846-AFF effective marketing withdrawal date is
 2022/10/22 for Korea and Taiwan, and 2023/06/17 for India
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 9846+04 IBM FlashSystem 9200
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9200-2023-09-12](https://www.ibm.com/docs/en/announcements/flashsystem-9200-2023-09-12?region=AP)
+
+📅 2023-09-12
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9846-AG8 | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
+
+
+> Note: 9846-AG8 effective marketing withdrawal date is 2022/10/22 for
+Korea and Taiwan, and 2023/06/17 for India
 
 
 
