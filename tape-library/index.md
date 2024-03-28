@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2024-03-28 00:34:10.193137851 +0800 CST
+content update: 2024-03-29 00:32:56.796933595 +0800 CST
 
 ---
 
@@ -32,6 +32,7 @@ content update: 2024-03-28 00:34:10.193137851 +0800 CST
 - [Family 3952+01 IBM System Storage Tape Frame](#family-395201-ibm-system-storage-tape-frame)
 - [Family 3952+02 IBM TS7770 R5.x Model F06](#family-395202-ibm-ts7770-r5x-model-f06)
 - [Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700](#family-395203-ibm-3952-tape-frame-model-f07-for-ibm-ts7700)
+- [Family 3953+01 IBM TotalStorage Library Manager and Tape Frame](#family-395301-ibm-totalstorage-library-manager-and-tape-frame)
 - [Family 3957+06 IBM TS7770 Models VED](#family-395706-ibm-ts7770-models-ved)
 - [Family 3958+01 IBM System Storage TS7650G Server](#family-395801-ibm-system-storage-ts7650g-server)
 - [Family 3958+02 IBM System Storage TS7650G Server](#family-395802-ibm-system-storage-ts7650g-server)
@@ -629,6 +630,30 @@ content update: 2024-03-28 00:34:10.193137851 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3952-F07 | 2021-05-25 | 2021-06-18 | - | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 3953+01 IBM TotalStorage Library Manager and Tape Frame
+
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-library-manager-tape-frame](https://www.ibm.com/docs/en/announcements/totalstorage-library-manager-tape-frame?region=AP)
+
+📅 2021-10-26
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3953-F05 | 2005-05-10 | 2005-06-03 | 2012-12-28 | 2022-12-31 |
+| 3953-L05 | 2005-05-10 | 2005-06-03 | 2011-09-23 | 2018-01-31 |
 
 
 
