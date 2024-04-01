@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-04-01 00:32:06.231246312 +0800 CST
+content update: 2024-04-02 00:31:57.844229351 +0800 CST
 
 ---
 
@@ -168,7 +168,6 @@ content update: 2024-04-01 00:32:06.231246312 +0800 CST
 - [7135-010 IBM RAIDiant Array Model 010](#7135-010-ibm-raidiant-array-model-010)
 - [7135-110 IBM RAIDiant Array Model 110](#7135-110-ibm-raidiant-array-model-110)
 - [7137-412 IBM Disk Array Subsystem Model 412](#7137-412-ibm-disk-array-subsystem-model-412)
-- [7137-415 IBM Disk Array Subsystem Model 415](#7137-415-ibm-disk-array-subsystem-model-415)
 - [7137-512 IBM Disk Array Subsystem Model 512](#7137-512-ibm-disk-array-subsystem-model-512)
 - [7137-515 IBM Disk Array Subsystem Model 515](#7137-515-ibm-disk-array-subsystem-model-515)
 - [7204-112 IBM RS/6000 External Disk Drive Model 112](#7204-112-ibm-rs-6000-external-disk-drive-model-112)
@@ -180,10 +179,7 @@ content update: 2024-04-01 00:32:06.231246312 +0800 CST
 - [7204-402 IBM External Disk Drive Model 402](#7204-402-ibm-external-disk-drive-model-402)
 - [7204-404 IBM External Disk Drive Model 404](#7204-404-ibm-external-disk-drive-model-404)
 - [7204-409 IBM 9.1 GB External Disk Drive Model 409](#7204-409-ibm-91-gb-external-disk-drive-model-409)
-- [7204-419 IBM 18.2 GB External Disk Drive Model 419](#7204-419-ibm-182-gb-external-disk-drive-model-419)
-- [7204-518 IBM 7204 18.2 GB External Disk Drive Model 518](#7204-518-ibm-7204-182-gb-external-disk-drive-model-518)
 - [7204-536 IBM 36.4 GB External Disk Drive Model 536](#7204-536-ibm-364-gb-external-disk-drive-model-536)
-- [7204-573 IBM External Disk Drive Model 573](#7204-573-ibm-external-disk-drive-model-573)
 - [7204-646 IBM 7204 External Disk Drive Model 646](#7204-646-ibm-7204-external-disk-drive-model-646)
 - [9333-010 IBM High-Performance Disk Drive Subsystem Model 010](#9333-010-ibm-high-performance-disk-drive-subsystem-model-010)
 - [9333-011 IBM High-Performance Disk Drive Subsystem Model 011](#9333-011-ibm-high-performance-disk-drive-subsystem-model-011)
@@ -4107,26 +4103,6 @@ content update: 2024-04-01 00:32:06.231246312 +0800 CST
 
 
 
-### 7137-415 IBM Disk Array Subsystem Model 415
-
-🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-415](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-415?region=AP)
-
-📅 2002-06-03
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 7137-512 IBM Disk Array Subsystem Model 512
 
 🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-512](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-512?region=AP)
@@ -4374,52 +4350,6 @@ content update: 2024-04-01 00:32:06.231246312 +0800 CST
 
 
 
-### 7204-419 IBM 18.2 GB External Disk Drive Model 419
-
-🔗 [https://www.ibm.com/docs/en/announcements/182-gb-external-disk-drive-model-419](https://www.ibm.com/docs/en/announcements/182-gb-external-disk-drive-model-419?region=AP)
-
-📅 2007-06-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7204-419 | 1999-09-07 | 1999-09-24 | 2002-10-11 | 2007-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7204-518 IBM 7204 18.2 GB External Disk Drive Model 518
-
-🔗 [https://www.ibm.com/docs/en/announcements/7204-182-gb-external-disk-drive-model-518](https://www.ibm.com/docs/en/announcements/7204-182-gb-external-disk-drive-model-518?region=AP)
-
-📅 2009-06-24
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7204-518 | 2002-07-09 | 2002-07-19 | 2005-03-25 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 7204-536 IBM 36.4 GB External Disk Drive Model 536
 
 🔗 [https://www.ibm.com/docs/en/announcements/364-gb-external-disk-drive-model-536](https://www.ibm.com/docs/en/announcements/364-gb-external-disk-drive-model-536?region=AP)
@@ -4429,29 +4359,6 @@ content update: 2024-04-01 00:32:06.231246312 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7204-536 | 2002-07-09 | 2002-07-19 | 2005-03-25 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7204-573 IBM External Disk Drive Model 573
-
-🔗 [https://www.ibm.com/docs/en/announcements/external-disk-drive-model-573](https://www.ibm.com/docs/en/announcements/external-disk-drive-model-573?region=AP)
-
-📅 2012-07-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7204-573 | 2003-07-15 | 2003-08-15 | 2006-12-15 | 2011-12-31 |
 
 
 
