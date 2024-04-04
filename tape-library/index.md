@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2024-04-04 00:32:19.291312549 +0800 CST
+content update: 2024-04-05 00:32:16.122121029 +0800 CST
 
 ---
 
@@ -551,7 +551,7 @@ content update: 2024-04-04 00:32:19.291312549 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts7700-release-53](https://www.ibm.com/docs/en/announcements/ts7700-release-53?region=AP)
 
-📅 2024-01-23
+📅 2024-05-28
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

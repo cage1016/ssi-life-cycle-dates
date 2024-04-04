@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-04-04 00:32:19.291312549 +0800 CST
+content update: 2024-04-05 00:32:16.122121029 +0800 CST
 
 ---
 
@@ -99,7 +99,6 @@ content update: 2024-04-04 00:32:19.291312549 +0800 CST
 - [Family 2810+04 IBM XIV Storage System (M/T 2810) Model 314](#family-281004-ibm-xiv-storage-system-m-t-2810-model-314)
 - [Family 2812+01 IBM XIV Storage System Model A14](#family-281201-ibm-xiv-storage-system-model-a14)
 - [Family 2812+02 IBM XIV Storage System (M/T 2812) Model Gen3](#family-281202-ibm-xiv-storage-system-m-t-2812-model-gen3)
-- [Family 2812+03 IBM XIV Storage System (M/T 2812) Model 214](#family-281203-ibm-xiv-storage-system-m-t-2812-model-214)
 - [Family 2812+04 IBM XIV Storage System (M/T 2812) Model 314](#family-281204-ibm-xiv-storage-system-m-t-2812-model-314)
 - [Family 2831+01 IBM DS8880 Models 981, 98E, 980, and 98B](#family-283101-ibm-ds8880-models-981-98e-980-and-98b)
 - [Family 2831+02 IBM DS8888 Model 982/98F](#family-283102-ibm-ds8888-model-982-98f)
@@ -178,10 +177,7 @@ content update: 2024-04-04 00:32:19.291312549 +0800 CST
 - [7204-139 IBM RS/6000 External Disk Drive Model 139](#7204-139-ibm-rs-6000-external-disk-drive-model-139)
 - [7204-339 IBM RS/6000 External Disk Drive Model 339](#7204-339-ibm-rs-6000-external-disk-drive-model-339)
 - [7204-402 IBM External Disk Drive Model 402](#7204-402-ibm-external-disk-drive-model-402)
-- [7204-404 IBM External Disk Drive Model 404](#7204-404-ibm-external-disk-drive-model-404)
-- [7204-409 IBM 9.1 GB External Disk Drive Model 409](#7204-409-ibm-91-gb-external-disk-drive-model-409)
 - [7204-419 IBM 18.2 GB External Disk Drive Model 419](#7204-419-ibm-182-gb-external-disk-drive-model-419)
-- [7204-518 IBM 7204 18.2 GB External Disk Drive Model 518](#7204-518-ibm-7204-182-gb-external-disk-drive-model-518)
 - [7204-536 IBM 36.4 GB External Disk Drive Model 536](#7204-536-ibm-364-gb-external-disk-drive-model-536)
 - [7204-573 IBM External Disk Drive Model 573](#7204-573-ibm-external-disk-drive-model-573)
 - [7204-646 IBM 7204 External Disk Drive Model 646](#7204-646-ibm-7204-external-disk-drive-model-646)
@@ -2457,29 +2453,6 @@ content update: 2024-04-04 00:32:19.291312549 +0800 CST
 
 
 
-### Family 2812+03 IBM XIV Storage System (M/T 2812) Model 214
-
-🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-214](https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-214?region=AP)
-
-📅 2022-07-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2812-214 | 2013-02-05 | 2013-03-07 | 2018-05-27 | 2023-07-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 2812+04 IBM XIV Storage System (M/T 2812) Model 314
 
 🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-314](https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-314?region=AP)
@@ -4328,52 +4301,6 @@ content update: 2024-04-04 00:32:19.291312549 +0800 CST
 
 
 
-### 7204-404 IBM External Disk Drive Model 404
-
-🔗 [https://www.ibm.com/docs/en/announcements/external-disk-drive-model-404](https://www.ibm.com/docs/en/announcements/external-disk-drive-model-404?region=AP)
-
-📅 2009-06-24
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7204-404 | 1997-10-06 | 1997-10-17 | 1998-11-30 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7204-409 IBM 9.1 GB External Disk Drive Model 409
-
-🔗 [https://www.ibm.com/docs/en/announcements/91-gb-external-disk-drive-model-409](https://www.ibm.com/docs/en/announcements/91-gb-external-disk-drive-model-409?region=AP)
-
-📅 2007-06-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7204-409 | 1999-09-07 | 1999-09-24 | 2002-10-11 | 2007-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 7204-419 IBM 18.2 GB External Disk Drive Model 419
 
 🔗 [https://www.ibm.com/docs/en/announcements/182-gb-external-disk-drive-model-419](https://www.ibm.com/docs/en/announcements/182-gb-external-disk-drive-model-419?region=AP)
@@ -4383,29 +4310,6 @@ content update: 2024-04-04 00:32:19.291312549 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7204-419 | 1999-09-07 | 1999-09-24 | 2002-10-11 | 2007-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7204-518 IBM 7204 18.2 GB External Disk Drive Model 518
-
-🔗 [https://www.ibm.com/docs/en/announcements/7204-182-gb-external-disk-drive-model-518](https://www.ibm.com/docs/en/announcements/7204-182-gb-external-disk-drive-model-518?region=AP)
-
-📅 2009-06-24
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7204-518 | 2002-07-09 | 2002-07-19 | 2005-03-25 | - |
 
 
 
