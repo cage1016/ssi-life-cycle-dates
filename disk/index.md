@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-04-05 00:32:16.122121029 +0800 CST
+content update: 2024-04-06 00:32:42.850700401 +0800 CST
 
 ---
 
@@ -99,6 +99,7 @@ content update: 2024-04-05 00:32:16.122121029 +0800 CST
 - [Family 2810+04 IBM XIV Storage System (M/T 2810) Model 314](#family-281004-ibm-xiv-storage-system-m-t-2810-model-314)
 - [Family 2812+01 IBM XIV Storage System Model A14](#family-281201-ibm-xiv-storage-system-model-a14)
 - [Family 2812+02 IBM XIV Storage System (M/T 2812) Model Gen3](#family-281202-ibm-xiv-storage-system-m-t-2812-model-gen3)
+- [Family 2812+03 IBM XIV Storage System (M/T 2812) Model 214](#family-281203-ibm-xiv-storage-system-m-t-2812-model-214)
 - [Family 2812+04 IBM XIV Storage System (M/T 2812) Model 314](#family-281204-ibm-xiv-storage-system-m-t-2812-model-314)
 - [Family 2831+01 IBM DS8880 Models 981, 98E, 980, and 98B](#family-283101-ibm-ds8880-models-981-98e-980-and-98b)
 - [Family 2831+02 IBM DS8888 Model 982/98F](#family-283102-ibm-ds8888-model-982-98f)
@@ -134,7 +135,6 @@ content update: 2024-04-05 00:32:16.122121029 +0800 CST
 - [3390-B9C IBM Direct Access Storage Device (DASD) Model B9C](#3390-b9c-ibm-direct-access-storage-device-dasd-model-b9c)
 - [3552-1RU IBM TotalStorage FAStT500 Storage Server Model 1RU](#3552-1ru-ibm-totalstorage-fastt500-storage-server-model-1ru)
 - [Family 3560+01 IBM FAStT EXP500 Expansion Unit](#family-356001-ibm-fastt-exp500-expansion-unit)
-- [3990-001 IBM Storage Control Model 001](#3990-001-ibm-storage-control-model-001)
 - [3990-002 IBM Storage Control Model 002](#3990-002-ibm-storage-control-model-002)
 - [3990-006 IBM Storage Control Model 006](#3990-006-ibm-storage-control-model-006)
 - [Family 4939+01 IBM Flex System V7000 Storage Node Hardware - AAS](#family-493901-ibm-flex-system-v7000-storage-node-hardware-aas)
@@ -177,7 +177,10 @@ content update: 2024-04-05 00:32:16.122121029 +0800 CST
 - [7204-139 IBM RS/6000 External Disk Drive Model 139](#7204-139-ibm-rs-6000-external-disk-drive-model-139)
 - [7204-339 IBM RS/6000 External Disk Drive Model 339](#7204-339-ibm-rs-6000-external-disk-drive-model-339)
 - [7204-402 IBM External Disk Drive Model 402](#7204-402-ibm-external-disk-drive-model-402)
+- [7204-404 IBM External Disk Drive Model 404](#7204-404-ibm-external-disk-drive-model-404)
+- [7204-409 IBM 9.1 GB External Disk Drive Model 409](#7204-409-ibm-91-gb-external-disk-drive-model-409)
 - [7204-419 IBM 18.2 GB External Disk Drive Model 419](#7204-419-ibm-182-gb-external-disk-drive-model-419)
+- [7204-518 IBM 7204 18.2 GB External Disk Drive Model 518](#7204-518-ibm-7204-182-gb-external-disk-drive-model-518)
 - [7204-536 IBM 36.4 GB External Disk Drive Model 536](#7204-536-ibm-364-gb-external-disk-drive-model-536)
 - [7204-573 IBM External Disk Drive Model 573](#7204-573-ibm-external-disk-drive-model-573)
 - [7204-646 IBM 7204 External Disk Drive Model 646](#7204-646-ibm-7204-external-disk-drive-model-646)
@@ -235,7 +238,6 @@ content update: 2024-04-05 00:32:16.122121029 +0800 CST
 - [9393-X83 IBM RAMAC Virtual Array Turbo Model X83](#9393-x83-ibm-ramac-virtual-array-turbo-model-x83)
 - [9394-001 IBM RAMAC 2 Array Subsystem Model 001](#9394-001-ibm-ramac-2-array-subsystem-model-001)
 - [9394-002 IBM RAMAC 2 Array Subsystem Model 002](#9394-002-ibm-ramac-2-array-subsystem-model-002)
-- [9394-003 IBM RAMAC 2 Array Subsystem Model 003](#9394-003-ibm-ramac-2-array-subsystem-model-003)
 - [9395-B13 IBM RAMAC 2 Array Subsystem Model B13](#9395-b13-ibm-ramac-2-array-subsystem-model-b13)
 - [9395-B23 IBM RAMAC 2 Array Subsystem Model B23](#9395-b23-ibm-ramac-2-array-subsystem-model-b23)
 
@@ -1216,8 +1218,7 @@ content update: 2024-04-05 00:32:16.122121029 +0800 CST
 | 2076-92G | 2020-02-11 | 2020-03-06 | - | - |
 
 
-> Note: 2076-824 and 2076-U7C effective marketing withdrawal date is
-2022/10/22 for Korea and Taiwan, and 2023/06/17 for India.
+
 
 
 
@@ -2453,6 +2454,29 @@ content update: 2024-04-05 00:32:16.122121029 +0800 CST
 
 
 
+### Family 2812+03 IBM XIV Storage System (M/T 2812) Model 214
+
+🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-214](https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-214?region=AP)
+
+📅 2022-07-26
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2812-214 | 2013-02-05 | 2013-03-07 | 2018-05-27 | 2023-07-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 2812+04 IBM XIV Storage System (M/T 2812) Model 314
 
 🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-314](https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-314?region=AP)
@@ -3281,26 +3305,6 @@ content update: 2024-04-05 00:32:16.122121029 +0800 CST
 | --- | --- | --- | --- | --- |
 | 3560-1RU | 2000-11-07 | 2000-11-17 | 2004-11-05 | 2012-12-31 |
 | 3560-1RX | 2000-11-07 | 2000-11-17 | 2004-11-05 | 2012-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3990-001 IBM Storage Control Model 001
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-control-model-001](https://www.ibm.com/docs/en/announcements/storage-control-model-001?region=AP)
-
-📅 1996-01-10
-
 
 
 
@@ -4301,6 +4305,52 @@ content update: 2024-04-05 00:32:16.122121029 +0800 CST
 
 
 
+### 7204-404 IBM External Disk Drive Model 404
+
+🔗 [https://www.ibm.com/docs/en/announcements/external-disk-drive-model-404](https://www.ibm.com/docs/en/announcements/external-disk-drive-model-404?region=AP)
+
+📅 2009-06-24
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7204-404 | 1997-10-06 | 1997-10-17 | 1998-11-30 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7204-409 IBM 9.1 GB External Disk Drive Model 409
+
+🔗 [https://www.ibm.com/docs/en/announcements/91-gb-external-disk-drive-model-409](https://www.ibm.com/docs/en/announcements/91-gb-external-disk-drive-model-409?region=AP)
+
+📅 2007-06-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7204-409 | 1999-09-07 | 1999-09-24 | 2002-10-11 | 2007-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 7204-419 IBM 18.2 GB External Disk Drive Model 419
 
 🔗 [https://www.ibm.com/docs/en/announcements/182-gb-external-disk-drive-model-419](https://www.ibm.com/docs/en/announcements/182-gb-external-disk-drive-model-419?region=AP)
@@ -4310,6 +4360,29 @@ content update: 2024-04-05 00:32:16.122121029 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7204-419 | 1999-09-07 | 1999-09-24 | 2002-10-11 | 2007-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7204-518 IBM 7204 18.2 GB External Disk Drive Model 518
+
+🔗 [https://www.ibm.com/docs/en/announcements/7204-182-gb-external-disk-drive-model-518](https://www.ibm.com/docs/en/announcements/7204-182-gb-external-disk-drive-model-518?region=AP)
+
+📅 2009-06-24
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7204-518 | 2002-07-09 | 2002-07-19 | 2005-03-25 | - |
 
 
 
@@ -5612,29 +5685,6 @@ content update: 2024-04-05 00:32:16.122121029 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9394-002 | 1994-06-21 | 1994-09-30 | 1998-07-28 | 2010-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9394-003 IBM RAMAC 2 Array Subsystem Model 003
-
-🔗 [https://www.ibm.com/docs/en/announcements/ramac-2-array-subsystem-model-003](https://www.ibm.com/docs/en/announcements/ramac-2-array-subsystem-model-003?region=AP)
-
-📅 2008-07-16
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9394-003 | 1994-06-21 | 1994-09-30 | 1998-07-28 | - |
 
 
 

@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2024-04-05 00:32:16.122121029 +0800 CST
+content update: 2024-04-06 00:32:42.850700401 +0800 CST
 
 ---
 
@@ -126,8 +126,7 @@ content update: 2024-04-05 00:32:16.122121029 +0800 CST
 | 2076-92G | 2020-02-11 | 2020-03-06 | - | - |
 
 
-> Note: 2076-824 and 2076-U7C effective marketing withdrawal date is
-2022/10/22 for Korea and Taiwan, and 2023/06/17 for India.
+
 
 
 
@@ -261,8 +260,7 @@ content update: 2024-04-05 00:32:16.122121029 +0800 CST
 | 4664-92G | 2021-08-17 | 2021-08-27 | - | - |
 
 
-> Note: 4664-824 and 4664-U7C effective marketing withdrawal date is
-2022/10/22 for Korea and Taiwan, and 2023/06/17 for India
+
 
 
 
@@ -288,8 +286,7 @@ content update: 2024-04-05 00:32:16.122121029 +0800 CST
 | 4666-UG8 | 2021-08-17 | 2021-08-27 | 2022-07-16 | - |
 
 
-> Note: 4666-AG8 and 4666-UG8 effective marketing withdrawal date is
-2022/10/22 for Korea and Taiwan, and 2023/06/17 for India
+
 
 
 
@@ -865,8 +862,7 @@ content update: 2024-04-05 00:32:16.122121029 +0800 CST
 | 9846-A9F | 2018-07-10 | 2018-08-28 | 2022-07-16 | - |
 
 
-> Note: 9846-A9F and 9846-AFF effective marketing withdrawal date is
-2022/10/22 for Korea and Taiwan, and 2023/06/17 for India
+
 
 
 
@@ -889,8 +885,7 @@ content update: 2024-04-05 00:32:16.122121029 +0800 CST
 | 9846-AG8 | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
 
 
-> Note: 9846-AG8 effective marketing withdrawal date is 2022/10/22 for
-Korea and Taiwan, and 2023/06/17 for India
+
 
 
 
@@ -997,8 +992,7 @@ Korea and Taiwan, and 2023/06/17 for India
 | 9848-UF8 | 2018-11-06 | 2019-01-25 | 2020-10-17 | - |
 
 
-> Note: 9848-A9F and 9848-AFF effective marketing withdrawal date is
-2022/10/22 for Korea and Taiwan, and 2023/06/17 for India
+
 
 
 
@@ -1022,8 +1016,7 @@ Korea and Taiwan, and 2023/06/17 for India
 | 9848-UG8 | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
 
 
-> Note: 9848-AG8 and 9848-UG8 effective marketing withdrawal date is
-2022/10/22 for Korea and Taiwan, and 2023/06/17 for India
+
 
 
 
