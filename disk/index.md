@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-04-06 00:32:42.850700401 +0800 CST
+content update: 2024-04-07 00:31:41.554011558 +0800 CST
 
 ---
 
@@ -135,6 +135,7 @@ content update: 2024-04-06 00:32:42.850700401 +0800 CST
 - [3390-B9C IBM Direct Access Storage Device (DASD) Model B9C](#3390-b9c-ibm-direct-access-storage-device-dasd-model-b9c)
 - [3552-1RU IBM TotalStorage FAStT500 Storage Server Model 1RU](#3552-1ru-ibm-totalstorage-fastt500-storage-server-model-1ru)
 - [Family 3560+01 IBM FAStT EXP500 Expansion Unit](#family-356001-ibm-fastt-exp500-expansion-unit)
+- [3990-001 IBM Storage Control Model 001](#3990-001-ibm-storage-control-model-001)
 - [3990-002 IBM Storage Control Model 002](#3990-002-ibm-storage-control-model-002)
 - [3990-006 IBM Storage Control Model 006](#3990-006-ibm-storage-control-model-006)
 - [Family 4939+01 IBM Flex System V7000 Storage Node Hardware - AAS](#family-493901-ibm-flex-system-v7000-storage-node-hardware-aas)
@@ -238,6 +239,7 @@ content update: 2024-04-06 00:32:42.850700401 +0800 CST
 - [9393-X83 IBM RAMAC Virtual Array Turbo Model X83](#9393-x83-ibm-ramac-virtual-array-turbo-model-x83)
 - [9394-001 IBM RAMAC 2 Array Subsystem Model 001](#9394-001-ibm-ramac-2-array-subsystem-model-001)
 - [9394-002 IBM RAMAC 2 Array Subsystem Model 002](#9394-002-ibm-ramac-2-array-subsystem-model-002)
+- [9394-003 IBM RAMAC 2 Array Subsystem Model 003](#9394-003-ibm-ramac-2-array-subsystem-model-003)
 - [9395-B13 IBM RAMAC 2 Array Subsystem Model B13](#9395-b13-ibm-ramac-2-array-subsystem-model-b13)
 - [9395-B23 IBM RAMAC 2 Array Subsystem Model B23](#9395-b23-ibm-ramac-2-array-subsystem-model-b23)
 
@@ -3319,6 +3321,26 @@ content update: 2024-04-06 00:32:42.850700401 +0800 CST
 
 
 
+### 3990-001 IBM Storage Control Model 001
+
+🔗 [https://www.ibm.com/docs/en/announcements/storage-control-model-001](https://www.ibm.com/docs/en/announcements/storage-control-model-001?region=AP)
+
+📅 1996-01-10
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 3990-002 IBM Storage Control Model 002
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-control-model-002](https://www.ibm.com/docs/en/announcements/storage-control-model-002?region=AP)
@@ -5685,6 +5707,29 @@ content update: 2024-04-06 00:32:42.850700401 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9394-002 | 1994-06-21 | 1994-09-30 | 1998-07-28 | 2010-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 9394-003 IBM RAMAC 2 Array Subsystem Model 003
+
+🔗 [https://www.ibm.com/docs/en/announcements/ramac-2-array-subsystem-model-003](https://www.ibm.com/docs/en/announcements/ramac-2-array-subsystem-model-003?region=AP)
+
+📅 2008-07-16
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9394-003 | 1994-06-21 | 1994-09-30 | 1998-07-28 | - |
 
 
 
