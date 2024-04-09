@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-04-09 00:32:34.228949383 +0800 CST
+content update: 2024-04-10 00:30:37.506160033 +0800 CST
 
 ---
 
@@ -18,13 +18,10 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 - [1742-1RU IBM TotalStorage DS4400 Midrange Disk System Model 1RU](#1742-1ru-ibm-totalstorage-ds4400-midrange-disk-system-model-1ru)
 - [1742-90U IBM TotalStorage DS4500 Midrange Disk System Model 90U](#1742-90u-ibm-totalstorage-ds4500-midrange-disk-system-model-90u)
 - [Family 1747+02 IBM System Storage EXP2500 Express Storage Enclosures (AAS / WTAAS)](#family-174702-ibm-system-storage-exp2500-express-storage-enclosures-aas-wtaas)
-- [Family 1750+01 IBM TotalStorage DS6800 and DS6000 Expansion Enclosure](#family-175001-ibm-totalstorage-ds6800-and-ds6000-expansion-enclosure)
-- [Family 1750+02 IBM System Storage DS6800 and DS6000](#family-175002-ibm-system-storage-ds6800-and-ds6000)
 - [Family 1812+01 IBM System Storage DS4000 EXP810 Storage Expansion Unit](#family-181201-ibm-system-storage-ds4000-exp810-storage-expansion-unit)
 - [Family 1812+02 IBM System Storage DS4000 EXP420 Storage Expansion Unit](#family-181202-ibm-system-storage-ds4000-exp420-storage-expansion-unit)
 - [Family 1812+03 IBM System Storage DS4000 EXP810 Expansion Unit Model 81S](#family-181203-ibm-system-storage-ds4000-exp810-expansion-unit-model-81s)
 - [Family 1813+02 IBM System Storage DCS3860 (AAS)](#family-181302-ibm-system-storage-dcs3860-aas)
-- [Family 1813+03 IBM System Storage DCS3860 Controller 96C](#family-181303-ibm-system-storage-dcs3860-controller-96c)
 - [Family 1814+01 IBM System Storage DS4700 Express Models](#family-181401-ibm-system-storage-ds4700-express-models)
 - [Family 1814+02 IBM System Storage DS4200 Express Model 7V](#family-181402-ibm-system-storage-ds4200-express-model-7v)
 - [Family 1814+03 IBM System Storage DS4700 Express Models 70-DC and 72-DC](#family-181403-ibm-system-storage-ds4700-express-models-70-dc-and-72-dc)
@@ -34,7 +31,6 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 - [Family 1815+03 IBM System Storage DS4800 Model 80 Midrange Disk System](#family-181503-ibm-system-storage-ds4800-model-80-midrange-disk-system)
 - [Family 1818+01 IBM System Storage DS5000 Series Midrange Disk System](#family-181801-ibm-system-storage-ds5000-series-midrange-disk-system)
 - [Family 1818+02 IBM System Storage DS Remote Support Manager for Storage](#family-181802-ibm-system-storage-ds-remote-support-manager-for-storage)
-- [Family 1818+03 IBM System Storage DS Remote Support Manager for Storage](#family-181803-ibm-system-storage-ds-remote-support-manager-for-storage)
 - [Family 1818+04 IBM System Storage DS Remote Support Manager for Storage 3](#family-181804-ibm-system-storage-ds-remote-support-manager-for-storage-3)
 - [Family 1818+05 IBM System Storage DCS3700](#family-181805-ibm-system-storage-dcs3700)
 - [Family 1818+06 IBM System Storage DCS3700 Controller 90C](#family-181806-ibm-system-storage-dcs3700-controller-90c)
@@ -42,6 +38,7 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 - [Family 2072+03 IBM Storwize V3700 Disk System (AAS)](#family-207203-ibm-storwize-v3700-disk-system-aas)
 - [Family 2072+04 IBM Storwize V5000E](#family-207204-ibm-storwize-v5000e)
 - [Family 2076+01 IBM Storwize V7000 Disk System](#family-207601-ibm-storwize-v7000-disk-system)
+- [Family 2076+02 IBM Storwize V7000 Disk System](#family-207602-ibm-storwize-v7000-disk-system)
 - [Family 2076+03 IBM Storwize V7000](#family-207603-ibm-storwize-v7000)
 - [Family 2076+04 IBM Storwize V7000F](#family-207604-ibm-storwize-v7000f)
 - [Family 2076+05 IBM Storwize V7000](#family-207605-ibm-storwize-v7000)
@@ -50,7 +47,6 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 - [Family 2077+01 IBM Storwize V5000 Disk System](#family-207701-ibm-storwize-v5000-disk-system)
 - [Family 2077+02 IBM Storwize V5000](#family-207702-ibm-storwize-v5000)
 - [Family 2077+03 IBM Storwize V5030F](#family-207703-ibm-storwize-v5030f)
-- [Family 2077+04 IBM Storwize V5100](#family-207704-ibm-storwize-v5100)
 - [Family 2077+05 IBM FlashSystem 5100](#family-207705-ibm-flashsystem-5100)
 - [Family 2078+01 IBM Storwize V5000 Disk System](#family-207801-ibm-storwize-v5000-disk-system)
 - [Family 2078+02 IBM Storwize V5000](#family-207802-ibm-storwize-v5000)
@@ -58,13 +54,10 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 - [Family 2078+04 IBM Storwize V5100](#family-207804-ibm-storwize-v5100)
 - [Family 2078+05 IBM FlashSystem 5100](#family-207805-ibm-flashsystem-5100)
 - [Family 2101+01 IBM Seascape Solutions Rack Model 100](#family-210101-ibm-seascape-solutions-rack-model-100)
-- [Family 2101+02 IBM Storage Solutions Rack Model 200](#family-210102-ibm-storage-solutions-rack-model-200)
 - [2104-DL1 IBM Expandable Storage Plus Model DL1](#2104-dl1-ibm-expandable-storage-plus-model-dl1)
 - [2104-DS4 IBM TotalStorage Expandable Storage Plus 320 Model DS4](#2104-ds4-ibm-totalstorage-expandable-storage-plus-320-model-ds4)
 - [2104-DU3 IBM Expandable Storage Plus Drawer Model DU3](#2104-du3-ibm-expandable-storage-plus-drawer-model-du3)
-- [2104-TL1 IBM Expandable Storage Plus Model TL1](#2104-tl1-ibm-expandable-storage-plus-model-tl1)
 - [2104-TS4 IBM TotalStorage Expandable Storage Plus 320 Model TS4](#2104-ts4-ibm-totalstorage-expandable-storage-plus-320-model-ts4)
-- [2104-TU3 IBM Expandable Storage Plus Tower Model TU3](#2104-tu3-ibm-expandable-storage-plus-tower-model-tu3)
 - [2105-100 IBM Versatile Storage Server Model 100](#2105-100-ibm-versatile-storage-server-model-100)
 - [2105-750 IBM TotalStorage Enterprise Storage Server Model 750](#2105-750-ibm-totalstorage-enterprise-storage-server-model-750)
 - [2105-800 IBM TotalStorage Enterprise Storage Server Model 800](#2105-800-ibm-totalstorage-enterprise-storage-server-model-800)
@@ -92,9 +85,15 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 - [Family 2423+04 IBM DS8870 Models 961 and 96E](#family-242304-ibm-ds8870-models-961-and-96e)
 - [Family 2424+02 IBM System Storage DS8700 Models 941 and 94E](#family-242402-ibm-system-storage-ds8700-models-941-and-94e)
 - [Family 2424+04 IBM DS8870 Models 961 and 96E](#family-242404-ibm-ds8870-models-961-and-96e)
+- [Family 2810+01 IBM XIV Storage System](#family-281001-ibm-xiv-storage-system)
 - [Family 2810+02 IBM XIV Storage System (M/T 2810) Model Gen3](#family-281002-ibm-xiv-storage-system-m-t-2810-model-gen3)
 - [Family 2810+03 IBM XIV Storage System (M/T 2810) Model 214](#family-281003-ibm-xiv-storage-system-m-t-2810-model-214)
 - [Family 2810+04 IBM XIV Storage System (M/T 2810) Model 314](#family-281004-ibm-xiv-storage-system-m-t-2810-model-314)
+- [Family 2812+01 IBM XIV Storage System Model A14](#family-281201-ibm-xiv-storage-system-model-a14)
+- [Family 2812+02 IBM XIV Storage System (M/T 2812) Model Gen3](#family-281202-ibm-xiv-storage-system-m-t-2812-model-gen3)
+- [Family 2812+03 IBM XIV Storage System (M/T 2812) Model 214](#family-281203-ibm-xiv-storage-system-m-t-2812-model-214)
+- [Family 2812+04 IBM XIV Storage System (M/T 2812) Model 314](#family-281204-ibm-xiv-storage-system-m-t-2812-model-314)
+- [Family 2831+01 IBM DS8880 Models 981, 98E, 980, and 98B](#family-283101-ibm-ds8880-models-981-98e-980-and-98b)
 - [Family 2831+02 IBM DS8888 Model 982/98F](#family-283102-ibm-ds8888-model-982-98f)
 - [Family 2831+03 IBM DS8880 Models 984/84E, 985/85E, and 986/86E](#family-283103-ibm-ds8880-models-984-84e-985-85e-and-986-86e)
 - [Family 2832+01 IBM DS8880 Models 981, 98E, 980, and 98B](#family-283201-ibm-ds8880-models-981-98e-980-and-98b)
@@ -128,27 +127,23 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 - [3390-B9C IBM Direct Access Storage Device (DASD) Model B9C](#3390-b9c-ibm-direct-access-storage-device-dasd-model-b9c)
 - [3552-1RU IBM TotalStorage FAStT500 Storage Server Model 1RU](#3552-1ru-ibm-totalstorage-fastt500-storage-server-model-1ru)
 - [Family 3560+01 IBM FAStT EXP500 Expansion Unit](#family-356001-ibm-fastt-exp500-expansion-unit)
-- [3990-001 IBM Storage Control Model 001](#3990-001-ibm-storage-control-model-001)
-- [3990-002 IBM Storage Control Model 002](#3990-002-ibm-storage-control-model-002)
-- [3990-006 IBM Storage Control Model 006](#3990-006-ibm-storage-control-model-006)
 - [Family 4939+01 IBM Flex System V7000 Storage Node Hardware - AAS](#family-493901-ibm-flex-system-v7000-storage-node-hardware-aas)
 - [Family 5331+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533101-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
-- [Family 5331+02 IBM DS8882F Model 983](#family-533102-ibm-ds8882f-model-983)
 - [Family 5331+03 IBM DS8900F Models 993, 994, 996, and E96](#family-533103-ibm-ds8900f-models-993-994-996-and-e96)
-- [Family 5331+04 IBM DS8900F Model 998](#family-533104-ibm-ds8900f-model-998)
 - [Family 5332+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533201-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
-- [Family 5332+02 IBM DS8882F Model 983](#family-533202-ibm-ds8882f-model-983)
 - [Family 5332+03 IBM DS8900F Models 993, 994, 996, and E96](#family-533203-ibm-ds8900f-models-993-994-996-and-e96)
 - [Family 5332+04 IBM DS8900F Model 998](#family-533204-ibm-ds8900f-model-998)
 - [Family 5333+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533301-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
-- [Family 5333+02 IBM DS8882F Model 983](#family-533302-ibm-ds8882f-model-983)
 - [Family 5333+03 IBM DS8900F Models 993, 994, 996, and E96](#family-533303-ibm-ds8900f-models-993-994-996-and-e96)
 - [Family 5333+04 IBM DS8900F Model 998](#family-533304-ibm-ds8900f-model-998)
 - [Family 5334+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533401-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
 - [Family 5334+02 IBM DS8882F Model 983](#family-533402-ibm-ds8882f-model-983)
 - [Family 5334+03 IBM DS8900F Models 993, 994, 996, and E96](#family-533403-ibm-ds8900f-models-993-994-996-and-e96)
+- [Family 5334+04 IBM DS8900F Model 998](#family-533404-ibm-ds8900f-model-998)
 - [Family 5341+01 IBM DS8900F 1-YR warranty all-flash systems with IBM Storage Expert Care](#family-534101-ibm-ds8900f-1-yr-warranty-all-flash-systems-with-ibm-storage-expert-care)
 - [7027-HSC IBM High Capacity Drawer Model HSC](#7027-hsc-ibm-high-capacity-drawer-model-hsc)
+- [7027-HSD IBM High Capacity Drawer Model HSD](#7027-hsd-ibm-high-capacity-drawer-model-hsd)
+- [7133-010 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 010](#7133-010-ibm-serial-storage-architecture-ssa-disk-subsystem-model-010)
 - [7133-020 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 020](#7133-020-ibm-serial-storage-architecture-ssa-disk-subsystem-model-020)
 - [7133-500 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 500](#7133-500-ibm-serial-storage-architecture-ssa-disk-subsystem-model-500)
 - [7133-600 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 600](#7133-600-ibm-serial-storage-architecture-ssa-disk-subsystem-model-600)
@@ -158,9 +153,11 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 - [7135-010 IBM RAIDiant Array Model 010](#7135-010-ibm-raidiant-array-model-010)
 - [7135-110 IBM RAIDiant Array Model 110](#7135-110-ibm-raidiant-array-model-110)
 - [7137-412 IBM Disk Array Subsystem Model 412](#7137-412-ibm-disk-array-subsystem-model-412)
+- [7137-415 IBM Disk Array Subsystem Model 415](#7137-415-ibm-disk-array-subsystem-model-415)
 - [7137-512 IBM Disk Array Subsystem Model 512](#7137-512-ibm-disk-array-subsystem-model-512)
 - [7137-515 IBM Disk Array Subsystem Model 515](#7137-515-ibm-disk-array-subsystem-model-515)
 - [7204-112 IBM RS/6000 External Disk Drive Model 112](#7204-112-ibm-rs-6000-external-disk-drive-model-112)
+- [7204-113 IBM RS/6000 External Disk Drive Model 113](#7204-113-ibm-rs-6000-external-disk-drive-model-113)
 - [7204-114 IBM RS/6000 External Disk Drive Model 114](#7204-114-ibm-rs-6000-external-disk-drive-model-114)
 - [7204-118 IBM 7204 18.2 GB External Disk Drive Model 118](#7204-118-ibm-7204-182-gb-external-disk-drive-model-118)
 - [7204-139 IBM RS/6000 External Disk Drive Model 139](#7204-139-ibm-rs-6000-external-disk-drive-model-139)
@@ -492,54 +489,6 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 
 
 
-### Family 1750+01 IBM TotalStorage DS6800 and DS6000 Expansion Enclosure
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds6800-ds6000-expansion-enclosure](https://www.ibm.com/docs/en/announcements/totalstorage-ds6800-ds6000-expansion-enclosure?region=AP)
-
-📅 2015-03-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1750-EX1 | 2004-10-12 | 2004-12-03 | 2006-09-30 | 2015-09-30 |
-| 1750-511 | 2004-10-12 | 2004-12-03 | 2006-09-30 | 2015-09-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 1750+02 IBM System Storage DS6800 and DS6000
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds6800-ds6000](https://www.ibm.com/docs/en/announcements/system-storage-ds6800-ds6000?region=AP)
-
-📅 2015-03-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1750-522 | 2006-08-22 | 2006-09-08 | 2010-06-11 | 2015-09-30 |
-| 1750-EX2 | 2006-08-22 | 2006-09-08 | 2011-02-03 | 2015-09-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 1812+01 IBM System Storage DS4000 EXP810 Storage Expansion Unit
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds4000-exp810-storage-expansion-unit](https://www.ibm.com/docs/en/announcements/system-storage-ds4000-exp810-storage-expansion-unit?region=AP)
@@ -619,29 +568,6 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 | --- | --- | --- | --- | --- |
 | 1813-80E | 2014-11-11 | 2014-11-21 | 2018-02-17 | 2022-12-31 |
 | 1813-86C | 2014-11-11 | 2014-11-21 | 2015-06-06 | 2019-06-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 1813+03 IBM System Storage DCS3860 Controller 96C
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-dcs3860-controller-96c](https://www.ibm.com/docs/en/announcements/system-storage-dcs3860-controller-96c?region=AP)
-
-📅 2021-07-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1813-96C | 2015-04-28 | 2015-06-05 | 2017-09-09 | 2022-12-31 |
 
 
 
@@ -870,29 +796,6 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 
 
 
-### Family 1818+03 IBM System Storage DS Remote Support Manager for Storage
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds-remote-support-manager-storage](https://www.ibm.com/docs/en/announcements/system-storage-ds-remote-support-manager-storage?region=AP)
-
-📅 2016-06-28
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1818-RS2 | 2009-08-25 | 2009-09-04 | 2010-11-19 | 2017-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 1818+04 IBM System Storage DS Remote Support Manager for Storage 3
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds-remote-support-manager-storage-3](https://www.ibm.com/docs/en/announcements/system-storage-ds-remote-support-manager-storage-3?region=AP)
@@ -1056,6 +959,30 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 | 2076-124 | 2010-10-07 | 2010-11-12 | 2015-01-17 | 2022-12-31 |
 | 2076-212 | 2010-10-07 | 2010-11-12 | 2016-01-16 | 2022-12-31 |
 | 2076-224 | 2010-10-07 | 2010-11-12 | 2016-01-16 | 2022-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2076+02 IBM Storwize V7000 Disk System
+
+🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000-disk-system-2021-08-24](https://www.ibm.com/docs/en/announcements/storwize-v7000-disk-system-2021-08-24?region=AP)
+
+📅 2021-08-24
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2076-312 | 2011-05-09 | 2011-06-10 | 2015-01-17 | 2022-12-31 |
+| 2076-324 | 2011-05-09 | 2011-06-10 | 2015-01-17 | 2022-12-31 |
 
 
 
@@ -1278,30 +1205,6 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 
 
 
-### Family 2077+04 IBM Storwize V5100
-
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5100](https://www.ibm.com/docs/en/announcements/storwize-v5100?region=AP)
-
-📅 2021-10-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2077-AF4 | 2019-04-09 | 2019-06-07 | 2020-04-11 | - |
-| 2077-424 | 2019-04-09 | 2019-06-07 | 2020-04-11 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 2077+05 IBM FlashSystem 5100
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5100](https://www.ibm.com/docs/en/announcements/flashsystem-5100?region=AP)
@@ -1486,29 +1389,6 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 
 
 
-### Family 2101+02 IBM Storage Solutions Rack Model 200
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-solutions-rack-model-200](https://www.ibm.com/docs/en/announcements/storage-solutions-rack-model-200?region=AP)
-
-📅 2018-07-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2101-200 | 2001-01-16 | 2001-01-26 | 2018-02-17 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 2104-DL1 IBM Expandable Storage Plus Model DL1
 
 🔗 [https://www.ibm.com/docs/en/announcements/expandable-storage-plus-model-dl1](https://www.ibm.com/docs/en/announcements/expandable-storage-plus-model-dl1?region=AP)
@@ -1578,29 +1458,6 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 
 
 
-### 2104-TL1 IBM Expandable Storage Plus Model TL1
-
-🔗 [https://www.ibm.com/docs/en/announcements/expandable-storage-plus-model-tl1](https://www.ibm.com/docs/en/announcements/expandable-storage-plus-model-tl1?region=AP)
-
-📅 2007-06-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2104-TL1 | 1999-09-13 | 1999-10-29 | 2001-01-26 | 2007-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 2104-TS4 IBM TotalStorage Expandable Storage Plus 320 Model TS4
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-expandable-storage-plus-320-model-ts4](https://www.ibm.com/docs/en/announcements/totalstorage-expandable-storage-plus-320-model-ts4?region=AP)
@@ -1610,29 +1467,6 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2104-TS4 | 2003-10-14 | 2003-10-31 | 2006-03-31 | 2016-10-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2104-TU3 IBM Expandable Storage Plus Tower Model TU3
-
-🔗 [https://www.ibm.com/docs/en/announcements/expandable-storage-plus-tower-model-tu3](https://www.ibm.com/docs/en/announcements/expandable-storage-plus-tower-model-tu3?region=AP)
-
-📅 2011-06-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2104-TU3 | 2000-10-03 | 2000-10-13 | 2004-02-13 | 2012-12-31 |
 
 
 
@@ -2282,6 +2116,29 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 
 
 
+### Family 2810+01 IBM XIV Storage System
+
+🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system](https://www.ibm.com/docs/en/announcements/xiv-storage-system?region=AP)
+
+📅 2017-07-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2810-A14 | 2008-08-12 | 2008-08-15 | 2012-10-26 | 2018-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 2810+02 IBM XIV Storage System (M/T 2810) Model Gen3
 
 🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2810-model-gen3](https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2810-model-gen3?region=AP)
@@ -2337,6 +2194,124 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2810-314 | 2015-11-10 | 2015-12-04 | 2018-05-27 | 2023-07-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2812+01 IBM XIV Storage System Model A14
+
+🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-model-a14](https://www.ibm.com/docs/en/announcements/xiv-storage-system-model-a14?region=AP)
+
+📅 2017-07-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2812-A14 | 2009-07-14 | 2009-08-13 | 2012-10-26 | 2018-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2812+02 IBM XIV Storage System (M/T 2812) Model Gen3
+
+🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-gen3](https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-gen3?region=AP)
+
+📅 2019-10-15
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2812-114 | 2011-07-12 | 2011-09-08 | 2013-10-25 | 2020-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2812+03 IBM XIV Storage System (M/T 2812) Model 214
+
+🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-214](https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-214?region=AP)
+
+📅 2022-07-26
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2812-214 | 2013-02-05 | 2013-03-07 | 2018-05-27 | 2023-07-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2812+04 IBM XIV Storage System (M/T 2812) Model 314
+
+🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-314](https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-314?region=AP)
+
+📅 2022-07-26
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2812-314 | 2015-11-10 | 2015-12-04 | 2018-05-27 | 2023-07-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2831+01 IBM DS8880 Models 981, 98E, 980, and 98B
+
+🔗 [https://www.ibm.com/docs/en/announcements/ds8880-models-981-98e-980-98b](https://www.ibm.com/docs/en/announcements/ds8880-models-981-98e-980-98b?region=AP)
+
+📅 2022-03-15
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2831-98B | 2015-10-20 | 2015-12-04 | 2021-12-31 | 2022-12-31 |
+| 2831-98E | 2015-10-20 | 2015-12-04 | 2021-12-31 | 2022-12-31 |
+| 2831-980 | 2015-10-20 | 2015-12-04 | 2016-12-31 | 2022-12-31 |
+| 2831-981 | 2015-10-20 | 2015-12-04 | 2016-12-31 | 2022-12-31 |
 
 
 
@@ -3144,72 +3119,6 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 
 
 
-### 3990-001 IBM Storage Control Model 001
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-control-model-001](https://www.ibm.com/docs/en/announcements/storage-control-model-001?region=AP)
-
-📅 1996-01-10
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3990-002 IBM Storage Control Model 002
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-control-model-002](https://www.ibm.com/docs/en/announcements/storage-control-model-002?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3990-002 | 1987-09-30 | 1988-08-26 | 1996-04-26 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3990-006 IBM Storage Control Model 006
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-control-model-006](https://www.ibm.com/docs/en/announcements/storage-control-model-006?region=AP)
-
-📅 2008-03-07
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3990-006 | 1993-05-01 | 1993-09-01 | 2000-08-11 | 2008-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 4939+01 IBM Flex System V7000 Storage Node Hardware - AAS
 
 🔗 [https://www.ibm.com/docs/en/announcements/flex-system-v7000-storage-node-hardware-aas](https://www.ibm.com/docs/en/announcements/flex-system-v7000-storage-node-hardware-aas?region=AP)
@@ -3263,29 +3172,6 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 
 
 
-### Family 5331+02 IBM DS8882F Model 983
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8882f-model-983](https://www.ibm.com/docs/en/announcements/ds8882f-model-983?region=AP)
-
-📅 2023-01-31
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5331-983 | 2018-08-21 | 2018-09-07 | 2020-06-30 | 2024-06-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 5331+03 IBM DS8900F Models 993, 994, 996, and E96
 
 🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-models-993-994-996-e96](https://www.ibm.com/docs/en/announcements/ds8900f-models-993-994-996-e96?region=AP)
@@ -3298,29 +3184,6 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 | 5331-993 | 2019-09-12 | 2019-11-15 | 2022-05-31 | - |
 | 5331-994 | 2019-09-12 | 2019-11-15 | 2022-05-31 | - |
 | 5331-996 | 2019-09-12 | 2019-11-15 | 2022-05-31 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 5331+04 IBM DS8900F Model 998
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-model-998](https://www.ibm.com/docs/en/announcements/ds8900f-model-998?region=AP)
-
-📅 2024-02-27
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5331-998 | 2021-07-27 | 2021-08-20 | 2022-05-31 | - |
 
 
 
@@ -3350,29 +3213,6 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 | 5332-985 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
 | 5332-986 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
 | 5332-988 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 5332+02 IBM DS8882F Model 983
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8882f-model-983-2023-01-31](https://www.ibm.com/docs/en/announcements/ds8882f-model-983-2023-01-31?region=AP)
-
-📅 2023-01-31
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5332-983 | 2018-08-21 | 2018-09-07 | 2020-06-30 | 2024-06-30 |
 
 
 
@@ -3451,29 +3291,6 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 | 5333-985 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
 | 5333-986 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
 | 5333-988 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 5333+02 IBM DS8882F Model 983
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8882f-model-983-2023-01-31-1](https://www.ibm.com/docs/en/announcements/ds8882f-model-983-2023-01-31-1?region=AP)
-
-📅 2023-01-31
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5333-983 | 2018-08-21 | 2018-09-07 | 2020-06-30 | 2024-06-30 |
 
 
 
@@ -3615,6 +3432,29 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 
 
 
+### Family 5334+04 IBM DS8900F Model 998
+
+🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-model-998-2022-11-15-2](https://www.ibm.com/docs/en/announcements/ds8900f-model-998-2022-11-15-2?region=AP)
+
+📅 2024-02-27
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 5334-998 | 2021-07-27 | 2021-08-20 | 2022-05-31 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 5341+01 IBM DS8900F 1-YR warranty all-flash systems with IBM Storage Expert Care
 
 🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-1-yr-warranty-all-flash-systems-storage-expert-care](https://www.ibm.com/docs/en/announcements/ds8900f-1-yr-warranty-all-flash-systems-storage-expert-care?region=AP)
@@ -3648,6 +3488,49 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 
 📅 2003-06-02
 
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7027-HSD IBM High Capacity Drawer Model HSD
+
+🔗 [https://www.ibm.com/docs/en/announcements/high-capacity-drawer-model-hsd](https://www.ibm.com/docs/en/announcements/high-capacity-drawer-model-hsd?region=AP)
+
+📅 2003-06-02
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7133-010 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 010
+
+🔗 [https://www.ibm.com/docs/en/announcements/serial-storage-architecture-ssa-disk-subsystem-model-010](https://www.ibm.com/docs/en/announcements/serial-storage-architecture-ssa-disk-subsystem-model-010?region=AP)
+
+📅 2018-07-10
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7133-010 | 1995-07-25 | 1995-08-11 | 1997-05-05 | 2019-12-31 |
 
 
 
@@ -3863,6 +3746,26 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 
 
 
+### 7137-415 IBM Disk Array Subsystem Model 415
+
+🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-415](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-415?region=AP)
+
+📅 2002-06-03
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 7137-512 IBM Disk Array Subsystem Model 512
 
 🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-512](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-512?region=AP)
@@ -3912,6 +3815,29 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7204-112 | 1994-10-04 | 1994-11-18 | 1996-12-27 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7204-113 IBM RS/6000 External Disk Drive Model 113
+
+🔗 [https://www.ibm.com/docs/en/announcements/rs6000-external-disk-drive-model-113](https://www.ibm.com/docs/en/announcements/rs6000-external-disk-drive-model-113?region=AP)
+
+📅 2008-06-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7204-113 | 1995-10-10 | 1995-12-01 | 1998-06-26 | - |
 
 
 

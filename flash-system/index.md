@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2024-04-09 00:32:34.228949383 +0800 CST
+content update: 2024-04-10 00:30:37.506160033 +0800 CST
 
 ---
 
@@ -302,7 +302,7 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5015-flashsystem-5045-2023-10-10](https://www.ibm.com/docs/en/announcements/flashsystem-5015-flashsystem-5045-2023-10-10?region=AP)
 
-📅 2023-12-12
+📅 2024-04-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -331,7 +331,7 @@ content update: 2024-04-09 00:32:34.228949383 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9500-license-machine-code-2023-10-10](https://www.ibm.com/docs/en/announcements/flashsystem-9500-license-machine-code-2023-10-10?region=AP)
 
-📅 2024-02-27
+📅 2024-04-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
