@@ -1,6 +1,6 @@
 # IBM Storage Ready Nodes
 
-content update: 2024-04-11 00:32:01.810544925 +0800 CST
+content update: 2024-04-12 00:32:50.182286665 +0800 CST
 
 ---
 
@@ -46,7 +46,7 @@ content update: 2024-04-11 00:32:01.810544925 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/reseller-agreement-storage-ready-node-storage-defender-data-protect-2023-10-24](https://www.ibm.com/docs/en/announcements/reseller-agreement-storage-ready-node-storage-defender-data-protect-2023-10-24?region=AP)
 
-📅 2023-12-12
+📅 2024-04-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
