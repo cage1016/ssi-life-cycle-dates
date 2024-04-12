@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2024-04-12 00:32:50.182286665 +0800 CST
+content update: 2024-04-13 00:31:47.845642722 +0800 CST
 
 ---
 
@@ -30,7 +30,6 @@ content update: 2024-04-12 00:32:50.182286665 +0800 CST
 - [Family 3599+02 IBM Tape Cart 3592](#family-359902-ibm-tape-cart-3592)
 - [Family 3599+03 IBM Tape Cartridge 3592](#family-359903-ibm-tape-cartridge-3592)
 - [3599-001 IBM 3590 High Performance Cartridge Tape with Labeling and Initialization Model 001](#3599-001-ibm-3590-high-performance-cartridge-tape-with-labeling-and-initialization-model-001)
-- [3599-002 IBM 3590 High Performance Cartridge Tape with Labeling Model 002](#3599-002-ibm-3590-high-performance-cartridge-tape-with-labeling-model-002)
 - [3599-003 IBM 3590 High Performance Cartridge Tape Model 003](#3599-003-ibm-3590-high-performance-cartridge-tape-model-003)
 - [3599-004 IBM 3590 Extended High Performance Cartridge Tape Model 004](#3599-004-ibm-3590-extended-high-performance-cartridge-tape-model-004)
 - [3599-005 IBM 3590 Extended High Performance Cartridge Tape Model 005](#3599-005-ibm-3590-extended-high-performance-cartridge-tape-model-005)
@@ -601,29 +600,6 @@ content update: 2024-04-12 00:32:50.182286665 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3599-001 | 1997-03-25 | 1997-03-28 | 2008-12-26 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3599-002 IBM 3590 High Performance Cartridge Tape with Labeling Model 002
-
-🔗 [https://www.ibm.com/docs/en/announcements/3590-high-performance-cartridge-tape-labeling-model-002](https://www.ibm.com/docs/en/announcements/3590-high-performance-cartridge-tape-labeling-model-002?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3599-002 | 1997-03-25 | 1997-03-28 | 2008-12-26 | - |
 
 
 
