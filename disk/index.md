@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-04-14 00:32:30.252350627 +0800 CST
+content update: 2024-04-15 02:46:49.250427279 +0800 CST
 
 ---
 
@@ -96,7 +96,6 @@ content update: 2024-04-14 00:32:30.252350627 +0800 CST
 - [Family 2810+01 IBM XIV Storage System](#family-281001-ibm-xiv-storage-system)
 - [Family 2810+02 IBM XIV Storage System (M/T 2810) Model Gen3](#family-281002-ibm-xiv-storage-system-m-t-2810-model-gen3)
 - [Family 2810+03 IBM XIV Storage System (M/T 2810) Model 214](#family-281003-ibm-xiv-storage-system-m-t-2810-model-214)
-- [Family 2810+04 IBM XIV Storage System (M/T 2810) Model 314](#family-281004-ibm-xiv-storage-system-m-t-2810-model-314)
 - [Family 2812+01 IBM XIV Storage System Model A14](#family-281201-ibm-xiv-storage-system-model-a14)
 - [Family 2812+02 IBM XIV Storage System (M/T 2812) Model Gen3](#family-281202-ibm-xiv-storage-system-m-t-2812-model-gen3)
 - [Family 2812+03 IBM XIV Storage System (M/T 2812) Model 214](#family-281203-ibm-xiv-storage-system-m-t-2812-model-214)
@@ -2373,29 +2372,6 @@ content update: 2024-04-14 00:32:30.252350627 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2810-214 | 2013-02-05 | 2013-03-07 | 2018-05-27 | 2023-07-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2810+04 IBM XIV Storage System (M/T 2810) Model 314
-
-🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2810-model-314](https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2810-model-314?region=AP)
-
-📅 2022-07-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2810-314 | 2015-11-10 | 2015-12-04 | 2018-05-27 | 2023-07-31 |
 
 
 
