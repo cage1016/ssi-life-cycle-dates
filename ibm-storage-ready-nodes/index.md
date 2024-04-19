@@ -1,6 +1,6 @@
 # IBM Storage Ready Nodes
 
-content update: 2024-04-19 00:33:03.519170524 +0800 CST
+content update: 2024-04-20 00:31:56.941540048 +0800 CST
 
 ---
 
@@ -69,7 +69,7 @@ content update: 2024-04-19 00:33:03.519170524 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/reseller-agreement-cloud-object-storage](https://www.ibm.com/docs/en/announcements/reseller-agreement-cloud-object-storage?region=AP)
 
-📅 2023-12-12
+📅 2024-05-28
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
