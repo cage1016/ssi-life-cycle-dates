@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2024-04-20 00:31:56.941540048 +0800 CST
+content update: 2024-04-21 00:31:52.453487426 +0800 CST
 
 ---
 
@@ -43,6 +43,7 @@ content update: 2024-04-20 00:31:56.941540048 +0800 CST
 - [Family 3958+07 IBM TS7650G ProtecTIER Gateway Server Model DD6](#family-395807-ibm-ts7650g-protectier-gateway-server-model-dd6)
 - [Family 3959+01 IBM System Storage TS7610 ProtecTIER Deduplication Express](#family-395901-ibm-system-storage-ts7610-protectier-deduplication-express)
 - [Family 3959+02 IBM System Storage TS7620 ProtecTIER Appliance Model](#family-395902-ibm-system-storage-ts7620-protectier-appliance-model)
+- [Family 4882+01 IBM Diamondback Tape Library with 1-year CRU warranty](#family-488201-ibm-diamondback-tape-library-with-1-year-cru-warranty)
 
 ---
 
@@ -521,7 +522,7 @@ content update: 2024-04-20 00:31:56.941540048 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts4500-tape-library-l55d55s55l25d25s25tr1](https://www.ibm.com/docs/en/announcements/ts4500-tape-library-l55d55s55l25d25s25tr1?region=AP)
 
-📅 2024-01-23
+📅 2023-08-26
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -883,6 +884,29 @@ content update: 2024-04-20 00:31:56.941540048 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3959-SM2 | 2012-06-04 | 2012-06-08 | 2018-05-19 | 2020-11-30 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 4882+01 IBM Diamondback Tape Library with 1-year CRU warranty
+
+🔗 [https://www.ibm.com/docs/en/announcements/diamondback-tape-library-1-year-cru-warranty](https://www.ibm.com/docs/en/announcements/diamondback-tape-library-1-year-cru-warranty?region=AP)
+
+📅 2023-12-12
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 4882-L9A | 2023-04-25 | 2023-05-09 | - | - |
 
 
 
