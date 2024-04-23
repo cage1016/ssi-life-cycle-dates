@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2024-04-23 00:33:02.346790742 +0800 CST
+content update: 2024-04-24 00:32:22.883694201 +0800 CST
 
 ---
 
@@ -115,7 +115,7 @@ content update: 2024-04-23 00:33:02.346790742 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7200-2023-09-12](https://www.ibm.com/docs/en/announcements/flashsystem-7200-2023-09-12?region=AP)
 
-📅 2024-01-23
+📅 2024-04-23
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -195,7 +195,7 @@ content update: 2024-04-23 00:33:02.346790742 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-10-10](https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-10-10?region=AP)
 
-📅 2024-02-27
+📅 2024-04-23
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -222,15 +222,15 @@ content update: 2024-04-23 00:33:02.346790742 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5200-2023-10-24](https://www.ibm.com/docs/en/announcements/flashsystem-5200-2023-10-24?region=AP)
 
-📅 2024-02-27
+📅 2024-04-23
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 4662-12G | 2021-02-09 | 2021-02-19 | - | - |
 | 4662-24G | 2021-02-09 | 2021-02-19 | - | - |
-| 4662-6H2 | 2021-02-09 | 2021-02-19 | - | - |
+| 4662-6H2 | 2021-02-09 | 2021-02-19 | 2024-12-31 | - |
 | 4662-92G | 2021-02-09 | 2021-02-19 | - | - |
-| 4662-UH6 | 2021-02-09 | 2021-02-19 | - | - |
+| 4662-UH6 | 2021-02-09 | 2021-02-19 | 2024-12-31 | - |
 
 
 
@@ -249,7 +249,7 @@ content update: 2024-04-23 00:33:02.346790742 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7200-expert-care](https://www.ibm.com/docs/en/announcements/flashsystem-7200-expert-care?region=AP)
 
-📅 2024-01-23
+📅 2024-04-23
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -302,7 +302,7 @@ content update: 2024-04-23 00:33:02.346790742 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5015-flashsystem-5045-2023-10-10](https://www.ibm.com/docs/en/announcements/flashsystem-5015-flashsystem-5045-2023-10-10?region=AP)
 
-📅 2024-04-09
+📅 2024-04-23
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
