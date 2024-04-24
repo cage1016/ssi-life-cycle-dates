@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-04-24 00:32:22.883694201 +0800 CST
+content update: 2024-04-25 00:32:28.974682459 +0800 CST
 
 ---
 
@@ -14,6 +14,8 @@ content update: 2024-04-24 00:32:22.883694201 +0800 CST
 - [1722-6LU IBM TotalStorage DS4300 Midrange Disk System Model 6LU](#1722-6lu-ibm-totalstorage-ds4300-midrange-disk-system-model-6lu)
 - [Family 1724+01 IBM TotalStorage DS4100 Midrange Disk System Model 100](#family-172401-ibm-totalstorage-ds4100-midrange-disk-system-model-100)
 - [1740-1RU IBM TotalStorage DS4000 EXP700 Expansion Unit Model 1RU](#1740-1ru-ibm-totalstorage-ds4000-exp700-expansion-unit-model-1ru)
+- [1740-710 IBM TotalStorage DS4000 EXP710 Storage Expansion Unit Model 710](#1740-710-ibm-totalstorage-ds4000-exp710-storage-expansion-unit-model-710)
+- [1742-1RU IBM TotalStorage DS4400 Midrange Disk System Model 1RU](#1742-1ru-ibm-totalstorage-ds4400-midrange-disk-system-model-1ru)
 - [1742-90U IBM TotalStorage DS4500 Midrange Disk System Model 90U](#1742-90u-ibm-totalstorage-ds4500-midrange-disk-system-model-90u)
 - [Family 1747+02 IBM System Storage EXP2500 Express Storage Enclosures (AAS / WTAAS)](#family-174702-ibm-system-storage-exp2500-express-storage-enclosures-aas-wtaas)
 - [Family 1750+01 IBM TotalStorage DS6800 and DS6000 Expansion Enclosure](#family-175001-ibm-totalstorage-ds6800-and-ds6000-expansion-enclosure)
@@ -31,7 +33,10 @@ content update: 2024-04-24 00:32:22.883694201 +0800 CST
 - [Family 1815+02 IBM TotalStorage DS4800 Model 88 Midrange Disk System](#family-181502-ibm-totalstorage-ds4800-model-88-midrange-disk-system)
 - [Family 1815+03 IBM System Storage DS4800 Model 80 Midrange Disk System](#family-181503-ibm-system-storage-ds4800-model-80-midrange-disk-system)
 - [Family 1818+01 IBM System Storage DS5000 Series Midrange Disk System](#family-181801-ibm-system-storage-ds5000-series-midrange-disk-system)
+- [Family 1818+02 IBM System Storage DS Remote Support Manager for Storage](#family-181802-ibm-system-storage-ds-remote-support-manager-for-storage)
 - [Family 1818+03 IBM System Storage DS Remote Support Manager for Storage](#family-181803-ibm-system-storage-ds-remote-support-manager-for-storage)
+- [Family 1818+04 IBM System Storage DS Remote Support Manager for Storage 3](#family-181804-ibm-system-storage-ds-remote-support-manager-for-storage-3)
+- [Family 1818+05 IBM System Storage DCS3700](#family-181805-ibm-system-storage-dcs3700)
 - [Family 1818+06 IBM System Storage DCS3700 Controller 90C](#family-181806-ibm-system-storage-dcs3700-controller-90c)
 - [Family 2071+02 IBM Storwize V3500 Disk System](#family-207102-ibm-storwize-v3500-disk-system)
 - [Family 2072+03 IBM Storwize V3700 Disk System (AAS)](#family-207203-ibm-storwize-v3700-disk-system-aas)
@@ -46,6 +51,7 @@ content update: 2024-04-24 00:32:22.883694201 +0800 CST
 - [Family 2077+01 IBM Storwize V5000 Disk System](#family-207701-ibm-storwize-v5000-disk-system)
 - [Family 2077+02 IBM Storwize V5000](#family-207702-ibm-storwize-v5000)
 - [Family 2077+03 IBM Storwize V5030F](#family-207703-ibm-storwize-v5030f)
+- [Family 2077+04 IBM Storwize V5100](#family-207704-ibm-storwize-v5100)
 - [Family 2077+05 IBM FlashSystem 5100](#family-207705-ibm-flashsystem-5100)
 - [Family 2078+01 IBM Storwize V5000 Disk System](#family-207801-ibm-storwize-v5000-disk-system)
 - [Family 2078+02 IBM Storwize V5000](#family-207802-ibm-storwize-v5000)
@@ -130,11 +136,9 @@ content update: 2024-04-24 00:32:22.883694201 +0800 CST
 - [3552-1RU IBM TotalStorage FAStT500 Storage Server Model 1RU](#3552-1ru-ibm-totalstorage-fastt500-storage-server-model-1ru)
 - [Family 3560+01 IBM FAStT EXP500 Expansion Unit](#family-356001-ibm-fastt-exp500-expansion-unit)
 - [3990-001 IBM Storage Control Model 001](#3990-001-ibm-storage-control-model-001)
-- [3990-002 IBM Storage Control Model 002](#3990-002-ibm-storage-control-model-002)
 - [3990-006 IBM Storage Control Model 006](#3990-006-ibm-storage-control-model-006)
 - [Family 4939+01 IBM Flex System V7000 Storage Node Hardware - AAS](#family-493901-ibm-flex-system-v7000-storage-node-hardware-aas)
 - [Family 5331+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533101-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
-- [Family 5331+02 IBM DS8882F Model 983](#family-533102-ibm-ds8882f-model-983)
 - [Family 5331+03 IBM DS8900F Models 993, 994, 996, and E96](#family-533103-ibm-ds8900f-models-993-994-996-and-e96)
 - [Family 5331+04 IBM DS8900F Model 998](#family-533104-ibm-ds8900f-model-998)
 - [Family 5332+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533201-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
@@ -184,7 +188,6 @@ content update: 2024-04-24 00:32:22.883694201 +0800 CST
 - [9333-500 IBM High-Performance Disk Drive Sybsystem Model 500](#9333-500-ibm-high-performance-disk-drive-sybsystem-model-500)
 - [9333-501 IBM High-Performance Disk Drive Subsystem Model 501](#9333-501-ibm-high-performance-disk-drive-subsystem-model-501)
 - [9334-010 IBM SCSI Drawer Expansion Unit Model 010](#9334-010-ibm-scsi-drawer-expansion-unit-model-010)
-- [9334-011 IBM 9334 SCSI Expansion Unit Model 011](#9334-011-ibm-9334-scsi-expansion-unit-model-011)
 - [9334-500 IBM SCSI Deskside Expansion Unit Model 500](#9334-500-ibm-scsi-deskside-expansion-unit-model-500)
 - [9334-501 IBM SCSI Expansion Unit Model 501](#9334-501-ibm-scsi-expansion-unit-model-501)
 - [9335-A01 IBM Direct Access Storage Subsystem Model A01](#9335-a01-ibm-direct-access-storage-subsystem-model-a01)
@@ -391,6 +394,52 @@ content update: 2024-04-24 00:32:22.883694201 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 1740-1RU | 2002-07-09 | 2002-07-26 | 2005-09-09 | 2016-01-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 1740-710 IBM TotalStorage DS4000 EXP710 Storage Expansion Unit Model 710
+
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4000-exp710-storage-expansion-unit-model-710](https://www.ibm.com/docs/en/announcements/totalstorage-ds4000-exp710-storage-expansion-unit-model-710?region=AP)
+
+📅 2014-10-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 1740-710 | 2004-10-05 | 2004-10-15 | 2006-12-08 | 2016-01-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 1742-1RU IBM TotalStorage DS4400 Midrange Disk System Model 1RU
+
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4400-midrange-disk-system-model-1ru](https://www.ibm.com/docs/en/announcements/totalstorage-ds4400-midrange-disk-system-model-1ru?region=AP)
+
+📅 2014-07-01
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 1742-1RU | 2001-10-30 | 2001-12-14 | 2005-06-10 | 2015-01-31 |
 
 
 
@@ -807,6 +856,29 @@ content update: 2024-04-24 00:32:22.883694201 +0800 CST
 
 
 
+### Family 1818+02 IBM System Storage DS Remote Support Manager for Storage
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds-remote-support-manager-storage-2016-06-28](https://www.ibm.com/docs/en/announcements/system-storage-ds-remote-support-manager-storage-2016-06-28?region=AP)
+
+📅 2016-06-28
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 1818-RS1 | 2008-10-28 | 2008-11-21 | 2009-09-04 | 2017-01-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 1818+03 IBM System Storage DS Remote Support Manager for Storage
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds-remote-support-manager-storage](https://www.ibm.com/docs/en/announcements/system-storage-ds-remote-support-manager-storage?region=AP)
@@ -816,6 +888,53 @@ content update: 2024-04-24 00:32:22.883694201 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 1818-RS2 | 2009-08-25 | 2009-09-04 | 2010-11-19 | 2017-01-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 1818+04 IBM System Storage DS Remote Support Manager for Storage 3
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds-remote-support-manager-storage-3](https://www.ibm.com/docs/en/announcements/system-storage-ds-remote-support-manager-storage-3?region=AP)
+
+📅 2016-06-28
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 1818-RS3 | 2010-10-07 | 2010-10-15 | 2012-01-14 | 2017-01-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 1818+05 IBM System Storage DCS3700
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-dcs3700](https://www.ibm.com/docs/en/announcements/system-storage-dcs3700?region=AP)
+
+📅 2021-07-13
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 1818-80C | 2011-05-24 | 2011-05-27 | 2015-06-06 | 2019-06-30 |
+| 1818-80E | 2011-05-24 | 2011-05-27 | 2018-02-17 | 2022-12-31 |
 
 
 
@@ -1178,6 +1297,30 @@ content update: 2024-04-24 00:32:22.883694201 +0800 CST
 | 2077-AFF | 2016-08-23 | 2016-09-09 | 2020-04-11 | - |
 | 2077-AF3 | 2016-08-23 | 2016-09-09 | 2020-01-11 | 2023-12-31 |
 | 2077-A9F | 2017-03-14 | 2017-03-17 | 2020-04-11 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2077+04 IBM Storwize V5100
+
+🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5100](https://www.ibm.com/docs/en/announcements/storwize-v5100?region=AP)
+
+📅 2021-10-26
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2077-AF4 | 2019-04-09 | 2019-06-07 | 2020-04-11 | - |
+| 2077-424 | 2019-04-09 | 2019-06-07 | 2020-04-11 | - |
 
 
 
@@ -3195,29 +3338,6 @@ content update: 2024-04-24 00:32:22.883694201 +0800 CST
 
 
 
-### 3990-002 IBM Storage Control Model 002
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-control-model-002](https://www.ibm.com/docs/en/announcements/storage-control-model-002?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3990-002 | 1987-09-30 | 1988-08-26 | 1996-04-26 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 3990-006 IBM Storage Control Model 006
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-control-model-006](https://www.ibm.com/docs/en/announcements/storage-control-model-006?region=AP)
@@ -3280,29 +3400,6 @@ content update: 2024-04-24 00:32:22.883694201 +0800 CST
 | 5331-985 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
 | 5331-986 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
 | 5331-988 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 5331+02 IBM DS8882F Model 983
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8882f-model-983](https://www.ibm.com/docs/en/announcements/ds8882f-model-983?region=AP)
-
-📅 2023-01-31
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5331-983 | 2018-08-21 | 2018-09-07 | 2020-06-30 | 2024-06-30 |
 
 
 
@@ -4443,29 +4540,6 @@ content update: 2024-04-24 00:32:22.883694201 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9334-010 | 1991-03-12 | 1991-09-27 | 1996-01-09 | 2010-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9334-011 IBM 9334 SCSI Expansion Unit Model 011
-
-🔗 [https://www.ibm.com/docs/en/announcements/9334-scsi-expansion-unit-model-011](https://www.ibm.com/docs/en/announcements/9334-scsi-expansion-unit-model-011?region=AP)
-
-📅 2009-06-06
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9334-011 | 1993-07-13 | 1993-07-30 | 1996-01-09 | 2010-12-31 |
 
 
 
