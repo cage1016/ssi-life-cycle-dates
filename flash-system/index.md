@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2024-04-25 00:32:28.974682459 +0800 CST
+content update: 2024-04-26 00:32:41.153063401 +0800 CST
 
 ---
 
@@ -10,12 +10,14 @@ content update: 2024-04-25 00:32:28.974682459 +0800 CST
 - [Family 2072+05 IBM FlashSystem 5000](#family-207205-ibm-flashsystem-5000)
 - [Family 2072+06 IBM FlashSystem 5015 and 5035](#family-207206-ibm-flashsystem-5015-and-5035)
 - [Family 2076+07 IBM FlashSystem 7200](#family-207607-ibm-flashsystem-7200)
+- [Family 2076+07 IBM FlashSystem 7200](#family-207607-ibm-flashsystem-7200)
 - [Family 2077+05 IBM FlashSystem 5100](#family-207705-ibm-flashsystem-5100)
 - [Family 2078+05 IBM FlashSystem 5100](#family-207805-ibm-flashsystem-5100)
 - [Family 4657+01 IBM FlashSystem 7300](#family-465701-ibm-flashsystem-7300)
 - [Family 4662+01 IBM FlashSystem 5200](#family-466201-ibm-flashsystem-5200)
 - [Family 4664+01 IBM FlashSystem 7200 with Expert Care](#family-466401-ibm-flashsystem-7200-with-expert-care)
 - [Family 4666+01 IBM FlashSystem 9200 with Expert Care](#family-466601-ibm-flashsystem-9200-with-expert-care)
+- [Family 4680+01 IBM FlashSystem 5015 and FlashSystem 5045](#family-468001-ibm-flashsystem-5015-and-flashsystem-5045)
 - [Family 4680+01 IBM FlashSystem 5015 and FlashSystem 5045](#family-468001-ibm-flashsystem-5015-and-flashsystem-5045)
 - [Family 4983+01 IBM FlashSystem 9500 with License Machine Code](#family-498301-ibm-flashsystem-9500-with-license-machine-code)
 - [Family 9745+01 IBM FlashSystem Utility models Variable Use billing](#family-974501-ibm-flashsystem-utility-models-variable-use-billing)
@@ -97,6 +99,33 @@ content update: 2024-04-25 00:32:28.974682459 +0800 CST
 | 2072-2N4 | 2021-02-09 | 2021-02-19 | 2023-12-30 | - |
 | 2072-3N2 | 2021-02-09 | 2021-02-19 | 2023-12-30 | - |
 | 2072-3N4 | 2021-02-09 | 2021-02-19 | 2023-12-30 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2076+07 IBM FlashSystem 7200
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7200-2023-09-12](https://www.ibm.com/docs/en/announcements/flashsystem-7200-2023-09-12?region=AP)
+
+📅 2024-01-23
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2076-U7C | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
+| 2076-12G | 2020-02-11 | 2020-03-06 | - | - |
+| 2076-24G | 2020-02-11 | 2020-03-06 | - | - |
+| 2076-824 | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
+| 2076-92G | 2020-02-11 | 2020-03-06 | - | - |
 
 
 
@@ -303,6 +332,35 @@ content update: 2024-04-25 00:32:28.974682459 +0800 CST
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5015-flashsystem-5045-2023-10-10](https://www.ibm.com/docs/en/announcements/flashsystem-5015-flashsystem-5045-2023-10-10?region=AP)
 
 📅 2024-04-23
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 4680-2P2 | 2023-07-11 | 2023-07-21 | - | - |
+| 4680-2P4 | 2023-07-11 | 2023-07-21 | - | - |
+| 4680-3P2 | 2023-07-11 | 2023-07-21 | - | - |
+| 4680-3P4 | 2023-07-11 | 2023-07-21 | - | - |
+| 4680-12H | 2023-07-11 | 2023-07-21 | - | - |
+| 4680-24H | 2023-07-11 | 2023-07-21 | - | - |
+| 4680-92H | 2023-07-11 | 2023-07-21 | - | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 4680+01 IBM FlashSystem 5015 and FlashSystem 5045
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5015-flashsystem-5045-2023-10-10](https://www.ibm.com/docs/en/announcements/flashsystem-5015-flashsystem-5045-2023-10-10?region=AP)
+
+📅 2024-04-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
