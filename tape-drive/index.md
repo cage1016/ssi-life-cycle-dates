@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2024-04-30 00:32:27.346903501 +0800 CST
+content update: 2024-05-01 00:32:12.296773816 +0800 CST
 
 ---
 
@@ -110,8 +110,6 @@ content update: 2024-04-30 00:32:27.346903501 +0800 CST
 - [Family 7216+01 IBM System Storage 7216 Multi-Media Enclosure](#family-721601-ibm-system-storage-7216-multi-media-enclosure)
 - [Family 7226+01 IBM System Storage 7226 Model 1U3 Multi-Media Enclosure](#family-722601-ibm-system-storage-7226-model-1u3-multi-media-enclosure)
 - [7329-308 IBM SLR100 Tape Autoloader Model 308](#7329-308-ibm-slr100-tape-autoloader-model-308)
-- [7332-005 IBM 4MM DDS-2 Tape Autoloader Model 005](#7332-005-ibm-4mm-dds-2-tape-autoloader-model-005)
-- [7332-110 IBM 4mm DDS-3 Tape Cartridge Autoloader Model 110](#7332-110-ibm-4mm-dds-3-tape-cartridge-autoloader-model-110)
 - [7332-220 IBM 4mm DDS-4 Tape Cartridge Autoloader Model 220](#7332-220-ibm-4mm-dds-4-tape-cartridge-autoloader-model-220)
 - [7336-205 IBM 4-mm Tape Library Model 205](#7336-205-ibm-4-mm-tape-library-model-205)
 - [7337-305 IBM Digital Linear Tape Library Model 305](#7337-305-ibm-digital-linear-tape-library-model-305)
@@ -2481,49 +2479,6 @@ content update: 2024-04-30 00:32:27.346903501 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7329-308 | 2001-04-23 | 2001-05-25 | 2002-06-07 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7332-005 IBM 4MM DDS-2 Tape Autoloader Model 005
-
-🔗 [https://www.ibm.com/docs/en/announcements/4mm-dds-2-tape-autoloader-model-005](https://www.ibm.com/docs/en/announcements/4mm-dds-2-tape-autoloader-model-005?region=AP)
-
-📅 2002-06-04
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7332-110 IBM 4mm DDS-3 Tape Cartridge Autoloader Model 110
-
-🔗 [https://www.ibm.com/docs/en/announcements/4mm-dds-3-tape-cartridge-autoloader-model-110](https://www.ibm.com/docs/en/announcements/4mm-dds-3-tape-cartridge-autoloader-model-110?region=AP)
-
-📅 2013-09-24
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7332-110 | 1998-04-21 | 1998-06-12 | 2002-11-15 | 2002-12-31 |
 
 
 
