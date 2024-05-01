@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2024-05-01 00:32:12.296773816 +0800 CST
+content update: 2024-05-02 00:31:51.781579694 +0800 CST
 
 ---
 
@@ -8,8 +8,6 @@ content update: 2024-05-01 00:32:12.296773816 +0800 CST
 
 
 - [](#)
-- [3494-L10 IBM TotalStorage Enterprise Tape Library Base Frame Model L10](#3494-l10-ibm-totalstorage-enterprise-tape-library-base-frame-model-l10)
-- [3494-L12 IBM TotalStorage Enterprise Tape Library Base Frame Model L12](#3494-l12-ibm-totalstorage-enterprise-tape-library-base-frame-model-l12)
 - [3494-L14 IBM TotalStorage Enterprise Tape Library Base Frame Model L14](#3494-l14-ibm-totalstorage-enterprise-tape-library-base-frame-model-l14)
 - [3494-L22 IBM TotalStorage Enterprise Tape Library Base Frame Model L22](#3494-l22-ibm-totalstorage-enterprise-tape-library-base-frame-model-l22)
 - [Family 3555+01 IBM TS4300 tape library Models L3A and E3A](#family-355501-ibm-ts4300-tape-library-models-l3a-and-e3a)
@@ -59,52 +57,6 @@ content update: 2024-05-01 00:32:12.296773816 +0800 CST
 
 📅 
 
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3494-L10 IBM TotalStorage Enterprise Tape Library Base Frame Model L10
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-library-base-frame-model-l10](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-library-base-frame-model-l10?region=AP)
-
-📅 2015-06-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3494-L10 | 1993-09-07 | 1993-12-17 | 2002-12-27 | 2017-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3494-L12 IBM TotalStorage Enterprise Tape Library Base Frame Model L12
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-library-base-frame-model-l12](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-library-base-frame-model-l12?region=AP)
-
-📅 2016-06-28
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3494-L12 | 1995-04-10 | 1995-09-29 | 2006-12-01 | 2017-01-31 |
 
 
 
