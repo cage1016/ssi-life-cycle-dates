@@ -1,13 +1,12 @@
 # Power7
 
-content update: 2024-05-07 00:32:24.064542858 +0800 CST
+content update: 2024-05-08 00:31:46.633746517 +0800 CST
 
 ---
 
 ### Table of contents
 
 
-- [Family 7895+01 IBM Flex System p460 Compute Node (7895-42X)](#family-789501-ibm-flex-system-p460-compute-node-7895-42x)
 - [Family 7895+02 IBM Flex System p260 Compute Node (7895-22X)](#family-789502-ibm-flex-system-p260-compute-node-7895-22x)
 - [Family 7895+04 IBM Flex System p460 Compute Node (7895-43X)](#family-789504-ibm-flex-system-p460-compute-node-7895-43x)
 - [Family 7895+05 IBM Flex System p260 Compute Node](#family-789505-ibm-flex-system-p260-compute-node)
@@ -37,29 +36,6 @@ content update: 2024-05-07 00:32:24.064542858 +0800 CST
 ---
 
 [← Back to README](../README.md)
-
-
-
-
-
-### Family 7895+01 IBM Flex System p460 Compute Node (7895-42X)
-
-🔗 [https://www.ibm.com/docs/en/announcements/flex-system-p460-compute-node-7895-42x](https://www.ibm.com/docs/en/announcements/flex-system-p460-compute-node-7895-42x?region=AP)
-
-📅 2023-10-24
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7895-42X | 2012-04-11 | 2012-05-21 | 2014-01-14 | 2019-09-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
 
 
 
