@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2024-05-08 00:31:46.633746517 +0800 CST
+content update: 2024-05-09 00:31:51.694389416 +0800 CST
 
 ---
 
@@ -91,6 +91,7 @@ content update: 2024-05-08 00:31:46.633746517 +0800 CST
 - [7206-336 IBM External 36 GB DAT72 (DDS Gen5) Tape Drive Model 336](#7206-336-ibm-external-36-gb-dat72-dds-gen5-tape-drive-model-336)
 - [7206-VX2 IBM External Tape Drive Model VX2](#7206-vx2-ibm-external-tape-drive-model-vx2)
 - [7206-VX3 IBM External Tape Drive Model VX3](#7206-vx3-ibm-external-tape-drive-model-vx3)
+- [7207-122 IBM 4 GB External SLR5 QIC Tape Drive Model 122](#7207-122-ibm-4-gb-external-slr5-qic-tape-drive-model-122)
 - [7208-001 IBM External 8mm Tape Drive Model 001](#7208-001-ibm-external-8mm-tape-drive-model-001)
 - [7208-002 IBM External 8mm Tape Drive Model 002](#7208-002-ibm-external-8mm-tape-drive-model-002)
 - [7208-011 IBM External 8mm Tape Drive Model 011](#7208-011-ibm-external-8mm-tape-drive-model-011)
@@ -2055,6 +2056,29 @@ content update: 2024-05-08 00:31:46.633746517 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7206-VX3 | 2006-04-11 | 2006-05-12 | 2007-12-14 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7207-122 IBM 4 GB External SLR5 QIC Tape Drive Model 122
+
+🔗 [https://www.ibm.com/docs/en/announcements/4-gb-external-slr5-qic-tape-drive-model-122](https://www.ibm.com/docs/en/announcements/4-gb-external-slr5-qic-tape-drive-model-122?region=AP)
+
+📅 2016-07-19
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7207-122 | 1998-10-05 | 1998-10-23 | 2006-03-17 | 2017-11-30 |
 
 
 

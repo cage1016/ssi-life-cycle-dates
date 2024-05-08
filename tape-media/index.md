@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2024-05-08 00:31:46.633746517 +0800 CST
+content update: 2024-05-09 00:31:51.694389416 +0800 CST
 
 ---
 
@@ -8,6 +8,7 @@ content update: 2024-05-08 00:31:46.633746517 +0800 CST
 
 
 - [](#)
+- [3499-002 IBM Label Only 3490E Data Cartridges Model 002](#3499-002-ibm-label-only-3490e-data-cartridges-model-002)
 - [3499-003 IBM Standard 3490E Data Cartridges Model 003](#3499-003-ibm-standard-3490e-data-cartridges-model-003)
 - [3499-004 IBM Labeled and Initialized (L&I) 3480 Data Cartridges Model 004](#3499-004-ibm-labeled-and-initialized-l-i-3480-data-cartridges-model-004)
 - [3499-005 IBM Label Only 3480 Data Cartridges Model 005](#3499-005-ibm-label-only-3480-data-cartridges-model-005)
@@ -73,6 +74,26 @@ content update: 2024-05-08 00:31:46.633746517 +0800 CST
 🔗 [](?region=AP)
 
 📅 
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3499-002 IBM Label Only 3490E Data Cartridges Model 002
+
+🔗 [https://www.ibm.com/docs/en/announcements/label-only-3490e-data-cartridges-model-002](https://www.ibm.com/docs/en/announcements/label-only-3490e-data-cartridges-model-002?region=AP)
+
+📅 2003-11-24
 
 
 

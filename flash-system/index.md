@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2024-05-08 00:31:46.633746517 +0800 CST
+content update: 2024-05-09 00:31:51.694389416 +0800 CST
 
 ---
 
@@ -14,6 +14,7 @@ content update: 2024-05-08 00:31:46.633746517 +0800 CST
 - [Family 2078+05 IBM FlashSystem 5100](#family-207805-ibm-flashsystem-5100)
 - [Family 4657+01 IBM FlashSystem 7300](#family-465701-ibm-flashsystem-7300)
 - [Family 4662+01 IBM FlashSystem 5200](#family-466201-ibm-flashsystem-5200)
+- [Family 4664+01 IBM FlashSystem 7200 with Expert Care](#family-466401-ibm-flashsystem-7200-with-expert-care)
 - [Family 4664+01 IBM FlashSystem 7200 with Expert Care](#family-466401-ibm-flashsystem-7200-with-expert-care)
 - [Family 4666+01 IBM FlashSystem 9200 with Expert Care](#family-466601-ibm-flashsystem-9200-with-expert-care)
 - [Family 4680+01 IBM FlashSystem 5015 and FlashSystem 5045](#family-468001-ibm-flashsystem-5015-and-flashsystem-5045)
@@ -39,8 +40,6 @@ content update: 2024-05-08 00:31:46.633746517 +0800 CST
 - [Family 9843+03 IBM FlashSystem 900](#family-984303-ibm-flashsystem-900)
 - [Family 9846+01 IBM FlashSystem V840](#family-984601-ibm-flashsystem-v840)
 - [Family 9846+02 IBM FlashSystem V9000](#family-984602-ibm-flashsystem-v9000)
-- [Family 9846+03 IBM FlashSystem 9100](#family-984603-ibm-flashsystem-9100)
-- [Family 9846+04 IBM FlashSystem 9200](#family-984604-ibm-flashsystem-9200)
 - [Family 9847+01 IBM DeepFlash 150](#family-984701-ibm-deepflash-150)
 - [Family 9848+01 IBM FlashSystem V840](#family-984801-ibm-flashsystem-v840)
 - [Family 9848+02 IBM FlashSystem V9000](#family-984802-ibm-flashsystem-v9000)
@@ -89,7 +88,7 @@ content update: 2024-05-08 00:31:46.633746517 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5015-5035-2023-10-10](https://www.ibm.com/docs/en/announcements/flashsystem-5015-5035-2023-10-10?region=AP)
 
-📅 2024-01-23
+📅 2024-04-23
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -195,7 +194,7 @@ content update: 2024-05-08 00:31:46.633746517 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-10-10](https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-10-10?region=AP)
 
-📅 2024-04-23
+📅 2024-05-07
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -222,7 +221,7 @@ content update: 2024-05-08 00:31:46.633746517 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5200-2023-10-24](https://www.ibm.com/docs/en/announcements/flashsystem-5200-2023-10-24?region=AP)
 
-📅 2024-04-23
+📅 2021-02-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -231,6 +230,33 @@ content update: 2024-05-08 00:31:46.633746517 +0800 CST
 | 4662-6H2 | 2021-02-09 | 2021-02-19 | 2024-12-31 | - |
 | 4662-92G | 2021-02-09 | 2021-02-19 | - | - |
 | 4662-UH6 | 2021-02-09 | 2021-02-19 | 2024-12-31 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 4664+01 IBM FlashSystem 7200 with Expert Care
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7200-expert-care](https://www.ibm.com/docs/en/announcements/flashsystem-7200-expert-care?region=AP)
+
+📅 2021-08-17
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 4664-U7C | 2021-08-17 | 2021-08-27 | 2022-07-16 | - |
+| 4664-12G | 2021-08-17 | 2021-08-27 | - | - |
+| 4664-24G | 2021-08-17 | 2021-08-27 | - | - |
+| 4664-824 | 2021-08-17 | 2021-08-27 | 2022-07-16 | - |
+| 4664-92G | 2021-08-17 | 2021-08-27 | - | - |
 
 
 
@@ -276,7 +302,7 @@ content update: 2024-05-08 00:31:46.633746517 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9200-expert-care](https://www.ibm.com/docs/en/announcements/flashsystem-9200-expert-care?region=AP)
 
-📅 2024-01-23
+📅 2021-08-17
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -834,55 +860,6 @@ content update: 2024-05-08 00:31:46.633746517 +0800 CST
 | 9846-24F | 2016-08-23 | 2016-09-09 | 2021-01-17 | 2023-12-31 |
 | 9846-92F | 2016-11-02 | 2016-12-09 | 2021-01-17 | 2023-12-31 |
 | 9846-AE3 | 2017-10-24 | 2017-12-08 | 2020-01-18 | 2023-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 9846+03 IBM FlashSystem 9100
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9100](https://www.ibm.com/docs/en/announcements/flashsystem-9100?region=AP)
-
-📅 2022-05-31
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9846-AFF | 2018-07-10 | 2018-08-28 | 2022-07-16 | - |
-| 9846-AF7 | 2018-07-10 | 2018-08-28 | 2020-10-17 | - |
-| 9846-AF8 | 2018-07-10 | 2018-08-28 | 2020-10-17 | - |
-| 9846-A9F | 2018-07-10 | 2018-08-28 | 2022-07-16 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 9846+04 IBM FlashSystem 9200
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9200-2023-09-12](https://www.ibm.com/docs/en/announcements/flashsystem-9200-2023-09-12?region=AP)
-
-📅 2023-09-12
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9846-AG8 | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
 
 
 
