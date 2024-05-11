@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2024-05-11 00:31:26.646669185 +0800 CST
+content update: 2024-05-12 00:32:03.092015765 +0800 CST
 
 ---
 
@@ -8,8 +8,12 @@ content update: 2024-05-11 00:31:26.646669185 +0800 CST
 
 
 - [](#)
+- [3499-002 IBM Label Only 3490E Data Cartridges Model 002](#3499-002-ibm-label-only-3490e-data-cartridges-model-002)
+- [3499-003 IBM Standard 3490E Data Cartridges Model 003](#3499-003-ibm-standard-3490e-data-cartridges-model-003)
 - [3499-004 IBM Labeled and Initialized (L&I) 3480 Data Cartridges Model 004](#3499-004-ibm-labeled-and-initialized-l-i-3480-data-cartridges-model-004)
+- [3499-005 IBM Label Only 3480 Data Cartridges Model 005](#3499-005-ibm-label-only-3480-data-cartridges-model-005)
 - [3499-006 IBM Standard 3480 Data Cartridges Model 006](#3499-006-ibm-standard-3480-data-cartridges-model-006)
+- [3499-007 IBM 3480/3490 Conductive Cleaning Cartridges Model 007](#3499-007-ibm-3480-3490-conductive-cleaning-cartridges-model-007)
 - [Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004](#family-358901-ibm-ultrium-cartridges-models-002-003-004)
 - [Family 3589+02 IBM Ultrium Cartridges Models 006 and 007](#family-358902-ibm-ultrium-cartridges-models-006-and-007)
 - [Family 3589+03 IBM TotalStorage Ultrium Tape Cartridge Models 008 and 009](#family-358903-ibm-totalstorage-ultrium-tape-cartridge-models-008-and-009)
@@ -85,6 +89,46 @@ content update: 2024-05-11 00:31:26.646669185 +0800 CST
 
 
 
+### 3499-002 IBM Label Only 3490E Data Cartridges Model 002
+
+🔗 [https://www.ibm.com/docs/en/announcements/label-only-3490e-data-cartridges-model-002](https://www.ibm.com/docs/en/announcements/label-only-3490e-data-cartridges-model-002?region=AP)
+
+📅 2003-11-24
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3499-003 IBM Standard 3490E Data Cartridges Model 003
+
+🔗 [https://www.ibm.com/docs/en/announcements/standard-3490e-data-cartridges-model-003](https://www.ibm.com/docs/en/announcements/standard-3490e-data-cartridges-model-003?region=AP)
+
+📅 2003-11-24
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 3499-004 IBM Labeled and Initialized (L&I) 3480 Data Cartridges Model 004
 
 🔗 [https://www.ibm.com/docs/en/announcements/labeled-initialized-li-3480-data-cartridges-model-004](https://www.ibm.com/docs/en/announcements/labeled-initialized-li-3480-data-cartridges-model-004?region=AP)
@@ -105,9 +149,49 @@ content update: 2024-05-11 00:31:26.646669185 +0800 CST
 
 
 
+### 3499-005 IBM Label Only 3480 Data Cartridges Model 005
+
+🔗 [https://www.ibm.com/docs/en/announcements/label-only-3480-data-cartridges-model-005](https://www.ibm.com/docs/en/announcements/label-only-3480-data-cartridges-model-005?region=AP)
+
+📅 2003-11-24
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 3499-006 IBM Standard 3480 Data Cartridges Model 006
 
 🔗 [https://www.ibm.com/docs/en/announcements/standard-3480-data-cartridges-model-006](https://www.ibm.com/docs/en/announcements/standard-3480-data-cartridges-model-006?region=AP)
+
+📅 2003-11-24
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3499-007 IBM 3480/3490 Conductive Cleaning Cartridges Model 007
+
+🔗 [https://www.ibm.com/docs/en/announcements/34803490-conductive-cleaning-cartridges-model-007](https://www.ibm.com/docs/en/announcements/34803490-conductive-cleaning-cartridges-model-007?region=AP)
 
 📅 2003-11-24
 
