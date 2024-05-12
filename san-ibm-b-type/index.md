@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2024-05-12 00:32:03.092015765 +0800 CST
+content update: 2024-05-13 00:32:09.878455042 +0800 CST
 
 ---
 
@@ -48,14 +48,11 @@ content update: 2024-05-12 00:32:03.092015765 +0800 CST
 - [Family 3758+01 IBM Converged Switch B32](#family-375801-ibm-converged-switch-b32)
 - [Family 3758+02 IBM Converged Switch L32](#family-375802-ibm-converged-switch-l32)
 - [Family 3759+01 Brocade VDX6730-32, -76 Converged Switch for IBM](#family-375901-brocade-vdx6730-32-76-converged-switch-for-ibm)
-- [7140-160 IBM TotalStorage SAN Controller Model 160](#7140-160-ibm-totalstorage-san-controller-model-160)
 - [Family 8960+01 IBM Storage Networking SAN64B-6](#family-896001-ibm-storage-networking-san64b-6)
 - [Family 8960+02 IBM Storage Networking SAN24B-6](#family-896002-ibm-storage-networking-san24b-6)
-- [Family 8960+03 IBM Storage Networking SAN128B-6](#family-896003-ibm-storage-networking-san128b-6)
 - [Family 8960+04 IBM Storage Networking SAN18B-6](#family-896004-ibm-storage-networking-san18b-6)
 - [Family 8960+05 IBM Storage Networking SAN128B-6](#family-896005-ibm-storage-networking-san128b-6)
 - [Family 8960+06 IBM Storage Networking SAN64B-7](#family-896006-ibm-storage-networking-san64b-7)
-- [Family 8960+07 IBM Storage Networking SAN64B-6](#family-896007-ibm-storage-networking-san64b-6)
 - [Family 8961+01 IBM Storage Networking SAN256B-6](#family-896101-ibm-storage-networking-san256b-6)
 - [Family 8961+02 IBM Storage Networking SAN512B-6](#family-896102-ibm-storage-networking-san512b-6)
 - [Family 8961+03 IBM Storage Networking SAN256B-7](#family-896103-ibm-storage-networking-san256b-7)
@@ -1023,29 +1020,6 @@ content update: 2024-05-12 00:32:03.092015765 +0800 CST
 
 
 
-### 7140-160 IBM TotalStorage SAN Controller Model 160
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-san-controller-model-160](https://www.ibm.com/docs/en/announcements/totalstorage-san-controller-model-160?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7140-160 | 2001-07-31 | 2001-09-07 | 2003-12-12 | 2007-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 8960+01 IBM Storage Networking SAN64B-6
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6](https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6?region=AP)
@@ -1079,30 +1053,6 @@ content update: 2024-05-12 00:32:03.092015765 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 8960-F24 | 2017-07-25 | 2017-08-18 | 2022-08-26 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 8960+03 IBM Storage Networking SAN128B-6
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san128b-6](https://www.ibm.com/docs/en/announcements/storage-networking-san128b-6?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 8960-F96 | 2018-08-28 | 2018-09-14 | 2023-02-28 | - |
-| 8960-N96 | 2018-08-28 | 2018-09-14 | 2023-02-28 | - |
 
 
 
@@ -1174,30 +1124,6 @@ content update: 2024-05-12 00:32:03.092015765 +0800 CST
 | --- | --- | --- | --- | --- |
 | 8960-P64 | 2020-10-13 | 2020-11-20 | - | - |
 | 8960-R64 | 2020-10-13 | 2020-11-20 | - | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 8960+07 IBM Storage Networking SAN64B-6
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6-2023-10-10](https://www.ibm.com/docs/en/announcements/storage-networking-san64b-6-2023-10-10?region=AP)
-
-📅 2024-01-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 8960-F65 | 2020-10-13 | 2020-11-20 | - | - |
-| 8960-N65 | 2020-10-13 | 2020-11-20 | - | - |
 
 
 
