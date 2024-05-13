@@ -1,13 +1,12 @@
 # FlashSystem
 
-content update: 2024-05-13 00:32:09.878455042 +0800 CST
+content update: 2024-05-14 00:31:31.03919962 +0800 CST
 
 ---
 
 ### Table of contents
 
 
-- [Family 2072+05 IBM FlashSystem 5000](#family-207205-ibm-flashsystem-5000)
 - [Family 2072+06 IBM FlashSystem 5015 and 5035](#family-207206-ibm-flashsystem-5015-and-5035)
 - [Family 2076+07 IBM FlashSystem 7200](#family-207607-ibm-flashsystem-7200)
 - [Family 2077+05 IBM FlashSystem 5100](#family-207705-ibm-flashsystem-5100)
@@ -33,7 +32,6 @@ content update: 2024-05-13 00:32:09.878455042 +0800 CST
 - [Family 9838+03 IBM FlashSystem A9000 Utility Offerings](#family-983803-ibm-flashsystem-a9000-utility-offerings)
 - [Family 9840+01 IBM FlashSystem 840](#family-984001-ibm-flashsystem-840)
 - [Family 9840+02 IBM FlashSystem 900](#family-984002-ibm-flashsystem-900)
-- [Family 9840+03 IBM FlashSystem 900](#family-984003-ibm-flashsystem-900)
 - [Family 9843+01 IBM FlashSystem 840](#family-984301-ibm-flashsystem-840)
 - [Family 9843+02 IBM FlashSystem 900](#family-984302-ibm-flashsystem-900)
 - [Family 9843+03 IBM FlashSystem 900](#family-984303-ibm-flashsystem-900)
@@ -51,35 +49,6 @@ content update: 2024-05-13 00:32:09.878455042 +0800 CST
 ---
 
 [← Back to README](../README.md)
-
-
-
-
-
-### Family 2072+05 IBM FlashSystem 5000
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5000](https://www.ibm.com/docs/en/announcements/flashsystem-5000?region=AP)
-
-📅 2024-01-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2072-12G | 2020-02-11 | 2020-03-06 | - | - |
-| 2072-2H2 | 2020-02-11 | 2020-03-06 | 2021-04-10 | - |
-| 2072-2H4 | 2020-02-11 | 2020-03-06 | 2021-04-10 | - |
-| 2072-24G | 2020-02-11 | 2020-03-06 | - | - |
-| 2072-3H2 | 2020-02-11 | 2020-03-06 | 2021-04-10 | - |
-| 2072-3H4 | 2020-02-11 | 2020-03-06 | 2021-04-10 | - |
-| 2072-92G | 2020-02-11 | 2020-03-06 | - | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
 
 
 
@@ -687,29 +656,6 @@ content update: 2024-05-13 00:32:09.878455042 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9840-AE2 | 2015-02-23 | 2015-03-20 | 2018-07-12 | 2022-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 9840+03 IBM FlashSystem 900
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-900-2023-07-11](https://www.ibm.com/docs/en/announcements/flashsystem-900-2023-07-11?region=AP)
-
-📅 2023-07-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9840-AE3 | 2017-10-24 | 2017-11-17 | 2020-11-20 | 2024-12-31 |
 
 
 
