@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2024-05-14 00:31:31.03919962 +0800 CST
+content update: 2024-05-15 00:31:30.644312296 +0800 CST
 
 ---
 
@@ -8,6 +8,8 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 
 
 - [](#)
+- [3450-001 IBM 1.2GB 1/4-Inch Cartridge Tape Drive Model 001](#3450-001-ibm-12gb-1-4-inch-cartridge-tape-drive-model-001)
+- [3480-A11 IBM Magnetic Tape Subsystem Model A11](#3480-a11-ibm-magnetic-tape-subsystem-model-a11)
 - [3480-A22 IBM Magnetic Tape Subsystem Model A22](#3480-a22-ibm-magnetic-tape-subsystem-model-a22)
 - [3490-A20 IBM Magnetic Tape Subsystem Model A20](#3490-a20-ibm-magnetic-tape-subsystem-model-a20)
 - [3490-C11 IBM Magnetic Tape Subsystem Model C11](#3490-c11-ibm-magnetic-tape-subsystem-model-c11)
@@ -27,10 +29,8 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 - [Family 3580+08 IBM System Storage TS2230 Tape Drive H3S LTO 3 Half-High](#family-358008-ibm-system-storage-ts2230-tape-drive-h3s-lto-3-half-high)
 - [Family 3580+09 IBM System Storage TS2240 Tape Drive Express Model H4S](#family-358009-ibm-system-storage-ts2240-tape-drive-express-model-h4s)
 - [Family 3580+12 IBM System Storage TS2250 Tape Drive Express Model H5S](#family-358012-ibm-system-storage-ts2250-tape-drive-express-model-h5s)
-- [Family 3580+13 IBM System Storage TS2350 Tape Drive Express Model S53](#family-358013-ibm-system-storage-ts2350-tape-drive-express-model-s53)
 - [Family 3580+14 IBM System Storage TS2240 Tape Drive Express Model H4V](#family-358014-ibm-system-storage-ts2240-tape-drive-express-model-h4v)
 - [Family 3580+15 IBM System Storage TS2230 Tape Drive Express Model H3V](#family-358015-ibm-system-storage-ts2230-tape-drive-express-model-h3v)
-- [Family 3580+16 IBM System Storage TS2360 Tape Drive Model S63](#family-358016-ibm-system-storage-ts2360-tape-drive-model-s63)
 - [Family 3580+17 IBM System Storage TS2260 Tape Drive Model H6S](#family-358017-ibm-system-storage-ts2260-tape-drive-model-h6s)
 - [Family 3580+18 IBM TS2270 Tape Drive Model H7S](#family-358018-ibm-ts2270-tape-drive-model-h7s)
 - [Family 3580+19 IBM TS2280 Tape Drive Model H8S](#family-358019-ibm-ts2280-tape-drive-model-h8s)
@@ -38,6 +38,7 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 - [Family 3581+01 IBM Ultrium Tape Autoloader](#family-358101-ibm-ultrium-tape-autoloader)
 - [Family 3581+02 IBM Ultrium Tape Autoloader](#family-358102-ibm-ultrium-tape-autoloader)
 - [Family 3581+03 IBM TotalStorage Ultrium Tape Autoloader Models H23, L23](#family-358103-ibm-totalstorage-ultrium-tape-autoloader-models-h23-l23)
+- [Family 3581+04 IBM TotalStorage Ultrium Tape 2U Autoloader Models L28 F28](#family-358104-ibm-totalstorage-ultrium-tape-2u-autoloader-models-l28-f28)
 - [Family 3581+05 IBM TotalStorage 3581 Tape Autoloader](#family-358105-ibm-totalstorage-3581-tape-autoloader)
 - [Family 3588+01 IBM TotalStorage 3588 Tape Drive Model F3A](#family-358801-ibm-totalstorage-3588-tape-drive-model-f3a)
 - [Family 3588+02 IBM System Storage TS1030 Tape Drive Model F3B](#family-358802-ibm-system-storage-ts1030-tape-drive-model-f3b)
@@ -96,17 +97,13 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 - [7208-232 IBM External 8mm Tape Subsystem Model 232](#7208-232-ibm-external-8mm-tape-subsystem-model-232)
 - [7208-234 IBM External 8mm Tape Drive Model 234](#7208-234-ibm-external-8mm-tape-drive-model-234)
 - [7208-341 IBM 20GB External 8mm Tape Drive Model 341](#7208-341-ibm-20gb-external-8mm-tape-drive-model-341)
+- [7208-342 IBM 20GB External 8mm Tape Drive Model 342](#7208-342-ibm-20gb-external-8mm-tape-drive-model-342)
 - [7208-345 IBM 60 GB External 8mm Tape Drive Model 345](#7208-345-ibm-60-gb-external-8mm-tape-drive-model-345)
 - [Family 7212+01 IBM TotalStorage Storage Device Enclosure](#family-721201-ibm-totalstorage-storage-device-enclosure)
 - [Family 7212+02 IBM 1U VXA-2 Autoloader](#family-721202-ibm-1u-vxa-2-autoloader)
 - [Family 7214+01 IBM System Storage Tape/Optical Storage Device Enclosure](#family-721401-ibm-system-storage-tape-optical-storage-device-enclosure)
-- [Family 7214+02 IBM System Storage Tape/DVD Device Enclosure Model TT2](#family-721402-ibm-system-storage-tape-dvd-device-enclosure-model-tt2)
-- [Family 7216+01 IBM System Storage 7216 Multi-Media Enclosure](#family-721601-ibm-system-storage-7216-multi-media-enclosure)
 - [Family 7226+01 IBM System Storage 7226 Model 1U3 Multi-Media Enclosure](#family-722601-ibm-system-storage-7226-model-1u3-multi-media-enclosure)
-- [7329-308 IBM SLR100 Tape Autoloader Model 308](#7329-308-ibm-slr100-tape-autoloader-model-308)
-- [7332-005 IBM 4MM DDS-2 Tape Autoloader Model 005](#7332-005-ibm-4mm-dds-2-tape-autoloader-model-005)
 - [7332-110 IBM 4mm DDS-3 Tape Cartridge Autoloader Model 110](#7332-110-ibm-4mm-dds-3-tape-cartridge-autoloader-model-110)
-- [7332-220 IBM 4mm DDS-4 Tape Cartridge Autoloader Model 220](#7332-220-ibm-4mm-dds-4-tape-cartridge-autoloader-model-220)
 - [7336-205 IBM 4-mm Tape Library Model 205](#7336-205-ibm-4-mm-tape-library-model-205)
 - [7337-305 IBM Digital Linear Tape Library Model 305](#7337-305-ibm-digital-linear-tape-library-model-305)
 - [7337-306 IBM Digital Linear Tape Library Model 306](#7337-306-ibm-digital-linear-tape-library-model-306)
@@ -130,6 +127,46 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 🔗 [](?region=AP)
 
 📅 
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3450-001 IBM 1.2GB 1/4-Inch Cartridge Tape Drive Model 001
+
+🔗 [https://www.ibm.com/docs/en/announcements/12gb-14-inch-cartridge-tape-drive-model-001](https://www.ibm.com/docs/en/announcements/12gb-14-inch-cartridge-tape-drive-model-001?region=AP)
+
+📅 2003-06-02
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3480-A11 IBM Magnetic Tape Subsystem Model A11
+
+🔗 [https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-a11](https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-a11?region=AP)
+
+📅 2004-06-07
 
 
 
@@ -587,29 +624,6 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 
 
 
-### Family 3580+13 IBM System Storage TS2350 Tape Drive Express Model S53
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts2350-tape-drive-express-model-s53](https://www.ibm.com/docs/en/announcements/system-storage-ts2350-tape-drive-express-model-s53?region=AP)
-
-📅 2023-05-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3580-S53 | 2010-04-12 | 2010-04-23 | 2013-11-08 | 2023-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 3580+14 IBM System Storage TS2240 Tape Drive Express Model H4V
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts2240-tape-drive-express-model-h4v](https://www.ibm.com/docs/en/announcements/system-storage-ts2240-tape-drive-express-model-h4v?region=AP)
@@ -642,29 +656,6 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3580-H3V | 2010-11-09 | 2010-12-03 | 2012-12-28 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3580+16 IBM System Storage TS2360 Tape Drive Model S63
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts2360-tape-drive-model-s63](https://www.ibm.com/docs/en/announcements/system-storage-ts2360-tape-drive-model-s63?region=AP)
-
-📅 2023-07-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3580-S63 | 2012-11-06 | 2012-12-07 | 2018-10-05 | 2024-12-31 |
 
 
 
@@ -829,6 +820,30 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 | --- | --- | --- | --- | --- |
 | 3581-H23 | 2003-06-03 | 2003-06-27 | 2004-10-01 | 2017-11-30 |
 | 3581-L23 | 2003-06-03 | 2003-06-27 | 2004-10-01 | 2017-11-30 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 3581+04 IBM TotalStorage Ultrium Tape 2U Autoloader Models L28 F28
+
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ultrium-tape-2u-autoloader-models-l28-f28](https://www.ibm.com/docs/en/announcements/totalstorage-ultrium-tape-2u-autoloader-models-l28-f28?region=AP)
+
+📅 2021-07-13
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3581-F28 | 2004-04-27 | 2004-05-07 | 2006-10-27 | 2018-12-31 |
+| 3581-L28 | 2004-04-27 | 2004-05-07 | 2006-10-27 | 2019-12-31 |
 
 
 
@@ -2172,6 +2187,29 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 
 
 
+### 7208-342 IBM 20GB External 8mm Tape Drive Model 342
+
+🔗 [https://www.ibm.com/docs/en/announcements/20gb-external-8mm-tape-drive-model-342](https://www.ibm.com/docs/en/announcements/20gb-external-8mm-tape-drive-model-342?region=AP)
+
+📅 2014-07-15
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7208-342 | 1998-02-09 | 1998-02-20 | 2003-06-27 | 2015-01-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 7208-345 IBM 60 GB External 8mm Tape Drive Model 345
 
 🔗 [https://www.ibm.com/docs/en/announcements/60-gb-external-8mm-tape-drive-model-345](https://www.ibm.com/docs/en/announcements/60-gb-external-8mm-tape-drive-model-345?region=AP)
@@ -2264,52 +2302,6 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 
 
 
-### Family 7214+02 IBM System Storage Tape/DVD Device Enclosure Model TT2
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-tapedvd-device-enclosure-model-tt2](https://www.ibm.com/docs/en/announcements/system-storage-tapedvd-device-enclosure-model-tt2?region=AP)
-
-📅 2018-04-24
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7214-TT2 | 2008-10-14 | 2008-11-21 | 2010-04-02 | 2016-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 7216+01 IBM System Storage 7216 Multi-Media Enclosure
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-7216-multi-media-enclosure](https://www.ibm.com/docs/en/announcements/system-storage-7216-multi-media-enclosure?region=AP)
-
-📅 2021-07-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7216-1U2 | 2010-08-17 | 2010-09-10 | 2012-04-27 | 2022-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 7226+01 IBM System Storage 7226 Model 1U3 Multi-Media Enclosure
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-7226-model-1u3-multi-media-enclosure](https://www.ibm.com/docs/en/announcements/system-storage-7226-model-1u3-multi-media-enclosure?region=AP)
@@ -2333,49 +2325,6 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 
 
 
-### 7329-308 IBM SLR100 Tape Autoloader Model 308
-
-🔗 [https://www.ibm.com/docs/en/announcements/slr100-tape-autoloader-model-308](https://www.ibm.com/docs/en/announcements/slr100-tape-autoloader-model-308?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7329-308 | 2001-04-23 | 2001-05-25 | 2002-06-07 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7332-005 IBM 4MM DDS-2 Tape Autoloader Model 005
-
-🔗 [https://www.ibm.com/docs/en/announcements/4mm-dds-2-tape-autoloader-model-005](https://www.ibm.com/docs/en/announcements/4mm-dds-2-tape-autoloader-model-005?region=AP)
-
-📅 2002-06-04
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 7332-110 IBM 4mm DDS-3 Tape Cartridge Autoloader Model 110
 
 🔗 [https://www.ibm.com/docs/en/announcements/4mm-dds-3-tape-cartridge-autoloader-model-110](https://www.ibm.com/docs/en/announcements/4mm-dds-3-tape-cartridge-autoloader-model-110?region=AP)
@@ -2385,29 +2334,6 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7332-110 | 1998-04-21 | 1998-06-12 | 2002-11-15 | 2002-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7332-220 IBM 4mm DDS-4 Tape Cartridge Autoloader Model 220
-
-🔗 [https://www.ibm.com/docs/en/announcements/4mm-dds-4-tape-cartridge-autoloader-model-220](https://www.ibm.com/docs/en/announcements/4mm-dds-4-tape-cartridge-autoloader-model-220?region=AP)
-
-📅 2013-09-24
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7332-220 | 2000-02-08 | 2000-03-31 | 2005-04-22 | 2011-12-31 |
 
 
 

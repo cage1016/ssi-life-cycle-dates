@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-05-14 00:31:31.03919962 +0800 CST
+content update: 2024-05-15 00:31:30.644312296 +0800 CST
 
 ---
 
@@ -29,15 +29,9 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 - [Family 1814+02 IBM System Storage DS4200 Express Model 7V](#family-181402-ibm-system-storage-ds4200-express-model-7v)
 - [Family 1814+03 IBM System Storage DS4700 Express Models 70-DC and 72-DC](#family-181403-ibm-system-storage-ds4700-express-models-70-dc-and-72-dc)
 - [Family 1814+04 IBM System Storage DS5020 Midrange Disk EXP520 Expansion Unit](#family-181404-ibm-system-storage-ds5020-midrange-disk-exp520-expansion-unit)
-- [Family 1815+01 IBM TotalStorage DS4800 Midrange Disk System](#family-181501-ibm-totalstorage-ds4800-midrange-disk-system)
-- [Family 1815+02 IBM TotalStorage DS4800 Model 88 Midrange Disk System](#family-181502-ibm-totalstorage-ds4800-model-88-midrange-disk-system)
-- [Family 1815+03 IBM System Storage DS4800 Model 80 Midrange Disk System](#family-181503-ibm-system-storage-ds4800-model-80-midrange-disk-system)
 - [Family 1818+01 IBM System Storage DS5000 Series Midrange Disk System](#family-181801-ibm-system-storage-ds5000-series-midrange-disk-system)
-- [Family 1818+02 IBM System Storage DS Remote Support Manager for Storage](#family-181802-ibm-system-storage-ds-remote-support-manager-for-storage)
 - [Family 1818+03 IBM System Storage DS Remote Support Manager for Storage](#family-181803-ibm-system-storage-ds-remote-support-manager-for-storage)
 - [Family 1818+04 IBM System Storage DS Remote Support Manager for Storage 3](#family-181804-ibm-system-storage-ds-remote-support-manager-for-storage-3)
-- [Family 1818+05 IBM System Storage DCS3700](#family-181805-ibm-system-storage-dcs3700)
-- [Family 1818+06 IBM System Storage DCS3700 Controller 90C](#family-181806-ibm-system-storage-dcs3700-controller-90c)
 - [Family 2071+02 IBM Storwize V3500 Disk System](#family-207102-ibm-storwize-v3500-disk-system)
 - [Family 2072+03 IBM Storwize V3700 Disk System (AAS)](#family-207203-ibm-storwize-v3700-disk-system-aas)
 - [Family 2072+04 IBM Storwize V5000E](#family-207204-ibm-storwize-v5000e)
@@ -51,7 +45,6 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 - [Family 2077+01 IBM Storwize V5000 Disk System](#family-207701-ibm-storwize-v5000-disk-system)
 - [Family 2077+02 IBM Storwize V5000](#family-207702-ibm-storwize-v5000)
 - [Family 2077+03 IBM Storwize V5030F](#family-207703-ibm-storwize-v5030f)
-- [Family 2077+04 IBM Storwize V5100](#family-207704-ibm-storwize-v5100)
 - [Family 2077+05 IBM FlashSystem 5100](#family-207705-ibm-flashsystem-5100)
 - [Family 2078+01 IBM Storwize V5000 Disk System](#family-207801-ibm-storwize-v5000-disk-system)
 - [Family 2078+02 IBM Storwize V5000](#family-207802-ibm-storwize-v5000)
@@ -83,8 +76,6 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 - [Family 2107+04 IBM System Storage DS8000 Series Disk Storage Model 921](#family-210704-ibm-system-storage-ds8000-series-disk-storage-model-921)
 - [Family 2107+05 IBM System Storage DS8000 Series Disk Storage Model 922](#family-210705-ibm-system-storage-ds8000-series-disk-storage-model-922)
 - [Family 2421+01 IBM System Storage DS8000 2421 1-Year Warranty](#family-242101-ibm-system-storage-ds8000-2421-1-year-warranty)
-- [Family 2421+02 IBM System Storage DS8700 Models 941 and 94E](#family-242102-ibm-system-storage-ds8700-models-941-and-94e)
-- [Family 2421+03 IBM System Storage DS8800 Model 951 and Model 95E](#family-242103-ibm-system-storage-ds8800-model-951-and-model-95e)
 - [Family 2421+04 IBM DS8870 Models 961 and 96E](#family-242104-ibm-ds8870-models-961-and-96e)
 - [Family 2422+02 IBM System Storage DS8700 Models 941 and 94E](#family-242202-ibm-system-storage-ds8700-models-941-and-94e)
 - [Family 2422+03 IBM System Storage DS8800 Model 951 and Model 95E](#family-242203-ibm-system-storage-ds8800-model-951-and-model-95e)
@@ -146,6 +137,7 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 - [Family 5332+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533201-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
 - [Family 5332+02 IBM DS8882F Model 983](#family-533202-ibm-ds8882f-model-983)
 - [Family 5332+03 IBM DS8900F Models 993, 994, 996, and E96](#family-533203-ibm-ds8900f-models-993-994-996-and-e96)
+- [Family 5332+04 IBM DS8900F Model 998](#family-533204-ibm-ds8900f-model-998)
 - [Family 5333+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533301-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
 - [Family 5333+02 IBM DS8882F Model 983](#family-533302-ibm-ds8882f-model-983)
 - [Family 5333+03 IBM DS8900F Models 993, 994, 996, and E96](#family-533303-ibm-ds8900f-models-993-994-996-and-e96)
@@ -172,6 +164,9 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 - [7137-515 IBM Disk Array Subsystem Model 515](#7137-515-ibm-disk-array-subsystem-model-515)
 - [7204-112 IBM RS/6000 External Disk Drive Model 112](#7204-112-ibm-rs-6000-external-disk-drive-model-112)
 - [7204-113 IBM RS/6000 External Disk Drive Model 113](#7204-113-ibm-rs-6000-external-disk-drive-model-113)
+- [7204-114 IBM RS/6000 External Disk Drive Model 114](#7204-114-ibm-rs-6000-external-disk-drive-model-114)
+- [7204-118 IBM 7204 18.2 GB External Disk Drive Model 118](#7204-118-ibm-7204-182-gb-external-disk-drive-model-118)
+- [7204-139 IBM RS/6000 External Disk Drive Model 139](#7204-139-ibm-rs-6000-external-disk-drive-model-139)
 - [7204-339 IBM RS/6000 External Disk Drive Model 339](#7204-339-ibm-rs-6000-external-disk-drive-model-339)
 - [7204-402 IBM External Disk Drive Model 402](#7204-402-ibm-external-disk-drive-model-402)
 - [7204-404 IBM External Disk Drive Model 404](#7204-404-ibm-external-disk-drive-model-404)
@@ -207,6 +202,8 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 - [9337-210 IBM Disk Array Subsystem Model 210](#9337-210-ibm-disk-array-subsystem-model-210)
 - [9337-215 IBM Disk Array Subsystem Model 215](#9337-215-ibm-disk-array-subsystem-model-215)
 - [9337-220 IBM Disk Array Subsystem Model 220](#9337-220-ibm-disk-array-subsystem-model-220)
+- [9337-225 IBM Disk Array Subsystem Model 225](#9337-225-ibm-disk-array-subsystem-model-225)
+- [9337-240 IBM Disk Array Subsystem Model 240](#9337-240-ibm-disk-array-subsystem-model-240)
 - [9337-420 IBM Disk Array Subsystem Model 420](#9337-420-ibm-disk-array-subsystem-model-420)
 - [9337-440 IBM Disk Array Subsystem Model 440](#9337-440-ibm-disk-array-subsystem-model-440)
 - [9337-480 IBM Disk Array Subsystem Model 480](#9337-480-ibm-disk-array-subsystem-model-480)
@@ -217,6 +214,7 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 - [9337-590 IBM Disk Array Subsystem Model 590](#9337-590-ibm-disk-array-subsystem-model-590)
 - [9337-595 IBM Disk Array Subsystem Model 595](#9337-595-ibm-disk-array-subsystem-model-595)
 - [9345-B12 IBM DASD Model B12](#9345-b12-ibm-dasd-model-b12)
+- [9345-B22 IBM DASD Model B22](#9345-b22-ibm-dasd-model-b22)
 - [9390-001 IBM RAMAC 3 Array Storage Control Model 001](#9390-001-ibm-ramac-3-array-storage-control-model-001)
 - [9390-002 IBM RAMAC 3 Array Storage Control Model 002](#9390-002-ibm-ramac-3-array-storage-control-model-002)
 - [9391-A30 IBM RAMAC 3 Array DASD Model A30](#9391-a30-ibm-ramac-3-array-dasd-model-a30)
@@ -756,76 +754,6 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 
 
 
-### Family 1815+01 IBM TotalStorage DS4800 Midrange Disk System
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4800-midrange-disk-system](https://www.ibm.com/docs/en/announcements/totalstorage-ds4800-midrange-disk-system?region=AP)
-
-📅 2016-07-19
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1815-82A | 2005-05-10 | 2005-06-17 | 2009-12-31 | 2017-01-31 |
-| 1815-84A | 2005-05-10 | 2005-06-17 | 2009-03-31 | 2017-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 1815+02 IBM TotalStorage DS4800 Model 88 Midrange Disk System
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4800-model-88-midrange-disk-system](https://www.ibm.com/docs/en/announcements/totalstorage-ds4800-model-88-midrange-disk-system?region=AP)
-
-📅 2016-07-19
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1815-88A | 2005-08-30 | 2005-09-09 | 2009-03-31 | 2017-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 1815+03 IBM System Storage DS4800 Model 80 Midrange Disk System
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds4800-model-80-midrange-disk-system](https://www.ibm.com/docs/en/announcements/system-storage-ds4800-model-80-midrange-disk-system?region=AP)
-
-📅 2016-07-19
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1815-80A | 2006-05-23 | 2006-06-09 | 2009-12-31 | 2017-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 1818+01 IBM System Storage DS5000 Series Midrange Disk System
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds5000-series-midrange-disk-system](https://www.ibm.com/docs/en/announcements/system-storage-ds5000-series-midrange-disk-system?region=AP)
@@ -838,29 +766,6 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 | 1818-G1A | 2009-10-20 | 2009-11-20 | 2013-07-20 | 2018-01-31 |
 | 1818-51A | 2008-08-26 | 2008-09-05 | 2013-01-19 | 2018-01-31 |
 | 1818-53A | 2008-08-26 | 2008-09-05 | 2013-01-19 | 2018-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 1818+02 IBM System Storage DS Remote Support Manager for Storage
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds-remote-support-manager-storage-2016-06-28](https://www.ibm.com/docs/en/announcements/system-storage-ds-remote-support-manager-storage-2016-06-28?region=AP)
-
-📅 2016-06-28
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1818-RS1 | 2008-10-28 | 2008-11-21 | 2009-09-04 | 2017-01-31 |
 
 
 
@@ -907,53 +812,6 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 1818-RS3 | 2010-10-07 | 2010-10-15 | 2012-01-14 | 2017-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 1818+05 IBM System Storage DCS3700
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-dcs3700](https://www.ibm.com/docs/en/announcements/system-storage-dcs3700?region=AP)
-
-📅 2021-07-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1818-80C | 2011-05-24 | 2011-05-27 | 2015-06-06 | 2019-06-30 |
-| 1818-80E | 2011-05-24 | 2011-05-27 | 2018-02-17 | 2022-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 1818+06 IBM System Storage DCS3700 Controller 90C
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-dcs3700-controller-90c](https://www.ibm.com/docs/en/announcements/system-storage-dcs3700-controller-90c?region=AP)
-
-📅 2021-07-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1818-90C | 2015-04-28 | 2015-06-05 | 2017-09-09 | 2022-12-31 |
 
 
 
@@ -1293,30 +1151,6 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 | 2077-AFF | 2016-08-23 | 2016-09-09 | 2020-04-11 | - |
 | 2077-AF3 | 2016-08-23 | 2016-09-09 | 2020-01-11 | 2023-12-31 |
 | 2077-A9F | 2017-03-14 | 2017-03-17 | 2020-04-11 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2077+04 IBM Storwize V5100
-
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5100](https://www.ibm.com/docs/en/announcements/storwize-v5100?region=AP)
-
-📅 2021-10-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2077-AF4 | 2019-04-09 | 2019-06-07 | 2020-04-11 | - |
-| 2077-424 | 2019-04-09 | 2019-06-07 | 2020-04-11 | - |
 
 
 
@@ -2057,54 +1891,6 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 | 2421-92E | 2006-10-31 | 2006-11-17 | 2012-09-28 | 2016-03-31 |
 | 2421-931 | 2006-10-31 | 2006-11-17 | 2010-09-30 | 2016-03-31 |
 | 2421-932 | 2006-10-31 | 2006-11-17 | 2010-09-30 | 2016-03-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2421+02 IBM System Storage DS8700 Models 941 and 94E
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds8700-models-941-94e](https://www.ibm.com/docs/en/announcements/system-storage-ds8700-models-941-94e?region=AP)
-
-📅 2017-05-30
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2421-94E | 2009-10-20 | 2009-10-23 | 2014-10-01 | 2017-12-31 |
-| 2421-941 | 2009-10-20 | 2009-10-23 | 2012-10-01 | 2017-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2421+03 IBM System Storage DS8800 Model 951 and Model 95E
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds8800-model-951-model-95e](https://www.ibm.com/docs/en/announcements/system-storage-ds8800-model-951-model-95e?region=AP)
-
-📅 2018-02-20
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2421-95E | 2010-10-07 | 2010-10-22 | 2015-09-16 | 2019-03-31 |
-| 2421-951 | 2010-10-07 | 2010-10-22 | 2013-05-03 | 2019-03-31 |
 
 
 
@@ -3583,6 +3369,29 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 
 
 
+### Family 5332+04 IBM DS8900F Model 998
+
+🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-model-998-2022-11-15](https://www.ibm.com/docs/en/announcements/ds8900f-model-998-2022-11-15?region=AP)
+
+📅 2024-02-27
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 5332-998 | 2021-07-27 | 2021-08-20 | 2022-05-31 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 5333+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E
 
 🔗 [https://www.ibm.com/docs/en/announcements/ds8880-models-984-98585e-98686e-98888e-2023-01-31-1](https://www.ibm.com/docs/en/announcements/ds8880-models-984-98585e-98686e-98888e-2023-01-31-1?region=AP)
@@ -4168,6 +3977,75 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7204-113 | 1995-10-10 | 1995-12-01 | 1998-06-26 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7204-114 IBM RS/6000 External Disk Drive Model 114
+
+🔗 [https://www.ibm.com/docs/en/announcements/rs6000-external-disk-drive-model-114](https://www.ibm.com/docs/en/announcements/rs6000-external-disk-drive-model-114?region=AP)
+
+📅 2013-07-02
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7204-114 | 1995-10-10 | 1995-12-01 | 1998-11-30 | 2011-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7204-118 IBM 7204 18.2 GB External Disk Drive Model 118
+
+🔗 [https://www.ibm.com/docs/en/announcements/7204-182-gb-external-disk-drive-model-118](https://www.ibm.com/docs/en/announcements/7204-182-gb-external-disk-drive-model-118?region=AP)
+
+📅 2008-06-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7204-118 | 1998-04-06 | 1998-06-12 | 1999-12-03 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7204-139 IBM RS/6000 External Disk Drive Model 139
+
+🔗 [https://www.ibm.com/docs/en/announcements/rs6000-external-disk-drive-model-139](https://www.ibm.com/docs/en/announcements/rs6000-external-disk-drive-model-139?region=AP)
+
+📅 2013-07-02
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7204-139 | 1996-10-08 | 1996-11-08 | 1999-12-03 | 2011-12-31 |
 
 
 
@@ -4987,6 +4865,52 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 
 
 
+### 9337-225 IBM Disk Array Subsystem Model 225
+
+🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-225](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-225?region=AP)
+
+📅 2008-06-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9337-225 | 1993-09-07 | 1993-11-26 | 1996-09-13 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 9337-240 IBM Disk Array Subsystem Model 240
+
+🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-240](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-240?region=AP)
+
+📅 2008-06-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9337-240 | 1993-09-07 | 1993-11-26 | 1996-12-20 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 9337-420 IBM Disk Array Subsystem Model 420
 
 🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-420](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-420?region=AP)
@@ -5203,6 +5127,29 @@ content update: 2024-05-14 00:31:31.03919962 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9345-B12 | 1991-09-11 | 1992-02-14 | 1996-12-31 | 2006-03-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 9345-B22 IBM DASD Model B22
+
+🔗 [https://www.ibm.com/docs/en/announcements/dasd-model-b22](https://www.ibm.com/docs/en/announcements/dasd-model-b22?region=AP)
+
+📅 2008-03-10
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9345-B22 | 1991-09-11 | 1992-02-14 | 1996-12-31 | 2008-12-31 |
 
 
 
