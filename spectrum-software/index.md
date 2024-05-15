@@ -1,20 +1,42 @@
 # Spectrum Software
 
-content update: 2024-05-15 00:31:30.644312296 +0800 CST
+content update: 2024-05-16 00:31:18.422332202 +0800 CST
 
 ---
 
 ### Table of contents
 
 
+- [](#)
 - [5639-003 IBM Copy Manager for IBM Spectrum Virtualize 1.1](#5639-003-ibm-copy-manager-for-ibm-spectrum-virtualize-11)
 - [5639-691 IBM Storage Protect Plus for IBM FlashSystem 10.1](#5639-691-ibm-storage-protect-plus-for-ibm-flashsystem-101)
+- [5641-VC8 IBM Storage Virtualize Software for SAN Volume Controller 8.6](#5641-vc8-ibm-storage-virtualize-software-for-san-volume-controller-86)
 - [5725-F92 IBM Virtual Storage Center 5.4](#5725-f92-ibm-virtual-storage-center-54)
 - [5725-F93 IBM Spectrum Control 5.4](#5725-f93-ibm-spectrum-control-54)
 
 ---
 
 [← Back to README](../README.md)
+
+
+
+
+
+### 
+
+🔗 [](?region=AP)
+
+📅 
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
 
 
 
@@ -56,6 +78,34 @@ content update: 2024-05-15 00:31:30.644312296 +0800 CST
 | 5639-693 | 10.01.08 | 2021-07-06 | 2021-07-07 | - |
 | 5639-694 | 10.01.08 | 2021-07-06 | 2021-07-07 | - |
 | 5639-695 | 10.01.08 | 2021-07-06 | 2021-07-07 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 5641-VC8 IBM Storage Virtualize Software for SAN Volume Controller 8.6
+
+🔗 [https://www.ibm.com/docs/en/announcements/storage-virtualize-software-san-volume-controller-86](https://www.ibm.com/docs/en/announcements/storage-virtualize-software-san-volume-controller-86?region=AP)
+
+📅 2023-12-05
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 5641-VC8 | 08.01.00 | 2017-08-22 | 2017-09-22 | 2019-12-28 |
+| 5725-M19 | 08.01.00 | 2017-08-22 | 2017-09-22 | 2019-12-28 |
+| 5641-CP8 | 08.01.00 | 2017-08-22 | 2017-09-22 | 2019-12-28 |
+| 5725-H04 | 08.01.00 | 2017-08-22 | 2017-09-22 | 2019-12-28 |
+| 5641-B08 | 08.01.00 | 2017-08-22 | 2017-09-22 | 2019-12-28 |
+| 5725-Y35 | 08.01.00 | 2017-08-22 | 2017-09-22 | 2019-12-28 |
 
 
 
