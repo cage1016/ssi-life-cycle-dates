@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2024-05-28 00:32:07.049185968 +0800 CST
+content update: 2024-05-29 00:31:46.496006783 +0800 CST
 
 ---
 
@@ -522,7 +522,7 @@ content update: 2024-05-28 00:32:07.049185968 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts4500-tape-library-l55d55s55l25d25s25tr1](https://www.ibm.com/docs/en/announcements/ts4500-tape-library-l55d55s55l25d25s25tr1?region=AP)
 
-📅 2023-08-26
+📅 2024-05-28
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -551,7 +551,7 @@ content update: 2024-05-28 00:32:07.049185968 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts7700-release-53](https://www.ibm.com/docs/en/announcements/ts7700-release-53?region=AP)
 
-📅 2023-09-27
+📅 2024-05-28
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
