@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2024-05-29 00:31:46.496006783 +0800 CST
+content update: 2024-05-30 00:32:40.311467084 +0800 CST
 
 ---
 
@@ -902,7 +902,7 @@ content update: 2024-05-29 00:31:46.496006783 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/diamondback-tape-library-1-year-cru-warranty](https://www.ibm.com/docs/en/announcements/diamondback-tape-library-1-year-cru-warranty?region=AP)
 
-📅 2023-10-02
+📅 2024-05-28
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
