@@ -1,6 +1,6 @@
 # Power10
 
-content update: 2024-05-30 00:32:40.311467084 +0800 CST
+content update: 2024-05-31 00:32:21.738359995 +0800 CST
 
 ---
 
@@ -97,7 +97,7 @@ content update: 2024-05-30 00:32:40.311467084 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-s1024-9105-42a](https://www.ibm.com/docs/en/announcements/power-s1024-9105-42a?region=AP)
 
-📅 2024-01-09
+📅 2023-07-11
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -120,7 +120,7 @@ content update: 2024-05-30 00:32:40.311467084 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-s1022s-9105-22b](https://www.ibm.com/docs/en/announcements/power-s1022s-9105-22b?region=AP)
 
-📅 2024-01-09
+📅 2023-07-25
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -143,7 +143,7 @@ content update: 2024-05-30 00:32:40.311467084 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-s1014-9105-41b](https://www.ibm.com/docs/en/announcements/power-s1014-9105-41b?region=AP)
 
-📅 2024-01-09
+📅 2023-07-11
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

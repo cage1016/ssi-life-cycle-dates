@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2024-05-30 00:32:40.311467084 +0800 CST
+content update: 2024-05-31 00:32:21.738359995 +0800 CST
 
 ---
 
@@ -1308,7 +1308,7 @@ content update: 2024-05-30 00:32:40.311467084 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san24b-6](https://www.ibm.com/docs/en/announcements/storage-networking-san24b-6?region=AP)
 
-📅 2023-07-11
+📅 2024-05-28
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -1331,7 +1331,7 @@ content update: 2024-05-30 00:32:40.311467084 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san128b-7](https://www.ibm.com/docs/en/announcements/storage-networking-san128b-7?region=AP)
 
-📅 2023-08-29
+📅 2024-05-28
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -1355,7 +1355,7 @@ content update: 2024-05-30 00:32:40.311467084 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san42b-r7](https://www.ibm.com/docs/en/announcements/storage-networking-san42b-r7?region=AP)
 
-📅 2023-12-05
+📅 2024-05-28
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
