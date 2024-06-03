@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2024-06-03 00:32:09.98821226 +0800 CST
+content update: 2024-06-04 00:31:15.141424374 +0800 CST
 
 ---
 
@@ -16,7 +16,6 @@ content update: 2024-06-03 00:32:09.98821226 +0800 CST
 - [3499-007 IBM 3480/3490 Conductive Cleaning Cartridges Model 007](#3499-007-ibm-3480-3490-conductive-cleaning-cartridges-model-007)
 - [Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004](#family-358901-ibm-ultrium-cartridges-models-002-003-004)
 - [Family 3589+02 IBM Ultrium Cartridges Models 006 and 007](#family-358902-ibm-ultrium-cartridges-models-006-and-007)
-- [Family 3589+03 IBM TotalStorage Ultrium Tape Cartridge Models 008 and 009](#family-358903-ibm-totalstorage-ultrium-tape-cartridge-models-008-and-009)
 - [Family 3589+04 IBM TotalStorage Ultrium Tape Cartridge Models 028 and 029](#family-358904-ibm-totalstorage-ultrium-tape-cartridge-models-028-and-029)
 - [Family 3589+05 IBM 3589 Ultrium Tape Cartridge Models 010, 011, 032, 033](#family-358905-ibm-3589-ultrium-tape-cartridge-models-010-011-032-033)
 - [Family 3589+06 IBM Ultrium 5 1.5 TB Data Cartridge Models 014 015 034 035](#family-358906-ibm-ultrium-5-15-tb-data-cartridge-models-014-015-034-035)
@@ -244,30 +243,6 @@ content update: 2024-06-03 00:32:09.98821226 +0800 CST
 | --- | --- | --- | --- | --- |
 | 3589-006 | 2003-06-03 | 2003-06-13 | 2009-05-29 | - |
 | 3589-007 | 2003-06-03 | 2003-06-06 | 2009-05-29 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3589+03 IBM TotalStorage Ultrium Tape Cartridge Models 008 and 009
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ultrium-tape-cartridge-models-008-009](https://www.ibm.com/docs/en/announcements/totalstorage-ultrium-tape-cartridge-models-008-009?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3589-008 | 2005-02-15 | 2005-03-04 | 2010-11-26 | - |
-| 3589-009 | 2005-02-15 | 2005-03-04 | 2010-11-26 | - |
 
 
 

@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2024-06-03 00:32:09.98821226 +0800 CST
+content update: 2024-06-04 00:31:15.141424374 +0800 CST
 
 ---
 
@@ -9,10 +9,7 @@ content update: 2024-06-03 00:32:09.98821226 +0800 CST
 
 - [](#)
 - [Family 2421+05 IBM Storage Appliance Model AP1](#family-242105-ibm-storage-appliance-model-ap1)
-- [3450-001 IBM 1.2GB 1/4-Inch Cartridge Tape Drive Model 001](#3450-001-ibm-12gb-1-4-inch-cartridge-tape-drive-model-001)
-- [3480-A11 IBM Magnetic Tape Subsystem Model A11](#3480-a11-ibm-magnetic-tape-subsystem-model-a11)
 - [3480-A22 IBM Magnetic Tape Subsystem Model A22](#3480-a22-ibm-magnetic-tape-subsystem-model-a22)
-- [3490-A20 IBM Magnetic Tape Subsystem Model A20](#3490-a20-ibm-magnetic-tape-subsystem-model-a20)
 - [3490-C11 IBM Magnetic Tape Subsystem Model C11](#3490-c11-ibm-magnetic-tape-subsystem-model-c11)
 - [3490-C22 IBM Magnetic Tape Subsystem Model C22](#3490-c22-ibm-magnetic-tape-subsystem-model-c22)
 - [3490-D31 IBM Magnetic Tape Subsystem Model D31](#3490-d31-ibm-magnetic-tape-subsystem-model-d31)
@@ -77,10 +74,8 @@ content update: 2024-06-03 00:32:09.98821226 +0800 CST
 - [Family 3592+09 IBM TS1140 Tape Drive Model EH7](#family-359209-ibm-ts1140-tape-drive-model-eh7)
 - [Family 3592+10 IBM TS1150 Tape Drive and HD2 Tape Drive](#family-359210-ibm-ts1150-tape-drive-and-hd2-tape-drive)
 - [Family 3592+11 IBM TS1155 Tape Drive Models 55F and 55E](#family-359211-ibm-ts1155-tape-drive-models-55f-and-55e)
-- [Family 3592+12 IBM TS1155 Tape Drive Model 55G](#family-359212-ibm-ts1155-tape-drive-model-55g)
 - [Family 3592+13 IBM TS1160 Tape Drive Model 60F](#family-359213-ibm-ts1160-tape-drive-model-60f)
 - [Family 3592+14 IBM TS1160 Tape Drive Model 60G](#family-359214-ibm-ts1160-tape-drive-model-60g)
-- [Family 3592+15 IBM TS1160 Tape Drive Model 60E](#family-359215-ibm-ts1160-tape-drive-model-60e)
 - [Family 3592+16 IBM TS1160 Tape Drive Model 60S for IBM TS4500](#family-359216-ibm-ts1160-tape-drive-model-60s-for-ibm-ts4500)
 - [Family 3592+17 IBM TS1170 Tape Drive models 70F and 70S](#family-359217-ibm-ts1170-tape-drive-models-70f-and-70s)
 - [7205-311 IBM 35GB External Digital Linear Tape Drive Model 311](#7205-311-ibm-35gb-external-digital-linear-tape-drive-model-311)
@@ -174,46 +169,6 @@ content update: 2024-06-03 00:32:09.98821226 +0800 CST
 
 
 
-### 3450-001 IBM 1.2GB 1/4-Inch Cartridge Tape Drive Model 001
-
-🔗 [https://www.ibm.com/docs/en/announcements/12gb-14-inch-cartridge-tape-drive-model-001](https://www.ibm.com/docs/en/announcements/12gb-14-inch-cartridge-tape-drive-model-001?region=AP)
-
-📅 2003-06-02
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3480-A11 IBM Magnetic Tape Subsystem Model A11
-
-🔗 [https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-a11](https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-a11?region=AP)
-
-📅 2004-06-07
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 3480-A22 IBM Magnetic Tape Subsystem Model A22
 
 🔗 [https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-a22](https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-a22?region=AP)
@@ -223,29 +178,6 @@ content update: 2024-06-03 00:32:09.98821226 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3480-A22 | 1988-04-01 | 1989-12-19 | 1991-05-20 | 2012-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3490-A20 IBM Magnetic Tape Subsystem Model A20
-
-🔗 [https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-a20](https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-a20?region=AP)
-
-📅 2018-07-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3490-A20 | 1991-02-19 | 1991-04-01 | 1998-09-25 | 2019-12-31 |
 
 
 
@@ -1747,29 +1679,6 @@ content update: 2024-06-03 00:32:09.98821226 +0800 CST
 
 
 
-### Family 3592+12 IBM TS1155 Tape Drive Model 55G
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts1155-tape-drive-model-55g](https://www.ibm.com/docs/en/announcements/ts1155-tape-drive-model-55g?region=AP)
-
-📅 2022-07-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3592-55G | 2017-10-10 | 2017-11-17 | 2019-12-07 | 2023-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 3592+13 IBM TS1160 Tape Drive Model 60F
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts1160-tape-drive-model-60f](https://www.ibm.com/docs/en/announcements/ts1160-tape-drive-model-60f?region=AP)
@@ -1802,29 +1711,6 @@ content update: 2024-06-03 00:32:09.98821226 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3592-60G | 2018-11-20 | 2018-12-07 | 2023-06-30 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3592+15 IBM TS1160 Tape Drive Model 60E
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts1160-tape-drive-model-60e](https://www.ibm.com/docs/en/announcements/ts1160-tape-drive-model-60e?region=AP)
-
-📅 2021-10-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3592-60E | 2019-10-08 | 2019-10-18 | 2021-12-31 | - |
 
 
 
