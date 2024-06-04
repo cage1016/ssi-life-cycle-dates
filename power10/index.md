@@ -1,6 +1,6 @@
 # Power10
 
-content update: 2024-06-04 00:31:15.141424374 +0800 CST
+content update: 2024-06-05 00:32:39.644491865 +0800 CST
 
 ---
 
@@ -97,7 +97,7 @@ content update: 2024-06-04 00:31:15.141424374 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-s1024-9105-42a](https://www.ibm.com/docs/en/announcements/power-s1024-9105-42a?region=AP)
 
-📅 2024-01-09
+📅 2023-07-11
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
