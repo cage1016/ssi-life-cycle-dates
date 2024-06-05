@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2024-06-05 00:32:39.644491865 +0800 CST
+content update: 2024-06-06 00:31:57.696035431 +0800 CST
 
 ---
 
@@ -17,6 +17,7 @@ content update: 2024-06-05 00:32:39.644491865 +0800 CST
 - [Family 4664+01 IBM FlashSystem 7200 with Expert Care](#family-466401-ibm-flashsystem-7200-with-expert-care)
 - [Family 4666+01 IBM FlashSystem 9200 with Expert Care](#family-466601-ibm-flashsystem-9200-with-expert-care)
 - [Family 4680+01 IBM FlashSystem 5015 and FlashSystem 5045](#family-468001-ibm-flashsystem-5015-and-flashsystem-5045)
+- [Family 4983+01 IBM FlashSystem 9500 with License Machine Code](#family-498301-ibm-flashsystem-9500-with-license-machine-code)
 - [Family 9745+01 IBM FlashSystem Utility models Variable Use billing](#family-974501-ibm-flashsystem-utility-models-variable-use-billing)
 - [Family 9830+01 IBM FlashSystem 710 and FlashSystem 810](#family-983001-ibm-flashsystem-710-and-flashsystem-810)
 - [Family 9831+01 IBM FlashSystem 720 and FlashSystem 820](#family-983101-ibm-flashsystem-720-and-flashsystem-820)
@@ -312,6 +313,31 @@ content update: 2024-06-05 00:32:39.644491865 +0800 CST
 | 4680-12H | 2023-07-11 | 2023-07-21 | - | - |
 | 4680-24H | 2023-07-11 | 2023-07-21 | - | - |
 | 4680-92H | 2023-07-11 | 2023-07-21 | - | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 4983+01 IBM FlashSystem 9500 with License Machine Code
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9500-license-machine-code-2023-10-10](https://www.ibm.com/docs/en/announcements/flashsystem-9500-license-machine-code-2023-10-10?region=AP)
+
+📅 2024-05-28
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 4983-AH8 | 2023-07-11 | 2023-07-28 | - | - |
+| 4983-A9F | 2023-10-10 | 2023-11-07 | - | - |
+| 4983-AFF | 2023-10-10 | 2023-11-07 | - | - |
 
 
 
