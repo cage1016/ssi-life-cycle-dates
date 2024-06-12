@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2024-06-12 00:32:24.346310663 +0800 CST
+content update: 2024-06-13 00:32:00.22756775 +0800 CST
 
 ---
 
@@ -44,8 +44,11 @@ content update: 2024-06-12 00:32:24.346310663 +0800 CST
 - [3599-015 IBM 3592 Extended Tape Cart with Labeling Model 015](#3599-015-ibm-3592-extended-tape-cart-with-labeling-model-015)
 - [3599-016 IBM 3592 Extended Tape Cart Model 016](#3599-016-ibm-3592-extended-tape-cart-model-016)
 - [3599-017 IBM 3592 Enterprise Tape Cartridge (Cleaning) Model 017](#3599-017-ibm-3592-enterprise-tape-cartridge-cleaning-model-017)
+- [3599-021 IBM 3592 Ent Tape WORM Cart with Labeling, Init Model 021](#3599-021-ibm-3592-ent-tape-worm-cart-with-labeling-init-model-021)
 - [3599-022 IBM 3592 Enterprise Tape WORM Cartridge with Labeling Model 022](#3599-022-ibm-3592-enterprise-tape-worm-cartridge-with-labeling-model-022)
 - [3599-023 IBM 3592 Ent Tape WORM Cart Model 023](#3599-023-ibm-3592-ent-tape-worm-cart-model-023)
+- [3599-024 IBM 3592 Ext WORM Cart with Labeling and Init Model 024](#3599-024-ibm-3592-ext-worm-cart-with-labeling-and-init-model-024)
+- [3599-025 IBM 3592 Extended Tape WORM Cart with Labeling Model 025](#3599-025-ibm-3592-extended-tape-worm-cart-with-labeling-model-025)
 - [3599-026 IBM 3592 Extended Tape WORM Cart Model 026](#3599-026-ibm-3592-extended-tape-worm-cart-model-026)
 - [Family 3599+04 IBM Tape Cartridge 3592](#family-359904-ibm-tape-cartridge-3592)
 - [3599-E11 IBM 3592 Enterprise Tape Economy Cartridge with Labeling, Initialization Model E11](#3599-e11-ibm-3592-enterprise-tape-economy-cartridge-with-labeling-initialization-model-e11)
@@ -934,6 +937,29 @@ content update: 2024-06-12 00:32:24.346310663 +0800 CST
 
 
 
+### 3599-021 IBM 3592 Ent Tape WORM Cart with Labeling, Init Model 021
+
+🔗 [https://www.ibm.com/docs/en/announcements/3592-ent-tape-worm-cart-labeling-init-model-021](https://www.ibm.com/docs/en/announcements/3592-ent-tape-worm-cart-labeling-init-model-021?region=AP)
+
+📅 2023-11-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3599-021 | 2004-04-27 | 2004-05-21 | 2009-05-29 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 3599-022 IBM 3592 Enterprise Tape WORM Cartridge with Labeling Model 022
 
 🔗 [https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-worm-cartridge-labeling-model-022](https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-worm-cartridge-labeling-model-022?region=AP)
@@ -966,6 +992,52 @@ content update: 2024-06-12 00:32:24.346310663 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3599-023 | 2004-04-27 | 2004-05-21 | 2009-05-29 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3599-024 IBM 3592 Ext WORM Cart with Labeling and Init Model 024
+
+🔗 [https://www.ibm.com/docs/en/announcements/3592-ext-worm-cart-labeling-init-model-024](https://www.ibm.com/docs/en/announcements/3592-ext-worm-cart-labeling-init-model-024?region=AP)
+
+📅 2023-11-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3599-024 | 2006-10-31 | 2007-01-26 | 2009-12-31 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3599-025 IBM 3592 Extended Tape WORM Cart with Labeling Model 025
+
+🔗 [https://www.ibm.com/docs/en/announcements/3592-extended-tape-worm-cart-labeling-model-025](https://www.ibm.com/docs/en/announcements/3592-extended-tape-worm-cart-labeling-model-025?region=AP)
+
+📅 2023-11-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3599-025 | 2006-10-31 | 2007-01-26 | 2009-12-31 | - |
 
 
 

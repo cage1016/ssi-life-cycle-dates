@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2024-06-12 00:32:24.346310663 +0800 CST
+content update: 2024-06-13 00:32:00.22756775 +0800 CST
 
 ---
 
@@ -12,6 +12,7 @@ content update: 2024-06-12 00:32:24.346310663 +0800 CST
 - [3450-001 IBM 1.2GB 1/4-Inch Cartridge Tape Drive Model 001](#3450-001-ibm-12gb-1-4-inch-cartridge-tape-drive-model-001)
 - [3480-A11 IBM Magnetic Tape Subsystem Model A11](#3480-a11-ibm-magnetic-tape-subsystem-model-a11)
 - [3480-A22 IBM Magnetic Tape Subsystem Model A22](#3480-a22-ibm-magnetic-tape-subsystem-model-a22)
+- [3490-A20 IBM Magnetic Tape Subsystem Model A20](#3490-a20-ibm-magnetic-tape-subsystem-model-a20)
 - [3490-C11 IBM Magnetic Tape Subsystem Model C11](#3490-c11-ibm-magnetic-tape-subsystem-model-c11)
 - [3490-C22 IBM Magnetic Tape Subsystem Model C22](#3490-c22-ibm-magnetic-tape-subsystem-model-c22)
 - [3490-D31 IBM Magnetic Tape Subsystem Model D31](#3490-d31-ibm-magnetic-tape-subsystem-model-d31)
@@ -222,6 +223,29 @@ content update: 2024-06-12 00:32:24.346310663 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3480-A22 | 1988-04-01 | 1989-12-19 | 1991-05-20 | 2012-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3490-A20 IBM Magnetic Tape Subsystem Model A20
+
+🔗 [https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-a20](https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-a20?region=AP)
+
+📅 2018-07-10
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3490-A20 | 1991-02-19 | 1991-04-01 | 1998-09-25 | 2019-12-31 |
 
 
 
