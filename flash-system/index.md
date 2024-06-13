@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2024-06-13 00:32:00.22756775 +0800 CST
+content update: 2024-06-14 00:32:12.007913045 +0800 CST
 
 ---
 
@@ -249,15 +249,15 @@ content update: 2024-06-13 00:32:00.22756775 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7200-expert-care](https://www.ibm.com/docs/en/announcements/flashsystem-7200-expert-care?region=AP)
 
-📅 2021-08-17
+📅 2024-06-11
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 4664-U7C | 2021-08-17 | 2021-08-27 | 2022-07-16 | - |
-| 4664-12G | 2021-08-17 | 2021-08-27 | - | - |
-| 4664-24G | 2021-08-17 | 2021-08-27 | - | - |
+| 4664-12G | 2021-08-17 | 2021-08-27 | 2024-12-31 | - |
+| 4664-24G | 2021-08-17 | 2021-08-27 | 2024-12-31 | - |
 | 4664-824 | 2021-08-17 | 2021-08-27 | 2022-07-16 | - |
-| 4664-92G | 2021-08-17 | 2021-08-27 | - | - |
+| 4664-92G | 2021-08-17 | 2021-08-27 | 2024-12-31 | - |
 
 
 

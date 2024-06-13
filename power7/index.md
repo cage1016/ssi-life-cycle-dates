@@ -1,6 +1,6 @@
 # Power7
 
-content update: 2024-06-13 00:32:00.22756775 +0800 CST
+content update: 2024-06-14 00:32:12.007913045 +0800 CST
 
 ---
 
@@ -28,7 +28,6 @@ content update: 2024-06-13 00:32:00.22756775 +0800 CST
 - [Family 9109+01 IBM Power 760](#family-910901-ibm-power-760)
 - [Family 9117+03 IBM Power 770 Server MMB](#family-911703-ibm-power-770-server-mmb)
 - [Family 9117+04 IBM Power 770 POWER7 Server (9117-MMC)](#family-911704-ibm-power-770-power7-server-9117-mmc)
-- [Family 9117+05 IBM Power 770 POWER7+ Server (9117-MMD)](#family-911705-ibm-power-770-power7-server-9117-mmd)
 - [Family 9119+04 IBM Power 795 Server](#family-911904-ibm-power-795-server)
 - [Family 9179+01 IBM Power 780 Server](#family-917901-ibm-power-780-server)
 - [Family 9179+02 IBM Power 780 Server](#family-917902-ibm-power-780-server)
@@ -511,29 +510,6 @@ content update: 2024-06-13 00:32:00.22756775 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9117-MMC | 2011-10-12 | 2011-10-21 | 2015-01-06 | 2019-09-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 9117+05 IBM Power 770 POWER7+ Server (9117-MMD)
-
-🔗 [https://www.ibm.com/docs/en/announcements/power-770-power7-server-9117-mmd](https://www.ibm.com/docs/en/announcements/power-770-power7-server-9117-mmd?region=AP)
-
-📅 2023-10-24
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9117-MMD | 2012-10-03 | 2012-10-19 | 2015-11-30 | 2020-12-31 |
 
 
 

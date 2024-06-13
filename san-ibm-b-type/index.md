@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2024-06-13 00:32:00.22756775 +0800 CST
+content update: 2024-06-14 00:32:12.007913045 +0800 CST
 
 ---
 
@@ -9,7 +9,6 @@ content update: 2024-06-13 00:32:00.22756775 +0800 CST
 
 - [](#)
 - [Family 2005+01 IBM TotalStorage SAN Switch Models H08 and H16](#family-200501-ibm-totalstorage-san-switch-models-h08-and-h16)
-- [Family 2005+02 IBM TotalStorage SANB32 Switch](#family-200502-ibm-totalstorage-sanb32-switch)
 - [Family 2005+04 IBM TotalStorage SANB16B-2 Fabric Switch](#family-200504-ibm-totalstorage-sanb16b-2-fabric-switch)
 - [Family 2005+06 IBM System Storage SANR18B-R](#family-200506-ibm-system-storage-sanr18b-r)
 - [Family 2005+07 IBM System Storage SANB64B-2 Fabric Switch](#family-200507-ibm-system-storage-sanb64b-2-fabric-switch)
@@ -22,11 +21,7 @@ content update: 2024-06-13 00:32:00.22756775 +0800 CST
 - [2108-G07 IBM Storage Area Network Data Gateway Model G07](#2108-g07-ibm-storage-area-network-data-gateway-model-g07)
 - [2108-R03 IBM SAN Data Gateway Router Model R03](#2108-r03-ibm-san-data-gateway-router-model-r03)
 - [2108-S20 IBM Storage Area Network Data Gateway for Serial Systems Model S20](#2108-s20-ibm-storage-area-network-data-gateway-for-serial-systems-model-s20)
-- [2109-A16 IBM TotalStorage SAN16B-R Multiprotocol Router Model A16](#2109-a16-ibm-totalstorage-san16b-r-multiprotocol-router-model-a16)
-- [2109-F16 IBM TotalStorage Storage Area Network (SAN) Switch Model F16](#2109-f16-ibm-totalstorage-storage-area-network-san-switch-model-f16)
-- [2109-F32 IBM TotalStorage Storage Area Network Switch (SAN) Model F32](#2109-f32-ibm-totalstorage-storage-area-network-switch-san-model-f32)
 - [2109-M12 IBM TotalStorage SAN Switch Model M12](#2109-m12-ibm-totalstorage-san-switch-model-m12)
-- [2109-M14 IBM TotalStorage SAN Switch Model M14](#2109-m14-ibm-totalstorage-san-switch-model-m14)
 - [2109-M48 IBM TotalStorage SAN256B Director Model M48](#2109-m48-ibm-totalstorage-san256b-director-model-m48)
 - [2109-S08 IBM SAN Fibre Channel Switch Model S08](#2109-s08-ibm-san-fibre-channel-switch-model-s08)
 - [2109-S16 IBM SAN Fibre Channel Switch Model S16](#2109-s16-ibm-san-fibre-channel-switch-model-s16)
@@ -105,29 +100,6 @@ content update: 2024-06-13 00:32:00.22756775 +0800 CST
 | --- | --- | --- | --- | --- |
 | 2005-H08 | 2004-04-27 | 2004-05-27 | 2005-10-28 | 2010-12-31 |
 | 2005-H16 | 2004-04-27 | 2004-05-27 | 2005-10-28 | 2010-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2005+02 IBM TotalStorage SANB32 Switch
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-sanb32-switch](https://www.ibm.com/docs/en/announcements/totalstorage-sanb32-switch?region=AP)
-
-📅 2013-10-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2005-B32 | 2004-11-09 | 2004-11-19 | 2007-10-06 | 2012-12-31 |
 
 
 
@@ -422,75 +394,6 @@ content update: 2024-06-13 00:32:00.22756775 +0800 CST
 
 
 
-### 2109-A16 IBM TotalStorage SAN16B-R Multiprotocol Router Model A16
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-san16b-r-multiprotocol-router-model-a16](https://www.ibm.com/docs/en/announcements/totalstorage-san16b-r-multiprotocol-router-model-a16?region=AP)
-
-📅 2012-12-18
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2109-A16 | 2005-03-08 | 2005-03-11 | 2007-09-01 | 2012-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2109-F16 IBM TotalStorage Storage Area Network (SAN) Switch Model F16
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-storage-area-network-san-switch-model-f16](https://www.ibm.com/docs/en/announcements/totalstorage-storage-area-network-san-switch-model-f16?region=AP)
-
-📅 2012-03-08
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2109-F16 | 2001-10-02 | 2001-10-12 | 2005-04-29 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2109-F32 IBM TotalStorage Storage Area Network Switch (SAN) Model F32
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-storage-area-network-switch-san-model-f32](https://www.ibm.com/docs/en/announcements/totalstorage-storage-area-network-switch-san-model-f32?region=AP)
-
-📅 2012-03-08
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2109-F32 | 2002-11-12 | 2002-11-15 | 2005-10-28 | 2010-03-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 2109-M12 IBM TotalStorage SAN Switch Model M12
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-san-switch-model-m12](https://www.ibm.com/docs/en/announcements/totalstorage-san-switch-model-m12?region=AP)
@@ -500,29 +403,6 @@ content update: 2024-06-13 00:32:00.22756775 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2109-M12 | 2002-05-21 | 2002-06-14 | 2005-04-29 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2109-M14 IBM TotalStorage SAN Switch Model M14
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-san-switch-model-m14](https://www.ibm.com/docs/en/announcements/totalstorage-san-switch-model-m14?region=AP)
-
-📅 2010-11-18
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2109-M14 | 2004-04-27 | 2004-05-07 | 2006-03-31 | 2010-12-31 |
 
 
 
