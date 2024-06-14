@@ -1,6 +1,6 @@
 # Power9
 
-content update: 2024-06-14 00:32:12.007913045 +0800 CST
+content update: 2024-06-15 00:31:42.534525252 +0800 CST
 
 ---
 
@@ -14,7 +14,9 @@ content update: 2024-06-14 00:32:12.007913045 +0800 CST
 - [Family 9009+04 IBM Power System S922 (9009-22G)](#family-900904-ibm-power-system-s922-9009-22g)
 - [Family 9009+05 IBM Power System S914 (9009-41G)](#family-900905-ibm-power-system-s914-9009-41g)
 - [Family 9009+06 IBM Power System S924 (9009-42G)](#family-900906-ibm-power-system-s924-9009-42g)
+- [Family 9040+01 IBM Power System E950 (9040-MR9)](#family-904001-ibm-power-system-e950-9040-mr9)
 - [Family 9080+03 IBM Power System E980 (9080-M9S)](#family-908003-ibm-power-system-e980-9080-m9s)
+- [Family 9223+04 IBM Power System H924 (9223-42S)](#family-922304-ibm-power-system-h924-9223-42s)
 
 ---
 
@@ -182,6 +184,29 @@ content update: 2024-06-14 00:32:12.007913045 +0800 CST
 
 
 
+### Family 9040+01 IBM Power System E950 (9040-MR9)
+
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-e950-9040-mr9](https://www.ibm.com/docs/en/announcements/power-system-e950-9040-mr9?region=AP)
+
+📅 2023-07-04
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9040-MR9 | 2018-08-07 | 2018-08-17 | 2023-10-20 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 9080+03 IBM Power System E980 (9080-M9S)
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-system-e980-9080-m9s](https://www.ibm.com/docs/en/announcements/power-system-e980-9080-m9s?region=AP)
@@ -191,6 +216,29 @@ content update: 2024-06-14 00:32:12.007913045 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9080-M9S | 2018-08-07 | 2018-09-21 | 2022-10-31 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 9223+04 IBM Power System H924 (9223-42S)
+
+🔗 [https://www.ibm.com/docs/en/announcements/power-system-h924-9223-42s-2023-10-24](https://www.ibm.com/docs/en/announcements/power-system-h924-9223-42s-2023-10-24?region=AP)
+
+📅 2023-11-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9223-42S | 2020-10-06 | 2020-11-20 | 2023-10-20 | - |
 
 
 
