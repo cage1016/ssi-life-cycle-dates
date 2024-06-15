@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2024-06-15 00:31:42.534525252 +0800 CST
+content update: 2024-06-16 00:31:58.6346904 +0800 CST
 
 ---
 
@@ -19,6 +19,7 @@ content update: 2024-06-15 00:31:42.534525252 +0800 CST
 - [Family 2027+02 IBM TotalStorage SAN256M Director SAN16M-R Router SANC40M 40U Cabinet](#family-202702-ibm-totalstorage-san256m-director-san16m-r-router-sanc40m-40u-cabinet)
 - [Family 2027+03 IBM TotalStorage SAN04M-R Router](#family-202703-ibm-totalstorage-san04m-r-router)
 - [Family 2045+01 IBM TotalStorage SAN256N Director and Cabinet](#family-204501-ibm-totalstorage-san256n-director-and-cabinet)
+- [2108-G07 IBM Storage Area Network Data Gateway Model G07](#2108-g07-ibm-storage-area-network-data-gateway-model-g07)
 - [2108-R03 IBM SAN Data Gateway Router Model R03](#2108-r03-ibm-san-data-gateway-router-model-r03)
 - [2108-S20 IBM Storage Area Network Data Gateway for Serial Systems Model S20](#2108-s20-ibm-storage-area-network-data-gateway-for-serial-systems-model-s20)
 - [2109-A16 IBM TotalStorage SAN16B-R Multiprotocol Router Model A16](#2109-a16-ibm-totalstorage-san16b-r-multiprotocol-router-model-a16)
@@ -43,9 +44,11 @@ content update: 2024-06-15 00:31:42.534525252 +0800 CST
 - [Family 2499+02 IBM System Storage SAN384B](#family-249902-ibm-system-storage-san384b)
 - [Family 2499+03 IBM Systems Storage SAN768B-2 and SAN384B-2](#family-249903-ibm-systems-storage-san768b-2-and-san384b-2)
 - [3534-1RU IBM SAN Fibre Channel Managed Hub Model 1RU](#3534-1ru-ibm-san-fibre-channel-managed-hub-model-1ru)
+- [3534-F08 IBM TotalStorage Storage Area Network (SAN) Model F08](#3534-f08-ibm-totalstorage-storage-area-network-san-model-f08)
 - [Family 3758+01 IBM Converged Switch B32](#family-375801-ibm-converged-switch-b32)
 - [Family 3758+02 IBM Converged Switch L32](#family-375802-ibm-converged-switch-l32)
 - [Family 3759+01 Brocade VDX6730-32, -76 Converged Switch for IBM](#family-375901-brocade-vdx6730-32-76-converged-switch-for-ibm)
+- [7140-160 IBM TotalStorage SAN Controller Model 160](#7140-160-ibm-totalstorage-san-controller-model-160)
 - [Family 8960+01 IBM Storage Networking SAN64B-6](#family-896001-ibm-storage-networking-san64b-6)
 - [Family 8960+02 IBM Storage Networking SAN24B-6](#family-896002-ibm-storage-networking-san24b-6)
 - [Family 8960+03 IBM Storage Networking SAN128B-6](#family-896003-ibm-storage-networking-san128b-6)
@@ -54,6 +57,7 @@ content update: 2024-06-15 00:31:42.534525252 +0800 CST
 - [Family 8960+06 IBM Storage Networking SAN64B-7](#family-896006-ibm-storage-networking-san64b-7)
 - [Family 8960+07 IBM Storage Networking SAN64B-6](#family-896007-ibm-storage-networking-san64b-6)
 - [Family 8961+01 IBM Storage Networking SAN256B-6](#family-896101-ibm-storage-networking-san256b-6)
+- [Family 8961+02 IBM Storage Networking SAN512B-6](#family-896102-ibm-storage-networking-san512b-6)
 - [Family 8961+03 IBM Storage Networking SAN256B-7](#family-896103-ibm-storage-networking-san256b-7)
 - [Family 8961+04 IBM Storage Networking SAN512B-7](#family-896104-ibm-storage-networking-san512b-7)
 - [Family 8969+01 IBM IBM Storage Networking SAN24B-6](#family-896901-ibm-ibm-storage-networking-san24b-6)
@@ -335,6 +339,29 @@ content update: 2024-06-15 00:31:42.534525252 +0800 CST
 | --- | --- | --- | --- | --- |
 | 2045-C40 | 2004-11-09 | 2004-11-19 | 2005-09-30 | - |
 | 2045-N16 | 2004-11-09 | 2004-11-19 | 2005-09-30 | 2010-09-30 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 2108-G07 IBM Storage Area Network Data Gateway Model G07
+
+🔗 [https://www.ibm.com/docs/en/announcements/storage-area-network-data-gateway-model-g07](https://www.ibm.com/docs/en/announcements/storage-area-network-data-gateway-model-g07?region=AP)
+
+📅 2008-03-07
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2108-G07 | 1999-02-16 | 1999-03-26 | 2002-12-13 | 2008-12-31 |
 
 
 
@@ -903,6 +930,29 @@ content update: 2024-06-15 00:31:42.534525252 +0800 CST
 
 
 
+### 3534-F08 IBM TotalStorage Storage Area Network (SAN) Model F08
+
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-storage-area-network-san-model-f08](https://www.ibm.com/docs/en/announcements/totalstorage-storage-area-network-san-model-f08?region=AP)
+
+📅 2009-08-18
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3534-F08 | 2002-04-23 | 2002-05-03 | 2004-10-15 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 3758+01 IBM Converged Switch B32
 
 🔗 [https://www.ibm.com/docs/en/announcements/converged-switch-b32](https://www.ibm.com/docs/en/announcements/converged-switch-b32?region=AP)
@@ -959,6 +1009,29 @@ content update: 2024-06-15 00:31:42.534525252 +0800 CST
 | --- | --- | --- | --- | --- |
 | 3759-C32 | 2012-06-04 | 2012-06-15 | 2014-12-02 | 2020-04-30 |
 | 3759-C76 | 2012-06-04 | 2012-06-15 | 2014-12-02 | 2020-04-30 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7140-160 IBM TotalStorage SAN Controller Model 160
+
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-san-controller-model-160](https://www.ibm.com/docs/en/announcements/totalstorage-san-controller-model-160?region=AP)
+
+📅 2006-06-13
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7140-160 | 2001-07-31 | 2001-09-07 | 2003-12-12 | 2007-12-31 |
 
 
 
@@ -1148,6 +1221,29 @@ content update: 2024-06-15 00:31:42.534525252 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 8961-F04 | 2016-10-11 | 2016-11-11 | 2023-07-11 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 8961+02 IBM Storage Networking SAN512B-6
+
+🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san512b-6](https://www.ibm.com/docs/en/announcements/storage-networking-san512b-6?region=AP)
+
+📅 2023-11-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 8961-F08 | 2016-10-11 | 2016-11-11 | 2023-07-11 | - |
 
 
 

@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2024-06-15 00:31:42.534525252 +0800 CST
+content update: 2024-06-16 00:31:58.6346904 +0800 CST
 
 ---
 
@@ -10,6 +10,7 @@ content update: 2024-06-15 00:31:42.534525252 +0800 CST
 - [](#)
 - [3494-L10 IBM TotalStorage Enterprise Tape Library Base Frame Model L10](#3494-l10-ibm-totalstorage-enterprise-tape-library-base-frame-model-l10)
 - [3494-L12 IBM TotalStorage Enterprise Tape Library Base Frame Model L12](#3494-l12-ibm-totalstorage-enterprise-tape-library-base-frame-model-l12)
+- [3494-L14 IBM TotalStorage Enterprise Tape Library Base Frame Model L14](#3494-l14-ibm-totalstorage-enterprise-tape-library-base-frame-model-l14)
 - [3494-L22 IBM TotalStorage Enterprise Tape Library Base Frame Model L22](#3494-l22-ibm-totalstorage-enterprise-tape-library-base-frame-model-l22)
 - [Family 3555+01 IBM TS4300 tape library Models L3A and E3A](#family-355501-ibm-ts4300-tape-library-models-l3a-and-e3a)
 - [Family 3572+01 IBM System Storage TS2900 Tape Autoloader](#family-357201-ibm-system-storage-ts2900-tape-autoloader)
@@ -104,6 +105,29 @@ content update: 2024-06-15 00:31:42.534525252 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3494-L12 | 1995-04-10 | 1995-09-29 | 2006-12-01 | 2017-01-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3494-L14 IBM TotalStorage Enterprise Tape Library Base Frame Model L14
+
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-library-base-frame-model-l14](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-library-base-frame-model-l14?region=AP)
+
+📅 2015-06-23
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3494-L14 | 1995-04-10 | 1996-10-25 | 2001-12-28 | 2017-01-31 |
 
 
 
