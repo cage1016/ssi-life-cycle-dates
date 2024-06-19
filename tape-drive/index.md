@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2024-06-19 00:32:57.37548107 +0800 CST
+content update: 2024-06-20 00:31:41.542120579 +0800 CST
 
 ---
 
@@ -57,15 +57,8 @@ content update: 2024-06-19 00:32:57.37548107 +0800 CST
 - [Family 3588+12 IBM LTO 9 Tape Drive models F9C, F9S, and S9C](#family-358812-ibm-lto-9-tape-drive-models-f9c-f9s-and-s9c)
 - [3590-A00 IBM TotalStorage Enterprise Tape Controller Model A00](#3590-a00-ibm-totalstorage-enterprise-tape-controller-model-a00)
 - [3590-A14 IBM TotalStorage Enterprise Tape Drive Frame Model A14](#3590-a14-ibm-totalstorage-enterprise-tape-drive-frame-model-a14)
-- [3590-A50 IBM TotalStorage Enterprise Tape Controller Model A50](#3590-a50-ibm-totalstorage-enterprise-tape-controller-model-a50)
 - [3590-B11 IBM TotalStorage Enterprise Tape Drive Model B11](#3590-b11-ibm-totalstorage-enterprise-tape-drive-model-b11)
-- [3590-B1A IBM TotalStorage Enterprise Tape Drive Model B1A](#3590-b1a-ibm-totalstorage-enterprise-tape-drive-model-b1a)
 - [3590-C10 IBM TotalStorage Silo Compatible Tape Controller Model C10](#3590-c10-ibm-totalstorage-silo-compatible-tape-controller-model-c10)
-- [3590-C12 IBM TotalStorage Silo Compatible Tape Drive Frame Model C12](#3590-c12-ibm-totalstorage-silo-compatible-tape-drive-frame-model-c12)
-- [3590-C14 IBM TotalStorage Silo Compatible Tape Drive Frame Model C14](#3590-c14-ibm-totalstorage-silo-compatible-tape-drive-frame-model-c14)
-- [3590-E11 IBM TotalStorage Enterprise Tape Drive Model E11](#3590-e11-ibm-totalstorage-enterprise-tape-drive-model-e11)
-- [3590-E1A IBM TotalStorage Enterprise Tape Drive Model E1A](#3590-e1a-ibm-totalstorage-enterprise-tape-drive-model-e1a)
-- [3590-H1A IBM TotalStorage Enterprise Tape Drive Model H1A](#3590-h1a-ibm-totalstorage-enterprise-tape-drive-model-h1a)
 - [Family 3592+01 IBM System Storage TS1120 Tape Controller Model C06](#family-359201-ibm-system-storage-ts1120-tape-controller-model-c06)
 - [Family 3592+02 IBM TotalStorage Silo Compatible Tape Drive Frame Mod. C20](#family-359202-ibm-totalstorage-silo-compatible-tape-drive-frame-mod-c20)
 - [Family 3592+03 IBM System Storage TS1120 Tape Drive Model E05](#family-359203-ibm-system-storage-ts1120-tape-drive-model-e05)
@@ -76,11 +69,9 @@ content update: 2024-06-19 00:32:57.37548107 +0800 CST
 - [Family 3592+08 IBM System Storage Tape Controller Mod C07 System z AAS](#family-359208-ibm-system-storage-tape-controller-mod-c07-system-z-aas)
 - [Family 3592+09 IBM TS1140 Tape Drive Model EH7](#family-359209-ibm-ts1140-tape-drive-model-eh7)
 - [Family 3592+10 IBM TS1150 Tape Drive and HD2 Tape Drive](#family-359210-ibm-ts1150-tape-drive-and-hd2-tape-drive)
-- [Family 3592+11 IBM TS1155 Tape Drive Models 55F and 55E](#family-359211-ibm-ts1155-tape-drive-models-55f-and-55e)
 - [Family 3592+12 IBM TS1155 Tape Drive Model 55G](#family-359212-ibm-ts1155-tape-drive-model-55g)
 - [Family 3592+13 IBM TS1160 Tape Drive Model 60F](#family-359213-ibm-ts1160-tape-drive-model-60f)
 - [Family 3592+14 IBM TS1160 Tape Drive Model 60G](#family-359214-ibm-ts1160-tape-drive-model-60g)
-- [Family 3592+15 IBM TS1160 Tape Drive Model 60E](#family-359215-ibm-ts1160-tape-drive-model-60e)
 - [Family 3592+16 IBM TS1160 Tape Drive Model 60S for IBM TS4500](#family-359216-ibm-ts1160-tape-drive-model-60s-for-ibm-ts4500)
 - [Family 3592+17 IBM TS1170 Tape Drive models 70F and 70S](#family-359217-ibm-ts1170-tape-drive-models-70f-and-70s)
 - [7205-311 IBM 35GB External Digital Linear Tape Drive Model 311](#7205-311-ibm-35gb-external-digital-linear-tape-drive-model-311)
@@ -1285,29 +1276,6 @@ content update: 2024-06-19 00:32:57.37548107 +0800 CST
 
 
 
-### 3590-A50 IBM TotalStorage Enterprise Tape Controller Model A50
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-controller-model-a50](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-controller-model-a50?region=AP)
-
-📅 2017-09-19
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3590-A50 | 1997-10-06 | 1997-10-31 | 2000-09-29 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 3590-B11 IBM TotalStorage Enterprise Tape Drive Model B11
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-drive-model-b11](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-drive-model-b11?region=AP)
@@ -1331,29 +1299,6 @@ content update: 2024-06-19 00:32:57.37548107 +0800 CST
 
 
 
-### 3590-B1A IBM TotalStorage Enterprise Tape Drive Model B1A
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-drive-model-b1a](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-drive-model-b1a?region=AP)
-
-📅 2013-09-24
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3590-B1A | 1995-04-10 | 1995-09-29 | 2004-12-31 | 2014-06-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 3590-C10 IBM TotalStorage Silo Compatible Tape Controller Model C10
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-silo-compatible-tape-controller-model-c10](https://www.ibm.com/docs/en/announcements/totalstorage-silo-compatible-tape-controller-model-c10?region=AP)
@@ -1363,121 +1308,6 @@ content update: 2024-06-19 00:32:57.37548107 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3590-C10 | 1999-07-27 | 1999-08-27 | 2006-06-16 | 2016-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3590-C12 IBM TotalStorage Silo Compatible Tape Drive Frame Model C12
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-silo-compatible-tape-drive-frame-model-c12](https://www.ibm.com/docs/en/announcements/totalstorage-silo-compatible-tape-drive-frame-model-c12?region=AP)
-
-📅 2013-07-02
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3590-C12 | 1996-09-10 | 1996-09-27 | 2006-06-16 | 2013-12-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3590-C14 IBM TotalStorage Silo Compatible Tape Drive Frame Model C14
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-silo-compatible-tape-drive-frame-model-c14](https://www.ibm.com/docs/en/announcements/totalstorage-silo-compatible-tape-drive-frame-model-c14?region=AP)
-
-📅 2013-07-02
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3590-C14 | 1997-06-03 | 1997-06-13 | 2001-12-28 | 2013-12-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3590-E11 IBM TotalStorage Enterprise Tape Drive Model E11
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-drive-model-e11](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-drive-model-e11?region=AP)
-
-📅 2014-07-16
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3590-E11 | 1999-04-20 | 1999-05-14 | 2006-09-29 | 2015-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3590-E1A IBM TotalStorage Enterprise Tape Drive Model E1A
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-drive-model-e1a](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-drive-model-e1a?region=AP)
-
-📅 2014-07-16
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3590-E1A | 1999-04-20 | 1999-05-14 | 2006-09-29 | 2015-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3590-H1A IBM TotalStorage Enterprise Tape Drive Model H1A
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-drive-model-h1a](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-drive-model-h1a?region=AP)
-
-📅 2021-10-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3590-H1A | 2002-06-25 | 2002-07-26 | 2006-09-29 | 2015-01-31 |
 
 
 
@@ -1723,30 +1553,6 @@ content update: 2024-06-19 00:32:57.37548107 +0800 CST
 
 
 
-### Family 3592+11 IBM TS1155 Tape Drive Models 55F and 55E
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts1155-tape-drive-models-55f-55e](https://www.ibm.com/docs/en/announcements/ts1155-tape-drive-models-55f-55e?region=AP)
-
-📅 2022-07-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3592-55E | 2017-05-09 | 2017-07-28 | 2019-12-07 | 2023-12-31 |
-| 3592-55F | 2017-05-09 | 2017-06-02 | 2019-12-07 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 3592+12 IBM TS1155 Tape Drive Model 55G
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts1155-tape-drive-model-55g](https://www.ibm.com/docs/en/announcements/ts1155-tape-drive-model-55g?region=AP)
@@ -1802,29 +1608,6 @@ content update: 2024-06-19 00:32:57.37548107 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3592-60G | 2018-11-20 | 2018-12-07 | 2023-06-30 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3592+15 IBM TS1160 Tape Drive Model 60E
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts1160-tape-drive-model-60e](https://www.ibm.com/docs/en/announcements/ts1160-tape-drive-model-60e?region=AP)
-
-📅 2021-10-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3592-60E | 2019-10-08 | 2019-10-18 | 2021-12-31 | - |
 
 
 

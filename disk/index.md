@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-06-19 00:32:57.37548107 +0800 CST
+content update: 2024-06-20 00:31:41.542120579 +0800 CST
 
 ---
 
@@ -20,18 +20,14 @@ content update: 2024-06-19 00:32:57.37548107 +0800 CST
 - [Family 1747+02 IBM System Storage EXP2500 Express Storage Enclosures (AAS / WTAAS)](#family-174702-ibm-system-storage-exp2500-express-storage-enclosures-aas-wtaas)
 - [Family 1750+01 IBM TotalStorage DS6800 and DS6000 Expansion Enclosure](#family-175001-ibm-totalstorage-ds6800-and-ds6000-expansion-enclosure)
 - [Family 1750+02 IBM System Storage DS6800 and DS6000](#family-175002-ibm-system-storage-ds6800-and-ds6000)
-- [Family 1812+01 IBM System Storage DS4000 EXP810 Storage Expansion Unit](#family-181201-ibm-system-storage-ds4000-exp810-storage-expansion-unit)
 - [Family 1812+02 IBM System Storage DS4000 EXP420 Storage Expansion Unit](#family-181202-ibm-system-storage-ds4000-exp420-storage-expansion-unit)
 - [Family 1812+03 IBM System Storage DS4000 EXP810 Expansion Unit Model 81S](#family-181203-ibm-system-storage-ds4000-exp810-expansion-unit-model-81s)
 - [Family 1813+02 IBM System Storage DCS3860 (AAS)](#family-181302-ibm-system-storage-dcs3860-aas)
-- [Family 1813+03 IBM System Storage DCS3860 Controller 96C](#family-181303-ibm-system-storage-dcs3860-controller-96c)
 - [Family 1814+01 IBM System Storage DS4700 Express Models](#family-181401-ibm-system-storage-ds4700-express-models)
 - [Family 1814+02 IBM System Storage DS4200 Express Model 7V](#family-181402-ibm-system-storage-ds4200-express-model-7v)
 - [Family 1814+03 IBM System Storage DS4700 Express Models 70-DC and 72-DC](#family-181403-ibm-system-storage-ds4700-express-models-70-dc-and-72-dc)
-- [Family 1814+04 IBM System Storage DS5020 Midrange Disk EXP520 Expansion Unit](#family-181404-ibm-system-storage-ds5020-midrange-disk-exp520-expansion-unit)
 - [Family 1815+01 IBM TotalStorage DS4800 Midrange Disk System](#family-181501-ibm-totalstorage-ds4800-midrange-disk-system)
 - [Family 1815+02 IBM TotalStorage DS4800 Model 88 Midrange Disk System](#family-181502-ibm-totalstorage-ds4800-model-88-midrange-disk-system)
-- [Family 1815+03 IBM System Storage DS4800 Model 80 Midrange Disk System](#family-181503-ibm-system-storage-ds4800-model-80-midrange-disk-system)
 - [Family 1818+01 IBM System Storage DS5000 Series Midrange Disk System](#family-181801-ibm-system-storage-ds5000-series-midrange-disk-system)
 - [Family 1818+02 IBM System Storage DS Remote Support Manager for Storage](#family-181802-ibm-system-storage-ds-remote-support-manager-for-storage)
 - [Family 1818+03 IBM System Storage DS Remote Support Manager for Storage](#family-181803-ibm-system-storage-ds-remote-support-manager-for-storage)
@@ -71,7 +67,6 @@ content update: 2024-06-19 00:32:57.37548107 +0800 CST
 - [2105-800 IBM TotalStorage Enterprise Storage Server Model 800](#2105-800-ibm-totalstorage-enterprise-storage-server-model-800)
 - [2105-B09 IBM Versatile Storage Server Model B09](#2105-b09-ibm-versatile-storage-server-model-b09)
 - [2105-E10 IBM Enterprise Storage Server Model E10](#2105-e10-ibm-enterprise-storage-server-model-e10)
-- [2105-E20 IBM Enterprise Storage Server Model E20](#2105-e20-ibm-enterprise-storage-server-model-e20)
 - [2105-F10 IBM Enterprise Storage Server Model F10](#2105-f10-ibm-enterprise-storage-server-model-f10)
 - [2105-F20 IBM Enterprise Storage Server Model F20](#2105-f20-ibm-enterprise-storage-server-model-f20)
 - [2106-200 IBM MSS Controller Enclosure Model 200](#2106-200-ibm-mss-controller-enclosure-model-200)
@@ -81,7 +76,6 @@ content update: 2024-06-19 00:32:57.37548107 +0800 CST
 - [2106-D24 IBM MSS 14 Dual Bus Disk Drive Enclosure Model D24](#2106-d24-ibm-mss-14-dual-bus-disk-drive-enclosure-model-d24)
 - [Family 2107+02 IBM System Storage DS8000 Series Disk Storage Model 9A2](#family-210702-ibm-system-storage-ds8000-series-disk-storage-model-9a2)
 - [Family 2107+04 IBM System Storage DS8000 Series Disk Storage Model 921](#family-210704-ibm-system-storage-ds8000-series-disk-storage-model-921)
-- [Family 2107+05 IBM System Storage DS8000 Series Disk Storage Model 922](#family-210705-ibm-system-storage-ds8000-series-disk-storage-model-922)
 - [Family 2421+01 IBM System Storage DS8000 2421 1-Year Warranty](#family-242101-ibm-system-storage-ds8000-2421-1-year-warranty)
 - [Family 2421+02 IBM System Storage DS8700 Models 941 and 94E](#family-242102-ibm-system-storage-ds8700-models-941-and-94e)
 - [Family 2421+03 IBM System Storage DS8800 Model 951 and Model 95E](#family-242103-ibm-system-storage-ds8800-model-951-and-model-95e)
@@ -239,7 +233,6 @@ content update: 2024-06-19 00:32:57.37548107 +0800 CST
 - [9393-X83 IBM RAMAC Virtual Array Turbo Model X83](#9393-x83-ibm-ramac-virtual-array-turbo-model-x83)
 - [9394-001 IBM RAMAC 2 Array Subsystem Model 001](#9394-001-ibm-ramac-2-array-subsystem-model-001)
 - [9394-002 IBM RAMAC 2 Array Subsystem Model 002](#9394-002-ibm-ramac-2-array-subsystem-model-002)
-- [9394-003 IBM RAMAC 2 Array Subsystem Model 003](#9394-003-ibm-ramac-2-array-subsystem-model-003)
 - [9395-B13 IBM RAMAC 2 Array Subsystem Model B13](#9395-b13-ibm-ramac-2-array-subsystem-model-b13)
 - [9395-B23 IBM RAMAC 2 Array Subsystem Model B23](#9395-b23-ibm-ramac-2-array-subsystem-model-b23)
 
@@ -552,29 +545,6 @@ content update: 2024-06-19 00:32:57.37548107 +0800 CST
 
 
 
-### Family 1812+01 IBM System Storage DS4000 EXP810 Storage Expansion Unit
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds4000-exp810-storage-expansion-unit](https://www.ibm.com/docs/en/announcements/system-storage-ds4000-exp810-storage-expansion-unit?region=AP)
-
-📅 2018-07-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1812-81A | 2006-02-28 | 2006-03-07 | 2012-12-15 | 2018-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 1812+02 IBM System Storage DS4000 EXP420 Storage Expansion Unit
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds4000-exp420-storage-expansion-unit](https://www.ibm.com/docs/en/announcements/system-storage-ds4000-exp420-storage-expansion-unit?region=AP)
@@ -631,29 +601,6 @@ content update: 2024-06-19 00:32:57.37548107 +0800 CST
 | --- | --- | --- | --- | --- |
 | 1813-80E | 2014-11-11 | 2014-11-21 | 2018-02-17 | 2022-12-31 |
 | 1813-86C | 2014-11-11 | 2014-11-21 | 2015-06-06 | 2019-06-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 1813+03 IBM System Storage DCS3860 Controller 96C
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-dcs3860-controller-96c](https://www.ibm.com/docs/en/announcements/system-storage-dcs3860-controller-96c?region=AP)
-
-📅 2021-07-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1813-96C | 2015-04-28 | 2015-06-05 | 2017-09-09 | 2022-12-31 |
 
 
 
@@ -739,30 +686,6 @@ content update: 2024-06-19 00:32:57.37548107 +0800 CST
 
 
 
-### Family 1814+04 IBM System Storage DS5020 Midrange Disk EXP520 Expansion Unit
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds5020-midrange-disk-exp520-expansion-unit](https://www.ibm.com/docs/en/announcements/system-storage-ds5020-midrange-disk-exp520-expansion-unit?region=AP)
-
-📅 2018-07-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1814-20A | 2009-08-25 | 2009-09-04 | 2014-01-11 | 2018-01-31 |
-| 1814-52A | 2009-08-25 | 2009-09-04 | 2014-03-22 | 2018-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 1815+01 IBM TotalStorage DS4800 Midrange Disk System
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4800-midrange-disk-system](https://www.ibm.com/docs/en/announcements/totalstorage-ds4800-midrange-disk-system?region=AP)
@@ -796,29 +719,6 @@ content update: 2024-06-19 00:32:57.37548107 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 1815-88A | 2005-08-30 | 2005-09-09 | 2009-03-31 | 2017-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 1815+03 IBM System Storage DS4800 Model 80 Midrange Disk System
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds4800-model-80-midrange-disk-system](https://www.ibm.com/docs/en/announcements/system-storage-ds4800-model-80-midrange-disk-system?region=AP)
-
-📅 2016-07-19
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1815-80A | 2006-05-23 | 2006-06-09 | 2009-12-31 | 2017-01-31 |
 
 
 
@@ -1209,7 +1109,7 @@ content update: 2024-06-19 00:32:57.37548107 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7200-2023-09-12](https://www.ibm.com/docs/en/announcements/flashsystem-7200-2023-09-12?region=AP)
 
-📅 2024-04-23
+📅 2024-06-11
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -1798,29 +1698,6 @@ content update: 2024-06-19 00:32:57.37548107 +0800 CST
 
 
 
-### 2105-E20 IBM Enterprise Storage Server Model E20
-
-🔗 [https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-e20](https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-e20?region=AP)
-
-📅 2009-06-25
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2105-E20 | 1999-07-27 | 1999-09-24 | 2000-09-29 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 2105-F10 IBM Enterprise Storage Server Model F10
 
 🔗 [https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-f10](https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-f10?region=AP)
@@ -2014,29 +1891,6 @@ content update: 2024-06-19 00:32:57.37548107 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2107-921 | 2004-10-12 | 2004-12-03 | 2006-10-20 | 2016-03-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2107+05 IBM System Storage DS8000 Series Disk Storage Model 922
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds8000-series-disk-storage-model-922](https://www.ibm.com/docs/en/announcements/system-storage-ds8000-series-disk-storage-model-922?region=AP)
-
-📅 2016-06-28
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2107-922 | 2004-10-12 | 2004-12-03 | 2006-10-20 | 2016-03-31 |
 
 
 
@@ -5707,29 +5561,6 @@ content update: 2024-06-19 00:32:57.37548107 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9394-002 | 1994-06-21 | 1994-09-30 | 1998-07-28 | 2010-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9394-003 IBM RAMAC 2 Array Subsystem Model 003
-
-🔗 [https://www.ibm.com/docs/en/announcements/ramac-2-array-subsystem-model-003](https://www.ibm.com/docs/en/announcements/ramac-2-array-subsystem-model-003?region=AP)
-
-📅 2008-07-16
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9394-003 | 1994-06-21 | 1994-09-30 | 1998-07-28 | - |
 
 
 
