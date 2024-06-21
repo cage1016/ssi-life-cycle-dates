@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2024-06-21 00:31:19.917343866 +0800 CST
+content update: 2024-06-22 00:30:28.510127552 +0800 CST
 
 ---
 
@@ -8,6 +8,7 @@ content update: 2024-06-21 00:31:19.917343866 +0800 CST
 
 
 - [](#)
+- [3494-L10 IBM TotalStorage Enterprise Tape Library Base Frame Model L10](#3494-l10-ibm-totalstorage-enterprise-tape-library-base-frame-model-l10)
 - [3494-L12 IBM TotalStorage Enterprise Tape Library Base Frame Model L12](#3494-l12-ibm-totalstorage-enterprise-tape-library-base-frame-model-l12)
 - [3494-L14 IBM TotalStorage Enterprise Tape Library Base Frame Model L14](#3494-l14-ibm-totalstorage-enterprise-tape-library-base-frame-model-l14)
 - [3494-L22 IBM TotalStorage Enterprise Tape Library Base Frame Model L22](#3494-l22-ibm-totalstorage-enterprise-tape-library-base-frame-model-l22)
@@ -58,6 +59,29 @@ content update: 2024-06-21 00:31:19.917343866 +0800 CST
 
 📅 
 
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3494-L10 IBM TotalStorage Enterprise Tape Library Base Frame Model L10
+
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-library-base-frame-model-l10](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-library-base-frame-model-l10?region=AP)
+
+📅 2015-06-23
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3494-L10 | 1993-09-07 | 1993-12-17 | 2002-12-27 | 2017-01-31 |
 
 
 
