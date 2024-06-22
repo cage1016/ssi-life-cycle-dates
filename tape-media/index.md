@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2024-06-22 00:30:28.510127552 +0800 CST
+content update: 2024-06-23 00:31:53.042679498 +0800 CST
 
 ---
 
@@ -39,6 +39,7 @@ content update: 2024-06-22 00:30:28.510127552 +0800 CST
 - [3599-008 IBM 3590 Cartridge Magazine Model 008](#3599-008-ibm-3590-cartridge-magazine-model-008)
 - [3599-011 IBM 3592 Enterprise Tape Cartridge with Labeling,Init Model 011](#3599-011-ibm-3592-enterprise-tape-cartridge-with-labeling-init-model-011)
 - [3599-012 IBM 3592 Enterprise Tape Cartridge with Labeling Model 012](#3599-012-ibm-3592-enterprise-tape-cartridge-with-labeling-model-012)
+- [3599-013 IBM 3592 Enterprise Tape Cartridge Model 013](#3599-013-ibm-3592-enterprise-tape-cartridge-model-013)
 - [3599-014 IBM 3592 Ext Tape Cart with Labeling and Init Model 014](#3599-014-ibm-3592-ext-tape-cart-with-labeling-and-init-model-014)
 - [3599-015 IBM 3592 Extended Tape Cart with Labeling Model 015](#3599-015-ibm-3592-extended-tape-cart-with-labeling-model-015)
 - [3599-016 IBM 3592 Extended Tape Cart Model 016](#3599-016-ibm-3592-extended-tape-cart-model-016)
@@ -807,6 +808,29 @@ content update: 2024-06-22 00:30:28.510127552 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3599-012 | 2003-09-09 | 2003-10-31 | 2011-11-25 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3599-013 IBM 3592 Enterprise Tape Cartridge Model 013
+
+🔗 [https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-cartridge-model-013](https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-cartridge-model-013?region=AP)
+
+📅 2023-11-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3599-013 | 2003-09-09 | 2003-10-31 | 2011-11-25 | - |
 
 
 

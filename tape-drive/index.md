@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2024-06-22 00:30:28.510127552 +0800 CST
+content update: 2024-06-23 00:31:53.042679498 +0800 CST
 
 ---
 
@@ -47,7 +47,9 @@ content update: 2024-06-22 00:30:28.510127552 +0800 CST
 - [Family 3588+02 IBM System Storage TS1030 Tape Drive Model F3B](#family-358802-ibm-system-storage-ts1030-tape-drive-model-f3b)
 - [Family 3588+03 IBM System Storage TS1040 Tape Drive Model F4A](#family-358803-ibm-system-storage-ts1040-tape-drive-model-f4a)
 - [Family 3588+04 IBM System Storage TS1050 Tape Drive Model F5A](#family-358804-ibm-system-storage-ts1050-tape-drive-model-f5a)
+- [Family 3588+05 IBM System Storage TS1060 Tape Drive Model F6A](#family-358805-ibm-system-storage-ts1060-tape-drive-model-f6a)
 - [Family 3588+06 IBM TS1050 and TS1060 Tape Drive Models F5C,F6C](#family-358806-ibm-ts1050-and-ts1060-tape-drive-models-f5c-f6c)
+- [Family 3588+07 IBM TS1070 Tape Drive Model F7C](#family-358807-ibm-ts1070-tape-drive-model-f7c)
 - [Family 3588+08 IBM TS1070 Tape Drive Model F7A](#family-358808-ibm-ts1070-tape-drive-model-f7a)
 - [Family 3588+09 IBM TS1080 Tape Drive Model F8A](#family-358809-ibm-ts1080-tape-drive-model-f8a)
 - [Family 3588+10 IBM TS1080 Tape Drive Model F8C](#family-358810-ibm-ts1080-tape-drive-model-f8c)
@@ -109,6 +111,7 @@ content update: 2024-06-22 00:30:28.510127552 +0800 CST
 - [Family 7226+01 IBM System Storage 7226 Model 1U3 Multi-Media Enclosure](#family-722601-ibm-system-storage-7226-model-1u3-multi-media-enclosure)
 - [7329-308 IBM SLR100 Tape Autoloader Model 308](#7329-308-ibm-slr100-tape-autoloader-model-308)
 - [7332-005 IBM 4MM DDS-2 Tape Autoloader Model 005](#7332-005-ibm-4mm-dds-2-tape-autoloader-model-005)
+- [7332-110 IBM 4mm DDS-3 Tape Cartridge Autoloader Model 110](#7332-110-ibm-4mm-dds-3-tape-cartridge-autoloader-model-110)
 - [7332-220 IBM 4mm DDS-4 Tape Cartridge Autoloader Model 220](#7332-220-ibm-4mm-dds-4-tape-cartridge-autoloader-model-220)
 - [7336-205 IBM 4-mm Tape Library Model 205](#7336-205-ibm-4-mm-tape-library-model-205)
 - [7337-305 IBM Digital Linear Tape Library Model 305](#7337-305-ibm-digital-linear-tape-library-model-305)
@@ -1049,6 +1052,29 @@ content update: 2024-06-22 00:30:28.510127552 +0800 CST
 
 
 
+### Family 3588+05 IBM System Storage TS1060 Tape Drive Model F6A
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts1060-tape-drive-model-f6a](https://www.ibm.com/docs/en/announcements/system-storage-ts1060-tape-drive-model-f6a?region=AP)
+
+📅 2021-05-25
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3588-F6A | 2012-10-03 | 2012-11-09 | 2021-08-30 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 3588+06 IBM TS1050 and TS1060 Tape Drive Models F5C,F6C
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts1050-ts1060-tape-drive-models-f5cf6c](https://www.ibm.com/docs/en/announcements/ts1050-ts1060-tape-drive-models-f5cf6c?region=AP)
@@ -1059,6 +1085,29 @@ content update: 2024-06-22 00:30:28.510127552 +0800 CST
 | --- | --- | --- | --- | --- |
 | 3588-F5C | 2014-05-19 | 2014-06-13 | 2018-03-17 | 2024-12-31 |
 | 3588-F6C | 2014-05-19 | 2014-06-13 | 2021-08-30 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 3588+07 IBM TS1070 Tape Drive Model F7C
+
+🔗 [https://www.ibm.com/docs/en/announcements/ts1070-tape-drive-model-f7c](https://www.ibm.com/docs/en/announcements/ts1070-tape-drive-model-f7c?region=AP)
+
+📅 2023-11-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3588-F7C | 2015-10-06 | 2015-11-20 | 2023-12-31 | - |
 
 
 
@@ -2452,6 +2501,29 @@ content update: 2024-06-22 00:30:28.510127552 +0800 CST
 
 📅 2002-06-04
 
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7332-110 IBM 4mm DDS-3 Tape Cartridge Autoloader Model 110
+
+🔗 [https://www.ibm.com/docs/en/announcements/4mm-dds-3-tape-cartridge-autoloader-model-110](https://www.ibm.com/docs/en/announcements/4mm-dds-3-tape-cartridge-autoloader-model-110?region=AP)
+
+📅 2013-09-24
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7332-110 | 1998-04-21 | 1998-06-12 | 2002-11-15 | 2002-12-31 |
 
 
 
