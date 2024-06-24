@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-06-24 00:31:56.743501425 +0800 CST
+content update: 2024-06-25 00:31:49.614458572 +0800 CST
 
 ---
 
@@ -79,12 +79,9 @@ content update: 2024-06-24 00:31:56.743501425 +0800 CST
 - [2106-D14 IBM MSS 14 Bay Single Bus Disk Drive Model D14](#2106-d14-ibm-mss-14-bay-single-bus-disk-drive-model-d14)
 - [2106-D20 IBM MSS 10 Bay Dual Bus Disk Drive Model D20](#2106-d20-ibm-mss-10-bay-dual-bus-disk-drive-model-d20)
 - [2106-D24 IBM MSS 14 Dual Bus Disk Drive Enclosure Model D24](#2106-d24-ibm-mss-14-dual-bus-disk-drive-enclosure-model-d24)
-- [Family 2107+02 IBM System Storage DS8000 Series Disk Storage Model 9A2](#family-210702-ibm-system-storage-ds8000-series-disk-storage-model-9a2)
 - [Family 2107+04 IBM System Storage DS8000 Series Disk Storage Model 921](#family-210704-ibm-system-storage-ds8000-series-disk-storage-model-921)
 - [Family 2107+05 IBM System Storage DS8000 Series Disk Storage Model 922](#family-210705-ibm-system-storage-ds8000-series-disk-storage-model-922)
 - [Family 2421+01 IBM System Storage DS8000 2421 1-Year Warranty](#family-242101-ibm-system-storage-ds8000-2421-1-year-warranty)
-- [Family 2421+02 IBM System Storage DS8700 Models 941 and 94E](#family-242102-ibm-system-storage-ds8700-models-941-and-94e)
-- [Family 2421+03 IBM System Storage DS8800 Model 951 and Model 95E](#family-242103-ibm-system-storage-ds8800-model-951-and-model-95e)
 - [Family 2421+04 IBM DS8870 Models 961 and 96E](#family-242104-ibm-ds8870-models-961-and-96e)
 - [Family 2422+02 IBM System Storage DS8700 Models 941 and 94E](#family-242202-ibm-system-storage-ds8700-models-941-and-94e)
 - [Family 2422+03 IBM System Storage DS8800 Model 951 and Model 95E](#family-242203-ibm-system-storage-ds8800-model-951-and-model-95e)
@@ -118,7 +115,6 @@ content update: 2024-06-24 00:31:56.743501425 +0800 CST
 - [3390-A24 IBM Direct Access Storage Device (DASD) Model A24](#3390-a24-ibm-direct-access-storage-device-dasd-model-a24)
 - [3390-A28 IBM Direct Access Storage Device (DASD) Model A28](#3390-a28-ibm-direct-access-storage-device-dasd-model-a28)
 - [3390-A34 IBM Direct Access Storage Device (DASD) Model A34](#3390-a34-ibm-direct-access-storage-device-dasd-model-a34)
-- [3390-A38 IBM Direct Access Storage Device (DASD) Model A38](#3390-a38-ibm-direct-access-storage-device-dasd-model-a38)
 - [3390-A94 IBM Direct Access Storage Device (DASD) Model A94](#3390-a94-ibm-direct-access-storage-device-dasd-model-a94)
 - [3390-A98 IBM Direct Access Storage Device (DASD) Model A98](#3390-a98-ibm-direct-access-storage-device-dasd-model-a98)
 - [3390-B14 IBM Direct Access Storage Device (DASD) Model B14](#3390-b14-ibm-direct-access-storage-device-dasd-model-b14)
@@ -140,7 +136,6 @@ content update: 2024-06-24 00:31:56.743501425 +0800 CST
 - [3990-006 IBM Storage Control Model 006](#3990-006-ibm-storage-control-model-006)
 - [Family 4939+01 IBM Flex System V7000 Storage Node Hardware - AAS](#family-493901-ibm-flex-system-v7000-storage-node-hardware-aas)
 - [Family 5331+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533101-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
-- [Family 5331+02 IBM DS8882F Model 983](#family-533102-ibm-ds8882f-model-983)
 - [Family 5331+03 IBM DS8900F Models 993, 994, 996, and E96](#family-533103-ibm-ds8900f-models-993-994-996-and-e96)
 - [Family 5331+04 IBM DS8900F Model 998](#family-533104-ibm-ds8900f-model-998)
 - [Family 5332+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533201-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
@@ -1982,29 +1977,6 @@ content update: 2024-06-24 00:31:56.743501425 +0800 CST
 
 
 
-### Family 2107+02 IBM System Storage DS8000 Series Disk Storage Model 9A2
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds8000-series-disk-storage-model-9a2](https://www.ibm.com/docs/en/announcements/system-storage-ds8000-series-disk-storage-model-9a2?region=AP)
-
-📅 2016-06-28
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2107-9A2 | 2004-10-12 | 2004-12-03 | 2006-10-20 | 2016-03-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 2107+04 IBM System Storage DS8000 Series Disk Storage Model 921
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds8000-series-disk-storage-model-921](https://www.ibm.com/docs/en/announcements/system-storage-ds8000-series-disk-storage-model-921?region=AP)
@@ -2064,54 +2036,6 @@ content update: 2024-06-24 00:31:56.743501425 +0800 CST
 | 2421-92E | 2006-10-31 | 2006-11-17 | 2012-09-28 | 2016-03-31 |
 | 2421-931 | 2006-10-31 | 2006-11-17 | 2010-09-30 | 2016-03-31 |
 | 2421-932 | 2006-10-31 | 2006-11-17 | 2010-09-30 | 2016-03-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2421+02 IBM System Storage DS8700 Models 941 and 94E
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds8700-models-941-94e](https://www.ibm.com/docs/en/announcements/system-storage-ds8700-models-941-94e?region=AP)
-
-📅 2017-05-30
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2421-94E | 2009-10-20 | 2009-10-23 | 2014-10-01 | 2017-12-31 |
-| 2421-941 | 2009-10-20 | 2009-10-23 | 2012-10-01 | 2017-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2421+03 IBM System Storage DS8800 Model 951 and Model 95E
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds8800-model-951-model-95e](https://www.ibm.com/docs/en/announcements/system-storage-ds8800-model-951-model-95e?region=AP)
-
-📅 2018-02-20
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2421-95E | 2010-10-07 | 2010-10-22 | 2015-09-16 | 2019-03-31 |
-| 2421-951 | 2010-10-07 | 2010-10-22 | 2013-05-03 | 2019-03-31 |
 
 
 
@@ -2929,29 +2853,6 @@ content update: 2024-06-24 00:31:56.743501425 +0800 CST
 
 
 
-### 3390-A38 IBM Direct Access Storage Device (DASD) Model A38
-
-🔗 [https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-a38](https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-a38?region=AP)
-
-📅 2008-03-07
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3390-A38 | 1991-09-11 | 1991-09-27 | 1996-04-26 | 2008-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 3390-A94 IBM Direct Access Storage Device (DASD) Model A94
 
 🔗 [https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-a94](https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-a94?region=AP)
@@ -3426,29 +3327,6 @@ content update: 2024-06-24 00:31:56.743501425 +0800 CST
 | 5331-985 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
 | 5331-986 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
 | 5331-988 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 5331+02 IBM DS8882F Model 983
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8882f-model-983](https://www.ibm.com/docs/en/announcements/ds8882f-model-983?region=AP)
-
-📅 2023-01-31
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5331-983 | 2018-08-21 | 2018-09-07 | 2020-06-30 | 2024-06-30 |
 
 
 
