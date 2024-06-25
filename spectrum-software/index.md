@@ -1,6 +1,6 @@
 # Spectrum Software
 
-content update: 2024-06-25 00:31:49.614458572 +0800 CST
+content update: 2024-06-26 00:31:01.864817215 +0800 CST
 
 ---
 
@@ -96,7 +96,7 @@ content update: 2024-06-25 00:31:49.614458572 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-virtualize-software-san-volume-controller-86](https://www.ibm.com/docs/en/announcements/storage-virtualize-software-san-volume-controller-86?region=AP)
 
-📅 2020-02-11
+📅 2024-06-04
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
