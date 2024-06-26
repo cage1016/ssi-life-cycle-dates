@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2024-06-26 00:31:01.864817215 +0800 CST
+content update: 2024-06-27 00:31:25.725515612 +0800 CST
 
 ---
 
@@ -8,7 +8,9 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 
 
 - [](#)
+- [Family 2421+05 IBM Storage Appliance Model AP1](#family-242105-ibm-storage-appliance-model-ap1)
 - [3450-001 IBM 1.2GB 1/4-Inch Cartridge Tape Drive Model 001](#3450-001-ibm-12gb-1-4-inch-cartridge-tape-drive-model-001)
+- [3480-A11 IBM Magnetic Tape Subsystem Model A11](#3480-a11-ibm-magnetic-tape-subsystem-model-a11)
 - [3480-A22 IBM Magnetic Tape Subsystem Model A22](#3480-a22-ibm-magnetic-tape-subsystem-model-a22)
 - [3490-A20 IBM Magnetic Tape Subsystem Model A20](#3490-a20-ibm-magnetic-tape-subsystem-model-a20)
 - [3490-C11 IBM Magnetic Tape Subsystem Model C11](#3490-c11-ibm-magnetic-tape-subsystem-model-c11)
@@ -70,7 +72,6 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 - [Family 3592+04 IBM TotalStorage Enterprise Tape Drive Model J1A](#family-359204-ibm-totalstorage-enterprise-tape-drive-model-j1a)
 - [Family 3592+05 IBM TotalStorage Enterprise Tape Controller Model J70](#family-359205-ibm-totalstorage-enterprise-tape-controller-model-j70)
 - [Family 3592+06 IBM System Storage TS1130 Tape Drive Model E06](#family-359206-ibm-system-storage-ts1130-tape-drive-model-e06)
-- [Family 3592+07 IBM System Storage TS1140 Tape Drive Model E07](#family-359207-ibm-system-storage-ts1140-tape-drive-model-e07)
 - [Family 3592+08 IBM System Storage Tape Controller Mod C07 System z AAS](#family-359208-ibm-system-storage-tape-controller-mod-c07-system-z-aas)
 - [Family 3592+09 IBM TS1140 Tape Drive Model EH7](#family-359209-ibm-ts1140-tape-drive-model-eh7)
 - [Family 3592+10 IBM TS1150 Tape Drive and HD2 Tape Drive](#family-359210-ibm-ts1150-tape-drive-and-hd2-tape-drive)
@@ -82,23 +83,15 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 - [Family 3592+16 IBM TS1160 Tape Drive Model 60S for IBM TS4500](#family-359216-ibm-ts1160-tape-drive-model-60s-for-ibm-ts4500)
 - [Family 3592+17 IBM TS1170 Tape Drive models 70F and 70S](#family-359217-ibm-ts1170-tape-drive-models-70f-and-70s)
 - [7205-311 IBM 35GB External Digital Linear Tape Drive Model 311](#7205-311-ibm-35gb-external-digital-linear-tape-drive-model-311)
-- [7205-440 IBM 40 GB External Digital Linear Tape Drive Model 440](#7205-440-ibm-40-gb-external-digital-linear-tape-drive-model-440)
-- [7205-550 IBM 160 GB External Digital Linear Tape Drive Model 550](#7205-550-ibm-160-gb-external-digital-linear-tape-drive-model-550)
-- [7206-110 IBM 12GB External 4mm DDS-3 Tape Drive Model 110](#7206-110-ibm-12gb-external-4mm-dds-3-tape-drive-model-110)
-- [7206-220 IBM External 20 GB 4mm DDS-4 Tape Drive Model 220](#7206-220-ibm-external-20-gb-4mm-dds-4-tape-drive-model-220)
-- [7206-336 IBM External 36 GB DAT72 (DDS Gen5) Tape Drive Model 336](#7206-336-ibm-external-36-gb-dat72-dds-gen5-tape-drive-model-336)
 - [7206-VX2 IBM External Tape Drive Model VX2](#7206-vx2-ibm-external-tape-drive-model-vx2)
-- [7206-VX3 IBM External Tape Drive Model VX3](#7206-vx3-ibm-external-tape-drive-model-vx3)
 - [7207-122 IBM 4 GB External SLR5 QIC Tape Drive Model 122](#7207-122-ibm-4-gb-external-slr5-qic-tape-drive-model-122)
-- [7208-001 IBM External 8mm Tape Drive Model 001](#7208-001-ibm-external-8mm-tape-drive-model-001)
 - [7208-002 IBM External 8mm Tape Drive Model 002](#7208-002-ibm-external-8mm-tape-drive-model-002)
-- [7208-011 IBM External 8mm Tape Drive Model 011](#7208-011-ibm-external-8mm-tape-drive-model-011)
 - [7208-012 IBM External 8mm Tape Drive Model 012](#7208-012-ibm-external-8mm-tape-drive-model-012)
 - [7208-232 IBM External 8mm Tape Subsystem Model 232](#7208-232-ibm-external-8mm-tape-subsystem-model-232)
+- [7208-234 IBM External 8mm Tape Drive Model 234](#7208-234-ibm-external-8mm-tape-drive-model-234)
 - [7208-341 IBM 20GB External 8mm Tape Drive Model 341](#7208-341-ibm-20gb-external-8mm-tape-drive-model-341)
-- [7208-345 IBM 60 GB External 8mm Tape Drive Model 345](#7208-345-ibm-60-gb-external-8mm-tape-drive-model-345)
 - [Family 7212+01 IBM TotalStorage Storage Device Enclosure](#family-721201-ibm-totalstorage-storage-device-enclosure)
-- [Family 7214+01 IBM System Storage Tape/Optical Storage Device Enclosure](#family-721401-ibm-system-storage-tape-optical-storage-device-enclosure)
+- [Family 7212+03 IBM System Storage 7212 Tape & DVD Enclosure Express Model](#family-721203-ibm-system-storage-7212-tape-dvd-enclosure-express-model)
 - [Family 7214+02 IBM System Storage Tape/DVD Device Enclosure Model TT2](#family-721402-ibm-system-storage-tape-dvd-device-enclosure-model-tt2)
 - [Family 7216+01 IBM System Storage 7216 Multi-Media Enclosure](#family-721601-ibm-system-storage-7216-multi-media-enclosure)
 - [Family 7226+01 IBM System Storage 7226 Model 1U3 Multi-Media Enclosure](#family-722601-ibm-system-storage-7226-model-1u3-multi-media-enclosure)
@@ -109,6 +102,9 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 - [7336-205 IBM 4-mm Tape Library Model 205](#7336-205-ibm-4-mm-tape-library-model-205)
 - [7337-305 IBM Digital Linear Tape Library Model 305](#7337-305-ibm-digital-linear-tape-library-model-305)
 - [7337-306 IBM Digital Linear Tape Library Model 306](#7337-306-ibm-digital-linear-tape-library-model-306)
+- [7337-360 IBM DLT8000 Digital Linear Tape Library Model 360](#7337-360-ibm-dlt8000-digital-linear-tape-library-model-360)
+- [9347-001 IBM Magnetic Tape Drive Model 001](#9347-001-ibm-magnetic-tape-drive-model-001)
+- [9348-001 IBM Magnetic Tape Unit Model 001](#9348-001-ibm-magnetic-tape-unit-model-001)
 - [9348-002 IBM Magnetic Tape Unit Model 002](#9348-002-ibm-magnetic-tape-unit-model-002)
 - [9348-011 IBM Magnetic Tape Unit Model 011](#9348-011-ibm-magnetic-tape-unit-model-011)
 - [9348-012 IBM Magnetic Tape Unit Model 012](#9348-012-ibm-magnetic-tape-unit-model-012)
@@ -141,11 +137,54 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 
 
 
+### Family 2421+05 IBM Storage Appliance Model AP1
+
+🔗 [https://www.ibm.com/docs/en/announcements/storage-appliance-model-ap1](https://www.ibm.com/docs/en/announcements/storage-appliance-model-ap1?region=AP)
+
+📅 2020-07-14
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2421-AP1 | 2015-05-11 | 2015-07-17 | 2020-05-26 | 2021-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 3450-001 IBM 1.2GB 1/4-Inch Cartridge Tape Drive Model 001
 
 🔗 [https://www.ibm.com/docs/en/announcements/12gb-14-inch-cartridge-tape-drive-model-001](https://www.ibm.com/docs/en/announcements/12gb-14-inch-cartridge-tape-drive-model-001?region=AP)
 
 📅 2003-06-02
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3480-A11 IBM Magnetic Tape Subsystem Model A11
+
+🔗 [https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-a11](https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-a11?region=AP)
+
+📅 2004-06-07
 
 
 
@@ -1577,29 +1616,6 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 
 
 
-### Family 3592+07 IBM System Storage TS1140 Tape Drive Model E07
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts1140-tape-drive-model-e07](https://www.ibm.com/docs/en/announcements/system-storage-ts1140-tape-drive-model-e07?region=AP)
-
-📅 2023-05-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3592-E07 | 2011-05-09 | 2011-06-03 | 2019-12-07 | 2022-02-28 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 3592+08 IBM System Storage Tape Controller Mod C07 System z AAS
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-tape-controller-mod-c07-system-z-aas](https://www.ibm.com/docs/en/announcements/system-storage-tape-controller-mod-c07-system-z-aas?region=AP)
@@ -1856,121 +1872,6 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 
 
 
-### 7205-440 IBM 40 GB External Digital Linear Tape Drive Model 440
-
-🔗 [https://www.ibm.com/docs/en/announcements/40-gb-external-digital-linear-tape-drive-model-440](https://www.ibm.com/docs/en/announcements/40-gb-external-digital-linear-tape-drive-model-440?region=AP)
-
-📅 2014-07-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7205-440 | 2001-03-13 | 2001-03-30 | 2003-09-26 | 2015-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7205-550 IBM 160 GB External Digital Linear Tape Drive Model 550
-
-🔗 [https://www.ibm.com/docs/en/announcements/160-gb-external-digital-linear-tape-drive-model-550](https://www.ibm.com/docs/en/announcements/160-gb-external-digital-linear-tape-drive-model-550?region=AP)
-
-📅 2014-10-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7205-550 | 2003-02-17 | 2003-03-14 | 2006-06-02 | 2015-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7206-110 IBM 12GB External 4mm DDS-3 Tape Drive Model 110
-
-🔗 [https://www.ibm.com/docs/en/announcements/12gb-external-4mm-dds-3-tape-drive-model-110](https://www.ibm.com/docs/en/announcements/12gb-external-4mm-dds-3-tape-drive-model-110?region=AP)
-
-📅 2008-07-16
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7206-110 | 1998-04-21 | 1998-05-01 | 2002-11-15 | 2008-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7206-220 IBM External 20 GB 4mm DDS-4 Tape Drive Model 220
-
-🔗 [https://www.ibm.com/docs/en/announcements/external-20-gb-4mm-dds-4-tape-drive-model-220](https://www.ibm.com/docs/en/announcements/external-20-gb-4mm-dds-4-tape-drive-model-220?region=AP)
-
-📅 2017-09-19
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7206-220 | 2000-02-08 | 2000-02-25 | 2005-07-29 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7206-336 IBM External 36 GB DAT72 (DDS Gen5) Tape Drive Model 336
-
-🔗 [https://www.ibm.com/docs/en/announcements/external-36-gb-dat72-dds-gen5-tape-drive-model-336](https://www.ibm.com/docs/en/announcements/external-36-gb-dat72-dds-gen5-tape-drive-model-336?region=AP)
-
-📅 2018-07-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7206-336 | 2003-11-11 | 2003-12-05 | 2008-12-19 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 7206-VX2 IBM External Tape Drive Model VX2
 
 🔗 [https://www.ibm.com/docs/en/announcements/external-tape-drive-model-vx2](https://www.ibm.com/docs/en/announcements/external-tape-drive-model-vx2?region=AP)
@@ -1980,29 +1881,6 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7206-VX2 | 2002-07-09 | 2002-08-23 | 2007-12-14 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7206-VX3 IBM External Tape Drive Model VX3
-
-🔗 [https://www.ibm.com/docs/en/announcements/external-tape-drive-model-vx3](https://www.ibm.com/docs/en/announcements/external-tape-drive-model-vx3?region=AP)
-
-📅 2011-06-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7206-VX3 | 2006-04-11 | 2006-05-12 | 2007-12-14 | - |
 
 
 
@@ -2040,58 +1918,12 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 
 
 
-### 7208-001 IBM External 8mm Tape Drive Model 001
-
-🔗 [https://www.ibm.com/docs/en/announcements/external-8mm-tape-drive-model-001](https://www.ibm.com/docs/en/announcements/external-8mm-tape-drive-model-001?region=AP)
-
-📅 2014-07-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7208-001 | 1990-02-01 | 1990-02-01 | 1994-08-24 | 2015-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 7208-002 IBM External 8mm Tape Drive Model 002
 
 🔗 [https://www.ibm.com/docs/en/announcements/external-8mm-tape-drive-model-002](https://www.ibm.com/docs/en/announcements/external-8mm-tape-drive-model-002?region=AP)
 
 📅 1998-02-03
 
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7208-011 IBM External 8mm Tape Drive Model 011
-
-🔗 [https://www.ibm.com/docs/en/announcements/external-8mm-tape-drive-model-011](https://www.ibm.com/docs/en/announcements/external-8mm-tape-drive-model-011?region=AP)
-
-📅 2014-07-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7208-011 | 1992-09-01 | 1992-09-01 | 1998-09-25 | 2015-01-31 |
 
 
 
@@ -2149,15 +1981,12 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 
 
 
-### 7208-341 IBM 20GB External 8mm Tape Drive Model 341
+### 7208-234 IBM External 8mm Tape Drive Model 234
 
-🔗 [https://www.ibm.com/docs/en/announcements/20gb-external-8mm-tape-drive-model-341](https://www.ibm.com/docs/en/announcements/20gb-external-8mm-tape-drive-model-341?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/external-8mm-tape-drive-model-234](https://www.ibm.com/docs/en/announcements/external-8mm-tape-drive-model-234?region=AP)
 
-📅 2014-07-15
+📅 2004-01-30
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7208-341 | 1997-10-06 | 1997-10-17 | 2003-06-27 | 2015-01-31 |
 
 
 
@@ -2172,15 +2001,15 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 
 
 
-### 7208-345 IBM 60 GB External 8mm Tape Drive Model 345
+### 7208-341 IBM 20GB External 8mm Tape Drive Model 341
 
-🔗 [https://www.ibm.com/docs/en/announcements/60-gb-external-8mm-tape-drive-model-345](https://www.ibm.com/docs/en/announcements/60-gb-external-8mm-tape-drive-model-345?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/20gb-external-8mm-tape-drive-model-341](https://www.ibm.com/docs/en/announcements/20gb-external-8mm-tape-drive-model-341?region=AP)
 
 📅 2014-07-15
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 7208-345 | 2000-09-26 | 2000-11-17 | 2005-03-31 | 2015-01-31 |
+| 7208-341 | 1997-10-06 | 1997-10-17 | 2003-06-27 | 2015-01-31 |
 
 
 
@@ -2218,15 +2047,15 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 
 
 
-### Family 7214+01 IBM System Storage Tape/Optical Storage Device Enclosure
+### Family 7212+03 IBM System Storage 7212 Tape & DVD Enclosure Express Model
 
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-tapeoptical-storage-device-enclosure](https://www.ibm.com/docs/en/announcements/system-storage-tapeoptical-storage-device-enclosure?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-7212-tape-dvd-enclosure-express-model](https://www.ibm.com/docs/en/announcements/system-storage-7212-tape-dvd-enclosure-express-model?region=AP)
 
-📅 2021-07-13
+📅 2018-07-10
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 7214-1U2 | 2007-11-06 | 2007-11-30 | 2011-09-16 | 2022-12-31 |
+| 7212-103 | 2006-06-06 | 2006-08-25 | 2010-02-26 | 2015-01-31 |
 
 
 
@@ -2451,6 +2280,75 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7337-306 | 1997-10-06 | 1997-10-17 | 2001-08-31 | 2011-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7337-360 IBM DLT8000 Digital Linear Tape Library Model 360
+
+🔗 [https://www.ibm.com/docs/en/announcements/dlt8000-digital-linear-tape-library-model-360](https://www.ibm.com/docs/en/announcements/dlt8000-digital-linear-tape-library-model-360?region=AP)
+
+📅 2008-03-10
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7337-360 | 2001-03-13 | 2001-03-30 | 2002-06-07 | 2008-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 9347-001 IBM Magnetic Tape Drive Model 001
+
+🔗 [https://www.ibm.com/docs/en/announcements/magnetic-tape-drive-model-001](https://www.ibm.com/docs/en/announcements/magnetic-tape-drive-model-001?region=AP)
+
+📅 2008-03-10
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9347-001 | 1988-01-01 | 1989-02-01 | 1992-07-31 | 2008-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 9348-001 IBM Magnetic Tape Unit Model 001
+
+🔗 [https://www.ibm.com/docs/en/announcements/magnetic-tape-unit-model-001](https://www.ibm.com/docs/en/announcements/magnetic-tape-unit-model-001?region=AP)
+
+📅 2018-07-10
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9348-001 | 1989-10-01 | 1989-10-01 | 1999-02-26 | - |
 
 
 

@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-06-26 00:31:01.864817215 +0800 CST
+content update: 2024-06-27 00:31:25.725515612 +0800 CST
 
 ---
 
@@ -34,6 +34,8 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 - [Family 1815+03 IBM System Storage DS4800 Model 80 Midrange Disk System](#family-181503-ibm-system-storage-ds4800-model-80-midrange-disk-system)
 - [Family 1818+01 IBM System Storage DS5000 Series Midrange Disk System](#family-181801-ibm-system-storage-ds5000-series-midrange-disk-system)
 - [Family 1818+02 IBM System Storage DS Remote Support Manager for Storage](#family-181802-ibm-system-storage-ds-remote-support-manager-for-storage)
+- [Family 1818+03 IBM System Storage DS Remote Support Manager for Storage](#family-181803-ibm-system-storage-ds-remote-support-manager-for-storage)
+- [Family 1818+04 IBM System Storage DS Remote Support Manager for Storage 3](#family-181804-ibm-system-storage-ds-remote-support-manager-for-storage-3)
 - [Family 1818+05 IBM System Storage DCS3700](#family-181805-ibm-system-storage-dcs3700)
 - [Family 1818+06 IBM System Storage DCS3700 Controller 90C](#family-181806-ibm-system-storage-dcs3700-controller-90c)
 - [Family 2071+02 IBM Storwize V3500 Disk System](#family-207102-ibm-storwize-v3500-disk-system)
@@ -50,6 +52,7 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 - [Family 2077+02 IBM Storwize V5000](#family-207702-ibm-storwize-v5000)
 - [Family 2077+03 IBM Storwize V5030F](#family-207703-ibm-storwize-v5030f)
 - [Family 2077+04 IBM Storwize V5100](#family-207704-ibm-storwize-v5100)
+- [Family 2077+05 IBM FlashSystem 5100](#family-207705-ibm-flashsystem-5100)
 - [Family 2078+01 IBM Storwize V5000 Disk System](#family-207801-ibm-storwize-v5000-disk-system)
 - [Family 2078+02 IBM Storwize V5000](#family-207802-ibm-storwize-v5000)
 - [Family 2078+03 IBM Storwize V5030F](#family-207803-ibm-storwize-v5030f)
@@ -60,7 +63,6 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 - [2104-DL1 IBM Expandable Storage Plus Model DL1](#2104-dl1-ibm-expandable-storage-plus-model-dl1)
 - [2104-DS4 IBM TotalStorage Expandable Storage Plus 320 Model DS4](#2104-ds4-ibm-totalstorage-expandable-storage-plus-320-model-ds4)
 - [2104-DU3 IBM Expandable Storage Plus Drawer Model DU3](#2104-du3-ibm-expandable-storage-plus-drawer-model-du3)
-- [2104-TL1 IBM Expandable Storage Plus Model TL1](#2104-tl1-ibm-expandable-storage-plus-model-tl1)
 - [2104-TS4 IBM TotalStorage Expandable Storage Plus 320 Model TS4](#2104-ts4-ibm-totalstorage-expandable-storage-plus-320-model-ts4)
 - [2104-TU3 IBM Expandable Storage Plus Tower Model TU3](#2104-tu3-ibm-expandable-storage-plus-tower-model-tu3)
 - [2105-100 IBM Versatile Storage Server Model 100](#2105-100-ibm-versatile-storage-server-model-100)
@@ -89,7 +91,6 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 - [Family 2423+03 IBM System Storage DS8800 Model 951 and Model 95E](#family-242303-ibm-system-storage-ds8800-model-951-and-model-95e)
 - [Family 2423+04 IBM DS8870 Models 961 and 96E](#family-242304-ibm-ds8870-models-961-and-96e)
 - [Family 2424+02 IBM System Storage DS8700 Models 941 and 94E](#family-242402-ibm-system-storage-ds8700-models-941-and-94e)
-- [Family 2424+04 IBM DS8870 Models 961 and 96E](#family-242404-ibm-ds8870-models-961-and-96e)
 - [Family 2810+01 IBM XIV Storage System](#family-281001-ibm-xiv-storage-system)
 - [Family 2810+02 IBM XIV Storage System (M/T 2810) Model Gen3](#family-281002-ibm-xiv-storage-system-m-t-2810-model-gen3)
 - [Family 2810+03 IBM XIV Storage System (M/T 2810) Model 214](#family-281003-ibm-xiv-storage-system-m-t-2810-model-214)
@@ -137,12 +138,10 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 - [3990-006 IBM Storage Control Model 006](#3990-006-ibm-storage-control-model-006)
 - [Family 4939+01 IBM Flex System V7000 Storage Node Hardware - AAS](#family-493901-ibm-flex-system-v7000-storage-node-hardware-aas)
 - [Family 5331+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533101-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
+- [Family 5331+02 IBM DS8882F Model 983](#family-533102-ibm-ds8882f-model-983)
+- [Family 5331+03 IBM DS8900F Models 993, 994, 996, and E96](#family-533103-ibm-ds8900f-models-993-994-996-and-e96)
 - [Family 5332+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533201-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
-- [Family 5332+03 IBM DS8900F Models 993, 994, 996, and E96](#family-533203-ibm-ds8900f-models-993-994-996-and-e96)
-- [Family 5333+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533301-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
-- [Family 5333+02 IBM DS8882F Model 983](#family-533302-ibm-ds8882f-model-983)
-- [Family 5333+03 IBM DS8900F Models 993, 994, 996, and E96](#family-533303-ibm-ds8900f-models-993-994-996-and-e96)
-- [Family 5333+04 IBM DS8900F Model 998](#family-533304-ibm-ds8900f-model-998)
+- [Family 5332+02 IBM DS8882F Model 983](#family-533202-ibm-ds8882f-model-983)
 - [Family 5334+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533401-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
 - [Family 5334+02 IBM DS8882F Model 983](#family-533402-ibm-ds8882f-model-983)
 - [Family 5334+03 IBM DS8900F Models 993, 994, 996, and E96](#family-533403-ibm-ds8900f-models-993-994-996-and-e96)
@@ -163,22 +162,19 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 - [7137-415 IBM Disk Array Subsystem Model 415](#7137-415-ibm-disk-array-subsystem-model-415)
 - [7137-512 IBM Disk Array Subsystem Model 512](#7137-512-ibm-disk-array-subsystem-model-512)
 - [7137-515 IBM Disk Array Subsystem Model 515](#7137-515-ibm-disk-array-subsystem-model-515)
-- [7204-112 IBM RS/6000 External Disk Drive Model 112](#7204-112-ibm-rs-6000-external-disk-drive-model-112)
 - [7204-113 IBM RS/6000 External Disk Drive Model 113](#7204-113-ibm-rs-6000-external-disk-drive-model-113)
 - [7204-114 IBM RS/6000 External Disk Drive Model 114](#7204-114-ibm-rs-6000-external-disk-drive-model-114)
-- [7204-118 IBM 7204 18.2 GB External Disk Drive Model 118](#7204-118-ibm-7204-182-gb-external-disk-drive-model-118)
 - [7204-139 IBM RS/6000 External Disk Drive Model 139](#7204-139-ibm-rs-6000-external-disk-drive-model-139)
-- [7204-339 IBM RS/6000 External Disk Drive Model 339](#7204-339-ibm-rs-6000-external-disk-drive-model-339)
 - [7204-402 IBM External Disk Drive Model 402](#7204-402-ibm-external-disk-drive-model-402)
 - [7204-404 IBM External Disk Drive Model 404](#7204-404-ibm-external-disk-drive-model-404)
 - [7204-409 IBM 9.1 GB External Disk Drive Model 409](#7204-409-ibm-91-gb-external-disk-drive-model-409)
-- [7204-419 IBM 18.2 GB External Disk Drive Model 419](#7204-419-ibm-182-gb-external-disk-drive-model-419)
-- [7204-518 IBM 7204 18.2 GB External Disk Drive Model 518](#7204-518-ibm-7204-182-gb-external-disk-drive-model-518)
 - [7204-536 IBM 36.4 GB External Disk Drive Model 536](#7204-536-ibm-364-gb-external-disk-drive-model-536)
 - [7204-573 IBM External Disk Drive Model 573](#7204-573-ibm-external-disk-drive-model-573)
 - [7204-646 IBM 7204 External Disk Drive Model 646](#7204-646-ibm-7204-external-disk-drive-model-646)
 - [9333-010 IBM High-Performance Disk Drive Subsystem Model 010](#9333-010-ibm-high-performance-disk-drive-subsystem-model-010)
+- [9333-011 IBM High-Performance Disk Drive Subsystem Model 011](#9333-011-ibm-high-performance-disk-drive-subsystem-model-011)
 - [9333-500 IBM High-Performance Disk Drive Sybsystem Model 500](#9333-500-ibm-high-performance-disk-drive-sybsystem-model-500)
+- [9333-501 IBM High-Performance Disk Drive Subsystem Model 501](#9333-501-ibm-high-performance-disk-drive-subsystem-model-501)
 - [9334-010 IBM SCSI Drawer Expansion Unit Model 010](#9334-010-ibm-scsi-drawer-expansion-unit-model-010)
 - [9334-011 IBM 9334 SCSI Expansion Unit Model 011](#9334-011-ibm-9334-scsi-expansion-unit-model-011)
 - [9334-500 IBM SCSI Deskside Expansion Unit Model 500](#9334-500-ibm-scsi-deskside-expansion-unit-model-500)
@@ -228,6 +224,7 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 - [9393-UPC IBM RAMAC Virtual Array Storage Model UPC](#9393-upc-ibm-ramac-virtual-array-storage-model-upc)
 - [9393-X83 IBM RAMAC Virtual Array Turbo Model X83](#9393-x83-ibm-ramac-virtual-array-turbo-model-x83)
 - [9394-001 IBM RAMAC 2 Array Subsystem Model 001](#9394-001-ibm-ramac-2-array-subsystem-model-001)
+- [9394-002 IBM RAMAC 2 Array Subsystem Model 002](#9394-002-ibm-ramac-2-array-subsystem-model-002)
 - [9394-003 IBM RAMAC 2 Array Subsystem Model 003](#9394-003-ibm-ramac-2-array-subsystem-model-003)
 - [9395-B13 IBM RAMAC 2 Array Subsystem Model B13](#9395-b13-ibm-ramac-2-array-subsystem-model-b13)
 - [9395-B23 IBM RAMAC 2 Array Subsystem Model B23](#9395-b23-ibm-ramac-2-array-subsystem-model-b23)
@@ -871,6 +868,52 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 
 
 
+### Family 1818+03 IBM System Storage DS Remote Support Manager for Storage
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds-remote-support-manager-storage](https://www.ibm.com/docs/en/announcements/system-storage-ds-remote-support-manager-storage?region=AP)
+
+📅 2016-06-28
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 1818-RS2 | 2009-08-25 | 2009-09-04 | 2010-11-19 | 2017-01-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 1818+04 IBM System Storage DS Remote Support Manager for Storage 3
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds-remote-support-manager-storage-3](https://www.ibm.com/docs/en/announcements/system-storage-ds-remote-support-manager-storage-3?region=AP)
+
+📅 2016-06-28
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 1818-RS3 | 2010-10-07 | 2010-10-15 | 2012-01-14 | 2017-01-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 1818+05 IBM System Storage DCS3700
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-dcs3700](https://www.ibm.com/docs/en/announcements/system-storage-dcs3700?region=AP)
@@ -1281,6 +1324,32 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 
 
 
+### Family 2077+05 IBM FlashSystem 5100
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5100](https://www.ibm.com/docs/en/announcements/flashsystem-5100?region=AP)
+
+📅 2022-04-26
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2077-12G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
+| 2077-24G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
+| 2077-4H4 | 2020-02-11 | 2020-03-06 | 2021-10-09 | - |
+| 2077-92G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 2078+01 IBM Storwize V5000 Disk System
 
 🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5000-disk-system-2021-07-13](https://www.ibm.com/docs/en/announcements/storwize-v5000-disk-system-2021-07-13?region=AP)
@@ -1517,29 +1586,6 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2104-DU3 | 2000-10-03 | 2000-10-13 | 2004-02-13 | 2012-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2104-TL1 IBM Expandable Storage Plus Model TL1
-
-🔗 [https://www.ibm.com/docs/en/announcements/expandable-storage-plus-model-tl1](https://www.ibm.com/docs/en/announcements/expandable-storage-plus-model-tl1?region=AP)
-
-📅 2007-06-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2104-TL1 | 1999-09-13 | 1999-10-29 | 2001-01-26 | 2007-12-31 |
 
 
 
@@ -2197,30 +2243,6 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 | --- | --- | --- | --- | --- |
 | 2424-94E | 2009-10-20 | 2009-10-23 | 2014-10-01 | 2017-12-31 |
 | 2424-941 | 2009-10-20 | 2009-10-23 | 2012-10-01 | 2017-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2424+04 IBM DS8870 Models 961 and 96E
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8870-models-961-96e-2019-10-15-2](https://www.ibm.com/docs/en/announcements/ds8870-models-961-96e-2019-10-15-2?region=AP)
-
-📅 2019-10-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2424-96E | 2012-10-03 | 2012-10-19 | 2017-11-22 | 2020-12-31 |
-| 2424-961 | 2012-10-03 | 2012-10-19 | 2016-06-01 | 2020-12-31 |
 
 
 
@@ -3357,6 +3379,55 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 
 
 
+### Family 5331+02 IBM DS8882F Model 983
+
+🔗 [https://www.ibm.com/docs/en/announcements/ds8882f-model-983](https://www.ibm.com/docs/en/announcements/ds8882f-model-983?region=AP)
+
+📅 2023-01-31
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 5331-983 | 2018-08-21 | 2018-09-07 | 2020-06-30 | 2024-06-30 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 5331+03 IBM DS8900F Models 993, 994, 996, and E96
+
+🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-models-993-994-996-e96](https://www.ibm.com/docs/en/announcements/ds8900f-models-993-994-996-e96?region=AP)
+
+📅 2024-04-23
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 5331-E96 | 2019-09-12 | 2019-11-15 | - | - |
+| 5331-993 | 2019-09-12 | 2019-11-15 | 2022-05-31 | - |
+| 5331-994 | 2019-09-12 | 2019-11-15 | 2022-05-31 | - |
+| 5331-996 | 2019-09-12 | 2019-11-15 | 2022-05-31 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 5332+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E
 
 🔗 [https://www.ibm.com/docs/en/announcements/ds8880-models-984-98585e-98686e-98888e-2023-01-31](https://www.ibm.com/docs/en/announcements/ds8880-models-984-98585e-98686e-98888e-2023-01-31?region=AP)
@@ -3386,119 +3457,15 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 
 
 
-### Family 5332+03 IBM DS8900F Models 993, 994, 996, and E96
+### Family 5332+02 IBM DS8882F Model 983
 
-🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-models-993-994-996-e96-2023-01-10](https://www.ibm.com/docs/en/announcements/ds8900f-models-993-994-996-e96-2023-01-10?region=AP)
-
-📅 2024-04-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5332-E96 | 2019-09-12 | 2019-11-15 | - | - |
-| 5332-993 | 2019-09-12 | 2019-11-15 | 2022-05-31 | - |
-| 5332-994 | 2019-09-12 | 2019-11-15 | 2022-05-31 | - |
-| 5332-996 | 2019-09-12 | 2019-11-15 | 2022-05-31 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 5333+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8880-models-984-98585e-98686e-98888e-2023-01-31-1](https://www.ibm.com/docs/en/announcements/ds8880-models-984-98585e-98686e-98888e-2023-01-31-1?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/ds8882f-model-983-2023-01-31](https://www.ibm.com/docs/en/announcements/ds8882f-model-983-2023-01-31?region=AP)
 
 📅 2023-01-31
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 5333-85E | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
-| 5333-86E | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
-| 5333-88E | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
-| 5333-984 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
-| 5333-985 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
-| 5333-986 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
-| 5333-988 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 5333+02 IBM DS8882F Model 983
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8882f-model-983-2023-01-31-1](https://www.ibm.com/docs/en/announcements/ds8882f-model-983-2023-01-31-1?region=AP)
-
-📅 2023-01-31
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5333-983 | 2018-08-21 | 2018-09-07 | 2020-06-30 | 2024-06-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 5333+03 IBM DS8900F Models 993, 994, 996, and E96
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-models-993-994-996-e96-2023-01-10-1](https://www.ibm.com/docs/en/announcements/ds8900f-models-993-994-996-e96-2023-01-10-1?region=AP)
-
-📅 2024-04-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5333-E96 | 2019-09-12 | 2019-11-15 | - | - |
-| 5333-993 | 2019-09-12 | 2019-11-15 | 2022-05-31 | - |
-| 5333-994 | 2019-09-12 | 2019-11-15 | 2022-05-31 | - |
-| 5333-996 | 2019-09-12 | 2019-11-15 | 2022-05-31 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 5333+04 IBM DS8900F Model 998
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-model-998-2022-11-15-1](https://www.ibm.com/docs/en/announcements/ds8900f-model-998-2022-11-15-1?region=AP)
-
-📅 2024-02-27
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5333-998 | 2021-07-27 | 2021-08-20 | 2022-05-31 | - |
+| 5332-983 | 2018-08-21 | 2018-09-07 | 2020-06-30 | 2024-06-30 |
 
 
 
@@ -3965,29 +3932,6 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 
 
 
-### 7204-112 IBM RS/6000 External Disk Drive Model 112
-
-🔗 [https://www.ibm.com/docs/en/announcements/rs6000-external-disk-drive-model-112](https://www.ibm.com/docs/en/announcements/rs6000-external-disk-drive-model-112?region=AP)
-
-📅 2009-04-14
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7204-112 | 1994-10-04 | 1994-11-18 | 1996-12-27 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 7204-113 IBM RS/6000 External Disk Drive Model 113
 
 🔗 [https://www.ibm.com/docs/en/announcements/rs6000-external-disk-drive-model-113](https://www.ibm.com/docs/en/announcements/rs6000-external-disk-drive-model-113?region=AP)
@@ -4034,29 +3978,6 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 
 
 
-### 7204-118 IBM 7204 18.2 GB External Disk Drive Model 118
-
-🔗 [https://www.ibm.com/docs/en/announcements/7204-182-gb-external-disk-drive-model-118](https://www.ibm.com/docs/en/announcements/7204-182-gb-external-disk-drive-model-118?region=AP)
-
-📅 2008-06-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7204-118 | 1998-04-06 | 1998-06-12 | 1999-12-03 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 7204-139 IBM RS/6000 External Disk Drive Model 139
 
 🔗 [https://www.ibm.com/docs/en/announcements/rs6000-external-disk-drive-model-139](https://www.ibm.com/docs/en/announcements/rs6000-external-disk-drive-model-139?region=AP)
@@ -4066,29 +3987,6 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7204-139 | 1996-10-08 | 1996-11-08 | 1999-12-03 | 2011-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7204-339 IBM RS/6000 External Disk Drive Model 339
-
-🔗 [https://www.ibm.com/docs/en/announcements/rs6000-external-disk-drive-model-339](https://www.ibm.com/docs/en/announcements/rs6000-external-disk-drive-model-339?region=AP)
-
-📅 2009-06-24
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7204-339 | 1997-02-11 | 1997-02-21 | 1999-12-03 | - |
 
 
 
@@ -4158,52 +4056,6 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7204-409 | 1999-09-07 | 1999-09-24 | 2002-10-11 | 2007-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7204-419 IBM 18.2 GB External Disk Drive Model 419
-
-🔗 [https://www.ibm.com/docs/en/announcements/182-gb-external-disk-drive-model-419](https://www.ibm.com/docs/en/announcements/182-gb-external-disk-drive-model-419?region=AP)
-
-📅 2007-06-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7204-419 | 1999-09-07 | 1999-09-24 | 2002-10-11 | 2007-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7204-518 IBM 7204 18.2 GB External Disk Drive Model 518
-
-🔗 [https://www.ibm.com/docs/en/announcements/7204-182-gb-external-disk-drive-model-518](https://www.ibm.com/docs/en/announcements/7204-182-gb-external-disk-drive-model-518?region=AP)
-
-📅 2009-06-24
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7204-518 | 2002-07-09 | 2002-07-19 | 2005-03-25 | - |
 
 
 
@@ -4310,6 +4162,29 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 
 
 
+### 9333-011 IBM High-Performance Disk Drive Subsystem Model 011
+
+🔗 [https://www.ibm.com/docs/en/announcements/high-performance-disk-drive-subsystem-model-011](https://www.ibm.com/docs/en/announcements/high-performance-disk-drive-subsystem-model-011?region=AP)
+
+📅 2009-06-06
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9333-011 | 1993-07-13 | 1993-08-27 | 1996-03-29 | 2010-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 9333-500 IBM High-Performance Disk Drive Sybsystem Model 500
 
 🔗 [https://www.ibm.com/docs/en/announcements/high-performance-disk-drive-sybsystem-model-500](https://www.ibm.com/docs/en/announcements/high-performance-disk-drive-sybsystem-model-500?region=AP)
@@ -4319,6 +4194,29 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9333-500 | 1991-07-24 | 1992-02-28 | 1994-10-26 | 2010-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 9333-501 IBM High-Performance Disk Drive Subsystem Model 501
+
+🔗 [https://www.ibm.com/docs/en/announcements/high-performance-disk-drive-subsystem-model-501](https://www.ibm.com/docs/en/announcements/high-performance-disk-drive-subsystem-model-501?region=AP)
+
+📅 2009-06-06
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9333-501 | 1993-07-13 | 1993-08-27 | 1996-03-29 | 2010-12-31 |
 
 
 
@@ -5437,6 +5335,29 @@ content update: 2024-06-26 00:31:01.864817215 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9394-001 | 1994-06-21 | 1994-09-30 | 1998-07-28 | 2010-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 9394-002 IBM RAMAC 2 Array Subsystem Model 002
+
+🔗 [https://www.ibm.com/docs/en/announcements/ramac-2-array-subsystem-model-002](https://www.ibm.com/docs/en/announcements/ramac-2-array-subsystem-model-002?region=AP)
+
+📅 2013-07-02
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9394-002 | 1994-06-21 | 1994-09-30 | 1998-07-28 | 2010-12-31 |
 
 
 
