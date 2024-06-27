@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2024-06-27 00:31:25.725515612 +0800 CST
+content update: 2024-06-28 00:32:03.865912112 +0800 CST
 
 ---
 
@@ -29,8 +29,11 @@ content update: 2024-06-27 00:31:25.725515612 +0800 CST
 - [Family 3584+12 IBM System Storage TS3500 Tape Library Model L53](#family-358412-ibm-system-storage-ts3500-tape-library-model-l53)
 - [Family 3584+15 IBM TS4500 Tape Library L55, D55, S55, L25, D25, S25, TR1](#family-358415-ibm-ts4500-tape-library-l55-d55-s55-l25-d25-s25-tr1)
 - [Family 3948+01 IBM TS7700 Release 5.4](#family-394801-ibm-ts7700-release-54)
+- [Family 3952+01 IBM System Storage Tape Frame](#family-395201-ibm-system-storage-tape-frame)
 - [Family 3952+02 IBM TS7770 R5.x Model F06](#family-395202-ibm-ts7770-r5x-model-f06)
+- [Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700](#family-395203-ibm-3952-tape-frame-model-f07-for-ibm-ts7700)
 - [Family 3953+01 IBM TotalStorage Library Manager and Tape Frame](#family-395301-ibm-totalstorage-library-manager-and-tape-frame)
+- [Family 3957+06 IBM TS7770 Models VED](#family-395706-ibm-ts7770-models-ved)
 - [Family 3958+01 IBM System Storage TS7650G Server](#family-395801-ibm-system-storage-ts7650g-server)
 - [Family 3958+02 IBM System Storage TS7650G Server](#family-395802-ibm-system-storage-ts7650g-server)
 - [Family 3958+03 IBM System Storage TS7650 ProtecTIER De-duplication Appliance](#family-395803-ibm-system-storage-ts7650-protectier-de-duplication-appliance)
@@ -38,9 +41,7 @@ content update: 2024-06-27 00:31:25.725515612 +0800 CST
 - [Family 3958+05 IBM System Storage TS7650G Server Model DD4](#family-395805-ibm-system-storage-ts7650g-server-model-dd4)
 - [Family 3958+06 IBM System Storage TS7650G ProtecTIER Gateway Server](#family-395806-ibm-system-storage-ts7650g-protectier-gateway-server)
 - [Family 3958+07 IBM TS7650G ProtecTIER Gateway Server Model DD6](#family-395807-ibm-ts7650g-protectier-gateway-server-model-dd6)
-- [Family 3959+01 IBM System Storage TS7610 ProtecTIER Deduplication Express](#family-395901-ibm-system-storage-ts7610-protectier-deduplication-express)
 - [Family 3959+02 IBM System Storage TS7620 ProtecTIER Appliance Model](#family-395902-ibm-system-storage-ts7620-protectier-appliance-model)
-- [Family 4882+01 IBM Diamondback Tape Library with 1-year CRU warranty](#family-488201-ibm-diamondback-tape-library-with-1-year-cru-warranty)
 
 ---
 
@@ -572,6 +573,29 @@ content update: 2024-06-27 00:31:25.725515612 +0800 CST
 
 
 
+### Family 3952+01 IBM System Storage Tape Frame
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-tape-frame](https://www.ibm.com/docs/en/announcements/system-storage-tape-frame?region=AP)
+
+📅 2021-05-25
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3952-F05 | 2005-10-11 | 2005-10-28 | 2021-08-30 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 3952+02 IBM TS7770 R5.x Model F06
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts7770-r5x-model-f06](https://www.ibm.com/docs/en/announcements/ts7770-r5x-model-f06?region=AP)
@@ -581,6 +605,29 @@ content update: 2024-06-27 00:31:25.725515612 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3952-F06 | 2016-05-10 | 2016-06-03 | 2021-08-30 | 2024-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700
+
+🔗 [https://www.ibm.com/docs/en/announcements/3952-tape-frame-model-f07-ts7700](https://www.ibm.com/docs/en/announcements/3952-tape-frame-model-f07-ts7700?region=AP)
+
+📅 2024-01-23
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3952-F07 | 2021-05-25 | 2021-06-18 | - | - |
 
 
 
@@ -605,6 +652,29 @@ content update: 2024-06-27 00:31:25.725515612 +0800 CST
 | --- | --- | --- | --- | --- |
 | 3953-F05 | 2005-05-10 | 2005-06-03 | 2012-12-28 | 2022-12-31 |
 | 3953-L05 | 2005-05-10 | 2005-06-03 | 2011-09-23 | 2018-01-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 3957+06 IBM TS7770 Models VED
+
+🔗 [https://www.ibm.com/docs/en/announcements/ts7770-models-ved](https://www.ibm.com/docs/en/announcements/ts7770-models-ved?region=AP)
+
+📅 2023-05-23
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3957-VED | 2019-10-22 | 2019-11-22 | 2023-05-31 | - |
 
 
 
@@ -780,29 +850,6 @@ content update: 2024-06-27 00:31:25.725515612 +0800 CST
 
 
 
-### Family 3959+01 IBM System Storage TS7610 ProtecTIER Deduplication Express
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts7610-protectier-deduplication-express](https://www.ibm.com/docs/en/announcements/system-storage-ts7610-protectier-deduplication-express?region=AP)
-
-📅 2018-05-08
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3959-SM1 | 2010-07-20 | 2010-08-06 | 2012-08-31 | 2016-10-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 3959+02 IBM System Storage TS7620 ProtecTIER Appliance Model
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts7620-protectier-appliance-model](https://www.ibm.com/docs/en/announcements/system-storage-ts7620-protectier-appliance-model?region=AP)
@@ -812,29 +859,6 @@ content update: 2024-06-27 00:31:25.725515612 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3959-SM2 | 2012-06-04 | 2012-06-08 | 2018-05-19 | 2020-11-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 4882+01 IBM Diamondback Tape Library with 1-year CRU warranty
-
-🔗 [https://www.ibm.com/docs/en/announcements/diamondback-tape-library-1-year-cru-warranty](https://www.ibm.com/docs/en/announcements/diamondback-tape-library-1-year-cru-warranty?region=AP)
-
-📅 2024-05-28
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 4882-L9A | 2023-04-25 | 2023-05-09 | - | - |
 
 
 
