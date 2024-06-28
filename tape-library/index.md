@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2024-06-28 00:32:03.865912112 +0800 CST
+content update: 2024-06-29 00:32:14.379658995 +0800 CST
 
 ---
 
@@ -41,7 +41,9 @@ content update: 2024-06-28 00:32:03.865912112 +0800 CST
 - [Family 3958+05 IBM System Storage TS7650G Server Model DD4](#family-395805-ibm-system-storage-ts7650g-server-model-dd4)
 - [Family 3958+06 IBM System Storage TS7650G ProtecTIER Gateway Server](#family-395806-ibm-system-storage-ts7650g-protectier-gateway-server)
 - [Family 3958+07 IBM TS7650G ProtecTIER Gateway Server Model DD6](#family-395807-ibm-ts7650g-protectier-gateway-server-model-dd6)
+- [Family 3959+01 IBM System Storage TS7610 ProtecTIER Deduplication Express](#family-395901-ibm-system-storage-ts7610-protectier-deduplication-express)
 - [Family 3959+02 IBM System Storage TS7620 ProtecTIER Appliance Model](#family-395902-ibm-system-storage-ts7620-protectier-appliance-model)
+- [Family 4882+01 IBM Diamondback Tape Library with 1-year CRU warranty](#family-488201-ibm-diamondback-tape-library-with-1-year-cru-warranty)
 
 ---
 
@@ -850,6 +852,29 @@ content update: 2024-06-28 00:32:03.865912112 +0800 CST
 
 
 
+### Family 3959+01 IBM System Storage TS7610 ProtecTIER Deduplication Express
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts7610-protectier-deduplication-express](https://www.ibm.com/docs/en/announcements/system-storage-ts7610-protectier-deduplication-express?region=AP)
+
+📅 2018-05-08
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3959-SM1 | 2010-07-20 | 2010-08-06 | 2012-08-31 | 2016-10-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 3959+02 IBM System Storage TS7620 ProtecTIER Appliance Model
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts7620-protectier-appliance-model](https://www.ibm.com/docs/en/announcements/system-storage-ts7620-protectier-appliance-model?region=AP)
@@ -859,6 +884,29 @@ content update: 2024-06-28 00:32:03.865912112 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3959-SM2 | 2012-06-04 | 2012-06-08 | 2018-05-19 | 2020-11-30 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 4882+01 IBM Diamondback Tape Library with 1-year CRU warranty
+
+🔗 [https://www.ibm.com/docs/en/announcements/diamondback-tape-library-1-year-cru-warranty](https://www.ibm.com/docs/en/announcements/diamondback-tape-library-1-year-cru-warranty?region=AP)
+
+📅 2024-05-28
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 4882-L9A | 2023-04-25 | 2023-05-09 | - | - |
 
 
 
