@@ -1,6 +1,6 @@
 # Power10
 
-content update: 2024-07-01 00:31:56.608546182 +0800 CST
+content update: 2024-07-02 00:31:13.293712899 +0800 CST
 
 ---
 
@@ -120,7 +120,7 @@ content update: 2024-07-01 00:31:56.608546182 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-s1022s-9105-22b](https://www.ibm.com/docs/en/announcements/power-s1022s-9105-22b?region=AP)
 
-📅 2022-07-12
+📅 2023-07-25
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

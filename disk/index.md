@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-07-01 00:31:56.608546182 +0800 CST
+content update: 2024-07-02 00:31:13.293712899 +0800 CST
 
 ---
 
@@ -207,7 +207,6 @@ content update: 2024-07-01 00:31:56.608546182 +0800 CST
 - [9337-115 IBM Disk Array Subsystem Model 115](#9337-115-ibm-disk-array-subsystem-model-115)
 - [9337-120 IBM Disk Array Subsystem Model 120](#9337-120-ibm-disk-array-subsystem-model-120)
 - [9337-125 IBM Disk Array Subsystem Model 125](#9337-125-ibm-disk-array-subsystem-model-125)
-- [9337-140 IBM Disk Array Subsystem Model 140](#9337-140-ibm-disk-array-subsystem-model-140)
 - [9337-210 IBM Disk Array Subsystem Model 210](#9337-210-ibm-disk-array-subsystem-model-210)
 - [9337-215 IBM Disk Array Subsystem Model 215](#9337-215-ibm-disk-array-subsystem-model-215)
 - [9337-220 IBM Disk Array Subsystem Model 220](#9337-220-ibm-disk-array-subsystem-model-220)
@@ -217,14 +216,7 @@ content update: 2024-07-01 00:31:56.608546182 +0800 CST
 - [9337-440 IBM Disk Array Subsystem Model 440](#9337-440-ibm-disk-array-subsystem-model-440)
 - [9337-480 IBM Disk Array Subsystem Model 480](#9337-480-ibm-disk-array-subsystem-model-480)
 - [9337-540 IBM Disk Array Subsystem Model 540](#9337-540-ibm-disk-array-subsystem-model-540)
-- [9337-545 IBM Disk Array Subsystem Model 545](#9337-545-ibm-disk-array-subsystem-model-545)
 - [9337-580 IBM Disk Array Subsystem Model 580](#9337-580-ibm-disk-array-subsystem-model-580)
-- [9337-585 IBM Disk Array Subsystem Model 585](#9337-585-ibm-disk-array-subsystem-model-585)
-- [9337-590 IBM Disk Array Subsystem Model 590](#9337-590-ibm-disk-array-subsystem-model-590)
-- [9337-595 IBM Disk Array Subsystem Model 595](#9337-595-ibm-disk-array-subsystem-model-595)
-- [9345-B12 IBM DASD Model B12](#9345-b12-ibm-dasd-model-b12)
-- [9345-B22 IBM DASD Model B22](#9345-b22-ibm-dasd-model-b22)
-- [9390-001 IBM RAMAC 3 Array Storage Control Model 001](#9390-001-ibm-ramac-3-array-storage-control-model-001)
 - [9390-002 IBM RAMAC 3 Array Storage Control Model 002](#9390-002-ibm-ramac-3-array-storage-control-model-002)
 - [9391-A30 IBM RAMAC 3 Array DASD Model A30](#9391-a30-ibm-ramac-3-array-dasd-model-a30)
 - [9392-B13 IBM RAMAC Array DASD Model B13](#9392-b13-ibm-ramac-array-dasd-model-b13)
@@ -240,7 +232,6 @@ content update: 2024-07-01 00:31:56.608546182 +0800 CST
 - [9394-001 IBM RAMAC 2 Array Subsystem Model 001](#9394-001-ibm-ramac-2-array-subsystem-model-001)
 - [9394-002 IBM RAMAC 2 Array Subsystem Model 002](#9394-002-ibm-ramac-2-array-subsystem-model-002)
 - [9394-003 IBM RAMAC 2 Array Subsystem Model 003](#9394-003-ibm-ramac-2-array-subsystem-model-003)
-- [9395-B13 IBM RAMAC 2 Array Subsystem Model B13](#9395-b13-ibm-ramac-2-array-subsystem-model-b13)
 - [9395-B23 IBM RAMAC 2 Array Subsystem Model B23](#9395-b23-ibm-ramac-2-array-subsystem-model-b23)
 
 ---
@@ -4994,29 +4985,6 @@ content update: 2024-07-01 00:31:56.608546182 +0800 CST
 
 
 
-### 9337-140 IBM Disk Array Subsystem Model 140
-
-🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-140](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-140?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9337-140 | 1993-02-28 | 1993-04-30 | 1996-09-13 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 9337-210 IBM Disk Array Subsystem Model 210
 
 🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-210](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-210?region=AP)
@@ -5224,29 +5192,6 @@ content update: 2024-07-01 00:31:56.608546182 +0800 CST
 
 
 
-### 9337-545 IBM Disk Array Subsystem Model 545
-
-🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-545](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-545?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9337-545 | 1996-06-04 | 1996-06-21 | 1998-09-30 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 9337-580 IBM Disk Array Subsystem Model 580
 
 🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-580](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-580?region=AP)
@@ -5256,144 +5201,6 @@ content update: 2024-07-01 00:31:56.608546182 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9337-580 | 1996-06-04 | 1996-06-21 | 1998-09-30 | 2008-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9337-585 IBM Disk Array Subsystem Model 585
-
-🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-585](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-585?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9337-585 | 1996-06-04 | 1996-06-21 | 1998-09-30 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9337-590 IBM Disk Array Subsystem Model 590
-
-🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-590](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-590?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9337-590 | 1997-02-18 | 1997-02-28 | 1998-09-30 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9337-595 IBM Disk Array Subsystem Model 595
-
-🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-595](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-595?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9337-595 | 1997-02-18 | 1997-02-28 | 1998-09-30 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9345-B12 IBM DASD Model B12
-
-🔗 [https://www.ibm.com/docs/en/announcements/dasd-model-b12](https://www.ibm.com/docs/en/announcements/dasd-model-b12?region=AP)
-
-📅 2005-12-12
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9345-B12 | 1991-09-11 | 1992-02-14 | 1996-12-31 | 2006-03-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9345-B22 IBM DASD Model B22
-
-🔗 [https://www.ibm.com/docs/en/announcements/dasd-model-b22](https://www.ibm.com/docs/en/announcements/dasd-model-b22?region=AP)
-
-📅 2008-03-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9345-B22 | 1991-09-11 | 1992-02-14 | 1996-12-31 | 2008-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9390-001 IBM RAMAC 3 Array Storage Control Model 001
-
-🔗 [https://www.ibm.com/docs/en/announcements/ramac-3-array-storage-control-model-001](https://www.ibm.com/docs/en/announcements/ramac-3-array-storage-control-model-001?region=AP)
-
-📅 2009-06-07
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9390-001 | 1996-09-10 | 1996-11-22 | 2000-08-11 | 2010-12-31 |
 
 
 
@@ -5730,29 +5537,6 @@ content update: 2024-07-01 00:31:56.608546182 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9394-003 | 1994-06-21 | 1994-09-30 | 1998-07-28 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9395-B13 IBM RAMAC 2 Array Subsystem Model B13
-
-🔗 [https://www.ibm.com/docs/en/announcements/ramac-2-array-subsystem-model-b13](https://www.ibm.com/docs/en/announcements/ramac-2-array-subsystem-model-b13?region=AP)
-
-📅 2009-06-07
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9395-B13 | 1994-06-21 | 1994-09-30 | 1997-03-14 | 2010-12-31 |
 
 
 
