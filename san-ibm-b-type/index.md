@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2024-07-05 00:32:08.31311812 +0800 CST
+content update: 2024-07-06 00:32:25.809556989 +0800 CST
 
 ---
 
@@ -45,7 +45,6 @@ content update: 2024-07-05 00:32:08.31311812 +0800 CST
 - [Family 2499+03 IBM Systems Storage SAN768B-2 and SAN384B-2](#family-249903-ibm-systems-storage-san768b-2-and-san384b-2)
 - [3534-1RU IBM SAN Fibre Channel Managed Hub Model 1RU](#3534-1ru-ibm-san-fibre-channel-managed-hub-model-1ru)
 - [3534-F08 IBM TotalStorage Storage Area Network (SAN) Model F08](#3534-f08-ibm-totalstorage-storage-area-network-san-model-f08)
-- [Family 3758+01 IBM Converged Switch B32](#family-375801-ibm-converged-switch-b32)
 - [Family 3758+02 IBM Converged Switch L32](#family-375802-ibm-converged-switch-l32)
 - [Family 3759+01 Brocade VDX6730-32, -76 Converged Switch for IBM](#family-375901-brocade-vdx6730-32-76-converged-switch-for-ibm)
 - [7140-160 IBM TotalStorage SAN Controller Model 160](#7140-160-ibm-totalstorage-san-controller-model-160)
@@ -939,29 +938,6 @@ content update: 2024-07-05 00:32:08.31311812 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3534-F08 | 2002-04-23 | 2002-05-03 | 2004-10-15 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3758+01 IBM Converged Switch B32
-
-🔗 [https://www.ibm.com/docs/en/announcements/converged-switch-b32](https://www.ibm.com/docs/en/announcements/converged-switch-b32?region=AP)
-
-📅 2018-07-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3758-B32 | 2009-07-14 | 2009-07-17 | 2010-06-12 | 2018-04-30 |
 
 
 

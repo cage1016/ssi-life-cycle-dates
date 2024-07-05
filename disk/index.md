@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-07-05 00:32:08.31311812 +0800 CST
+content update: 2024-07-06 00:32:25.809556989 +0800 CST
 
 ---
 
@@ -15,6 +15,7 @@ content update: 2024-07-05 00:32:08.31311812 +0800 CST
 - [Family 1724+01 IBM TotalStorage DS4100 Midrange Disk System Model 100](#family-172401-ibm-totalstorage-ds4100-midrange-disk-system-model-100)
 - [1740-1RU IBM TotalStorage DS4000 EXP700 Expansion Unit Model 1RU](#1740-1ru-ibm-totalstorage-ds4000-exp700-expansion-unit-model-1ru)
 - [1740-710 IBM TotalStorage DS4000 EXP710 Storage Expansion Unit Model 710](#1740-710-ibm-totalstorage-ds4000-exp710-storage-expansion-unit-model-710)
+- [1742-1RU IBM TotalStorage DS4400 Midrange Disk System Model 1RU](#1742-1ru-ibm-totalstorage-ds4400-midrange-disk-system-model-1ru)
 - [1742-90U IBM TotalStorage DS4500 Midrange Disk System Model 90U](#1742-90u-ibm-totalstorage-ds4500-midrange-disk-system-model-90u)
 - [Family 1747+02 IBM System Storage EXP2500 Express Storage Enclosures (AAS / WTAAS)](#family-174702-ibm-system-storage-exp2500-express-storage-enclosures-aas-wtaas)
 - [Family 1750+01 IBM TotalStorage DS6800 and DS6000 Expansion Enclosure](#family-175001-ibm-totalstorage-ds6800-and-ds6000-expansion-enclosure)
@@ -419,6 +420,29 @@ content update: 2024-07-05 00:32:08.31311812 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 1740-710 | 2004-10-05 | 2004-10-15 | 2006-12-08 | 2016-01-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 1742-1RU IBM TotalStorage DS4400 Midrange Disk System Model 1RU
+
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4400-midrange-disk-system-model-1ru](https://www.ibm.com/docs/en/announcements/totalstorage-ds4400-midrange-disk-system-model-1ru?region=AP)
+
+📅 2014-07-01
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 1742-1RU | 2001-10-30 | 2001-12-14 | 2005-06-10 | 2015-01-31 |
 
 
 
