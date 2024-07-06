@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2024-07-06 00:32:25.809556989 +0800 CST
+content update: 2024-07-07 00:32:07.44370874 +0800 CST
 
 ---
 
@@ -31,6 +31,7 @@ content update: 2024-07-06 00:32:25.809556989 +0800 CST
 - [Family 3580+09 IBM System Storage TS2240 Tape Drive Express Model H4S](#family-358009-ibm-system-storage-ts2240-tape-drive-express-model-h4s)
 - [Family 3580+12 IBM System Storage TS2250 Tape Drive Express Model H5S](#family-358012-ibm-system-storage-ts2250-tape-drive-express-model-h5s)
 - [Family 3580+13 IBM System Storage TS2350 Tape Drive Express Model S53](#family-358013-ibm-system-storage-ts2350-tape-drive-express-model-s53)
+- [Family 3580+14 IBM System Storage TS2240 Tape Drive Express Model H4V](#family-358014-ibm-system-storage-ts2240-tape-drive-express-model-h4v)
 - [Family 3580+15 IBM System Storage TS2230 Tape Drive Express Model H3V](#family-358015-ibm-system-storage-ts2230-tape-drive-express-model-h3v)
 - [Family 3580+16 IBM System Storage TS2360 Tape Drive Model S63](#family-358016-ibm-system-storage-ts2360-tape-drive-model-s63)
 - [Family 3580+17 IBM System Storage TS2260 Tape Drive Model H6S](#family-358017-ibm-system-storage-ts2260-tape-drive-model-h6s)
@@ -39,10 +40,13 @@ content update: 2024-07-06 00:32:25.809556989 +0800 CST
 - [Family 3580+20 IBM TS2290 SAS Tape Drive Model H9S](#family-358020-ibm-ts2290-sas-tape-drive-model-h9s)
 - [Family 3581+01 IBM Ultrium Tape Autoloader](#family-358101-ibm-ultrium-tape-autoloader)
 - [Family 3581+02 IBM Ultrium Tape Autoloader](#family-358102-ibm-ultrium-tape-autoloader)
+- [Family 3581+03 IBM TotalStorage Ultrium Tape Autoloader Models H23, L23](#family-358103-ibm-totalstorage-ultrium-tape-autoloader-models-h23-l23)
 - [Family 3581+04 IBM TotalStorage Ultrium Tape 2U Autoloader Models L28 F28](#family-358104-ibm-totalstorage-ultrium-tape-2u-autoloader-models-l28-f28)
 - [Family 3581+05 IBM TotalStorage 3581 Tape Autoloader](#family-358105-ibm-totalstorage-3581-tape-autoloader)
 - [Family 3588+01 IBM TotalStorage 3588 Tape Drive Model F3A](#family-358801-ibm-totalstorage-3588-tape-drive-model-f3a)
+- [Family 3588+02 IBM System Storage TS1030 Tape Drive Model F3B](#family-358802-ibm-system-storage-ts1030-tape-drive-model-f3b)
 - [Family 3588+03 IBM System Storage TS1040 Tape Drive Model F4A](#family-358803-ibm-system-storage-ts1040-tape-drive-model-f4a)
+- [Family 3588+04 IBM System Storage TS1050 Tape Drive Model F5A](#family-358804-ibm-system-storage-ts1050-tape-drive-model-f5a)
 - [Family 3588+05 IBM System Storage TS1060 Tape Drive Model F6A](#family-358805-ibm-system-storage-ts1060-tape-drive-model-f6a)
 - [Family 3588+06 IBM TS1050 and TS1060 Tape Drive Models F5C,F6C](#family-358806-ibm-ts1050-and-ts1060-tape-drive-models-f5c-f6c)
 - [Family 3588+07 IBM TS1070 Tape Drive Model F7C](#family-358807-ibm-ts1070-tape-drive-model-f7c)
@@ -675,6 +679,29 @@ content update: 2024-07-06 00:32:25.809556989 +0800 CST
 
 
 
+### Family 3580+14 IBM System Storage TS2240 Tape Drive Express Model H4V
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts2240-tape-drive-express-model-h4v](https://www.ibm.com/docs/en/announcements/system-storage-ts2240-tape-drive-express-model-h4v?region=AP)
+
+📅 2023-05-23
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3580-H4V | 2014-04-28 | 2014-04-28 | 2016-11-30 | 2020-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 3580+15 IBM System Storage TS2230 Tape Drive Express Model H3V
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts2230-tape-drive-express-model-h3v](https://www.ibm.com/docs/en/announcements/system-storage-ts2230-tape-drive-express-model-h3v?region=AP)
@@ -861,6 +888,30 @@ content update: 2024-07-06 00:32:25.809556989 +0800 CST
 
 
 
+### Family 3581+03 IBM TotalStorage Ultrium Tape Autoloader Models H23, L23
+
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ultrium-tape-autoloader-models-h23-l23](https://www.ibm.com/docs/en/announcements/totalstorage-ultrium-tape-autoloader-models-h23-l23?region=AP)
+
+📅 2017-06-27
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3581-H23 | 2003-06-03 | 2003-06-27 | 2004-10-01 | 2017-11-30 |
+| 3581-L23 | 2003-06-03 | 2003-06-27 | 2004-10-01 | 2017-11-30 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 3581+04 IBM TotalStorage Ultrium Tape 2U Autoloader Models L28 F28
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ultrium-tape-2u-autoloader-models-l28-f28](https://www.ibm.com/docs/en/announcements/totalstorage-ultrium-tape-2u-autoloader-models-l28-f28?region=AP)
@@ -932,6 +983,29 @@ content update: 2024-07-06 00:32:25.809556989 +0800 CST
 
 
 
+### Family 3588+02 IBM System Storage TS1030 Tape Drive Model F3B
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts1030-tape-drive-model-f3b](https://www.ibm.com/docs/en/announcements/system-storage-ts1030-tape-drive-model-f3b?region=AP)
+
+📅 2023-05-23
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3588-F3B | 2006-05-09 | 2006-06-09 | 2012-12-28 | 2021-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 3588+03 IBM System Storage TS1040 Tape Drive Model F4A
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts1040-tape-drive-model-f4a](https://www.ibm.com/docs/en/announcements/system-storage-ts1040-tape-drive-model-f4a?region=AP)
@@ -941,6 +1015,29 @@ content update: 2024-07-06 00:32:25.809556989 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3588-F4A | 2007-04-24 | 2007-04-27 | 2016-04-29 | 2023-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 3588+04 IBM System Storage TS1050 Tape Drive Model F5A
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts1050-tape-drive-model-f5a](https://www.ibm.com/docs/en/announcements/system-storage-ts1050-tape-drive-model-f5a?region=AP)
+
+📅 2023-07-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3588-F5A | 2010-04-12 | 2010-04-16 | 2018-03-17 | 2024-12-31 |
 
 
 
