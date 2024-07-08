@@ -1,6 +1,6 @@
 # Power10
 
-content update: 2024-07-08 00:31:41.820117952 +0800 CST
+content update: 2024-07-09 00:31:59.899061391 +0800 CST
 
 ---
 
@@ -51,7 +51,7 @@ content update: 2024-07-08 00:31:41.820117952 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-e1080-enterprise-server](https://www.ibm.com/docs/en/announcements/power-e1080-enterprise-server?region=AP)
 
-📅 2023-11-28
+📅 2021-09-08
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -166,7 +166,7 @@ content update: 2024-07-08 00:31:41.820117952 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-l1022-9786-22h](https://www.ibm.com/docs/en/announcements/power-l1022-9786-22h?region=AP)
 
-📅 2024-01-09
+📅 2022-07-12
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -189,7 +189,7 @@ content update: 2024-07-08 00:31:41.820117952 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-l1024-9786-42h](https://www.ibm.com/docs/en/announcements/power-l1024-9786-42h?region=AP)
 
-📅 2024-01-09
+📅 2022-07-12
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
