@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2024-07-09 00:31:59.899061391 +0800 CST
+content update: 2024-07-10 00:32:03.890184938 +0800 CST
 
 ---
 
@@ -13,16 +13,21 @@ content update: 2024-07-09 00:31:59.899061391 +0800 CST
 - [3480-A11 IBM Magnetic Tape Subsystem Model A11](#3480-a11-ibm-magnetic-tape-subsystem-model-a11)
 - [3480-A22 IBM Magnetic Tape Subsystem Model A22](#3480-a22-ibm-magnetic-tape-subsystem-model-a22)
 - [3490-A20 IBM Magnetic Tape Subsystem Model A20](#3490-a20-ibm-magnetic-tape-subsystem-model-a20)
+- [3490-C11 IBM Magnetic Tape Subsystem Model C11](#3490-c11-ibm-magnetic-tape-subsystem-model-c11)
 - [3490-C22 IBM Magnetic Tape Subsystem Model C22](#3490-c22-ibm-magnetic-tape-subsystem-model-c22)
 - [3490-D31 IBM Magnetic Tape Subsystem Model D31](#3490-d31-ibm-magnetic-tape-subsystem-model-d31)
 - [3490-D32 IBM Magnetic Tape Subsystem Model D32](#3490-d32-ibm-magnetic-tape-subsystem-model-d32)
+- [3490-D41 IBM Magnetic Tape Subsystem Model D41](#3490-d41-ibm-magnetic-tape-subsystem-model-d41)
 - [3490-D42 IBM Magnetic Tape Subsystem Model D42](#3490-d42-ibm-magnetic-tape-subsystem-model-d42)
 - [3490-E01 IBM Magnetic Tape Subsystem Model E01](#3490-e01-ibm-magnetic-tape-subsystem-model-e01)
 - [3490-F11 IBM Magnetic Tape Subsystem Model F11](#3490-f11-ibm-magnetic-tape-subsystem-model-f11)
+- [3490-FC0 IBM Rack Model FC0](#3490-fc0-ibm-rack-model-fc0)
 - [Family 3580+01 IBM Ultrium Tape Drive](#family-358001-ibm-ultrium-tape-drive)
 - [Family 3580+02 IBM TotalStorage Ultrium Tape Drive](#family-358002-ibm-totalstorage-ultrium-tape-drive)
 - [Family 3580+03 IBM TotalStorage 3580 Ultrium 3 LTO Tape Drive](#family-358003-ibm-totalstorage-3580-ultrium-3-lto-tape-drive)
+- [Family 3580+06 IBM Storage System TS2230 Tape Drive Model H3L](#family-358006-ibm-storage-system-ts2230-tape-drive-model-h3l)
 - [Family 3580+07 IBM System Storage TS2340 Tape Drive Express Models L43 and S43](#family-358007-ibm-system-storage-ts2340-tape-drive-express-models-l43-and-s43)
+- [Family 3580+08 IBM System Storage TS2230 Tape Drive H3S LTO 3 Half-High](#family-358008-ibm-system-storage-ts2230-tape-drive-h3s-lto-3-half-high)
 - [Family 3580+09 IBM System Storage TS2240 Tape Drive Express Model H4S](#family-358009-ibm-system-storage-ts2240-tape-drive-express-model-h4s)
 - [Family 3580+12 IBM System Storage TS2250 Tape Drive Express Model H5S](#family-358012-ibm-system-storage-ts2250-tape-drive-express-model-h5s)
 - [Family 3580+13 IBM System Storage TS2350 Tape Drive Express Model S53](#family-358013-ibm-system-storage-ts2350-tape-drive-express-model-s53)
@@ -255,6 +260,29 @@ content update: 2024-07-09 00:31:59.899061391 +0800 CST
 
 
 
+### 3490-C11 IBM Magnetic Tape Subsystem Model C11
+
+🔗 [https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-c11](https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-c11?region=AP)
+
+📅 2014-10-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3490-C11 | 1992-02-18 | 1992-04-17 | 1998-09-25 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 3490-C22 IBM Magnetic Tape Subsystem Model C22
 
 🔗 [https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-c22](https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-c22?region=AP)
@@ -324,6 +352,29 @@ content update: 2024-07-09 00:31:59.899061391 +0800 CST
 
 
 
+### 3490-D41 IBM Magnetic Tape Subsystem Model D41
+
+🔗 [https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-d41](https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-d41?region=AP)
+
+📅 2013-07-02
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3490-D41 | 1991-02-19 | 1991-06-14 | 1992-12-15 | 2008-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 3490-D42 IBM Magnetic Tape Subsystem Model D42
 
 🔗 [https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-d42](https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-d42?region=AP)
@@ -379,6 +430,29 @@ content update: 2024-07-09 00:31:59.899061391 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3490-F11 | 1997-02-11 | 1997-02-21 | 2002-06-28 | 2007-06-30 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3490-FC0 IBM Rack Model FC0
+
+🔗 [https://www.ibm.com/docs/en/announcements/rack-model-fc0](https://www.ibm.com/docs/en/announcements/rack-model-fc0?region=AP)
+
+📅 2007-03-20
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3490-FC0 | 1998-03-03 | 1998-03-20 | 2002-06-28 | 2007-06-30 |
 
 
 
@@ -466,6 +540,29 @@ content update: 2024-07-09 00:31:59.899061391 +0800 CST
 
 
 
+### Family 3580+06 IBM Storage System TS2230 Tape Drive Model H3L
+
+🔗 [https://www.ibm.com/docs/en/announcements/storage-system-ts2230-tape-drive-model-h3l](https://www.ibm.com/docs/en/announcements/storage-system-ts2230-tape-drive-model-h3l?region=AP)
+
+📅 2017-06-27
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3580-H3L | 2006-10-31 | 2006-12-08 | 2010-11-26 | 2018-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 3580+07 IBM System Storage TS2340 Tape Drive Express Models L43 and S43
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts2340-tape-drive-express-models-l43-s43](https://www.ibm.com/docs/en/announcements/system-storage-ts2340-tape-drive-express-models-l43-s43?region=AP)
@@ -476,6 +573,29 @@ content update: 2024-07-09 00:31:59.899061391 +0800 CST
 | --- | --- | --- | --- | --- |
 | 3580-L43 | 2007-04-24 | 2007-05-11 | 2011-11-25 | 2022-12-31 |
 | 3580-S43 | 2007-04-24 | 2007-05-11 | 2010-11-26 | 2022-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 3580+08 IBM System Storage TS2230 Tape Drive H3S LTO 3 Half-High
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts2230-tape-drive-h3s-lto-3-half-high](https://www.ibm.com/docs/en/announcements/system-storage-ts2230-tape-drive-h3s-lto-3-half-high?region=AP)
+
+📅 2023-05-23
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3580-H3S | 2007-07-10 | 2007-08-03 | 2010-12-03 | 2015-04-30 |
 
 
 
