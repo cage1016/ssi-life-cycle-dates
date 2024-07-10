@@ -1,6 +1,6 @@
 # Power10
 
-content update: 2024-07-10 00:32:03.890184938 +0800 CST
+content update: 2024-07-11 00:31:48.616172824 +0800 CST
 
 ---
 
@@ -28,7 +28,7 @@ content update: 2024-07-10 00:32:03.890184938 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-e1050-enterprise-midrange-technology-based-server](https://www.ibm.com/docs/en/announcements/power-e1050-enterprise-midrange-technology-based-server?region=AP)
 
-📅 2022-07-12
+📅 2024-07-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -51,7 +51,7 @@ content update: 2024-07-10 00:32:03.890184938 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-e1080-enterprise-server](https://www.ibm.com/docs/en/announcements/power-e1080-enterprise-server?region=AP)
 
-📅 2021-09-08
+📅 2024-07-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -74,7 +74,7 @@ content update: 2024-07-10 00:32:03.890184938 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-s1022-9105-22a](https://www.ibm.com/docs/en/announcements/power-s1022-9105-22a?region=AP)
 
-📅 2022-07-12
+📅 2024-07-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -120,7 +120,7 @@ content update: 2024-07-10 00:32:03.890184938 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-s1022s-9105-22b](https://www.ibm.com/docs/en/announcements/power-s1022s-9105-22b?region=AP)
 
-📅 2022-07-12
+📅 2024-07-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -143,7 +143,7 @@ content update: 2024-07-10 00:32:03.890184938 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-s1014-9105-41b](https://www.ibm.com/docs/en/announcements/power-s1014-9105-41b?region=AP)
 
-📅 2022-07-12
+📅 2024-07-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -189,7 +189,7 @@ content update: 2024-07-10 00:32:03.890184938 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-l1024-9786-42h](https://www.ibm.com/docs/en/announcements/power-l1024-9786-42h?region=AP)
 
-📅 2022-07-12
+📅 2024-07-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2024-07-10 00:32:03.890184938 +0800 CST
+content update: 2024-07-11 00:31:48.616172824 +0800 CST
 
 ---
 
@@ -522,7 +522,7 @@ content update: 2024-07-10 00:32:03.890184938 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts4500-tape-library-l55d55s55l25d25s25tr1](https://www.ibm.com/docs/en/announcements/ts4500-tape-library-l55d55s55l25d25s25tr1?region=AP)
 
-📅 2024-05-28
+📅 2020-05-12
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -902,7 +902,7 @@ content update: 2024-07-10 00:32:03.890184938 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/diamondback-tape-library-1-year-cru-warranty](https://www.ibm.com/docs/en/announcements/diamondback-tape-library-1-year-cru-warranty?region=AP)
 
-📅 2024-05-28
+📅 2024-07-09
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
