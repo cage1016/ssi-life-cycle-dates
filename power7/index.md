@@ -1,6 +1,6 @@
 # Power7
 
-content update: 2024-07-18 00:31:27.609363125 +0800 CST
+content update: 2024-07-19 00:30:05.473489071 +0800 CST
 
 ---
 
@@ -17,7 +17,6 @@ content update: 2024-07-18 00:31:27.609363125 +0800 CST
 - [Family 8202+03 IBM Power 720 Express](#family-820203-ibm-power-720-express)
 - [Family 8205+01 IBM Power 740 Express Server](#family-820501-ibm-power-740-express-server)
 - [Family 8205+02 IBM Power 740 Express server](#family-820502-ibm-power-740-express-server)
-- [Family 8205+03 IBM Power 740 Express](#family-820503-ibm-power-740-express)
 - [Family 8231+01 IBM Power 710 and 730 Express Servers](#family-823101-ibm-power-710-and-730-express-servers)
 - [Family 8231+02 IBM Power 710 Express server](#family-823102-ibm-power-710-express-server)
 - [Family 8231+03 IBM Power 730 Express server](#family-823103-ibm-power-730-express-server)
@@ -258,29 +257,6 @@ content update: 2024-07-18 00:31:27.609363125 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 8205-E6C | 2011-10-12 | 2011-10-21 | 2014-01-03 | 2019-09-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 8205+03 IBM Power 740 Express
-
-🔗 [https://www.ibm.com/docs/en/announcements/power-740-express](https://www.ibm.com/docs/en/announcements/power-740-express?region=AP)
-
-📅 2023-10-24
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 8205-E6D | 2013-02-05 | 2013-02-20 | 2015-11-30 | 2020-12-31 |
 
 
 
