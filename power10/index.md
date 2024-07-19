@@ -1,6 +1,6 @@
 # Power10
 
-content update: 2024-07-19 00:30:05.473489071 +0800 CST
+content update: 2024-07-20 00:33:07.814734501 +0800 CST
 
 ---
 
@@ -8,7 +8,7 @@ content update: 2024-07-19 00:30:05.473489071 +0800 CST
 
 
 - [Family 9043+01 IBM Power E1050 enterprise midrange technology-based server](#family-904301-ibm-power-e1050-enterprise-midrange-technology-based-server)
-- [Family 9080+04 IBM Power E1080 Enterprise server](#family-908004-ibm-power-e1080-enterprise-server)
+- [](#)
 - [Family 9105+01 IBM Power S1022 (9105-22A)](#family-910501-ibm-power-s1022-9105-22a)
 - [Family 9105+02 IBM Power S1024 (9105-42A)](#family-910502-ibm-power-s1024-9105-42a)
 - [Family 9105+03 IBM Power S1022s (9105-22B)](#family-910503-ibm-power-s1022s-9105-22b)
@@ -47,15 +47,12 @@ content update: 2024-07-19 00:30:05.473489071 +0800 CST
 
 
 
-### Family 9080+04 IBM Power E1080 Enterprise server
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-e1080-enterprise-server](https://www.ibm.com/docs/en/announcements/power-e1080-enterprise-server?region=AP)
 
 📅 2024-07-09
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9080-HEX | 2021-09-08 | 2021-09-17 | - | - |
 
 
 
