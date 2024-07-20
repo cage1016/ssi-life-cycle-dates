@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2024-07-20 00:33:07.814734501 +0800 CST
+content update: 2024-07-21 00:32:03.509447367 +0800 CST
 
 ---
 
@@ -8,7 +8,7 @@ content update: 2024-07-20 00:33:07.814734501 +0800 CST
 
 
 - [Family 2072+05 IBM FlashSystem 5000](#family-207205-ibm-flashsystem-5000)
-- [](#)
+- [Family 2072+06 IBM FlashSystem 5015 and 5035](#family-207206-ibm-flashsystem-5015-and-5035)
 - [Family 2076+07 IBM FlashSystem 7200](#family-207607-ibm-flashsystem-7200)
 - [Family 2077+05 IBM FlashSystem 5100](#family-207705-ibm-flashsystem-5100)
 - [Family 2078+05 IBM FlashSystem 5100](#family-207805-ibm-flashsystem-5100)
@@ -33,12 +33,12 @@ content update: 2024-07-20 00:33:07.814734501 +0800 CST
 - [Family 9838+03 IBM FlashSystem A9000 Utility Offerings](#family-983803-ibm-flashsystem-a9000-utility-offerings)
 - [Family 9840+01 IBM FlashSystem 840](#family-984001-ibm-flashsystem-840)
 - [Family 9840+02 IBM FlashSystem 900](#family-984002-ibm-flashsystem-900)
-- [Family 9840+03 IBM FlashSystem 900](#family-984003-ibm-flashsystem-900)
+- [](#)
 - [Family 9843+01 IBM FlashSystem 840](#family-984301-ibm-flashsystem-840)
 - [Family 9843+02 IBM FlashSystem 900](#family-984302-ibm-flashsystem-900)
-- [Family 9843+03 IBM FlashSystem 900](#family-984303-ibm-flashsystem-900)
+- [](#)
 - [Family 9846+01 IBM FlashSystem V840](#family-984601-ibm-flashsystem-v840)
-- [Family 9846+02 IBM FlashSystem V9000](#family-984602-ibm-flashsystem-v9000)
+- [](#)
 - [Family 9846+03 IBM FlashSystem 9100](#family-984603-ibm-flashsystem-9100)
 - [Family 9846+04 IBM FlashSystem 9200](#family-984604-ibm-flashsystem-9200)
 - [Family 9847+01 IBM DeepFlash 150](#family-984701-ibm-deepflash-150)
@@ -85,12 +85,18 @@ content update: 2024-07-20 00:33:07.814734501 +0800 CST
 
 
 
-### 
+### Family 2072+06 IBM FlashSystem 5015 and 5035
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5015-5035-2023-10-10](https://www.ibm.com/docs/en/announcements/flashsystem-5015-5035-2023-10-10?region=AP)
 
 📅 2024-04-23
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2072-2N2 | 2021-02-09 | 2021-02-19 | 2023-12-30 | - |
+| 2072-2N4 | 2021-02-09 | 2021-02-19 | 2023-12-30 | - |
+| 2072-3N2 | 2021-02-09 | 2021-02-19 | 2023-12-30 | - |
+| 2072-3N4 | 2021-02-09 | 2021-02-19 | 2023-12-30 | - |
 
 
 
@@ -695,15 +701,12 @@ content update: 2024-07-20 00:33:07.814734501 +0800 CST
 
 
 
-### Family 9840+03 IBM FlashSystem 900
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-900-2023-07-11](https://www.ibm.com/docs/en/announcements/flashsystem-900-2023-07-11?region=AP)
 
 📅 2023-07-11
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9840-AE3 | 2017-10-24 | 2017-11-17 | 2020-11-20 | 2024-12-31 |
 
 
 
@@ -764,16 +767,12 @@ content update: 2024-07-20 00:33:07.814734501 +0800 CST
 
 
 
-### Family 9843+03 IBM FlashSystem 900
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-900-2023-07-11-1](https://www.ibm.com/docs/en/announcements/flashsystem-900-2023-07-11-1?region=AP)
 
 📅 2023-07-11
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9843-AE3 | 2017-10-24 | 2017-11-17 | 2020-11-20 | 2024-12-31 |
-| 9843-UF3 | 2017-11-14 | 2017-11-24 | 2020-11-20 | 2024-12-31 |
 
 
 
@@ -813,21 +812,12 @@ content update: 2024-07-20 00:33:07.814734501 +0800 CST
 
 
 
-### Family 9846+02 IBM FlashSystem V9000
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-v9000](https://www.ibm.com/docs/en/announcements/flashsystem-v9000?region=AP)
 
 📅 2022-07-26
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9846-AC2 | 2015-02-23 | 2015-04-24 | 2016-12-31 | 2022-12-31 |
-| 9846-AE2 | 2015-02-23 | 2015-04-24 | 2018-07-14 | 2022-12-31 |
-| 9846-12F | 2016-05-24 | 2016-06-10 | 2021-01-17 | 2023-12-31 |
-| 9846-AC3 | 2016-08-23 | 2016-09-09 | 2020-01-18 | 2023-12-31 |
-| 9846-24F | 2016-08-23 | 2016-09-09 | 2021-01-17 | 2023-12-31 |
-| 9846-92F | 2016-11-02 | 2016-12-09 | 2021-01-17 | 2023-12-31 |
-| 9846-AE3 | 2017-10-24 | 2017-12-08 | 2020-01-18 | 2023-12-31 |
 
 
 

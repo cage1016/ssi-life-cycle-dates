@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2024-07-20 00:33:07.814734501 +0800 CST
+content update: 2024-07-21 00:32:03.509447367 +0800 CST
 
 ---
 
@@ -24,7 +24,7 @@ content update: 2024-07-20 00:33:07.814734501 +0800 CST
 - [Family 3589+08 IBM Ultrium 7 6 TB Data Cartridge Models 551, 651, 571, 671](#family-358908-ibm-ultrium-7-6-tb-data-cartridge-models-551-651-571-671)
 - [Family 3589+09 IBM Ultrium 8 12 TB Data Cartridge Models 552 and 652](#family-358909-ibm-ultrium-8-12-tb-data-cartridge-models-552-and-652)
 - [Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452](#family-358910-ibm-ultrium-7-9-tb-uninitialized-data-cartridge-model-452)
-- [](#)
+- [Family 3589+11 IBM Ultrium 9 18 TB Data Cartridge Models 553 and 653](#family-358911-ibm-ultrium-9-18-tb-data-cartridge-models-553-and-653)
 - [Family 3589+12 IBM 3589 Ultrium Cleaning Cartridges Model 005 w/ customized labeling service](#family-358912-ibm-3589-ultrium-cleaning-cartridges-model-005-w-customized-labeling-service)
 - [Family 3599+01 IBM Tape Cartridges 3592](#family-359901-ibm-tape-cartridges-3592)
 - [Family 3599+02 IBM Tape Cart 3592](#family-359902-ibm-tape-cart-3592)
@@ -59,7 +59,7 @@ content update: 2024-07-20 00:33:07.814734501 +0800 CST
 - [3599-E23 IBM 3592 Enterprise Tape Economy WORM Cartridge Model E23](#3599-e23-ibm-3592-enterprise-tape-economy-worm-cartridge-model-e23)
 - [3859-D02 IBM 40 GB DLTtape IV Cartridges Labeled Model D02](#3859-d02-ibm-40-gb-dlttape-iv-cartridges-labeled-model-d02)
 - [3859-D03 IBM 40 GB DLTtape IV Cartridges Model D03](#3859-d03-ibm-40-gb-dlttape-iv-cartridges-model-d03)
-- [](#)
+- [3859-D04 IBM 40 GB DTLtape Cleaning Cartridge Model D04](#3859-d04-ibm-40-gb-dtltape-cleaning-cartridge-model-d04)
 
 ---
 
@@ -457,12 +457,16 @@ content update: 2024-07-20 00:33:07.814734501 +0800 CST
 
 
 
-### 
+### Family 3589+11 IBM Ultrium 9 18 TB Data Cartridge Models 553 and 653
 
 🔗 [https://www.ibm.com/docs/en/announcements/ultrium-9-18-tb-data-cartridge-models-553-653](https://www.ibm.com/docs/en/announcements/ultrium-9-18-tb-data-cartridge-models-553-653?region=AP)
 
 📅 2023-11-21
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3589-553 | 2021-09-07 | 2021-09-10 | - | - |
+| 3589-653 | 2021-09-07 | 2021-09-10 | - | - |
 
 
 
@@ -1273,7 +1277,7 @@ content update: 2024-07-20 00:33:07.814734501 +0800 CST
 
 
 
-### 
+### 3859-D04 IBM 40 GB DTLtape Cleaning Cartridge Model D04
 
 🔗 [https://www.ibm.com/docs/en/announcements/40-gb-dtltape-cleaning-cartridge-model-d04](https://www.ibm.com/docs/en/announcements/40-gb-dtltape-cleaning-cartridge-model-d04?region=AP)
 

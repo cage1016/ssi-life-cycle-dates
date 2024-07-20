@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-07-20 00:33:07.814734501 +0800 CST
+content update: 2024-07-21 00:32:03.509447367 +0800 CST
 
 ---
 
@@ -40,7 +40,7 @@ content update: 2024-07-20 00:33:07.814734501 +0800 CST
 - [Family 1818+06 IBM System Storage DCS3700 Controller 90C](#family-181806-ibm-system-storage-dcs3700-controller-90c)
 - [Family 2071+02 IBM Storwize V3500 Disk System](#family-207102-ibm-storwize-v3500-disk-system)
 - [Family 2072+03 IBM Storwize V3700 Disk System (AAS)](#family-207203-ibm-storwize-v3700-disk-system-aas)
-- [](#)
+- [Family 2072+04 IBM Storwize V5000E](#family-207204-ibm-storwize-v5000e)
 - [Family 2076+01 IBM Storwize V7000 Disk System](#family-207601-ibm-storwize-v7000-disk-system)
 - [Family 2076+02 IBM Storwize V7000 Disk System](#family-207602-ibm-storwize-v7000-disk-system)
 - [Family 2076+03 IBM Storwize V7000](#family-207603-ibm-storwize-v7000)
@@ -1027,12 +1027,21 @@ content update: 2024-07-20 00:33:07.814734501 +0800 CST
 
 
 
-### 
+### Family 2072+04 IBM Storwize V5000E
 
 🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5000e](https://www.ibm.com/docs/en/announcements/storwize-v5000e?region=AP)
 
 📅 2022-10-25
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2072-12F | 2019-04-09 | 2019-04-26 | 2020-04-11 | - |
+| 2072-212 | 2019-04-09 | 2019-04-26 | 2020-04-11 | - |
+| 2072-224 | 2019-04-09 | 2019-04-26 | 2020-04-11 | - |
+| 2072-24F | 2019-04-09 | 2019-04-26 | 2020-04-11 | - |
+| 2072-312 | 2019-04-09 | 2019-04-26 | 2020-04-11 | - |
+| 2072-324 | 2019-04-09 | 2019-04-26 | 2020-04-11 | - |
+| 2072-92F | 2019-04-09 | 2019-04-26 | 2020-04-11 | - |
 
 
 
