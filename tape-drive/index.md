@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2024-07-21 00:32:03.509447367 +0800 CST
+content update: 2024-07-22 00:32:05.222213294 +0800 CST
 
 ---
 
@@ -113,7 +113,7 @@ content update: 2024-07-21 00:32:03.509447367 +0800 CST
 - [7332-005 IBM 4MM DDS-2 Tape Autoloader Model 005](#7332-005-ibm-4mm-dds-2-tape-autoloader-model-005)
 - [7332-110 IBM 4mm DDS-3 Tape Cartridge Autoloader Model 110](#7332-110-ibm-4mm-dds-3-tape-cartridge-autoloader-model-110)
 - [7332-220 IBM 4mm DDS-4 Tape Cartridge Autoloader Model 220](#7332-220-ibm-4mm-dds-4-tape-cartridge-autoloader-model-220)
-- [7336-205 IBM 4-mm Tape Library Model 205](#7336-205-ibm-4-mm-tape-library-model-205)
+- [](#)
 - [7337-305 IBM Digital Linear Tape Library Model 305](#7337-305-ibm-digital-linear-tape-library-model-305)
 - [7337-306 IBM Digital Linear Tape Library Model 306](#7337-306-ibm-digital-linear-tape-library-model-306)
 - [7337-360 IBM DLT8000 Digital Linear Tape Library Model 360](#7337-360-ibm-dlt8000-digital-linear-tape-library-model-360)
@@ -2561,7 +2561,7 @@ content update: 2024-07-21 00:32:03.509447367 +0800 CST
 
 
 
-### 7336-205 IBM 4-mm Tape Library Model 205
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/4-mm-tape-library-model-205](https://www.ibm.com/docs/en/announcements/4-mm-tape-library-model-205?region=AP)
 

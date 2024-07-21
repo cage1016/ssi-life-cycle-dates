@@ -1,6 +1,6 @@
 # Power8
 
-content update: 2024-07-21 00:32:03.509447367 +0800 CST
+content update: 2024-07-22 00:32:05.222213294 +0800 CST
 
 ---
 
@@ -8,10 +8,10 @@ content update: 2024-07-21 00:32:03.509447367 +0800 CST
 
 
 - [Family 8284+01 IBM Power System S822 server](#family-828401-ibm-power-system-s822-server)
-- [Family 8284+02 IBM Power System S812 server Model 21A](#family-828402-ibm-power-system-s812-server-model-21a)
+- [](#)
 - [Family 8286+01 IBM Power System S814 server](#family-828601-ibm-power-system-s814-server)
 - [Family 8286+02 IBM Power System S824 server](#family-828602-ibm-power-system-s824-server)
-- [](#)
+- [Family 8408+02 IBM Power System E850 Model E8E](#family-840802-ibm-power-system-e850-model-e8e)
 - [Family 8408+03 IBM Power System E850C server model 44E](#family-840803-ibm-power-system-e850c-server-model-44e)
 - [Family 9080+01 IBM Power System E880C (9080-MHE)](#family-908001-ibm-power-system-e880c-9080-mhe)
 - [Family 9080+02 IBM Power E870C Enterprise server Model MME](#family-908002-ibm-power-e870c-enterprise-server-model-mme)
@@ -49,15 +49,12 @@ content update: 2024-07-21 00:32:03.509447367 +0800 CST
 
 
 
-### Family 8284+02 IBM Power System S812 server Model 21A
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-system-s812-server-model-21a](https://www.ibm.com/docs/en/announcements/power-system-s812-server-model-21a?region=AP)
 
 📅 2023-10-24
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 8284-21A | 2017-02-14 | 2017-03-17 | 2020-08-31 | 2025-07-31 |
 
 
 
@@ -118,12 +115,15 @@ content update: 2024-07-21 00:32:03.509447367 +0800 CST
 
 
 
-### 
+### Family 8408+02 IBM Power System E850 Model E8E
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-system-e850-model-e8e](https://www.ibm.com/docs/en/announcements/power-system-e850-model-e8e?region=AP)
 
 📅 2023-05-09
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 8408-E8E | 2015-05-11 | 2015-06-05 | 2017-07-14 | 2023-10-31 |
 
 
 
