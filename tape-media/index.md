@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2024-07-22 00:32:05.222213294 +0800 CST
+content update: 2024-07-23 00:33:28.43833039 +0800 CST
 
 ---
 
@@ -20,7 +20,7 @@ content update: 2024-07-22 00:32:05.222213294 +0800 CST
 - [Family 3589+04 IBM TotalStorage Ultrium Tape Cartridge Models 028 and 029](#family-358904-ibm-totalstorage-ultrium-tape-cartridge-models-028-and-029)
 - [Family 3589+05 IBM 3589 Ultrium Tape Cartridge Models 010, 011, 032, 033](#family-358905-ibm-3589-ultrium-tape-cartridge-models-010-011-032-033)
 - [Family 3589+06 IBM Ultrium 5 1.5 TB Data Cartridge Models 014 015 034 035](#family-358906-ibm-ultrium-5-15-tb-data-cartridge-models-014-015-034-035)
-- [Family 3589+07 IBM Ultrium 6 2.5 TB Data Cartridge Models 550,650,570,670](#family-358907-ibm-ultrium-6-25-tb-data-cartridge-models-550-650-570-670)
+- [](#)
 - [Family 3589+08 IBM Ultrium 7 6 TB Data Cartridge Models 551, 651, 571, 671](#family-358908-ibm-ultrium-7-6-tb-data-cartridge-models-551-651-571-671)
 - [Family 3589+09 IBM Ultrium 8 12 TB Data Cartridge Models 552 and 652](#family-358909-ibm-ultrium-8-12-tb-data-cartridge-models-552-and-652)
 - [Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452](#family-358910-ibm-ultrium-7-9-tb-uninitialized-data-cartridge-model-452)
@@ -44,7 +44,7 @@ content update: 2024-07-22 00:32:05.222213294 +0800 CST
 - [3599-015 IBM 3592 Extended Tape Cart with Labeling Model 015](#3599-015-ibm-3592-extended-tape-cart-with-labeling-model-015)
 - [3599-016 IBM 3592 Extended Tape Cart Model 016](#3599-016-ibm-3592-extended-tape-cart-model-016)
 - [3599-017 IBM 3592 Enterprise Tape Cartridge (Cleaning) Model 017](#3599-017-ibm-3592-enterprise-tape-cartridge-cleaning-model-017)
-- [3599-021 IBM 3592 Ent Tape WORM Cart with Labeling, Init Model 021](#3599-021-ibm-3592-ent-tape-worm-cart-with-labeling-init-model-021)
+- [](#)
 - [3599-022 IBM 3592 Enterprise Tape WORM Cartridge with Labeling Model 022](#3599-022-ibm-3592-enterprise-tape-worm-cartridge-with-labeling-model-022)
 - [3599-023 IBM 3592 Ent Tape WORM Cart Model 023](#3599-023-ibm-3592-ent-tape-worm-cart-model-023)
 - [3599-024 IBM 3592 Ext WORM Cart with Labeling and Init Model 024](#3599-024-ibm-3592-ext-worm-cart-with-labeling-and-init-model-024)
@@ -358,18 +358,12 @@ content update: 2024-07-22 00:32:05.222213294 +0800 CST
 
 
 
-### Family 3589+07 IBM Ultrium 6 2.5 TB Data Cartridge Models 550,650,570,670
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/ultrium-6-25-tb-data-cartridge-models-550650570670](https://www.ibm.com/docs/en/announcements/ultrium-6-25-tb-data-cartridge-models-550650570670?region=AP)
 
 📅 2023-11-21
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3589-550 | 2012-12-04 | 2012-12-07 | 2022-12-16 | - |
-| 3589-570 | 2012-12-04 | 2012-12-07 | 2018-09-15 | - |
-| 3589-650 | 2012-12-04 | 2012-12-07 | 2022-12-16 | - |
-| 3589-670 | 2012-12-04 | 2012-12-07 | 2018-09-15 | - |
 
 
 
@@ -934,15 +928,12 @@ content update: 2024-07-22 00:32:05.222213294 +0800 CST
 
 
 
-### 3599-021 IBM 3592 Ent Tape WORM Cart with Labeling, Init Model 021
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/3592-ent-tape-worm-cart-labeling-init-model-021](https://www.ibm.com/docs/en/announcements/3592-ent-tape-worm-cart-labeling-init-model-021?region=AP)
 
 📅 2023-11-21
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3599-021 | 2004-04-27 | 2004-05-21 | 2009-05-29 | - |
 
 
 

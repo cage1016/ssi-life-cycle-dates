@@ -1,13 +1,13 @@
 # FlashSystem
 
-content update: 2024-07-22 00:32:05.222213294 +0800 CST
+content update: 2024-07-23 00:33:28.43833039 +0800 CST
 
 ---
 
 ### Table of contents
 
 
-- [Family 2072+05 IBM FlashSystem 5000](#family-207205-ibm-flashsystem-5000)
+- [](#)
 - [Family 2072+06 IBM FlashSystem 5015 and 5035](#family-207206-ibm-flashsystem-5015-and-5035)
 - [Family 2076+07 IBM FlashSystem 7200](#family-207607-ibm-flashsystem-7200)
 - [Family 2077+05 IBM FlashSystem 5100](#family-207705-ibm-flashsystem-5100)
@@ -56,21 +56,12 @@ content update: 2024-07-22 00:32:05.222213294 +0800 CST
 
 
 
-### Family 2072+05 IBM FlashSystem 5000
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5000](https://www.ibm.com/docs/en/announcements/flashsystem-5000?region=AP)
 
 📅 2024-01-23
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2072-12G | 2020-02-11 | 2020-03-06 | - | - |
-| 2072-2H2 | 2020-02-11 | 2020-03-06 | 2021-04-10 | - |
-| 2072-2H4 | 2020-02-11 | 2020-03-06 | 2021-04-10 | - |
-| 2072-24G | 2020-02-11 | 2020-03-06 | - | - |
-| 2072-3H2 | 2020-02-11 | 2020-03-06 | 2021-04-10 | - |
-| 2072-3H4 | 2020-02-11 | 2020-03-06 | 2021-04-10 | - |
-| 2072-92G | 2020-02-11 | 2020-03-06 | - | - |
 
 
 
