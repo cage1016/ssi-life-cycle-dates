@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2024-07-25 00:32:12.02636504 +0800 CST
+content update: 2024-07-26 00:31:33.479878686 +0800 CST
 
 ---
 
@@ -11,6 +11,7 @@ content update: 2024-07-25 00:32:12.02636504 +0800 CST
 - [Family 2005+01 IBM TotalStorage SAN Switch Models H08 and H16](#family-200501-ibm-totalstorage-san-switch-models-h08-and-h16)
 - [Family 2005+02 IBM TotalStorage SANB32 Switch](#family-200502-ibm-totalstorage-sanb32-switch)
 - [Family 2005+04 IBM TotalStorage SANB16B-2 Fabric Switch](#family-200504-ibm-totalstorage-sanb16b-2-fabric-switch)
+- [Family 2005+06 IBM System Storage SANR18B-R](#family-200506-ibm-system-storage-sanr18b-r)
 - [Family 2005+07 IBM System Storage SANB64B-2 Fabric Switch](#family-200507-ibm-system-storage-sanb64b-2-fabric-switch)
 - [Family 2005+08 IBM System Storage SANB32B-3 Fabric Switch](#family-200508-ibm-system-storage-sanb32b-3-fabric-switch)
 - [Family 2005+09 IBM System Storage SAN04B-R](#family-200509-ibm-system-storage-san04b-r)
@@ -150,6 +151,29 @@ content update: 2024-07-25 00:32:12.02636504 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2005-B16 | 2005-07-26 | 2005-08-26 | 2008-11-29 | 2012-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2005+06 IBM System Storage SANR18B-R
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-sanr18b-r](https://www.ibm.com/docs/en/announcements/system-storage-sanr18b-r?region=AP)
+
+📅 2013-10-15
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2005-R18 | 2006-05-09 | 2006-06-09 | 2009-01-03 | 2012-12-31 |
 
 
 

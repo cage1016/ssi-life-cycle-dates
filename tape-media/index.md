@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2024-07-25 00:32:12.02636504 +0800 CST
+content update: 2024-07-26 00:31:33.479878686 +0800 CST
 
 ---
 
@@ -15,6 +15,7 @@ content update: 2024-07-25 00:32:12.02636504 +0800 CST
 - [3499-006 IBM Standard 3480 Data Cartridges Model 006](#3499-006-ibm-standard-3480-data-cartridges-model-006)
 - [3499-007 IBM 3480/3490 Conductive Cleaning Cartridges Model 007](#3499-007-ibm-3480-3490-conductive-cleaning-cartridges-model-007)
 - [Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004](#family-358901-ibm-ultrium-cartridges-models-002-003-004)
+- [Family 3589+02 IBM Ultrium Cartridges Models 006 and 007](#family-358902-ibm-ultrium-cartridges-models-006-and-007)
 - [Family 3589+03 IBM TotalStorage Ultrium Tape Cartridge Models 008 and 009](#family-358903-ibm-totalstorage-ultrium-tape-cartridge-models-008-and-009)
 - [Family 3589+04 IBM TotalStorage Ultrium Tape Cartridge Models 028 and 029](#family-358904-ibm-totalstorage-ultrium-tape-cartridge-models-028-and-029)
 - [Family 3589+05 IBM 3589 Ultrium Tape Cartridge Models 010, 011, 032, 033](#family-358905-ibm-3589-ultrium-tape-cartridge-models-010-011-032-033)
@@ -24,6 +25,7 @@ content update: 2024-07-25 00:32:12.02636504 +0800 CST
 - [Family 3589+09 IBM Ultrium 8 12 TB Data Cartridge Models 552 and 652](#family-358909-ibm-ultrium-8-12-tb-data-cartridge-models-552-and-652)
 - [Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452](#family-358910-ibm-ultrium-7-9-tb-uninitialized-data-cartridge-model-452)
 - [Family 3589+11 IBM Ultrium 9 18 TB Data Cartridge Models 553 and 653](#family-358911-ibm-ultrium-9-18-tb-data-cartridge-models-553-and-653)
+- [Family 3589+12 IBM 3589 Ultrium Cleaning Cartridges Model 005 w/ customized labeling service](#family-358912-ibm-3589-ultrium-cleaning-cartridges-model-005-w-customized-labeling-service)
 - [Family 3599+01 IBM Tape Cartridges 3592](#family-359901-ibm-tape-cartridges-3592)
 - [Family 3599+02 IBM Tape Cart 3592](#family-359902-ibm-tape-cart-3592)
 - [Family 3599+03 IBM Tape Cartridge 3592](#family-359903-ibm-tape-cartridge-3592)
@@ -218,6 +220,30 @@ content update: 2024-07-25 00:32:12.02636504 +0800 CST
 | 3589-002 | 2000-08-23 | 2000-09-01 | 2008-12-26 | - |
 | 3589-003 | 2000-08-23 | 2000-09-01 | 2008-12-26 | - |
 | 3589-004 | 2000-08-23 | 2000-09-01 | - | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 3589+02 IBM Ultrium Cartridges Models 006 and 007
+
+🔗 [https://www.ibm.com/docs/en/announcements/ultrium-cartridges-models-006-007](https://www.ibm.com/docs/en/announcements/ultrium-cartridges-models-006-007?region=AP)
+
+📅 2023-11-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3589-006 | 2003-06-03 | 2003-06-13 | 2009-05-29 | - |
+| 3589-007 | 2003-06-03 | 2003-06-06 | 2009-05-29 | - |
 
 
 
@@ -441,6 +467,29 @@ content update: 2024-07-25 00:32:12.02636504 +0800 CST
 | --- | --- | --- | --- | --- |
 | 3589-553 | 2021-09-07 | 2021-09-10 | - | - |
 | 3589-653 | 2021-09-07 | 2021-09-10 | - | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 3589+12 IBM 3589 Ultrium Cleaning Cartridges Model 005 w/ customized labeling service
+
+🔗 [https://www.ibm.com/docs/en/announcements/3589-ultrium-cleaning-cartridges-model-005-w-customized-labeling-service](https://www.ibm.com/docs/en/announcements/3589-ultrium-cleaning-cartridges-model-005-w-customized-labeling-service?region=AP)
+
+📅 2023-11-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3589-005 | 2021-12-14 | 2021-12-17 | - | - |
 
 
 

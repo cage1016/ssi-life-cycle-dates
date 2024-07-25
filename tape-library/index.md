@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2024-07-25 00:32:12.02636504 +0800 CST
+content update: 2024-07-26 00:31:33.479878686 +0800 CST
 
 ---
 
@@ -15,6 +15,7 @@ content update: 2024-07-25 00:32:12.02636504 +0800 CST
 - [Family 3555+01 IBM TS4300 tape library Models L3A and E3A](#family-355501-ibm-ts4300-tape-library-models-l3a-and-e3a)
 - [Family 3572+01 IBM System Storage TS2900 Tape Autoloader](#family-357201-ibm-system-storage-ts2900-tape-autoloader)
 - [Family 3573+01 IBM System Storage TS3100 Tape Library Express Model L2U](#family-357301-ibm-system-storage-ts3100-tape-library-express-model-l2u)
+- [Family 3573+03 IBM System Storage TS3200 Tape Library Express Model L4U](#family-357303-ibm-system-storage-ts3200-tape-library-express-model-l4u)
 - [Family 3576+01 IBM System Storage TS3310 Tape Library and Expansion Modules](#family-357601-ibm-system-storage-ts3310-tape-library-and-expansion-modules)
 - [Family 3577+01 IBM System Storage TS3400 Tape Library Model L5U](#family-357701-ibm-system-storage-ts3400-tape-library-model-l5u)
 - [3582-L23 IBM TotalStorage Ultrium Tape Library Model L23](#3582-l23-ibm-totalstorage-ultrium-tape-library-model-l23)
@@ -226,6 +227,29 @@ content update: 2024-07-25 00:32:12.02636504 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3573-L2U | 2006-04-11 | 2006-05-12 | 2018-03-24 | 2023-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 3573+03 IBM System Storage TS3200 Tape Library Express Model L4U
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts3200-tape-library-express-model-l4u](https://www.ibm.com/docs/en/announcements/system-storage-ts3200-tape-library-express-model-l4u?region=AP)
+
+📅 2022-07-26
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3573-L4U | 2006-05-09 | 2006-06-09 | 2018-03-24 | 2023-12-31 |
 
 
 
