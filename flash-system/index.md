@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2024-07-26 00:31:33.479878686 +0800 CST
+content update: 2024-07-27 00:32:06.020722375 +0800 CST
 
 ---
 
@@ -23,12 +23,18 @@ content update: 2024-07-26 00:31:33.479878686 +0800 CST
 - [Family 9831+01 IBM FlashSystem 720 and FlashSystem 820](#family-983101-ibm-flashsystem-720-and-flashsystem-820)
 - [Family 9835+01 IBM FlashSystem A9000R](#family-983501-ibm-flashsystem-a9000r)
 - [Family 9835+02 IBM FlashSystem A9000R](#family-983502-ibm-flashsystem-a9000r)
+- [Family 9836+01 IBM FlashSystem A9000](#family-983601-ibm-flashsystem-a9000)
 - [Family 9836+02 IBM FlashSystem A9000](#family-983602-ibm-flashsystem-a9000)
 - [Family 9837+01 IBM FlashSystem A9000R](#family-983701-ibm-flashsystem-a9000r)
 - [Family 9837+02 IBM FlashSystem A9000R](#family-983702-ibm-flashsystem-a9000r)
 - [Family 9837+03 IBM FlashSystem A9000R Utility Offerings](#family-983703-ibm-flashsystem-a9000r-utility-offerings)
 - [Family 9838+01 IBM FlashSystem A9000](#family-983801-ibm-flashsystem-a9000)
+- [Family 9838+02 IBM FlashSystem A9000](#family-983802-ibm-flashsystem-a9000)
 - [Family 9838+03 IBM FlashSystem A9000 Utility Offerings](#family-983803-ibm-flashsystem-a9000-utility-offerings)
+- [Family 9840+01 IBM FlashSystem 840](#family-984001-ibm-flashsystem-840)
+- [Family 9840+02 IBM FlashSystem 900](#family-984002-ibm-flashsystem-900)
+- [Family 9840+03 IBM FlashSystem 900](#family-984003-ibm-flashsystem-900)
+- [Family 9843+01 IBM FlashSystem 840](#family-984301-ibm-flashsystem-840)
 - [Family 9843+02 IBM FlashSystem 900](#family-984302-ibm-flashsystem-900)
 - [Family 9843+03 IBM FlashSystem 900](#family-984303-ibm-flashsystem-900)
 - [Family 9846+01 IBM FlashSystem V840](#family-984601-ibm-flashsystem-v840)
@@ -465,6 +471,29 @@ content update: 2024-07-26 00:31:33.479878686 +0800 CST
 
 
 
+### Family 9836+01 IBM FlashSystem A9000
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-a9000](https://www.ibm.com/docs/en/announcements/flashsystem-a9000?region=AP)
+
+📅 2021-07-13
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9836-415 | 2016-04-27 | 2016-04-29 | 2018-06-02 | 2022-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 9836+02 IBM FlashSystem A9000
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-a9000-2022-07-26](https://www.ibm.com/docs/en/announcements/flashsystem-a9000-2022-07-26?region=AP)
@@ -580,6 +609,29 @@ content update: 2024-07-26 00:31:33.479878686 +0800 CST
 
 
 
+### Family 9838+02 IBM FlashSystem A9000
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-a9000-2022-07-26-1](https://www.ibm.com/docs/en/announcements/flashsystem-a9000-2022-07-26-1?region=AP)
+
+📅 2022-07-26
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9838-425 | 2017-10-27 | 2017-11-24 | 2020-11-20 | 2023-07-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 9838+03 IBM FlashSystem A9000 Utility Offerings
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-a9000-utility-offerings](https://www.ibm.com/docs/en/announcements/flashsystem-a9000-utility-offerings?region=AP)
@@ -589,6 +641,98 @@ content update: 2024-07-26 00:31:33.479878686 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9838-U25 | 2018-02-27 | 2018-03-09 | 2020-11-20 | 2023-07-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 9840+01 IBM FlashSystem 840
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-840-2018-07-10](https://www.ibm.com/docs/en/announcements/flashsystem-840-2018-07-10?region=AP)
+
+📅 2018-07-10
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9840-AE1 | 2013-12-17 | 2014-01-24 | 2015-06-02 | 2019-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 9840+02 IBM FlashSystem 900
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-900](https://www.ibm.com/docs/en/announcements/flashsystem-900?region=AP)
+
+📅 2021-07-13
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9840-AE2 | 2015-02-23 | 2015-03-20 | 2018-07-12 | 2022-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 9840+03 IBM FlashSystem 900
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-900-2023-07-11](https://www.ibm.com/docs/en/announcements/flashsystem-900-2023-07-11?region=AP)
+
+📅 2023-07-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9840-AE3 | 2017-10-24 | 2017-11-17 | 2020-11-20 | 2024-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 9843+01 IBM FlashSystem 840
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-840](https://www.ibm.com/docs/en/announcements/flashsystem-840?region=AP)
+
+📅 2018-07-10
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9843-AE1 | 2013-12-17 | 2014-01-24 | 2015-06-02 | 2019-12-31 |
 
 
 
