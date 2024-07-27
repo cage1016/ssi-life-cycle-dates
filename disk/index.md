@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-07-27 00:32:06.020722375 +0800 CST
+content update: 2024-07-28 00:32:18.439466363 +0800 CST
 
 ---
 
@@ -228,6 +228,7 @@ content update: 2024-07-27 00:32:06.020722375 +0800 CST
 - [9390-002 IBM RAMAC 3 Array Storage Control Model 002](#9390-002-ibm-ramac-3-array-storage-control-model-002)
 - [9391-A30 IBM RAMAC 3 Array DASD Model A30](#9391-a30-ibm-ramac-3-array-dasd-model-a30)
 - [9392-B13 IBM RAMAC Array DASD Model B13](#9392-b13-ibm-ramac-array-dasd-model-b13)
+- [9392-B23 IBM RAMAC 2 Array DASD Model B23](#9392-b23-ibm-ramac-2-array-dasd-model-b23)
 - [9392-B33 IBM RAMAC 3 Array DASD Model B33](#9392-b33-ibm-ramac-3-array-dasd-model-b33)
 - [9393-001 IBM RAMAC Virtual Array Storage Model 001](#9393-001-ibm-ramac-virtual-array-storage-model-001)
 - [9393-002 IBM RAMAC Virtual Array Storage Model 002](#9393-002-ibm-ramac-virtual-array-storage-model-002)
@@ -5462,6 +5463,29 @@ content update: 2024-07-27 00:32:06.020722375 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9392-B13 | 1994-06-21 | 1994-09-30 | 1997-03-14 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 9392-B23 IBM RAMAC 2 Array DASD Model B23
+
+🔗 [https://www.ibm.com/docs/en/announcements/ramac-2-array-dasd-model-b23](https://www.ibm.com/docs/en/announcements/ramac-2-array-dasd-model-b23?region=AP)
+
+📅 2009-06-07
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9392-B23 | 1995-06-12 | 1995-10-27 | 1998-07-28 | 2010-12-31 |
 
 
 
