@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-07-29 00:31:46.257148498 +0800 CST
+content update: 2024-07-30 00:32:51.609743313 +0800 CST
 
 ---
 
@@ -24,9 +24,7 @@ content update: 2024-07-29 00:31:46.257148498 +0800 CST
 - [Family 1812+02 IBM System Storage DS4000 EXP420 Storage Expansion Unit](#family-181202-ibm-system-storage-ds4000-exp420-storage-expansion-unit)
 - [Family 1812+03 IBM System Storage DS4000 EXP810 Expansion Unit Model 81S](#family-181203-ibm-system-storage-ds4000-exp810-expansion-unit-model-81s)
 - [Family 1813+02 IBM System Storage DCS3860 (AAS)](#family-181302-ibm-system-storage-dcs3860-aas)
-- [Family 1813+03 IBM System Storage DCS3860 Controller 96C](#family-181303-ibm-system-storage-dcs3860-controller-96c)
 - [Family 1814+01 IBM System Storage DS4700 Express Models](#family-181401-ibm-system-storage-ds4700-express-models)
-- [Family 1814+02 IBM System Storage DS4200 Express Model 7V](#family-181402-ibm-system-storage-ds4200-express-model-7v)
 - [Family 1814+03 IBM System Storage DS4700 Express Models 70-DC and 72-DC](#family-181403-ibm-system-storage-ds4700-express-models-70-dc-and-72-dc)
 - [Family 1814+04 IBM System Storage DS5020 Midrange Disk EXP520 Expansion Unit](#family-181404-ibm-system-storage-ds5020-midrange-disk-exp520-expansion-unit)
 - [Family 1815+01 IBM TotalStorage DS4800 Midrange Disk System](#family-181501-ibm-totalstorage-ds4800-midrange-disk-system)
@@ -645,29 +643,6 @@ content update: 2024-07-29 00:31:46.257148498 +0800 CST
 
 
 
-### Family 1813+03 IBM System Storage DCS3860 Controller 96C
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-dcs3860-controller-96c](https://www.ibm.com/docs/en/announcements/system-storage-dcs3860-controller-96c?region=AP)
-
-📅 2021-07-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1813-96C | 2015-04-28 | 2015-06-05 | 2017-09-09 | 2022-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 1814+01 IBM System Storage DS4700 Express Models
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds4700-express-models](https://www.ibm.com/docs/en/announcements/system-storage-ds4700-express-models?region=AP)
@@ -678,29 +653,6 @@ content update: 2024-07-29 00:31:46.257148498 +0800 CST
 | --- | --- | --- | --- | --- |
 | 1814-70A | 2006-05-09 | 2006-06-09 | 2009-12-11 | 2017-01-31 |
 | 1814-72A | 2006-05-09 | 2006-06-09 | 2009-12-11 | 2017-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 1814+02 IBM System Storage DS4200 Express Model 7V
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds4200-express-model-7v](https://www.ibm.com/docs/en/announcements/system-storage-ds4200-express-model-7v?region=AP)
-
-📅 2016-07-19
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1814-7VA | 2007-10-23 | 2007-10-23 | 2008-12-31 | 2017-01-31 |
 
 
 
