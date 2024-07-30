@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2024-07-30 00:32:51.609743313 +0800 CST
+content update: 2024-07-31 00:32:28.657008245 +0800 CST
 
 ---
 
@@ -27,16 +27,12 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 - [Family 3580+03 IBM TotalStorage 3580 Ultrium 3 LTO Tape Drive](#family-358003-ibm-totalstorage-3580-ultrium-3-lto-tape-drive)
 - [Family 3580+06 IBM Storage System TS2230 Tape Drive Model H3L](#family-358006-ibm-storage-system-ts2230-tape-drive-model-h3l)
 - [Family 3580+07 IBM System Storage TS2340 Tape Drive Express Models L43 and S43](#family-358007-ibm-system-storage-ts2340-tape-drive-express-models-l43-and-s43)
-- [Family 3580+08 IBM System Storage TS2230 Tape Drive H3S LTO 3 Half-High](#family-358008-ibm-system-storage-ts2230-tape-drive-h3s-lto-3-half-high)
 - [Family 3580+09 IBM System Storage TS2240 Tape Drive Express Model H4S](#family-358009-ibm-system-storage-ts2240-tape-drive-express-model-h4s)
-- [Family 3580+12 IBM System Storage TS2250 Tape Drive Express Model H5S](#family-358012-ibm-system-storage-ts2250-tape-drive-express-model-h5s)
 - [Family 3580+13 IBM System Storage TS2350 Tape Drive Express Model S53](#family-358013-ibm-system-storage-ts2350-tape-drive-express-model-s53)
 - [Family 3580+14 IBM System Storage TS2240 Tape Drive Express Model H4V](#family-358014-ibm-system-storage-ts2240-tape-drive-express-model-h4v)
-- [Family 3580+15 IBM System Storage TS2230 Tape Drive Express Model H3V](#family-358015-ibm-system-storage-ts2230-tape-drive-express-model-h3v)
 - [Family 3580+16 IBM System Storage TS2360 Tape Drive Model S63](#family-358016-ibm-system-storage-ts2360-tape-drive-model-s63)
 - [Family 3580+17 IBM System Storage TS2260 Tape Drive Model H6S](#family-358017-ibm-system-storage-ts2260-tape-drive-model-h6s)
 - [Family 3580+18 IBM TS2270 Tape Drive Model H7S](#family-358018-ibm-ts2270-tape-drive-model-h7s)
-- [Family 3580+19 IBM TS2280 Tape Drive Model H8S](#family-358019-ibm-ts2280-tape-drive-model-h8s)
 - [Family 3580+20 IBM TS2290 SAS Tape Drive Model H9S](#family-358020-ibm-ts2290-sas-tape-drive-model-h9s)
 - [Family 3581+01 IBM Ultrium Tape Autoloader](#family-358101-ibm-ultrium-tape-autoloader)
 - [Family 3581+02 IBM Ultrium Tape Autoloader](#family-358102-ibm-ultrium-tape-autoloader)
@@ -88,6 +84,7 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 - [7205-550 IBM 160 GB External Digital Linear Tape Drive Model 550](#7205-550-ibm-160-gb-external-digital-linear-tape-drive-model-550)
 - [7206-110 IBM 12GB External 4mm DDS-3 Tape Drive Model 110](#7206-110-ibm-12gb-external-4mm-dds-3-tape-drive-model-110)
 - [7206-220 IBM External 20 GB 4mm DDS-4 Tape Drive Model 220](#7206-220-ibm-external-20-gb-4mm-dds-4-tape-drive-model-220)
+- [7206-336 IBM External 36 GB DAT72 (DDS Gen5) Tape Drive Model 336](#7206-336-ibm-external-36-gb-dat72-dds-gen5-tape-drive-model-336)
 - [7206-VX2 IBM External Tape Drive Model VX2](#7206-vx2-ibm-external-tape-drive-model-vx2)
 - [7206-VX3 IBM External Tape Drive Model VX3](#7206-vx3-ibm-external-tape-drive-model-vx3)
 - [7207-122 IBM 4 GB External SLR5 QIC Tape Drive Model 122](#7207-122-ibm-4-gb-external-slr5-qic-tape-drive-model-122)
@@ -586,29 +583,6 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 
 
 
-### Family 3580+08 IBM System Storage TS2230 Tape Drive H3S LTO 3 Half-High
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts2230-tape-drive-h3s-lto-3-half-high](https://www.ibm.com/docs/en/announcements/system-storage-ts2230-tape-drive-h3s-lto-3-half-high?region=AP)
-
-📅 2023-05-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3580-H3S | 2007-07-10 | 2007-08-03 | 2010-12-03 | 2015-04-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 3580+09 IBM System Storage TS2240 Tape Drive Express Model H4S
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts2240-tape-drive-express-model-h4s-2019-07-09](https://www.ibm.com/docs/en/announcements/system-storage-ts2240-tape-drive-express-model-h4s-2019-07-09?region=AP)
@@ -618,29 +592,6 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3580-H4S | 2007-10-23 | 2007-11-16 | 2010-12-03 | 2020-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3580+12 IBM System Storage TS2250 Tape Drive Express Model H5S
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts2250-tape-drive-express-model-h5s](https://www.ibm.com/docs/en/announcements/system-storage-ts2250-tape-drive-express-model-h5s?region=AP)
-
-📅 2023-05-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3580-H5S | 2014-05-06 | 2014-05-06 | 2018-09-15 | 2023-12-31 |
 
 
 
@@ -687,29 +638,6 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3580-H4V | 2014-04-28 | 2014-04-28 | 2016-11-30 | 2020-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3580+15 IBM System Storage TS2230 Tape Drive Express Model H3V
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts2230-tape-drive-express-model-h3v](https://www.ibm.com/docs/en/announcements/system-storage-ts2230-tape-drive-express-model-h3v?region=AP)
-
-📅 2023-05-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3580-H3V | 2010-11-09 | 2010-12-03 | 2012-12-28 | - |
 
 
 
@@ -779,29 +707,6 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3580-H7S | 2015-10-06 | 2015-11-20 | 2024-06-30 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3580+19 IBM TS2280 Tape Drive Model H8S
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts2280-tape-drive-model-h8s](https://www.ibm.com/docs/en/announcements/ts2280-tape-drive-model-h8s?region=AP)
-
-📅 2023-12-12
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3580-H8S | 2017-10-10 | 2017-11-17 | - | - |
 
 
 
@@ -1986,6 +1891,29 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7206-220 | 2000-02-08 | 2000-02-25 | 2005-07-29 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7206-336 IBM External 36 GB DAT72 (DDS Gen5) Tape Drive Model 336
+
+🔗 [https://www.ibm.com/docs/en/announcements/external-36-gb-dat72-dds-gen5-tape-drive-model-336](https://www.ibm.com/docs/en/announcements/external-36-gb-dat72-dds-gen5-tape-drive-model-336?region=AP)
+
+📅 2018-07-10
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7206-336 | 2003-11-11 | 2003-12-05 | 2008-12-19 | - |
 
 
 

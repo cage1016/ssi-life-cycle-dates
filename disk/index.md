@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-07-30 00:32:51.609743313 +0800 CST
+content update: 2024-07-31 00:32:28.657008245 +0800 CST
 
 ---
 
@@ -24,7 +24,9 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 - [Family 1812+02 IBM System Storage DS4000 EXP420 Storage Expansion Unit](#family-181202-ibm-system-storage-ds4000-exp420-storage-expansion-unit)
 - [Family 1812+03 IBM System Storage DS4000 EXP810 Expansion Unit Model 81S](#family-181203-ibm-system-storage-ds4000-exp810-expansion-unit-model-81s)
 - [Family 1813+02 IBM System Storage DCS3860 (AAS)](#family-181302-ibm-system-storage-dcs3860-aas)
+- [Family 1813+03 IBM System Storage DCS3860 Controller 96C](#family-181303-ibm-system-storage-dcs3860-controller-96c)
 - [Family 1814+01 IBM System Storage DS4700 Express Models](#family-181401-ibm-system-storage-ds4700-express-models)
+- [Family 1814+02 IBM System Storage DS4200 Express Model 7V](#family-181402-ibm-system-storage-ds4200-express-model-7v)
 - [Family 1814+03 IBM System Storage DS4700 Express Models 70-DC and 72-DC](#family-181403-ibm-system-storage-ds4700-express-models-70-dc-and-72-dc)
 - [Family 1814+04 IBM System Storage DS5020 Midrange Disk EXP520 Expansion Unit](#family-181404-ibm-system-storage-ds5020-midrange-disk-exp520-expansion-unit)
 - [Family 1815+01 IBM TotalStorage DS4800 Midrange Disk System](#family-181501-ibm-totalstorage-ds4800-midrange-disk-system)
@@ -38,6 +40,7 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 - [Family 1818+06 IBM System Storage DCS3700 Controller 90C](#family-181806-ibm-system-storage-dcs3700-controller-90c)
 - [Family 2071+02 IBM Storwize V3500 Disk System](#family-207102-ibm-storwize-v3500-disk-system)
 - [Family 2072+03 IBM Storwize V3700 Disk System (AAS)](#family-207203-ibm-storwize-v3700-disk-system-aas)
+- [Family 2072+04 IBM Storwize V5000E](#family-207204-ibm-storwize-v5000e)
 - [Family 2072+04 IBM Storwize V5000E](#family-207204-ibm-storwize-v5000e)
 - [Family 2076+01 IBM Storwize V7000 Disk System](#family-207601-ibm-storwize-v7000-disk-system)
 - [Family 2076+02 IBM Storwize V7000 Disk System](#family-207602-ibm-storwize-v7000-disk-system)
@@ -208,7 +211,6 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 - [9337-140 IBM Disk Array Subsystem Model 140](#9337-140-ibm-disk-array-subsystem-model-140)
 - [9337-210 IBM Disk Array Subsystem Model 210](#9337-210-ibm-disk-array-subsystem-model-210)
 - [9337-215 IBM Disk Array Subsystem Model 215](#9337-215-ibm-disk-array-subsystem-model-215)
-- [9337-220 IBM Disk Array Subsystem Model 220](#9337-220-ibm-disk-array-subsystem-model-220)
 - [9337-225 IBM Disk Array Subsystem Model 225](#9337-225-ibm-disk-array-subsystem-model-225)
 - [9337-240 IBM Disk Array Subsystem Model 240](#9337-240-ibm-disk-array-subsystem-model-240)
 - [9337-420 IBM Disk Array Subsystem Model 420](#9337-420-ibm-disk-array-subsystem-model-420)
@@ -643,6 +645,29 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 
 
 
+### Family 1813+03 IBM System Storage DCS3860 Controller 96C
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-dcs3860-controller-96c](https://www.ibm.com/docs/en/announcements/system-storage-dcs3860-controller-96c?region=AP)
+
+📅 2021-07-13
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 1813-96C | 2015-04-28 | 2015-06-05 | 2017-09-09 | 2022-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 1814+01 IBM System Storage DS4700 Express Models
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds4700-express-models](https://www.ibm.com/docs/en/announcements/system-storage-ds4700-express-models?region=AP)
@@ -653,6 +678,29 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 | --- | --- | --- | --- | --- |
 | 1814-70A | 2006-05-09 | 2006-06-09 | 2009-12-11 | 2017-01-31 |
 | 1814-72A | 2006-05-09 | 2006-06-09 | 2009-12-11 | 2017-01-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 1814+02 IBM System Storage DS4200 Express Model 7V
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds4200-express-model-7v](https://www.ibm.com/docs/en/announcements/system-storage-ds4200-express-model-7v?region=AP)
+
+📅 2016-07-19
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 1814-7VA | 2007-10-23 | 2007-10-23 | 2008-12-31 | 2017-01-31 |
 
 
 
@@ -987,13 +1035,42 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 2072-12F | 2019-04-09 | 2019-04-26 | 2020-04-11 | - |
-| 2072-212 | 2019-04-09 | 2019-04-26 | 2020-04-11 | - |
-| 2072-224 | 2019-04-09 | 2019-04-26 | 2020-04-11 | - |
-| 2072-24F | 2019-04-09 | 2019-04-26 | 2020-04-11 | - |
-| 2072-312 | 2019-04-09 | 2019-04-26 | 2020-04-11 | - |
-| 2072-324 | 2019-04-09 | 2019-04-26 | 2020-04-11 | - |
-| 2072-92F | 2019-04-09 | 2019-04-26 | 2020-04-11 | - |
+| 2072-12F | 2019-04-09 | 2019-04-26 | 2020-04-11 | 31 December 2025 |
+| 2072-212 | 2019-04-09 | 2019-04-26 | 2020-04-11 | 31 December 2025 |
+| 2072-224 | 2019-04-09 | 2019-04-26 | 2020-04-11 | 31 December 2025 |
+| 2072-24F | 2019-04-09 | 2019-04-26 | 2020-04-11 | 31 December 2025 |
+| 2072-312 | 2019-04-09 | 2019-04-26 | 2020-04-11 | 31 December 2025 |
+| 2072-324 | 2019-04-09 | 2019-04-26 | 2020-04-11 | 31 December 2025 |
+| 2072-92F | 2019-04-09 | 2019-04-26 | 2020-04-11 | 31 December 2025 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2072+04 IBM Storwize V5000E
+
+🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5000e](https://www.ibm.com/docs/en/announcements/storwize-v5000e?region=AP)
+
+📅 2020-02-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2072-12F | 2019-04-09 | 2019-04-26 | 2020-04-11 | 31 December 2025 |
+| 2072-212 | 2019-04-09 | 2019-04-26 | 2020-04-11 | 31 December 2025 |
+| 2072-224 | 2019-04-09 | 2019-04-26 | 2020-04-11 | 31 December 2025 |
+| 2072-24F | 2019-04-09 | 2019-04-26 | 2020-04-11 | 31 December 2025 |
+| 2072-312 | 2019-04-09 | 2019-04-26 | 2020-04-11 | 31 December 2025 |
+| 2072-324 | 2019-04-09 | 2019-04-26 | 2020-04-11 | 31 December 2025 |
+| 2072-92F | 2019-04-09 | 2019-04-26 | 2020-04-11 | 31 December 2025 |
 
 
 
@@ -1062,14 +1139,14 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000](https://www.ibm.com/docs/en/announcements/storwize-v7000?region=AP)
 
-📅 2023-12-05
+📅 2020-02-11
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 2076-12F | 2014-05-06 | 2014-06-06 | 2020-04-11 | - |
-| 2076-24F | 2014-05-06 | 2014-06-06 | 2020-04-11 | - |
-| 2076-524 | 2014-05-06 | 2014-06-06 | 2017-06-17 | 2022-12-31 |
-| 2076-92F | 2016-11-02 | 2016-12-09 | 2020-04-11 | - |
+| 2076-12F | 2014-05-06 | 2014-06-06 | 2020-04-11 | 31 December 2025 |
+| 2076-24F | 2014-05-06 | 2014-06-06 | 2020-04-11 | 31 December 2025 |
+| 2076-524 | 2014-05-06 | 2014-06-06 | 2017-06-17 | 31 December 2022 |
+| 2076-92F | 2016-11-02 | 2016-12-09 | 2020-04-11 | 31 December 2025 |
 
 
 
@@ -1088,13 +1165,13 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000f](https://www.ibm.com/docs/en/announcements/storwize-v7000f?region=AP)
 
-📅 2023-12-05
+📅 2020-02-11
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 2076-AFF | 2016-08-23 | 2016-09-09 | 2020-04-11 | - |
-| 2076-AF6 | 2016-08-23 | 2016-09-09 | 2020-08-15 | 2024-12-31 |
-| 2076-A9F | 2017-03-14 | 2017-03-17 | 2020-04-11 | - |
+| 2076-AFF | 2016-08-23 | 2016-09-09 | 2020-04-11 | 31 December 2025 |
+| 2076-AF6 | 2016-08-23 | 2016-09-09 | 2020-08-15 | 31 December 2031 |
+| 2076-A9F | 2017-03-14 | 2017-03-17 | 2020-04-11 | 31 December 2025 |
 
 
 
@@ -1137,12 +1214,12 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000-2021-10-26-1](https://www.ibm.com/docs/en/announcements/storwize-v7000-2021-10-26-1?region=AP)
 
-📅 2023-12-05
+📅 2020-02-11
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 2076-U7B | 2018-11-06 | 2019-01-25 | 2020-10-17 | - |
-| 2076-724 | 2018-11-06 | 2018-12-07 | 2020-10-17 | - |
+| 2076-U7B | 2018-11-06 | 2019-01-25 | 2020-10-17 | 31 December 2025 |
+| 2076-724 | 2018-11-06 | 2018-12-07 | 2020-10-17 | 31 December 2025 |
 
 
 
@@ -1214,19 +1291,19 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5000](https://www.ibm.com/docs/en/announcements/storwize-v5000?region=AP)
 
-📅 2022-07-26
+📅 2020-02-11
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2077-112 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2077-12F | 2016-02-16 | 2016-03-04 | 2020-04-11 | - |
+| 2077-12F | 2016-02-16 | 2016-03-04 | 2020-04-11 | 31 December 2025 |
 | 2077-124 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
 | 2077-212 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
 | 2077-224 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2077-24F | 2016-02-16 | 2016-03-04 | 2020-04-11 | - |
+| 2077-24F | 2016-02-16 | 2016-03-04 | 2020-04-11 | 31 December 2025 |
 | 2077-312 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
 | 2077-324 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2077-92F | 2016-11-02 | 2016-12-09 | 2020-04-11 | - |
+| 2077-92F | 2016-11-02 | 2016-12-09 | 2020-04-11 | 31 December 2025 |
 
 
 
@@ -1245,13 +1322,13 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5030f](https://www.ibm.com/docs/en/announcements/storwize-v5030f?region=AP)
 
-📅 2022-07-26
+📅 2020-02-11
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 2077-AFF | 2016-08-23 | 2016-09-09 | 2020-04-11 | - |
+| 2077-AFF | 2016-08-23 | 2016-09-09 | 2020-04-11 | 31 December 2025 |
 | 2077-AF3 | 2016-08-23 | 2016-09-09 | 2020-01-11 | 2023-12-31 |
-| 2077-A9F | 2017-03-14 | 2017-03-17 | 2020-04-11 | - |
+| 2077-A9F | 2017-03-14 | 2017-03-17 | 2020-04-11 | 31 December 2025 |
 
 
 
@@ -1270,12 +1347,12 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5100](https://www.ibm.com/docs/en/announcements/storwize-v5100?region=AP)
 
-📅 2021-10-26
+📅 2020-02-11
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 2077-AF4 | 2019-04-09 | 2019-06-07 | 2020-04-11 | - |
-| 2077-424 | 2019-04-09 | 2019-06-07 | 2020-04-11 | - |
+| 2077-AF4 | 2019-04-09 | 2019-06-07 | 2020-04-11 | 31 December 2025 |
+| 2077-424 | 2019-04-09 | 2019-06-07 | 2020-04-11 | 31 December 2025 |
 
 
 
@@ -1346,19 +1423,19 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5000-2022-07-26](https://www.ibm.com/docs/en/announcements/storwize-v5000-2022-07-26?region=AP)
 
-📅 2022-07-26
+📅 2020-02-11
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2078-112 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2078-12F | 2016-02-16 | 2016-03-04 | 2020-04-11 | - |
+| 2078-12F | 2016-02-16 | 2016-03-04 | 2020-04-11 | 31 December 2025 |
 | 2078-124 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
 | 2078-212 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
 | 2078-224 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2078-24F | 2016-02-16 | 2016-03-04 | 2020-04-11 | - |
+| 2078-24F | 2016-02-16 | 2016-03-04 | 2020-04-11 | 31 December 2025 |
 | 2078-312 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
 | 2078-324 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2078-92F | 2016-11-02 | 2016-12-09 | 2020-04-11 | - |
+| 2078-92F | 2016-11-02 | 2016-12-09 | 2020-04-11 | 31 December 2025 |
 | 2078-U5A | 2017-11-14 | 2017-12-08 | 2020-01-11 | 2023-12-31 |
 
 
@@ -1378,13 +1455,13 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5030f-2022-07-26](https://www.ibm.com/docs/en/announcements/storwize-v5030f-2022-07-26?region=AP)
 
-📅 2022-07-26
+📅 2020-02-11
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 2078-AFF | 2016-08-23 | 2016-09-09 | 2020-04-11 | - |
+| 2078-AFF | 2016-08-23 | 2016-09-09 | 2020-04-11 | 31 December 2025 |
 | 2078-AF3 | 2016-08-23 | 2016-09-09 | 2020-01-11 | 2023-12-31 |
-| 2078-A9F | 2017-03-14 | 2017-03-17 | 2020-04-11 | - |
+| 2078-A9F | 2017-03-14 | 2017-03-17 | 2020-04-11 | 31 December 2025 |
 
 
 
@@ -1403,13 +1480,13 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5100-2021-10-26](https://www.ibm.com/docs/en/announcements/storwize-v5100-2021-10-26?region=AP)
 
-📅 2021-10-26
+📅 2020-02-11
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 2078-AF4 | 2019-04-09 | 2019-06-07 | 2020-04-11 | - |
-| 2078-U5B | 2019-04-09 | 2019-06-07 | 2020-04-11 | - |
-| 2078-424 | 2019-04-09 | 2019-06-07 | 2020-04-11 | - |
+| 2078-AF4 | 2019-04-09 | 2019-06-07 | 2020-04-11 | 31 December 2025 |
+| 2078-U5B | 2019-04-09 | 2019-06-07 | 2020-04-11 | 31 December 2025 |
+| 2078-424 | 2019-04-09 | 2019-06-07 | 2020-04-11 | 31 December 2025 |
 
 
 
@@ -5001,29 +5078,6 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9337-215 | 1993-09-07 | 1993-11-26 | 1994-12-30 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9337-220 IBM Disk Array Subsystem Model 220
-
-🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-220](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-220?region=AP)
-
-📅 2008-06-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9337-220 | 1993-09-07 | 1993-11-26 | 1994-08-03 | - |
 
 
 

@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2024-07-30 00:32:51.609743313 +0800 CST
+content update: 2024-07-31 00:32:28.657008245 +0800 CST
 
 ---
 
@@ -32,11 +32,8 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 - [3599-001 IBM 3590 High Performance Cartridge Tape with Labeling and Initialization Model 001](#3599-001-ibm-3590-high-performance-cartridge-tape-with-labeling-and-initialization-model-001)
 - [3599-002 IBM 3590 High Performance Cartridge Tape with Labeling Model 002](#3599-002-ibm-3590-high-performance-cartridge-tape-with-labeling-model-002)
 - [3599-003 IBM 3590 High Performance Cartridge Tape Model 003](#3599-003-ibm-3590-high-performance-cartridge-tape-model-003)
-- [3599-004 IBM 3590 Extended High Performance Cartridge Tape Model 004](#3599-004-ibm-3590-extended-high-performance-cartridge-tape-model-004)
 - [3599-005 IBM 3590 Extended High Performance Cartridge Tape Model 005](#3599-005-ibm-3590-extended-high-performance-cartridge-tape-model-005)
 - [3599-006 IBM 3590 Extended High Performance Cartridge Tape Model 006](#3599-006-ibm-3590-extended-high-performance-cartridge-tape-model-006)
-- [3599-007 IBM 3590 Cleaning Cartridges Model 007](#3599-007-ibm-3590-cleaning-cartridges-model-007)
-- [3599-008 IBM 3590 Cartridge Magazine Model 008](#3599-008-ibm-3590-cartridge-magazine-model-008)
 - [3599-011 IBM 3592 Enterprise Tape Cartridge with Labeling,Init Model 011](#3599-011-ibm-3592-enterprise-tape-cartridge-with-labeling-init-model-011)
 - [3599-012 IBM 3592 Enterprise Tape Cartridge with Labeling Model 012](#3599-012-ibm-3592-enterprise-tape-cartridge-with-labeling-model-012)
 - [3599-013 IBM 3592 Enterprise Tape Cartridge Model 013](#3599-013-ibm-3592-enterprise-tape-cartridge-model-013)
@@ -661,29 +658,6 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 
 
 
-### 3599-004 IBM 3590 Extended High Performance Cartridge Tape Model 004
-
-🔗 [https://www.ibm.com/docs/en/announcements/3590-extended-high-performance-cartridge-tape-model-004](https://www.ibm.com/docs/en/announcements/3590-extended-high-performance-cartridge-tape-model-004?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3599-004 | 2000-02-29 | 2000-03-17 | 2008-12-26 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 3599-005 IBM 3590 Extended High Performance Cartridge Tape Model 005
 
 🔗 [https://www.ibm.com/docs/en/announcements/3590-extended-high-performance-cartridge-tape-model-005](https://www.ibm.com/docs/en/announcements/3590-extended-high-performance-cartridge-tape-model-005?region=AP)
@@ -716,52 +690,6 @@ content update: 2024-07-30 00:32:51.609743313 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3599-006 | 2000-02-29 | 2000-03-03 | 2008-12-26 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3599-007 IBM 3590 Cleaning Cartridges Model 007
-
-🔗 [https://www.ibm.com/docs/en/announcements/3590-cleaning-cartridges-model-007](https://www.ibm.com/docs/en/announcements/3590-cleaning-cartridges-model-007?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3599-007 | 1999-08-24 | 1999-09-10 | 2008-12-26 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3599-008 IBM 3590 Cartridge Magazine Model 008
-
-🔗 [https://www.ibm.com/docs/en/announcements/3590-cartridge-magazine-model-008](https://www.ibm.com/docs/en/announcements/3590-cartridge-magazine-model-008?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3599-008 | 1999-08-24 | 1999-09-10 | 2008-12-26 | - |
 
 
 
