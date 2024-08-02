@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2024-08-02 00:32:19.156290106 +0800 CST
+content update: 2024-08-03 00:31:34.628206825 +0800 CST
 
 ---
 
@@ -34,6 +34,7 @@ content update: 2024-08-02 00:32:19.156290106 +0800 CST
 - [Family 9840+01 IBM FlashSystem 840](#family-984001-ibm-flashsystem-840)
 - [Family 9840+02 IBM FlashSystem 900](#family-984002-ibm-flashsystem-900)
 - [Family 9840+03 IBM FlashSystem 900](#family-984003-ibm-flashsystem-900)
+- [Family 9843+01 IBM FlashSystem 840](#family-984301-ibm-flashsystem-840)
 - [Family 9843+02 IBM FlashSystem 900](#family-984302-ibm-flashsystem-900)
 - [Family 9843+03 IBM FlashSystem 900](#family-984303-ibm-flashsystem-900)
 - [Family 9846+01 IBM FlashSystem V840](#family-984601-ibm-flashsystem-v840)
@@ -709,6 +710,29 @@ content update: 2024-08-02 00:32:19.156290106 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9840-AE3 | 2017-10-24 | 2017-11-17 | 2020-11-20 | 2024-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 9843+01 IBM FlashSystem 840
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-840](https://www.ibm.com/docs/en/announcements/flashsystem-840?region=AP)
+
+📅 2018-07-10
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9843-AE1 | 2013-12-17 | 2014-01-24 | 2015-06-02 | 2019-12-31 |
 
 
 
