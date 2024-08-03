@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2024-08-03 00:31:34.628206825 +0800 CST
+content update: 2024-08-04 00:32:02.68931534 +0800 CST
 
 ---
 
@@ -11,6 +11,7 @@ content update: 2024-08-03 00:31:34.628206825 +0800 CST
 - [Family 2005+01 IBM TotalStorage SAN Switch Models H08 and H16](#family-200501-ibm-totalstorage-san-switch-models-h08-and-h16)
 - [Family 2005+02 IBM TotalStorage SANB32 Switch](#family-200502-ibm-totalstorage-sanb32-switch)
 - [Family 2005+04 IBM TotalStorage SANB16B-2 Fabric Switch](#family-200504-ibm-totalstorage-sanb16b-2-fabric-switch)
+- [Family 2005+06 IBM System Storage SANR18B-R](#family-200506-ibm-system-storage-sanr18b-r)
 - [Family 2005+07 IBM System Storage SANB64B-2 Fabric Switch](#family-200507-ibm-system-storage-sanb64b-2-fabric-switch)
 - [Family 2005+08 IBM System Storage SANB32B-3 Fabric Switch](#family-200508-ibm-system-storage-sanb32b-3-fabric-switch)
 - [Family 2005+09 IBM System Storage SAN04B-R](#family-200509-ibm-system-storage-san04b-r)
@@ -27,6 +28,7 @@ content update: 2024-08-03 00:31:34.628206825 +0800 CST
 - [2109-M12 IBM TotalStorage SAN Switch Model M12](#2109-m12-ibm-totalstorage-san-switch-model-m12)
 - [2109-M14 IBM TotalStorage SAN Switch Model M14](#2109-m14-ibm-totalstorage-san-switch-model-m14)
 - [2109-M48 IBM TotalStorage SAN256B Director Model M48](#2109-m48-ibm-totalstorage-san256b-director-model-m48)
+- [2109-S08 IBM SAN Fibre Channel Switch Model S08](#2109-s08-ibm-san-fibre-channel-switch-model-s08)
 - [2109-S16 IBM SAN Fibre Channel Switch Model S16](#2109-s16-ibm-san-fibre-channel-switch-model-s16)
 - [Family 2498+01 IBM System Storage SAN24B-4 Express](#family-249801-ibm-system-storage-san24b-4-express)
 - [Family 2498+02 IBM System Storage SAN06B-R](#family-249802-ibm-system-storage-san06b-r)
@@ -35,11 +37,14 @@ content update: 2024-08-03 00:31:34.628206825 +0800 CST
 - [Family 2498+05 IBM System Networking SAN24B-5](#family-249805-ibm-system-networking-san24b-5)
 - [Family 2498+06 IBM System Networking SAN96B-5](#family-249806-ibm-system-networking-san96b-5)
 - [Family 2498+07 IBM System Storage SAN40B-4](#family-249807-ibm-system-storage-san40b-4)
+- [Family 2498+08 IBM System Storage SAN80B-4](#family-249808-ibm-system-storage-san80b-4)
+- [Family 2498+09 IBM System Networking SAN24B-5](#family-249809-ibm-system-networking-san24b-5)
 - [Family 2498+11 IBM System Storage SAN42B-R](#family-249811-ibm-system-storage-san42b-r)
 - [Family 2499+01 IBM System Storage SAN768B](#family-249901-ibm-system-storage-san768b)
 - [Family 2499+02 IBM System Storage SAN384B](#family-249902-ibm-system-storage-san384b)
 - [Family 2499+03 IBM Systems Storage SAN768B-2 and SAN384B-2](#family-249903-ibm-systems-storage-san768b-2-and-san384b-2)
 - [3534-1RU IBM SAN Fibre Channel Managed Hub Model 1RU](#3534-1ru-ibm-san-fibre-channel-managed-hub-model-1ru)
+- [3534-F08 IBM TotalStorage Storage Area Network (SAN) Model F08](#3534-f08-ibm-totalstorage-storage-area-network-san-model-f08)
 - [Family 3758+01 IBM Converged Switch B32](#family-375801-ibm-converged-switch-b32)
 - [Family 3758+02 IBM Converged Switch L32](#family-375802-ibm-converged-switch-l32)
 - [Family 3759+01 Brocade VDX6730-32, -76 Converged Switch for IBM](#family-375901-brocade-vdx6730-32-76-converged-switch-for-ibm)
@@ -146,6 +151,29 @@ content update: 2024-08-03 00:31:34.628206825 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2005-B16 | 2005-07-26 | 2005-08-26 | 2008-11-29 | 2012-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2005+06 IBM System Storage SANR18B-R
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-sanr18b-r](https://www.ibm.com/docs/en/announcements/system-storage-sanr18b-r?region=AP)
+
+📅 2013-10-15
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2005-R18 | 2006-05-09 | 2006-06-09 | 2009-01-03 | 2012-12-31 |
 
 
 
@@ -532,6 +560,29 @@ content update: 2024-08-03 00:31:34.628206825 +0800 CST
 
 
 
+### 2109-S08 IBM SAN Fibre Channel Switch Model S08
+
+🔗 [https://www.ibm.com/docs/en/announcements/san-fibre-channel-switch-model-s08](https://www.ibm.com/docs/en/announcements/san-fibre-channel-switch-model-s08?region=AP)
+
+📅 2008-07-16
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2109-S08 | 1999-08-03 | 1999-09-17 | 2003-01-30 | 2008-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 2109-S16 IBM SAN Fibre Channel Switch Model S16
 
 🔗 [https://www.ibm.com/docs/en/announcements/san-fibre-channel-switch-model-s16](https://www.ibm.com/docs/en/announcements/san-fibre-channel-switch-model-s16?region=AP)
@@ -717,6 +768,52 @@ content update: 2024-08-03 00:31:34.628206825 +0800 CST
 
 
 
+### Family 2498+08 IBM System Storage SAN80B-4
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-san80b-4](https://www.ibm.com/docs/en/announcements/system-storage-san80b-4?region=AP)
+
+📅 2021-02-23
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2498-B80 | 2008-05-13 | 2008-05-23 | 2014-06-20 | 2019-08-01 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2498+09 IBM System Networking SAN24B-5
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-networking-san24b-5-2023-07-11](https://www.ibm.com/docs/en/announcements/system-networking-san24b-5-2023-07-11?region=AP)
+
+📅 2023-07-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2498-X24 | 2014-10-06 | 2014-10-17 | 2020-07-28 | 2025-04-30 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 2498+11 IBM System Storage SAN42B-R
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-san42b-r](https://www.ibm.com/docs/en/announcements/system-storage-san42b-r?region=AP)
@@ -819,6 +916,29 @@ content update: 2024-08-03 00:31:34.628206825 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3534-1RU | 2001-04-23 | 2001-04-27 | 2003-02-14 | 2008-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3534-F08 IBM TotalStorage Storage Area Network (SAN) Model F08
+
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-storage-area-network-san-model-f08](https://www.ibm.com/docs/en/announcements/totalstorage-storage-area-network-san-model-f08?region=AP)
+
+📅 2009-08-18
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3534-F08 | 2002-04-23 | 2002-05-03 | 2004-10-15 | - |
 
 
 
