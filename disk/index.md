@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-08-05 00:31:41.066864362 +0800 CST
+content update: 2024-08-06 00:32:37.027484309 +0800 CST
 
 ---
 
@@ -214,7 +214,6 @@ content update: 2024-08-05 00:31:41.066864362 +0800 CST
 - [9337-225 IBM Disk Array Subsystem Model 225](#9337-225-ibm-disk-array-subsystem-model-225)
 - [9337-240 IBM Disk Array Subsystem Model 240](#9337-240-ibm-disk-array-subsystem-model-240)
 - [9337-420 IBM Disk Array Subsystem Model 420](#9337-420-ibm-disk-array-subsystem-model-420)
-- [9337-440 IBM Disk Array Subsystem Model 440](#9337-440-ibm-disk-array-subsystem-model-440)
 - [9337-480 IBM Disk Array Subsystem Model 480](#9337-480-ibm-disk-array-subsystem-model-480)
 - [9337-540 IBM Disk Array Subsystem Model 540](#9337-540-ibm-disk-array-subsystem-model-540)
 - [9337-545 IBM Disk Array Subsystem Model 545](#9337-545-ibm-disk-array-subsystem-model-545)
@@ -225,7 +224,6 @@ content update: 2024-08-05 00:31:41.066864362 +0800 CST
 - [9345-B12 IBM DASD Model B12](#9345-b12-ibm-dasd-model-b12)
 - [9345-B22 IBM DASD Model B22](#9345-b22-ibm-dasd-model-b22)
 - [9390-001 IBM RAMAC 3 Array Storage Control Model 001](#9390-001-ibm-ramac-3-array-storage-control-model-001)
-- [9390-002 IBM RAMAC 3 Array Storage Control Model 002](#9390-002-ibm-ramac-3-array-storage-control-model-002)
 - [9391-A30 IBM RAMAC 3 Array DASD Model A30](#9391-a30-ibm-ramac-3-array-dasd-model-a30)
 - [9392-B13 IBM RAMAC Array DASD Model B13](#9392-b13-ibm-ramac-array-dasd-model-b13)
 - [9392-B23 IBM RAMAC 2 Array DASD Model B23](#9392-b23-ibm-ramac-2-array-dasd-model-b23)
@@ -233,7 +231,6 @@ content update: 2024-08-05 00:31:41.066864362 +0800 CST
 - [9393-001 IBM RAMAC Virtual Array Storage Model 001](#9393-001-ibm-ramac-virtual-array-storage-model-001)
 - [9393-002 IBM RAMAC Virtual Array Storage Model 002](#9393-002-ibm-ramac-virtual-array-storage-model-002)
 - [9393-T42 IBM RAMAC Virtual Array Storage Model T42](#9393-t42-ibm-ramac-virtual-array-storage-model-t42)
-- [9393-T82 IBM RAMAC Virtual Array Storage Model T82](#9393-t82-ibm-ramac-virtual-array-storage-model-t82)
 - [9393-UPA IBM RAMAC Virtual Array Storage Model UPA](#9393-upa-ibm-ramac-virtual-array-storage-model-upa)
 - [9393-UPC IBM RAMAC Virtual Array Storage Model UPC](#9393-upc-ibm-ramac-virtual-array-storage-model-upc)
 - [9393-X83 IBM RAMAC Virtual Array Turbo Model X83](#9393-x83-ibm-ramac-virtual-array-turbo-model-x83)
@@ -5155,29 +5152,6 @@ content update: 2024-08-05 00:31:41.066864362 +0800 CST
 
 
 
-### 9337-440 IBM Disk Array Subsystem Model 440
-
-🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-440](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-440?region=AP)
-
-📅 2008-06-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9337-440 | 1994-10-04 | 1994-10-14 | 1996-12-20 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 9337-480 IBM Disk Array Subsystem Model 480
 
 🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-480](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-480?region=AP)
@@ -5408,29 +5382,6 @@ content update: 2024-08-05 00:31:41.066864362 +0800 CST
 
 
 
-### 9390-002 IBM RAMAC 3 Array Storage Control Model 002
-
-🔗 [https://www.ibm.com/docs/en/announcements/ramac-3-array-storage-control-model-002](https://www.ibm.com/docs/en/announcements/ramac-3-array-storage-control-model-002?region=AP)
-
-📅 2009-06-07
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9390-002 | 1996-09-10 | 1996-11-22 | 2000-08-11 | 2010-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 9391-A30 IBM RAMAC 3 Array DASD Model A30
 
 🔗 [https://www.ibm.com/docs/en/announcements/ramac-3-array-dasd-model-a30](https://www.ibm.com/docs/en/announcements/ramac-3-array-dasd-model-a30?region=AP)
@@ -5575,29 +5526,6 @@ content update: 2024-08-05 00:31:41.066864362 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9393-T42 | 1997-04-08 | 1997-04-25 | 1998-07-31 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9393-T82 IBM RAMAC Virtual Array Storage Model T82
-
-🔗 [https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-t82](https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-t82?region=AP)
-
-📅 2008-06-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9393-T82 | 1997-04-08 | 1997-08-29 | 1999-06-18 | - |
 
 
 
