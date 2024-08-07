@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2024-08-07 00:32:08.060857136 +0800 CST
+content update: 2024-08-08 00:31:45.123150289 +0800 CST
 
 ---
 
@@ -1866,7 +1866,7 @@ content update: 2024-08-07 00:32:08.060857136 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts1170-tape-drive-models-70f-70s](https://www.ibm.com/docs/en/announcements/ts1170-tape-drive-models-70f-70s?region=AP)
 
-📅 2023-10-10
+📅 2023-11-21
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-08-07 00:32:08.060857136 +0800 CST
+content update: 2024-08-08 00:31:45.123150289 +0800 CST
 
 ---
 
@@ -55,7 +55,6 @@ content update: 2024-08-07 00:32:08.060857136 +0800 CST
 - [Family 2077+05 IBM FlashSystem 5100](#family-207705-ibm-flashsystem-5100)
 - [Family 2078+01 IBM Storwize V5000 Disk System](#family-207801-ibm-storwize-v5000-disk-system)
 - [Family 2078+02 IBM Storwize V5000](#family-207802-ibm-storwize-v5000)
-- [Family 2078+02 IBM Storwize V5000](#family-207802-ibm-storwize-v5000)
 - [Family 2078+03 IBM Storwize V5030F](#family-207803-ibm-storwize-v5030f)
 - [Family 2078+04 IBM Storwize V5100](#family-207804-ibm-storwize-v5100)
 - [Family 2078+05 IBM FlashSystem 5100](#family-207805-ibm-flashsystem-5100)
@@ -71,16 +70,11 @@ content update: 2024-08-07 00:32:08.060857136 +0800 CST
 - [2105-750 IBM TotalStorage Enterprise Storage Server Model 750](#2105-750-ibm-totalstorage-enterprise-storage-server-model-750)
 - [2105-800 IBM TotalStorage Enterprise Storage Server Model 800](#2105-800-ibm-totalstorage-enterprise-storage-server-model-800)
 - [2105-B09 IBM Versatile Storage Server Model B09](#2105-b09-ibm-versatile-storage-server-model-b09)
-- [2105-E10 IBM Enterprise Storage Server Model E10](#2105-e10-ibm-enterprise-storage-server-model-e10)
-- [2105-E20 IBM Enterprise Storage Server Model E20](#2105-e20-ibm-enterprise-storage-server-model-e20)
-- [2105-F10 IBM Enterprise Storage Server Model F10](#2105-f10-ibm-enterprise-storage-server-model-f10)
 - [2105-F20 IBM Enterprise Storage Server Model F20](#2105-f20-ibm-enterprise-storage-server-model-f20)
 - [2106-200 IBM MSS Controller Enclosure Model 200](#2106-200-ibm-mss-controller-enclosure-model-200)
-- [2106-D10 IBM MSS 10 Bay Single Bus Disk Drive Model D10](#2106-d10-ibm-mss-10-bay-single-bus-disk-drive-model-d10)
 - [2106-D14 IBM MSS 14 Bay Single Bus Disk Drive Model D14](#2106-d14-ibm-mss-14-bay-single-bus-disk-drive-model-d14)
 - [2106-D20 IBM MSS 10 Bay Dual Bus Disk Drive Model D20](#2106-d20-ibm-mss-10-bay-dual-bus-disk-drive-model-d20)
 - [2106-D24 IBM MSS 14 Dual Bus Disk Drive Enclosure Model D24](#2106-d24-ibm-mss-14-dual-bus-disk-drive-enclosure-model-d24)
-- [Family 2107+02 IBM System Storage DS8000 Series Disk Storage Model 9A2](#family-210702-ibm-system-storage-ds8000-series-disk-storage-model-9a2)
 - [Family 2107+04 IBM System Storage DS8000 Series Disk Storage Model 921](#family-210704-ibm-system-storage-ds8000-series-disk-storage-model-921)
 - [Family 2107+05 IBM System Storage DS8000 Series Disk Storage Model 922](#family-210705-ibm-system-storage-ds8000-series-disk-storage-model-922)
 - [Family 2421+01 IBM System Storage DS8000 2421 1-Year Warranty](#family-242101-ibm-system-storage-ds8000-2421-1-year-warranty)
@@ -171,7 +165,6 @@ content update: 2024-08-07 00:32:08.060857136 +0800 CST
 - [7137-412 IBM Disk Array Subsystem Model 412](#7137-412-ibm-disk-array-subsystem-model-412)
 - [7137-415 IBM Disk Array Subsystem Model 415](#7137-415-ibm-disk-array-subsystem-model-415)
 - [7137-512 IBM Disk Array Subsystem Model 512](#7137-512-ibm-disk-array-subsystem-model-512)
-- [7137-515 IBM Disk Array Subsystem Model 515](#7137-515-ibm-disk-array-subsystem-model-515)
 - [7204-112 IBM RS/6000 External Disk Drive Model 112](#7204-112-ibm-rs-6000-external-disk-drive-model-112)
 - [7204-113 IBM RS/6000 External Disk Drive Model 113](#7204-113-ibm-rs-6000-external-disk-drive-model-113)
 - [7204-114 IBM RS/6000 External Disk Drive Model 114](#7204-114-ibm-rs-6000-external-disk-drive-model-114)
@@ -1395,38 +1388,6 @@ content update: 2024-08-07 00:32:08.060857136 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5000-2022-07-26](https://www.ibm.com/docs/en/announcements/storwize-v5000-2022-07-26?region=AP)
 
-📅 2022-07-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2078-112 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2078-12F | 2016-02-16 | 2016-03-04 | 2020-04-11 | 31 December 2025 |
-| 2078-124 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2078-212 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2078-224 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2078-24F | 2016-02-16 | 2016-03-04 | 2020-04-11 | 31 December 2025 |
-| 2078-312 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2078-324 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2078-92F | 2016-11-02 | 2016-12-09 | 2020-04-11 | 31 December 2025 |
-| 2078-U5A | 2017-11-14 | 2017-12-08 | 2020-01-11 | 2023-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2078+02 IBM Storwize V5000
-
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5000-2022-07-26](https://www.ibm.com/docs/en/announcements/storwize-v5000-2022-07-26?region=AP)
-
 📅 2020-02-11
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
@@ -1808,75 +1769,6 @@ content update: 2024-08-07 00:32:08.060857136 +0800 CST
 
 
 
-### 2105-E10 IBM Enterprise Storage Server Model E10
-
-🔗 [https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-e10](https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-e10?region=AP)
-
-📅 2009-06-25
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2105-E10 | 1999-07-27 | 1999-09-24 | 2000-09-29 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2105-E20 IBM Enterprise Storage Server Model E20
-
-🔗 [https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-e20](https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-e20?region=AP)
-
-📅 2009-06-25
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2105-E20 | 1999-07-27 | 1999-09-24 | 2000-09-29 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2105-F10 IBM Enterprise Storage Server Model F10
-
-🔗 [https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-f10](https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-f10?region=AP)
-
-📅 2009-06-25
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2105-F10 | 2000-03-28 | 2000-03-31 | 2002-11-22 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 2105-F20 IBM Enterprise Storage Server Model F20
 
 🔗 [https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-f20](https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-f20?region=AP)
@@ -1909,29 +1801,6 @@ content update: 2024-08-07 00:32:08.060857136 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2106-200 | 2000-08-29 | 2000-09-29 | 2001-11-15 | 2007-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2106-D10 IBM MSS 10 Bay Single Bus Disk Drive Model D10
-
-🔗 [https://www.ibm.com/docs/en/announcements/mss-10-bay-single-bus-disk-drive-model-d10](https://www.ibm.com/docs/en/announcements/mss-10-bay-single-bus-disk-drive-model-d10?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2106-D10 | 2000-08-29 | 2000-09-29 | 2001-11-15 | 2007-12-31 |
 
 
 
@@ -2001,29 +1870,6 @@ content update: 2024-08-07 00:32:08.060857136 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2106-D24 | 2000-08-29 | 2000-09-29 | 2002-11-22 | 2007-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2107+02 IBM System Storage DS8000 Series Disk Storage Model 9A2
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds8000-series-disk-storage-model-9a2](https://www.ibm.com/docs/en/announcements/system-storage-ds8000-series-disk-storage-model-9a2?region=AP)
-
-📅 2016-06-28
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2107-9A2 | 2004-10-12 | 2004-12-03 | 2006-10-20 | 2016-03-31 |
 
 
 
@@ -4164,26 +4010,6 @@ content update: 2024-08-07 00:32:08.060857136 +0800 CST
 🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-512](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-512?region=AP)
 
 📅 2002-06-10
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7137-515 IBM Disk Array Subsystem Model 515
-
-🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-515](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-515?region=AP)
-
-📅 2002-06-03
 
 
 
