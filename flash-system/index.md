@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2024-08-12 00:31:58.730390968 +0800 CST
+content update: 2024-08-15 00:32:13.304140448 +0800 CST
 
 ---
 
@@ -195,7 +195,7 @@ content update: 2024-08-12 00:31:58.730390968 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-10-10](https://www.ibm.com/docs/en/announcements/flashsystem-7300-2023-10-10?region=AP)
 
-📅 2024-05-28
+📅 2024-08-13
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |

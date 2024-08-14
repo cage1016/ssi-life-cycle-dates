@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2024-08-12 00:31:58.730390968 +0800 CST
+content update: 2024-08-15 00:32:13.304140448 +0800 CST
 
 ---
 
@@ -388,13 +388,13 @@ content update: 2024-08-12 00:31:58.730390968 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ultrium-7-6-tb-data-cartridge-models-551-651-571-671](https://www.ibm.com/docs/en/announcements/ultrium-7-6-tb-data-cartridge-models-551-651-571-671?region=AP)
 
-📅 2023-11-21
+📅 2024-08-13
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3589-551 | 2015-10-20 | 2015-11-20 | - | - |
+| 3589-551 | 2015-10-20 | 2015-11-20 | 2024-12-31 | - |
 | 3589-571 | 2015-10-20 | 2015-11-20 | 2018-09-15 | - |
-| 3589-651 | 2015-10-20 | 2015-11-20 | - | - |
+| 3589-651 | 2015-10-20 | 2015-11-20 | 2024-12-31 | - |
 | 3589-671 | 2015-10-20 | 2015-11-20 | 2018-09-15 | - |
 
 
