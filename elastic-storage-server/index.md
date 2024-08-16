@@ -1,6 +1,6 @@
 # Elastic Storage Server
 
-content update: 2024-08-16 00:32:51.409638659 +0800 CST
+content update: 2024-08-17 00:32:35.166625167 +0800 CST
 
 ---
 
@@ -12,6 +12,7 @@ content update: 2024-08-16 00:32:51.409638659 +0800 CST
 - [Family 5141+01 IBM Elastic Storage System 3000](#family-514101-ibm-elastic-storage-system-3000)
 - [Family 5141+02 IBM Elastic Storage System 3200](#family-514102-ibm-elastic-storage-system-3200)
 - [Family 5141+03 IBM Elastic Storage System 3500](#family-514103-ibm-elastic-storage-system-3500)
+- [Family 5147+05 IBM Elastic Storage System 5000](#family-514705-ibm-elastic-storage-system-5000)
 
 ---
 
@@ -119,6 +120,29 @@ content update: 2024-08-16 00:32:51.409638659 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 5141-FN2 | 2022-05-10 | 2022-05-20 | - | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 5147+05 IBM Elastic Storage System 5000
+
+🔗 [https://www.ibm.com/docs/en/announcements/elastic-storage-system-5000-2023-10-10-1](https://www.ibm.com/docs/en/announcements/elastic-storage-system-5000-2023-10-10-1?region=AP)
+
+📅 2023-11-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 5147-092 | 2020-07-07 | 2020-08-14 | 2024-03-31 | - |
 
 
 
