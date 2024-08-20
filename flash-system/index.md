@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2024-08-20 00:31:54.317251625 +0800 CST
+content update: 2024-08-21 00:31:33.578196385 +0800 CST
 
 ---
 
@@ -10,7 +10,6 @@ content update: 2024-08-20 00:31:54.317251625 +0800 CST
 - [Family 2072+05 IBM FlashSystem 5000](#family-207205-ibm-flashsystem-5000)
 - [Family 2072+06 IBM FlashSystem 5015 and 5035](#family-207206-ibm-flashsystem-5015-and-5035)
 - [Family 2076+07 IBM FlashSystem 7200](#family-207607-ibm-flashsystem-7200)
-- [Family 2077+05 IBM FlashSystem 5100](#family-207705-ibm-flashsystem-5100)
 - [Family 2078+05 IBM FlashSystem 5100](#family-207805-ibm-flashsystem-5100)
 - [Family 4657+01 IBM FlashSystem 7300](#family-465701-ibm-flashsystem-7300)
 - [Family 4662+01 IBM FlashSystem 5200](#family-466201-ibm-flashsystem-5200)
@@ -124,32 +123,6 @@ content update: 2024-08-20 00:31:54.317251625 +0800 CST
 | 2076-24G | 2020-02-11 | 2020-03-06 | 2024-12-31 | - |
 | 2076-824 | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
 | 2076-92G | 2020-02-11 | 2020-03-06 | 2024-12-31 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2077+05 IBM FlashSystem 5100
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5100](https://www.ibm.com/docs/en/announcements/flashsystem-5100?region=AP)
-
-📅 2022-04-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2077-12G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-| 2077-24G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-| 2077-4H4 | 2020-02-11 | 2020-03-06 | 2021-10-09 | - |
-| 2077-92G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
 
 
 

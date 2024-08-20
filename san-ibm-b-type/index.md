@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2024-08-20 00:31:54.317251625 +0800 CST
+content update: 2024-08-21 00:31:33.578196385 +0800 CST
 
 ---
 
@@ -9,16 +9,11 @@ content update: 2024-08-20 00:31:54.317251625 +0800 CST
 
 - [](#)
 - [Family 2005+01 IBM TotalStorage SAN Switch Models H08 and H16](#family-200501-ibm-totalstorage-san-switch-models-h08-and-h16)
-- [Family 2005+02 IBM TotalStorage SANB32 Switch](#family-200502-ibm-totalstorage-sanb32-switch)
-- [Family 2005+04 IBM TotalStorage SANB16B-2 Fabric Switch](#family-200504-ibm-totalstorage-sanb16b-2-fabric-switch)
 - [Family 2005+06 IBM System Storage SANR18B-R](#family-200506-ibm-system-storage-sanr18b-r)
 - [Family 2005+07 IBM System Storage SANB64B-2 Fabric Switch](#family-200507-ibm-system-storage-sanb64b-2-fabric-switch)
-- [Family 2005+08 IBM System Storage SANB32B-3 Fabric Switch](#family-200508-ibm-system-storage-sanb32b-3-fabric-switch)
 - [Family 2005+09 IBM System Storage SAN04B-R](#family-200509-ibm-system-storage-san04b-r)
-- [Family 2026+01 IBM TotalStorage SAN12M-1 Entry and SAN24M-1 Mid-range Switches](#family-202601-ibm-totalstorage-san12m-1-entry-and-san24m-1-mid-range-switches)
 - [Family 2027+02 IBM TotalStorage SAN256M Director SAN16M-R Router SANC40M 40U Cabinet](#family-202702-ibm-totalstorage-san256m-director-san16m-r-router-sanc40m-40u-cabinet)
 - [Family 2027+03 IBM TotalStorage SAN04M-R Router](#family-202703-ibm-totalstorage-san04m-r-router)
-- [Family 2045+01 IBM TotalStorage SAN256N Director and Cabinet](#family-204501-ibm-totalstorage-san256n-director-and-cabinet)
 - [2108-G07 IBM Storage Area Network Data Gateway Model G07](#2108-g07-ibm-storage-area-network-data-gateway-model-g07)
 - [2108-R03 IBM SAN Data Gateway Router Model R03](#2108-r03-ibm-san-data-gateway-router-model-r03)
 - [2108-S20 IBM Storage Area Network Data Gateway for Serial Systems Model S20](#2108-s20-ibm-storage-area-network-data-gateway-for-serial-systems-model-s20)
@@ -119,52 +114,6 @@ content update: 2024-08-20 00:31:54.317251625 +0800 CST
 
 
 
-### Family 2005+02 IBM TotalStorage SANB32 Switch
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-sanb32-switch](https://www.ibm.com/docs/en/announcements/totalstorage-sanb32-switch?region=AP)
-
-📅 2013-10-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2005-B32 | 2004-11-09 | 2004-11-19 | 2007-10-06 | 2012-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2005+04 IBM TotalStorage SANB16B-2 Fabric Switch
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-sanb16b-2-fabric-switch](https://www.ibm.com/docs/en/announcements/totalstorage-sanb16b-2-fabric-switch?region=AP)
-
-📅 2013-10-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2005-B16 | 2005-07-26 | 2005-08-26 | 2008-11-29 | 2012-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 2005+06 IBM System Storage SANR18B-R
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-sanr18b-r](https://www.ibm.com/docs/en/announcements/system-storage-sanr18b-r?region=AP)
@@ -211,29 +160,6 @@ content update: 2024-08-20 00:31:54.317251625 +0800 CST
 
 
 
-### Family 2005+08 IBM System Storage SANB32B-3 Fabric Switch
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-sanb32b-3-fabric-switch](https://www.ibm.com/docs/en/announcements/system-storage-sanb32b-3-fabric-switch?region=AP)
-
-📅 2013-10-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2005-B5K | 2007-04-24 | 2007-05-04 | 2008-11-29 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 2005+09 IBM System Storage SAN04B-R
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-san04b-r](https://www.ibm.com/docs/en/announcements/system-storage-san04b-r?region=AP)
@@ -243,30 +169,6 @@ content update: 2024-08-20 00:31:54.317251625 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2005-R04 | 2008-05-13 | 2008-05-23 | 2010-11-27 | 2016-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2026+01 IBM TotalStorage SAN12M-1 Entry and SAN24M-1 Mid-range Switches
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-san12m-1-entry-san24m-1-mid-range-switches](https://www.ibm.com/docs/en/announcements/totalstorage-san12m-1-entry-san24m-1-mid-range-switches?region=AP)
-
-📅 2013-08-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2026-E12 | 2004-10-05 | 2004-10-15 | 2005-12-30 | 2010-12-31 |
-| 2026-224 | 2004-10-05 | 2004-10-15 | 2006-02-28 | 2010-12-31 |
 
 
 
@@ -315,30 +217,6 @@ content update: 2024-08-20 00:31:54.317251625 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2027-R04 | 2005-07-26 | 2005-08-26 | 2007-12-29 | 2011-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2045+01 IBM TotalStorage SAN256N Director and Cabinet
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-san256n-director-cabinet](https://www.ibm.com/docs/en/announcements/totalstorage-san256n-director-cabinet?region=AP)
-
-📅 2009-06-04
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2045-C40 | 2004-11-09 | 2004-11-19 | 2005-09-30 | - |
-| 2045-N16 | 2004-11-09 | 2004-11-19 | 2005-09-30 | 2010-09-30 |
 
 
 
