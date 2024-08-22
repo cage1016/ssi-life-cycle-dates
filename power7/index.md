@@ -1,6 +1,6 @@
 # Power7
 
-content update: 2024-08-22 00:32:20.108627341 +0800 CST
+content update: 2024-08-23 00:33:04.935202375 +0800 CST
 
 ---
 
@@ -13,6 +13,7 @@ content update: 2024-08-22 00:32:20.108627341 +0800 CST
 - [Family 7895+05 IBM Flex System p260 Compute Node](#family-789505-ibm-flex-system-p260-compute-node)
 - [Family 7954+01 IBM Flex System p270 Compute Node 7954 24X](#family-795401-ibm-flex-system-p270-compute-node-7954-24x)
 - [Family 8202+01 IBM Power 720 Express Server](#family-820201-ibm-power-720-express-server)
+- [Family 8202+02 IBM Power 720 server](#family-820202-ibm-power-720-server)
 - [Family 8202+03 IBM Power 720 Express](#family-820203-ibm-power-720-express)
 - [Family 8205+01 IBM Power 740 Express Server](#family-820501-ibm-power-740-express-server)
 - [Family 8205+02 IBM Power 740 Express server](#family-820502-ibm-power-740-express-server)
@@ -165,6 +166,29 @@ content update: 2024-08-22 00:32:20.108627341 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 8202-E4B | 2010-08-17 | 2010-09-17 | 2012-05-25 | 2019-09-30 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 8202+02 IBM Power 720 server
+
+🔗 [https://www.ibm.com/docs/en/announcements/power-720-server](https://www.ibm.com/docs/en/announcements/power-720-server?region=AP)
+
+📅 2023-10-24
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 8202-E4C | 2011-10-12 | 2011-10-21 | 2014-01-03 | 2019-09-30 |
 
 
 
