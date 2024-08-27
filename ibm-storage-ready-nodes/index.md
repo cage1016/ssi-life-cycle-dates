@@ -1,6 +1,6 @@
 # IBM Storage Ready Nodes
 
-content update: 2024-08-27 00:32:21.34419957 +0800 CST
+content update: 2024-08-28 00:31:06.711695624 +0800 CST
 
 ---
 
@@ -23,7 +23,7 @@ content update: 2024-08-27 00:32:21.34419957 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/reseller-agreement-storage-ready-node-storage-ceph-2023-10-24](https://www.ibm.com/docs/en/announcements/reseller-agreement-storage-ready-node-storage-ceph-2023-10-24?region=AP)
 
-📅 2024-04-09
+📅 2024-08-27
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -46,7 +46,7 @@ content update: 2024-08-27 00:32:21.34419957 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/reseller-agreement-storage-ready-node-storage-defender-data-protect-2023-10-24](https://www.ibm.com/docs/en/announcements/reseller-agreement-storage-ready-node-storage-defender-data-protect-2023-10-24?region=AP)
 
-📅 2023-09-29
+📅 2024-08-27
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
@@ -69,7 +69,7 @@ content update: 2024-08-27 00:32:21.34419957 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/reseller-agreement-cloud-object-storage](https://www.ibm.com/docs/en/announcements/reseller-agreement-cloud-object-storage?region=AP)
 
-📅 2024-05-28
+📅 2024-08-27
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
