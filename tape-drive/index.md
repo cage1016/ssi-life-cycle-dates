@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2024-08-29 00:32:26.840176981 +0800 CST
+content update: 2024-08-30 00:32:15.603575287 +0800 CST
 
 ---
 
@@ -18,6 +18,7 @@ content update: 2024-08-29 00:32:26.840176981 +0800 CST
 - [3490-D31 IBM Magnetic Tape Subsystem Model D31](#3490-d31-ibm-magnetic-tape-subsystem-model-d31)
 - [3490-D32 IBM Magnetic Tape Subsystem Model D32](#3490-d32-ibm-magnetic-tape-subsystem-model-d32)
 - [3490-D41 IBM Magnetic Tape Subsystem Model D41](#3490-d41-ibm-magnetic-tape-subsystem-model-d41)
+- [3490-D42 IBM Magnetic Tape Subsystem Model D42](#3490-d42-ibm-magnetic-tape-subsystem-model-d42)
 - [3490-E01 IBM Magnetic Tape Subsystem Model E01](#3490-e01-ibm-magnetic-tape-subsystem-model-e01)
 - [3490-F11 IBM Magnetic Tape Subsystem Model F11](#3490-f11-ibm-magnetic-tape-subsystem-model-f11)
 - [3490-FC0 IBM Rack Model FC0](#3490-fc0-ibm-rack-model-fc0)
@@ -360,6 +361,29 @@ content update: 2024-08-29 00:32:26.840176981 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3490-D41 | 1991-02-19 | 1991-06-14 | 1992-12-15 | 2008-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3490-D42 IBM Magnetic Tape Subsystem Model D42
+
+🔗 [https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-d42](https://www.ibm.com/docs/en/announcements/magnetic-tape-subsystem-model-d42?region=AP)
+
+📅 2013-07-02
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3490-D42 | 1991-02-19 | 1991-06-14 | 1992-12-15 | 2008-12-31 |
 
 
 
