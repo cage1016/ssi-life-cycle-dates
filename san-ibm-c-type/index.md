@@ -1,6 +1,6 @@
 # SAN - IBM c-type
 
-content update: 2024-08-30 00:32:15.603575287 +0800 CST
+content update: 2024-08-31 00:32:06.113558622 +0800 CST
 
 ---
 
@@ -13,7 +13,6 @@ content update: 2024-08-30 00:32:15.603575287 +0800 CST
 - [Family 8977+03 IBM Storage Networking SAN96C-6](#family-897703-ibm-storage-networking-san96c-6)
 - [Family 8977+04 IBM Storage Networking SAN48C-6](#family-897704-ibm-storage-networking-san48c-6)
 - [Family 8977+05 IBM Storage Networking SAN16C-R](#family-897705-ibm-storage-networking-san16c-r)
-- [Family 8978+01 IBM Storage Networking SAN192C-6](#family-897801-ibm-storage-networking-san192c-6)
 - [Family 8978+02 IBM Storage Networking SAN384C-6](#family-897802-ibm-storage-networking-san384c-6)
 - [Family 8978+03 IBM Storage Networking SAN768C-6](#family-897803-ibm-storage-networking-san768c-6)
 
@@ -146,29 +145,6 @@ content update: 2024-08-30 00:32:15.603575287 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 8977-R16 | 2021-08-10 | 2021-08-13 | - | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 8978+01 IBM Storage Networking SAN192C-6
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san192c-6](https://www.ibm.com/docs/en/announcements/storage-networking-san192c-6?region=AP)
-
-📅 2023-12-12
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 8978-E04 | 2018-12-04 | 2018-12-07 | - | - |
 
 
 
