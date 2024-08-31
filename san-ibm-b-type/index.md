@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2024-08-31 00:32:06.113558622 +0800 CST
+content update: 2024-09-01 00:32:27.950389338 +0800 CST
 
 ---
 
@@ -33,6 +33,7 @@ content update: 2024-08-31 00:32:06.113558622 +0800 CST
 - [Family 2498+01 IBM System Storage SAN24B-4 Express](#family-249801-ibm-system-storage-san24b-4-express)
 - [Family 2498+02 IBM System Storage SAN06B-R](#family-249802-ibm-system-storage-san06b-r)
 - [Family 2498+03 IBM System Storage SAN32B-E4](#family-249803-ibm-system-storage-san32b-e4)
+- [Family 2498+04 IBM System Storage SAN48B-5](#family-249804-ibm-system-storage-san48b-5)
 - [Family 2498+05 IBM System Networking SAN24B-5](#family-249805-ibm-system-networking-san24b-5)
 - [Family 2498+06 IBM System Networking SAN96B-5](#family-249806-ibm-system-networking-san96b-5)
 - [Family 2498+07 IBM System Storage SAN40B-4](#family-249807-ibm-system-storage-san40b-4)
@@ -56,7 +57,10 @@ content update: 2024-08-31 00:32:06.113558622 +0800 CST
 - [Family 8960+06 IBM Storage Networking SAN64B-7](#family-896006-ibm-storage-networking-san64b-7)
 - [Family 8960+07 IBM Storage Networking SAN64B-6](#family-896007-ibm-storage-networking-san64b-6)
 - [Family 8961+01 IBM Storage Networking SAN256B-6](#family-896101-ibm-storage-networking-san256b-6)
+- [Family 8961+02 IBM Storage Networking SAN512B-6](#family-896102-ibm-storage-networking-san512b-6)
 - [Family 8961+03 IBM Storage Networking SAN256B-7](#family-896103-ibm-storage-networking-san256b-7)
+- [Family 8961+04 IBM Storage Networking SAN512B-7](#family-896104-ibm-storage-networking-san512b-7)
+- [Family 8969+01 IBM IBM Storage Networking SAN24B-6](#family-896901-ibm-ibm-storage-networking-san24b-6)
 - [Family 8969+02 IBM Storage Networking SAN128B-7](#family-896902-ibm-storage-networking-san128b-7)
 - [Family 8969+03 IBM Storage Networking SAN42B-R7](#family-896903-ibm-storage-networking-san42b-r7)
 - [Family 9239+01 IBM SANnav](#family-923901-ibm-sannav)
@@ -671,6 +675,29 @@ content update: 2024-08-31 00:32:06.113558622 +0800 CST
 
 
 
+### Family 2498+04 IBM System Storage SAN48B-5
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-san48b-5](https://www.ibm.com/docs/en/announcements/system-storage-san48b-5?region=AP)
+
+📅 2023-07-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2498-F48 | 2011-08-16 | 2011-08-26 | 2020-05-28 | 2025-05-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 2498+05 IBM System Networking SAN24B-5
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-networking-san24b-5](https://www.ibm.com/docs/en/announcements/system-networking-san24b-5?region=AP)
@@ -1208,6 +1235,29 @@ content update: 2024-08-31 00:32:06.113558622 +0800 CST
 
 
 
+### Family 8961+02 IBM Storage Networking SAN512B-6
+
+🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san512b-6](https://www.ibm.com/docs/en/announcements/storage-networking-san512b-6?region=AP)
+
+📅 2023-07-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 8961-F08 | 2016-10-11 | 2016-11-11 | 2023-07-11 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 8961+03 IBM Storage Networking SAN256B-7
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san256b-7](https://www.ibm.com/docs/en/announcements/storage-networking-san256b-7?region=AP)
@@ -1217,6 +1267,52 @@ content update: 2024-08-31 00:32:06.113558622 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 8961-F74 | 2020-10-13 | 2020-11-20 | - | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 8961+04 IBM Storage Networking SAN512B-7
+
+🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san512b-7](https://www.ibm.com/docs/en/announcements/storage-networking-san512b-7?region=AP)
+
+📅 2024-07-09
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 8961-F78 | 2020-10-13 | 2020-11-20 | - | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 8969+01 IBM IBM Storage Networking SAN24B-6
+
+🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san24b-6](https://www.ibm.com/docs/en/announcements/storage-networking-san24b-6?region=AP)
+
+📅 2024-05-28
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 8969-F24 | 2022-05-24 | 2022-06-03 | - | - |
 
 
 
