@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-09-10 00:32:21.180623817 +0800 CST
+content update: 2024-09-11 00:32:03.245994517 +0800 CST
 
 ---
 
@@ -3819,7 +3819,7 @@ content update: 2024-09-10 00:32:21.180623817 +0800 CST
 
 🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-1-yr-warranty-all-flash-systems-storage-expert-care](https://www.ibm.com/docs/en/announcements/ds8900f-1-yr-warranty-all-flash-systems-storage-expert-care?region=AP)
 
-📅 2024-04-23
+📅 2022-05-24
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
