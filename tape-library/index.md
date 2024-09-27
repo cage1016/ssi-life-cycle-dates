@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2024-09-27 00:32:22.109414784 +0800 CST
+content update: 2024-09-28 00:32:08.873277908 +0800 CST
 
 ---
 
@@ -30,7 +30,6 @@ content update: 2024-09-27 00:32:22.109414784 +0800 CST
 - [Family 3584+15 IBM TS4500 Tape Library L55, D55, S55, L25, D25, S25, TR1](#family-358415-ibm-ts4500-tape-library-l55-d55-s55-l25-d25-s25-tr1)
 - [Family 3948+01 IBM TS7700 Release 5.4](#family-394801-ibm-ts7700-release-54)
 - [Family 3952+01 IBM System Storage Tape Frame](#family-395201-ibm-system-storage-tape-frame)
-- [Family 3952+02 IBM TS7770 R5.x Model F06](#family-395202-ibm-ts7770-r5x-model-f06)
 - [Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700](#family-395203-ibm-3952-tape-frame-model-f07-for-ibm-ts7700)
 - [Family 3953+01 IBM TotalStorage Library Manager and Tape Frame](#family-395301-ibm-totalstorage-library-manager-and-tape-frame)
 - [Family 3957+06 IBM TS7770 Models VED](#family-395706-ibm-ts7770-models-ved)
@@ -584,29 +583,6 @@ content update: 2024-09-27 00:32:22.109414784 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3952-F05 | 2005-10-11 | 2005-10-28 | 2021-08-30 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3952+02 IBM TS7770 R5.x Model F06
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts7770-r5x-model-f06](https://www.ibm.com/docs/en/announcements/ts7770-r5x-model-f06?region=AP)
-
-📅 2023-07-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3952-F06 | 2016-05-10 | 2016-06-03 | 2021-08-30 | 2024-12-31 |
 
 
 
