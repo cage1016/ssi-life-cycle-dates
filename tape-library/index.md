@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2024-10-03 00:32:17.668142708 +0800 CST
+content update: 2024-10-04 00:32:03.134731896 +0800 CST
 
 ---
 
@@ -28,7 +28,6 @@ content update: 2024-10-03 00:32:17.668142708 +0800 CST
 - [Family 3584+10 IBM System Storage TS3500 Tape Library Model L23](#family-358410-ibm-system-storage-ts3500-tape-library-model-l23)
 - [Family 3584+12 IBM System Storage TS3500 Tape Library Model L53](#family-358412-ibm-system-storage-ts3500-tape-library-model-l53)
 - [Family 3584+15 IBM TS4500 Tape Library L55, D55, S55, L25, D25, S25, TR1](#family-358415-ibm-ts4500-tape-library-l55-d55-s55-l25-d25-s25-tr1)
-- [Family 3948+01 IBM TS7700 Release 5.4](#family-394801-ibm-ts7700-release-54)
 - [Family 3952+01 IBM System Storage Tape Frame](#family-395201-ibm-system-storage-tape-frame)
 - [Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700](#family-395203-ibm-3952-tape-frame-model-f07-for-ibm-ts7700)
 - [Family 3953+01 IBM TotalStorage Library Manager and Tape Frame](#family-395301-ibm-totalstorage-library-manager-and-tape-frame)
@@ -532,34 +531,6 @@ content update: 2024-10-03 00:32:17.668142708 +0800 CST
 | 3584-S25 | 2014-05-19 | 2014-06-13 | - | - |
 | 3584-S55 | 2014-05-19 | 2014-06-13 | - | - |
 | 3584-TR1 | 2014-05-19 | 2014-06-13 | - | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3948+01 IBM TS7700 Release 5.4
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts7700-release-53](https://www.ibm.com/docs/en/announcements/ts7700-release-53?region=AP)
-
-📅 2024-05-28
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3948-CFC | 2022-08-23 | 2022-09-15 | - | - |
-| 3948-CSB | 2022-08-23 | 2022-09-15 | - | - |
-| 3948-F07 | 2022-08-23 | 2022-09-15 | - | - |
-| 3948-VED | 2022-08-23 | 2022-09-15 | - | - |
-| 3948-XFC | 2022-08-23 | 2022-09-15 | - | - |
-| 3948-XSB | 2022-08-23 | 2022-09-15 | - | - |
 
 
 
