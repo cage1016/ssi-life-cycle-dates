@@ -1,13 +1,13 @@
 # Power System Software
 
-content update: 2024-10-08 00:32:08.982259265 +0800 CST
+content update: 2024-10-09 00:32:32.822327183 +0800 CST
 
 ---
 
 ### Table of contents
 
 
-- [5733-B45 IBM AFP Font Collection for i 3.1](#5733-b45-ibm-afp-font-collection-for-i-31)
+- [](#)
 - [5765-G98 IBM AIX 7 Standard Edition](#5765-g98-ibm-aix-7-standard-edition)
 
 ---
@@ -18,22 +18,12 @@ content update: 2024-10-08 00:32:08.982259265 +0800 CST
 
 
 
-### 5733-B45 IBM AFP Font Collection for i 3.1
+### 
 
-🔗 [https://www.ibm.com/docs/en/announcements/afp-font-collection-i-31](https://www.ibm.com/docs/en/announcements/afp-font-collection-i-31?region=AP)
+🔗 [](?region=AP)
 
-📅 2021-06-29
+📅 
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5733-B45 | 03.01.00 | 2010-10-07 | 2010-12-10 | - |
-| 5733-QU2 | 01.01.02 | 2010-10-07 | 2010-12-10 | 2014-12-09 |
-| 5733-QU3 | 01.01.02 | 2010-10-07 | 2010-12-10 | - |
-| 5733-QU4 | 01.01.02 | 2010-10-07 | 2010-12-10 | - |
-| 5733-QUB | 01.01.02 | 2010-10-07 | 2010-12-10 | - |
-| 5770-SS1 | 07.01.00 | 2010-04-13 | 2010-04-23 | 2017-09-30 |
-| 5761-SS1 | 06.01.00 | 2008-01-29 | 2008-03-21 | 2014-12-09 |
-| 5761-PT1 | 06.01.00 | 2008-01-29 | 2008-03-21 | 2014-12-09 |
 
 
 
