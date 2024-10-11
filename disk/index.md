@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-10-11 00:32:17.9125739 +0800 CST
+content update: 2024-10-12 00:32:32.531674651 +0800 CST
 
 ---
 
@@ -47,7 +47,6 @@ content update: 2024-10-11 00:32:17.9125739 +0800 CST
 - [Family 2076+04 IBM Storwize V7000F](#family-207604-ibm-storwize-v7000f)
 - [Family 2076+05 IBM Storwize V7000](#family-207605-ibm-storwize-v7000)
 - [Family 2076+06 IBM Storwize V7000](#family-207606-ibm-storwize-v7000)
-- [Family 2076+07 IBM FlashSystem 7200](#family-207607-ibm-flashsystem-7200)
 - [Family 2077+01 IBM Storwize V5000 Disk System](#family-207701-ibm-storwize-v5000-disk-system)
 - [Family 2077+02 IBM Storwize V5000](#family-207702-ibm-storwize-v5000)
 - [Family 2077+03 IBM Storwize V5030F](#family-207703-ibm-storwize-v5030f)
@@ -1191,33 +1190,6 @@ content update: 2024-10-11 00:32:17.9125739 +0800 CST
 | --- | --- | --- | --- | --- |
 | 2076-U7B | 2018-11-06 | 2019-01-25 | 2020-10-17 | 31 December 2025 |
 | 2076-724 | 2018-11-06 | 2018-12-07 | 2020-10-17 | 31 December 2025 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2076+07 IBM FlashSystem 7200
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-7200-2023-09-12](https://www.ibm.com/docs/en/announcements/flashsystem-7200-2023-09-12?region=AP)
-
-📅 2024-06-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2076-U7C | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-| 2076-12G | 2020-02-11 | 2020-03-06 | 2024-12-31 | - |
-| 2076-24G | 2020-02-11 | 2020-03-06 | 2024-12-31 | - |
-| 2076-824 | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-| 2076-92G | 2020-02-11 | 2020-03-06 | 2024-12-31 | - |
 
 
 
