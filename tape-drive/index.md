@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2024-10-31 00:32:20.257570597 +0800 CST
+content update: 2024-11-01 00:32:27.508286345 +0800 CST
 
 ---
 
@@ -32,7 +32,6 @@ content update: 2024-10-31 00:32:20.257570597 +0800 CST
 - [Family 3580+12 IBM System Storage TS2250 Tape Drive Express Model H5S](#family-358012-ibm-system-storage-ts2250-tape-drive-express-model-h5s)
 - [Family 3580+13 IBM System Storage TS2350 Tape Drive Express Model S53](#family-358013-ibm-system-storage-ts2350-tape-drive-express-model-s53)
 - [Family 3580+14 IBM System Storage TS2240 Tape Drive Express Model H4V](#family-358014-ibm-system-storage-ts2240-tape-drive-express-model-h4v)
-- [Family 3580+15 IBM System Storage TS2230 Tape Drive Express Model H3V](#family-358015-ibm-system-storage-ts2230-tape-drive-express-model-h3v)
 - [Family 3580+16 IBM System Storage TS2360 Tape Drive Model S63](#family-358016-ibm-system-storage-ts2360-tape-drive-model-s63)
 - [Family 3580+17 IBM System Storage TS2260 Tape Drive Model H6S](#family-358017-ibm-system-storage-ts2260-tape-drive-model-h6s)
 - [Family 3580+18 IBM TS2270 Tape Drive Model H7S](#family-358018-ibm-ts2270-tape-drive-model-h7s)
@@ -688,29 +687,6 @@ content update: 2024-10-31 00:32:20.257570597 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3580-H4V | 2014-04-28 | 2014-04-28 | 2016-11-30 | 2020-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3580+15 IBM System Storage TS2230 Tape Drive Express Model H3V
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts2230-tape-drive-express-model-h3v](https://www.ibm.com/docs/en/announcements/system-storage-ts2230-tape-drive-express-model-h3v?region=AP)
-
-📅 2023-05-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3580-H3V | 2010-11-09 | 2010-12-03 | 2012-12-28 | - |
 
 
 
