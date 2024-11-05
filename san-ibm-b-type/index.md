@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2024-11-05 00:32:24.705247033 +0800 CST
+content update: 2024-11-06 00:32:06.415431555 +0800 CST
 
 ---
 
@@ -40,7 +40,6 @@ content update: 2024-11-05 00:32:24.705247033 +0800 CST
 - [Family 2498+08 IBM System Storage SAN80B-4](#family-249808-ibm-system-storage-san80b-4)
 - [Family 2498+09 IBM System Networking SAN24B-5](#family-249809-ibm-system-networking-san24b-5)
 - [Family 2498+11 IBM System Storage SAN42B-R](#family-249811-ibm-system-storage-san42b-r)
-- [Family 2499+01 IBM System Storage SAN768B](#family-249901-ibm-system-storage-san768b)
 - [Family 2499+02 IBM System Storage SAN384B](#family-249902-ibm-system-storage-san384b)
 - [Family 2499+03 IBM Systems Storage SAN768B-2 and SAN384B-2](#family-249903-ibm-systems-storage-san768b-2-and-san384b-2)
 - [3534-1RU IBM SAN Fibre Channel Managed Hub Model 1RU](#3534-1ru-ibm-san-fibre-channel-managed-hub-model-1ru)
@@ -820,29 +819,6 @@ content update: 2024-11-05 00:32:24.705247033 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2498-R42 | 2014-11-25 | 2014-12-12 | 2023-09-12 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2499+01 IBM System Storage SAN768B
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-san768b](https://www.ibm.com/docs/en/announcements/system-storage-san768b?region=AP)
-
-📅 2019-11-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2499-384 | 2008-02-12 | 2008-02-22 | 2014-08-30 | 2019-10-31 |
 
 
 
