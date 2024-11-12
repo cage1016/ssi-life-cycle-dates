@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2024-11-12 00:32:00.238133755 +0800 CST
+content update: 2024-11-13 00:32:12.814255249 +0800 CST
 
 ---
 
@@ -30,8 +30,6 @@ content update: 2024-11-12 00:32:00.238133755 +0800 CST
 - [2109-M48 IBM TotalStorage SAN256B Director Model M48](#2109-m48-ibm-totalstorage-san256b-director-model-m48)
 - [2109-S08 IBM SAN Fibre Channel Switch Model S08](#2109-s08-ibm-san-fibre-channel-switch-model-s08)
 - [2109-S16 IBM SAN Fibre Channel Switch Model S16](#2109-s16-ibm-san-fibre-channel-switch-model-s16)
-- [Family 2498+01 IBM System Storage SAN24B-4 Express](#family-249801-ibm-system-storage-san24b-4-express)
-- [Family 2498+02 IBM System Storage SAN06B-R](#family-249802-ibm-system-storage-san06b-r)
 - [Family 2498+03 IBM System Storage SAN32B-E4](#family-249803-ibm-system-storage-san32b-e4)
 - [Family 2498+04 IBM System Storage SAN48B-5](#family-249804-ibm-system-storage-san48b-5)
 - [Family 2498+05 IBM System Networking SAN24B-5](#family-249805-ibm-system-networking-san24b-5)
@@ -46,10 +44,8 @@ content update: 2024-11-12 00:32:00.238133755 +0800 CST
 - [3534-F08 IBM TotalStorage Storage Area Network (SAN) Model F08](#3534-f08-ibm-totalstorage-storage-area-network-san-model-f08)
 - [Family 3758+01 IBM Converged Switch B32](#family-375801-ibm-converged-switch-b32)
 - [Family 3758+02 IBM Converged Switch L32](#family-375802-ibm-converged-switch-l32)
-- [Family 3759+01 Brocade VDX6730-32, -76 Converged Switch for IBM](#family-375901-brocade-vdx6730-32-76-converged-switch-for-ibm)
 - [7140-160 IBM TotalStorage SAN Controller Model 160](#7140-160-ibm-totalstorage-san-controller-model-160)
 - [Family 8960+01 IBM Storage Networking SAN64B-6](#family-896001-ibm-storage-networking-san64b-6)
-- [Family 8960+02 IBM Storage Networking SAN24B-6](#family-896002-ibm-storage-networking-san24b-6)
 - [Family 8960+03 IBM Storage Networking SAN128B-6](#family-896003-ibm-storage-networking-san128b-6)
 - [Family 8960+04 IBM Storage Networking SAN18B-6](#family-896004-ibm-storage-networking-san18b-6)
 - [Family 8960+05 IBM Storage Networking SAN128B-6](#family-896005-ibm-storage-networking-san128b-6)
@@ -602,52 +598,6 @@ content update: 2024-11-12 00:32:00.238133755 +0800 CST
 
 
 
-### Family 2498+01 IBM System Storage SAN24B-4 Express
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-san24b-4-express](https://www.ibm.com/docs/en/announcements/system-storage-san24b-4-express?region=AP)
-
-📅 2022-07-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2498-B24 | 2008-05-13 | 2008-05-23 | 2019-03-12 | 2024-03-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2498+02 IBM System Storage SAN06B-R
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-san06b-r](https://www.ibm.com/docs/en/announcements/system-storage-san06b-r?region=AP)
-
-📅 2022-07-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2498-R06 | 2009-11-10 | 2009-11-20 | 2019-11-13 | 2024-10-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 2498+03 IBM System Storage SAN32B-E4
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-san32b-e4](https://www.ibm.com/docs/en/announcements/system-storage-san32b-e4?region=AP)
@@ -972,30 +922,6 @@ content update: 2024-11-12 00:32:00.238133755 +0800 CST
 
 
 
-### Family 3759+01 Brocade VDX6730-32, -76 Converged Switch for IBM
-
-🔗 [https://www.ibm.com/docs/en/announcements/brocade-vdx6730-32-76-converged-switch](https://www.ibm.com/docs/en/announcements/brocade-vdx6730-32-76-converged-switch?region=AP)
-
-📅 2018-10-09
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3759-C32 | 2012-06-04 | 2012-06-15 | 2014-12-02 | 2020-04-30 |
-| 3759-C76 | 2012-06-04 | 2012-06-15 | 2014-12-02 | 2020-04-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 7140-160 IBM TotalStorage SAN Controller Model 160
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-san-controller-model-160](https://www.ibm.com/docs/en/announcements/totalstorage-san-controller-model-160?region=AP)
@@ -1029,29 +955,6 @@ content update: 2024-11-12 00:32:00.238133755 +0800 CST
 | --- | --- | --- | --- | --- |
 | 8960-F64 | 2016-10-11 | 2016-11-11 | 2023-02-28 | - |
 | 8960-N64 | 2016-10-11 | 2016-11-11 | 2023-09-12 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 8960+02 IBM Storage Networking SAN24B-6
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san24b-6-2023-10-10](https://www.ibm.com/docs/en/announcements/storage-networking-san24b-6-2023-10-10?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 8960-F24 | 2017-07-25 | 2017-08-18 | 2022-08-26 | - |
 
 
 
