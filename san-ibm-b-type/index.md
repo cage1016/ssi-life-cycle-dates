@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2024-11-15 00:32:13.93580984 +0800 CST
+content update: 2024-11-16 00:32:02.828945888 +0800 CST
 
 ---
 
@@ -33,7 +33,6 @@ content update: 2024-11-15 00:32:13.93580984 +0800 CST
 - [Family 2498+03 IBM System Storage SAN32B-E4](#family-249803-ibm-system-storage-san32b-e4)
 - [Family 2498+04 IBM System Storage SAN48B-5](#family-249804-ibm-system-storage-san48b-5)
 - [Family 2498+05 IBM System Networking SAN24B-5](#family-249805-ibm-system-networking-san24b-5)
-- [Family 2498+06 IBM System Networking SAN96B-5](#family-249806-ibm-system-networking-san96b-5)
 - [Family 2498+07 IBM System Storage SAN40B-4](#family-249807-ibm-system-storage-san40b-4)
 - [Family 2498+08 IBM System Storage SAN80B-4](#family-249808-ibm-system-storage-san80b-4)
 - [Family 2499+02 IBM System Storage SAN384B](#family-249902-ibm-system-storage-san384b)
@@ -646,30 +645,6 @@ content update: 2024-11-15 00:32:13.93580984 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2498-F24 | 2012-04-24 | 2012-05-04 | 2014-10-17 | 2025-04-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2498+06 IBM System Networking SAN96B-5
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-networking-san96b-5](https://www.ibm.com/docs/en/announcements/system-networking-san96b-5?region=AP)
-
-📅 2020-08-25
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2498-F96 | 2013-05-14 | 2013-05-24 | 2023-02-28 | - |
-| 2498-N96 | 2013-05-14 | 2013-07-12 | 2018-07-26 | 2027-08-31 |
 
 
 
