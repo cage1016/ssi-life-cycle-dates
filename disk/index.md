@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2024-11-29 00:32:52.591287332 +0800 CST
+content update: 2024-11-30 00:32:00.582174428 +0800 CST
 
 ---
 
@@ -112,6 +112,7 @@ content update: 2024-11-29 00:32:52.591287332 +0800 CST
 - [Family 2834+01 IBM DS8880 Models 981, 98E, 980, and 98B](#family-283401-ibm-ds8880-models-981-98e-980-and-98b)
 - [Family 2834+02 IBM DS8888 Model 982/98F](#family-283402-ibm-ds8888-model-982-98f)
 - [Family 2834+03 IBM DS8880 Models 984/84E, 985/85E, and 986/86E](#family-283403-ibm-ds8880-models-984-84e-985-85e-and-986-86e)
+- [3390-A14 IBM Direct Access Storage Device (DASD) Model A14](#3390-a14-ibm-direct-access-storage-device-dasd-model-a14)
 - [3390-A18 IBM Direct Access Storage Device (DASD) Model A18](#3390-a18-ibm-direct-access-storage-device-dasd-model-a18)
 - [3390-A24 IBM Direct Access Storage Device (DASD) Model A24](#3390-a24-ibm-direct-access-storage-device-dasd-model-a24)
 - [3390-A28 IBM Direct Access Storage Device (DASD) Model A28](#3390-a28-ibm-direct-access-storage-device-dasd-model-a28)
@@ -2771,6 +2772,29 @@ content update: 2024-11-29 00:32:52.591287332 +0800 CST
 | 2834-984 | 2016-11-02 | 2016-12-09 | 2020-06-30 | 2024-06-30 |
 | 2834-985 | 2016-11-02 | 2016-12-09 | 2020-06-30 | 2024-06-30 |
 | 2834-986 | 2016-11-02 | 2016-12-09 | 2020-06-30 | 2024-06-30 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3390-A14 IBM Direct Access Storage Device (DASD) Model A14
+
+🔗 [https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-a14](https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-a14?region=AP)
+
+📅 2005-06-06
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3390-A14 | 1989-11-14 | 1989-12-01 | 1996-04-26 | 2005-12-31 |
 
 
 
