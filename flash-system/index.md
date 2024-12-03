@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2024-12-03 00:32:02.860769739 +0800 CST
+content update: 2024-12-04 00:32:24.282813825 +0800 CST
 
 ---
 
@@ -8,7 +8,6 @@ content update: 2024-12-03 00:32:02.860769739 +0800 CST
 
 
 - [](#)
-- [Family 2072+06 IBM FlashSystem 5015 and 5035](#family-207206-ibm-flashsystem-5015-and-5035)
 - [Family 2077+05 IBM FlashSystem 5100](#family-207705-ibm-flashsystem-5100)
 - [Family 2078+05 IBM FlashSystem 5100](#family-207805-ibm-flashsystem-5100)
 - [Family 4666+01 IBM FlashSystem 9200 with Expert Care](#family-466601-ibm-flashsystem-9200-with-expert-care)
@@ -54,32 +53,6 @@ content update: 2024-12-03 00:32:02.860769739 +0800 CST
 
 📅 
 
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2072+06 IBM FlashSystem 5015 and 5035
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5015-5035-2023-10-10](https://www.ibm.com/docs/en/announcements/flashsystem-5015-5035-2023-10-10?region=AP)
-
-📅 2024-04-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2072-2N2 | 2021-02-09 | 2021-02-19 | 2023-12-30 | - |
-| 2072-2N4 | 2021-02-09 | 2021-02-19 | 2023-12-30 | - |
-| 2072-3N2 | 2021-02-09 | 2021-02-19 | 2023-12-30 | - |
-| 2072-3N4 | 2021-02-09 | 2021-02-19 | 2023-12-30 | - |
 
 
 
