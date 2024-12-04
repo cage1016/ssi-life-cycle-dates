@@ -1,6 +1,6 @@
 # IBM Storage Ready Nodes
 
-content update: 2024-12-04 00:32:24.282813825 +0800 CST
+content update: 2024-12-05 00:32:18.774609176 +0800 CST
 
 ---
 
