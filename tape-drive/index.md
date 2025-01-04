@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2025-01-04 00:31:56.450867792 +0800 CST
+content update: 2025-01-05 00:30:54.660684995 +0800 CST
 
 ---
 
@@ -75,13 +75,10 @@ content update: 2025-01-04 00:31:56.450867792 +0800 CST
 - [Family 3592+08 IBM System Storage Tape Controller Mod C07 System z AAS](#family-359208-ibm-system-storage-tape-controller-mod-c07-system-z-aas)
 - [Family 3592+09 IBM TS1140 Tape Drive Model EH7](#family-359209-ibm-ts1140-tape-drive-model-eh7)
 - [Family 3592+10 IBM TS1150 Tape Drive and HD2 Tape Drive](#family-359210-ibm-ts1150-tape-drive-and-hd2-tape-drive)
-- [Family 3592+11 IBM TS1155 Tape Drive Models 55F and 55E](#family-359211-ibm-ts1155-tape-drive-models-55f-and-55e)
 - [Family 3592+12 IBM TS1155 Tape Drive Model 55G](#family-359212-ibm-ts1155-tape-drive-model-55g)
-- [Family 3592+13 IBM TS1160 Tape Drive Model 60F](#family-359213-ibm-ts1160-tape-drive-model-60f)
 - [Family 3592+14 IBM TS1160 Tape Drive Model 60G](#family-359214-ibm-ts1160-tape-drive-model-60g)
 - [Family 3592+15 IBM TS1160 Tape Drive Model 60E](#family-359215-ibm-ts1160-tape-drive-model-60e)
 - [Family 3592+16 IBM TS1160 Tape Drive Model 60S for IBM TS4500](#family-359216-ibm-ts1160-tape-drive-model-60s-for-ibm-ts4500)
-- [Family 3592+17 IBM TS1170 Tape Drive models 70F and 70S](#family-359217-ibm-ts1170-tape-drive-models-70f-and-70s)
 - [7205-311 IBM 35GB External Digital Linear Tape Drive Model 311](#7205-311-ibm-35gb-external-digital-linear-tape-drive-model-311)
 - [7205-440 IBM 40 GB External Digital Linear Tape Drive Model 440](#7205-440-ibm-40-gb-external-digital-linear-tape-drive-model-440)
 - [7205-550 IBM 160 GB External Digital Linear Tape Drive Model 550](#7205-550-ibm-160-gb-external-digital-linear-tape-drive-model-550)
@@ -1699,30 +1696,6 @@ content update: 2025-01-04 00:31:56.450867792 +0800 CST
 
 
 
-### Family 3592+11 IBM TS1155 Tape Drive Models 55F and 55E
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts1155-tape-drive-models-55f-55e](https://www.ibm.com/docs/en/announcements/ts1155-tape-drive-models-55f-55e?region=AP)
-
-📅 2022-07-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3592-55E | 2017-05-09 | 2017-07-28 | 2019-12-07 | 2023-12-31 |
-| 3592-55F | 2017-05-09 | 2017-06-02 | 2019-12-07 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 3592+12 IBM TS1155 Tape Drive Model 55G
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts1155-tape-drive-model-55g](https://www.ibm.com/docs/en/announcements/ts1155-tape-drive-model-55g?region=AP)
@@ -1732,29 +1705,6 @@ content update: 2025-01-04 00:31:56.450867792 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3592-55G | 2017-10-10 | 2017-11-17 | 2019-12-07 | 2023-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3592+13 IBM TS1160 Tape Drive Model 60F
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts1160-tape-drive-model-60f](https://www.ibm.com/docs/en/announcements/ts1160-tape-drive-model-60f?region=AP)
-
-📅 2023-10-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3592-60F | 2018-11-20 | 2018-12-07 | - | - |
 
 
 
@@ -1824,30 +1774,6 @@ content update: 2025-01-04 00:31:56.450867792 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3592-60S | 2020-08-11 | 2020-09-04 | - | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3592+17 IBM TS1170 Tape Drive models 70F and 70S
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts1170-tape-drive-models-70f-70s](https://www.ibm.com/docs/en/announcements/ts1170-tape-drive-models-70f-70s?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3592-70F | 2023-08-22 | 2023-08-25 |  |  |
-| 3592-70S | 2023-08-22 | 2023-08-25 |  |  |
 
 
 
