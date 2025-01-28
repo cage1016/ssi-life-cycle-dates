@@ -1,15 +1,14 @@
 # Open Software Family
 
-content update: 2025-01-28 00:31:34.931655083 +0800 CST
+content update: 2025-01-29 00:31:59.596602682 +0800 CST
 
 ---
 
 ### Table of contents
 
 
-- [Family 2145+10 IBM SAN Volume Controller models SA2 and SV2](#family-214510-ibm-san-volume-controller-models-sa2-and-sv2)
+- [](#)
 - [Family 2145+11 IBM SAN Volume Controller model SV3](#family-214511-ibm-san-volume-controller-model-sv3)
-- [Family 2147+02 IBM SAN Volume Controller models SA2 and SV2](#family-214702-ibm-san-volume-controller-models-sa2-and-sv2)
 - [Family 2147+03 IBM SAN Volume Controller model SV3](#family-214703-ibm-san-volume-controller-model-sv3)
 
 ---
@@ -20,16 +19,12 @@ content update: 2025-01-28 00:31:34.931655083 +0800 CST
 
 
 
-### Family 2145+10 IBM SAN Volume Controller models SA2 and SV2
+### 
 
-🔗 [https://www.ibm.com/docs/en/announcements/san-volume-controller-models-sa2-sv2](https://www.ibm.com/docs/en/announcements/san-volume-controller-models-sa2-sv2?region=AP)
+🔗 [](?region=AP)
 
-📅 2023-12-12
+📅 
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2145-SA2 | 2020-02-11 | 2020-03-06 | - | - |
-| 2145-SV2 | 2020-02-11 | 2020-03-06 | 2023-01-28 | - |
 
 
 
@@ -53,30 +48,6 @@ content update: 2025-01-28 00:31:34.931655083 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2145-SV3 | 2022-02-08 | 2022-03-04 | - | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2147+02 IBM SAN Volume Controller models SA2 and SV2
-
-🔗 [https://www.ibm.com/docs/en/announcements/san-volume-controller-models-sa2-sv2-2023-10-10](https://www.ibm.com/docs/en/announcements/san-volume-controller-models-sa2-sv2-2023-10-10?region=AP)
-
-📅 2023-12-12
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2147-SA2 | 2020-02-11 | 2020-03-06 | - | - |
-| 2147-SV2 | 2020-02-11 | 2020-03-06 | 2023-01-28 | - |
 
 
 

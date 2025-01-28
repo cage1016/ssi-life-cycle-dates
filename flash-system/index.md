@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2025-01-28 00:31:34.931655083 +0800 CST
+content update: 2025-01-29 00:31:59.596602682 +0800 CST
 
 ---
 
@@ -8,8 +8,6 @@ content update: 2025-01-28 00:31:34.931655083 +0800 CST
 
 
 - [](#)
-- [Family 2077+05 IBM FlashSystem 5100](#family-207705-ibm-flashsystem-5100)
-- [Family 2078+05 IBM FlashSystem 5100](#family-207805-ibm-flashsystem-5100)
 - [Family 4666+01 IBM FlashSystem 9200 with Expert Care](#family-466601-ibm-flashsystem-9200-with-expert-care)
 - [Family 9745+01 IBM FlashSystem Utility models Variable Use billing](#family-974501-ibm-flashsystem-utility-models-variable-use-billing)
 - [Family 9830+01 IBM FlashSystem 710 and FlashSystem 810](#family-983001-ibm-flashsystem-710-and-flashsystem-810)
@@ -53,59 +51,6 @@ content update: 2025-01-28 00:31:34.931655083 +0800 CST
 
 📅 
 
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2077+05 IBM FlashSystem 5100
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5100](https://www.ibm.com/docs/en/announcements/flashsystem-5100?region=AP)
-
-📅 2022-04-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2077-12G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-| 2077-24G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-| 2077-4H4 | 2020-02-11 | 2020-03-06 | 2021-10-09 | - |
-| 2077-92G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2078+05 IBM FlashSystem 5100
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5100-2022-04-26](https://www.ibm.com/docs/en/announcements/flashsystem-5100-2022-04-26?region=AP)
-
-📅 2022-04-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2078-UHB | 2020-02-11 | 2020-03-06 | 2021-10-09 | - |
-| 2078-12G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-| 2078-24G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-| 2078-4H4 | 2020-02-11 | 2020-03-06 | 2021-10-09 | - |
-| 2078-92G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
 
 
 
