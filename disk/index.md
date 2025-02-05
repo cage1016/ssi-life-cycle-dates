@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2025-02-05 00:31:31.173386184 +0800 CST
+content update: 2025-02-06 00:31:21.058920665 +0800 CST
 
 ---
 
@@ -51,6 +51,7 @@ content update: 2025-02-05 00:31:31.173386184 +0800 CST
 - [Family 2077+02 IBM Storwize V5000](#family-207702-ibm-storwize-v5000)
 - [Family 2077+03 IBM Storwize V5030F](#family-207703-ibm-storwize-v5030f)
 - [Family 2077+04 IBM Storwize V5100](#family-207704-ibm-storwize-v5100)
+- [Family 2077+05 IBM FlashSystem 5100](#family-207705-ibm-flashsystem-5100)
 - [Family 2078+01 IBM Storwize V5000 Disk System](#family-207801-ibm-storwize-v5000-disk-system)
 - [Family 2078+02 IBM Storwize V5000](#family-207802-ibm-storwize-v5000)
 - [Family 2078+03 IBM Storwize V5030F](#family-207803-ibm-storwize-v5030f)
@@ -1294,6 +1295,32 @@ content update: 2025-02-05 00:31:31.173386184 +0800 CST
 | --- | --- | --- | --- | --- |
 | 2077-AF4 | 2019-04-09 | 2019-06-07 | 2020-04-11 | 31 December 2025 |
 | 2077-424 | 2019-04-09 | 2019-06-07 | 2020-04-11 | 31 December 2025 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2077+05 IBM FlashSystem 5100
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-5100](https://www.ibm.com/docs/en/announcements/flashsystem-5100?region=AP)
+
+📅 2022-04-26
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2077-12G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
+| 2077-24G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
+| 2077-4H4 | 2020-02-11 | 2020-03-06 | 2021-10-09 | - |
+| 2077-92G | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
 
 
 
