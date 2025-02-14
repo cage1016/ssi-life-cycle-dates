@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2025-02-14 00:30:55.041708064 +0800 CST
+content update: 2025-02-15 00:31:15.836336198 +0800 CST
 
 ---
 
@@ -144,7 +144,6 @@ content update: 2025-02-14 00:30:55.041708064 +0800 CST
 - [Family 5333+02 IBM DS8882F Model 983](#family-533302-ibm-ds8882f-model-983)
 - [Family 5334+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533401-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
 - [Family 5334+02 IBM DS8882F Model 983](#family-533402-ibm-ds8882f-model-983)
-- [Family 5341+01 IBM DS8900F 1-YR warranty all-flash systems with IBM Storage Expert Care](#family-534101-ibm-ds8900f-1-yr-warranty-all-flash-systems-with-ibm-storage-expert-care)
 - [7027-HSC IBM High Capacity Drawer Model HSC](#7027-hsc-ibm-high-capacity-drawer-model-hsc)
 - [7027-HSD IBM High Capacity Drawer Model HSD](#7027-hsd-ibm-high-capacity-drawer-model-hsd)
 - [7133-010 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 010](#7133-010-ibm-serial-storage-architecture-ssa-disk-subsystem-model-010)
@@ -3514,33 +3513,6 @@ content update: 2025-02-14 00:30:55.041708064 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 5334-983 | 2018-08-21 | 2018-09-07 | 2020-06-30 | 2024-06-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 5341+01 IBM DS8900F 1-YR warranty all-flash systems with IBM Storage Expert Care
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8900f-1-yr-warranty-all-flash-systems-storage-expert-care](https://www.ibm.com/docs/en/announcements/ds8900f-1-yr-warranty-all-flash-systems-storage-expert-care?region=AP)
-
-📅 2022-05-24
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5341-E96 | 2022-05-24 | 2022-05-31 | - | - |
-| 5341-993 | 2022-05-24 | 2022-05-31 | - | - |
-| 5341-994 | 2022-05-24 | 2022-05-31 | - | - |
-| 5341-996 | 2022-05-24 | 2022-05-31 | - | - |
-| 5341-998 | 2022-05-24 | 2022-05-31 | - | - |
 
 
 
