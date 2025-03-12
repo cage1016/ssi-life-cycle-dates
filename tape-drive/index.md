@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2025-03-12 00:31:26.882280567 +0800 CST
+content update: 2025-03-13 00:31:34.919197209 +0800 CST
 
 ---
 
@@ -104,7 +104,6 @@ content update: 2025-03-12 00:31:26.882280567 +0800 CST
 - [Family 7214+01 IBM System Storage Tape/Optical Storage Device Enclosure](#family-721401-ibm-system-storage-tape-optical-storage-device-enclosure)
 - [Family 7214+02 IBM System Storage Tape/DVD Device Enclosure Model TT2](#family-721402-ibm-system-storage-tape-dvd-device-enclosure-model-tt2)
 - [Family 7216+01 IBM System Storage 7216 Multi-Media Enclosure](#family-721601-ibm-system-storage-7216-multi-media-enclosure)
-- [Family 7226+01 IBM System Storage 7226 Model 1U3 Multi-Media Enclosure](#family-722601-ibm-system-storage-7226-model-1u3-multi-media-enclosure)
 - [7329-308 IBM SLR100 Tape Autoloader Model 308](#7329-308-ibm-slr100-tape-autoloader-model-308)
 - [7332-005 IBM 4MM DDS-2 Tape Autoloader Model 005](#7332-005-ibm-4mm-dds-2-tape-autoloader-model-005)
 - [7332-110 IBM 4mm DDS-3 Tape Cartridge Autoloader Model 110](#7332-110-ibm-4mm-dds-3-tape-cartridge-autoloader-model-110)
@@ -2337,29 +2336,6 @@ content update: 2025-03-12 00:31:26.882280567 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7216-1U2 | 2010-08-17 | 2010-09-10 | 2012-04-27 | 2022-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 7226+01 IBM System Storage 7226 Model 1U3 Multi-Media Enclosure
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-7226-model-1u3-multi-media-enclosure](https://www.ibm.com/docs/en/announcements/system-storage-7226-model-1u3-multi-media-enclosure?region=AP)
-
-📅 2023-12-12
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7226-1U3 | 2012-02-28 | 2012-03-09 | - | - |
 
 
 
