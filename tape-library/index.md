@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2025-04-22 00:31:15.155483697 +0800 CST
+content update: 2025-04-23 00:31:31.286337709 +0800 CST
 
 ---
 
@@ -13,7 +13,6 @@ content update: 2025-04-22 00:31:15.155483697 +0800 CST
 - [3494-L14 IBM TotalStorage Enterprise Tape Library Base Frame Model L14](#3494-l14-ibm-totalstorage-enterprise-tape-library-base-frame-model-l14)
 - [3494-L22 IBM TotalStorage Enterprise Tape Library Base Frame Model L22](#3494-l22-ibm-totalstorage-enterprise-tape-library-base-frame-model-l22)
 - [Family 3555+01 IBM TS4300 tape library Models L3A and E3A](#family-355501-ibm-ts4300-tape-library-models-l3a-and-e3a)
-- [Family 3572+01 IBM System Storage TS2900 Tape Autoloader](#family-357201-ibm-system-storage-ts2900-tape-autoloader)
 - [Family 3573+01 IBM System Storage TS3100 Tape Library Express Model L2U](#family-357301-ibm-system-storage-ts3100-tape-library-express-model-l2u)
 - [Family 3576+01 IBM System Storage TS3310 Tape Library and Expansion Modules](#family-357601-ibm-system-storage-ts3310-tape-library-and-expansion-modules)
 - [Family 3577+01 IBM System Storage TS3400 Tape Library Model L5U](#family-357701-ibm-system-storage-ts3400-tape-library-model-l5u)
@@ -169,35 +168,6 @@ content update: 2025-04-22 00:31:15.155483697 +0800 CST
 | --- | --- | --- | --- | --- |
 | 3555-E3A | 2017-07-25 | 2017-08-25 | - | - |
 | 3555-L3A | 2017-07-25 | 2017-08-25 | - | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3572+01 IBM System Storage TS2900 Tape Autoloader
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts2900-tape-autoloader](https://www.ibm.com/docs/en/announcements/system-storage-ts2900-tape-autoloader?region=AP)
-
-📅 2023-11-14
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3572-S3H | 2008-08-26 | 2008-09-05 | 2011-04-15 | 2018-12-31 |
-| 3572-S4H | 2008-08-26 | 2008-09-05 | 2016-11-30 | 2020-12-31 |
-| 3572-S5H | 2014-04-28 | 2014-04-28 | 2018-09-15 | 2023-12-31 |
-| 3572-S6H | 2014-04-28 | 2014-04-28 | 2021-08-30 | - |
-| 3572-S7H | 2015-10-06 | 2015-10-23 | 2024-06-30 | - |
-| 3572-S8H | 2017-10-24 | 2017-11-10 | - | - |
-| 3572-S9H | 2021-11-23 | 2021-12-03 | - | - |
 
 
 
