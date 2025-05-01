@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2025-05-01 00:31:26.131826452 +0800 CST
+content update: 2025-05-02 00:31:09.130404269 +0800 CST
 
 ---
 
@@ -65,7 +65,6 @@ content update: 2025-05-01 00:31:26.131826452 +0800 CST
 - [2104-TU3 IBM Expandable Storage Plus Tower Model TU3](#2104-tu3-ibm-expandable-storage-plus-tower-model-tu3)
 - [2105-100 IBM Versatile Storage Server Model 100](#2105-100-ibm-versatile-storage-server-model-100)
 - [2105-750 IBM TotalStorage Enterprise Storage Server Model 750](#2105-750-ibm-totalstorage-enterprise-storage-server-model-750)
-- [2105-800 IBM TotalStorage Enterprise Storage Server Model 800](#2105-800-ibm-totalstorage-enterprise-storage-server-model-800)
 - [2105-B09 IBM Versatile Storage Server Model B09](#2105-b09-ibm-versatile-storage-server-model-b09)
 - [2105-E10 IBM Enterprise Storage Server Model E10](#2105-e10-ibm-enterprise-storage-server-model-e10)
 - [2105-E20 IBM Enterprise Storage Server Model E20](#2105-e20-ibm-enterprise-storage-server-model-e20)
@@ -1623,29 +1622,6 @@ content update: 2025-05-01 00:31:26.131826452 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2105-750 | 2004-04-07 | 2004-05-28 | 2006-04-28 | 2012-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2105-800 IBM TotalStorage Enterprise Storage Server Model 800
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-storage-server-model-800](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-storage-server-model-800?region=AP)
-
-📅 2017-01-24
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2105-800 | 2002-07-15 | 2002-08-16 | 2006-04-28 | 2014-12-31 |
 
 
 
