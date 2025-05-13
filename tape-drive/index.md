@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2025-05-13 00:31:16.633813327 +0800 CST
+content update: 2025-05-14 00:31:16.35048707 +0800 CST
 
 ---
 
@@ -35,8 +35,6 @@ content update: 2025-05-13 00:31:16.633813327 +0800 CST
 - [Family 3580+16 IBM System Storage TS2360 Tape Drive Model S63](#family-358016-ibm-system-storage-ts2360-tape-drive-model-s63)
 - [Family 3580+17 IBM System Storage TS2260 Tape Drive Model H6S](#family-358017-ibm-system-storage-ts2260-tape-drive-model-h6s)
 - [Family 3580+18 IBM TS2270 Tape Drive Model H7S](#family-358018-ibm-ts2270-tape-drive-model-h7s)
-- [Family 3580+19 IBM TS2280 Tape Drive Model H8S](#family-358019-ibm-ts2280-tape-drive-model-h8s)
-- [Family 3580+20 IBM TS2290 SAS Tape Drive Model H9S](#family-358020-ibm-ts2290-sas-tape-drive-model-h9s)
 - [Family 3581+01 IBM Ultrium Tape Autoloader](#family-358101-ibm-ultrium-tape-autoloader)
 - [Family 3581+02 IBM Ultrium Tape Autoloader](#family-358102-ibm-ultrium-tape-autoloader)
 - [Family 3581+03 IBM TotalStorage Ultrium Tape Autoloader Models H23, L23](#family-358103-ibm-totalstorage-ultrium-tape-autoloader-models-h23-l23)
@@ -752,52 +750,6 @@ content update: 2025-05-13 00:31:16.633813327 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3580-H7S | 2015-10-06 | 2015-11-20 | 2024-06-30 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3580+19 IBM TS2280 Tape Drive Model H8S
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts2280-tape-drive-model-h8s](https://www.ibm.com/docs/en/announcements/ts2280-tape-drive-model-h8s?region=AP)
-
-📅 2023-12-12
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3580-H8S | 2017-10-10 | 2017-11-17 | - | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3580+20 IBM TS2290 SAS Tape Drive Model H9S
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts2290-sas-tape-drive-model-h9s](https://www.ibm.com/docs/en/announcements/ts2290-sas-tape-drive-model-h9s?region=AP)
-
-📅 2023-12-12
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3580-H9S | 2021-11-23 | 2021-12-03 | - | - |
 
 
 
