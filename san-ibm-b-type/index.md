@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2025-05-15 00:31:31.306755379 +0800 CST
+content update: 2025-05-16 00:31:12.681032535 +0800 CST
 
 ---
 
@@ -41,7 +41,6 @@ content update: 2025-05-15 00:31:31.306755379 +0800 CST
 - [Family 3758+02 IBM Converged Switch L32](#family-375802-ibm-converged-switch-l32)
 - [7140-160 IBM TotalStorage SAN Controller Model 160](#7140-160-ibm-totalstorage-san-controller-model-160)
 - [Family 8969+01 IBM IBM Storage Networking SAN24B-6](#family-896901-ibm-ibm-storage-networking-san24b-6)
-- [Family 8969+02 IBM Storage Networking SAN128B-7](#family-896902-ibm-storage-networking-san128b-7)
 - [Family 8969+03 IBM Storage Networking SAN42B-R7](#family-896903-ibm-storage-networking-san42b-r7)
 - [Family 9239+01 IBM SANnav](#family-923901-ibm-sannav)
 - [Family 9240+01 IBM SANnav](#family-924001-ibm-sannav)
@@ -825,30 +824,6 @@ content update: 2025-05-15 00:31:31.306755379 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 8969-F24 | 2022-05-24 | 2022-06-03 | - | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 8969+02 IBM Storage Networking SAN128B-7
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-networking-san128b-7](https://www.ibm.com/docs/en/announcements/storage-networking-san128b-7?region=AP)
-
-📅 2024-05-28
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 8969-P96 | 2022-05-24 | 2022-06-03 | - | - |
-| 8969-R96 | 2022-05-24 | 2022-06-03 | - | - |
 
 
 
