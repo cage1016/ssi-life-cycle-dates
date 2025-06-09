@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2025-06-09 00:32:51.664887588 +0800 CST
+content update: 2025-06-10 00:31:12.941746277 +0800 CST
 
 ---
 
@@ -200,6 +200,7 @@ content update: 2025-06-09 00:32:51.664887588 +0800 CST
 - [9337-215 IBM Disk Array Subsystem Model 215](#9337-215-ibm-disk-array-subsystem-model-215)
 - [9337-220 IBM Disk Array Subsystem Model 220](#9337-220-ibm-disk-array-subsystem-model-220)
 - [9337-225 IBM Disk Array Subsystem Model 225](#9337-225-ibm-disk-array-subsystem-model-225)
+- [9337-240 IBM Disk Array Subsystem Model 240](#9337-240-ibm-disk-array-subsystem-model-240)
 - [9337-420 IBM Disk Array Subsystem Model 420](#9337-420-ibm-disk-array-subsystem-model-420)
 - [9337-440 IBM Disk Array Subsystem Model 440](#9337-440-ibm-disk-array-subsystem-model-440)
 - [9337-480 IBM Disk Array Subsystem Model 480](#9337-480-ibm-disk-array-subsystem-model-480)
@@ -207,6 +208,7 @@ content update: 2025-06-09 00:32:51.664887588 +0800 CST
 - [9337-545 IBM Disk Array Subsystem Model 545](#9337-545-ibm-disk-array-subsystem-model-545)
 - [9337-580 IBM Disk Array Subsystem Model 580](#9337-580-ibm-disk-array-subsystem-model-580)
 - [9337-585 IBM Disk Array Subsystem Model 585](#9337-585-ibm-disk-array-subsystem-model-585)
+- [9337-590 IBM Disk Array Subsystem Model 590](#9337-590-ibm-disk-array-subsystem-model-590)
 - [9337-595 IBM Disk Array Subsystem Model 595](#9337-595-ibm-disk-array-subsystem-model-595)
 - [9345-B12 IBM DASD Model B12](#9345-b12-ibm-dasd-model-b12)
 - [9345-B22 IBM DASD Model B22](#9345-b22-ibm-dasd-model-b22)
@@ -4792,6 +4794,29 @@ content update: 2025-06-09 00:32:51.664887588 +0800 CST
 
 
 
+### 9337-240 IBM Disk Array Subsystem Model 240
+
+🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-240](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-240?region=AP)
+
+📅 2008-06-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9337-240 | 1993-09-07 | 1993-11-26 | 1996-12-20 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 9337-420 IBM Disk Array Subsystem Model 420
 
 🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-420](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-420?region=AP)
@@ -4939,6 +4964,29 @@ content update: 2025-06-09 00:32:51.664887588 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9337-585 | 1996-06-04 | 1996-06-21 | 1998-09-30 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 9337-590 IBM Disk Array Subsystem Model 590
+
+🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-590](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-590?region=AP)
+
+📅 2006-06-13
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9337-590 | 1997-02-18 | 1997-02-28 | 1998-09-30 | - |
 
 
 
