@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2025-06-10 00:31:12.941746277 +0800 CST
+content update: 2025-06-11 00:31:28.287634012 +0800 CST
 
 ---
 
@@ -48,9 +48,7 @@ content update: 2025-06-10 00:31:12.941746277 +0800 CST
 - [Family 3588+07 IBM TS1070 Tape Drive Model F7C](#family-358807-ibm-ts1070-tape-drive-model-f7c)
 - [Family 3588+08 IBM TS1070 Tape Drive Model F7A](#family-358808-ibm-ts1070-tape-drive-model-f7a)
 - [Family 3588+09 IBM TS1080 Tape Drive Model F8A](#family-358809-ibm-ts1080-tape-drive-model-f8a)
-- [Family 3588+10 IBM TS1080 Tape Drive Model F8C](#family-358810-ibm-ts1080-tape-drive-model-f8c)
 - [Family 3588+11 IBM TS1080 Tape Drive Model F8S](#family-358811-ibm-ts1080-tape-drive-model-f8s)
-- [Family 3588+12 IBM LTO 9 Tape Drive models F9C, F9S, and S9C](#family-358812-ibm-lto-9-tape-drive-models-f9c-f9s-and-s9c)
 - [3590-A00 IBM TotalStorage Enterprise Tape Controller Model A00](#3590-a00-ibm-totalstorage-enterprise-tape-controller-model-a00)
 - [3590-A14 IBM TotalStorage Enterprise Tape Drive Frame Model A14](#3590-a14-ibm-totalstorage-enterprise-tape-drive-frame-model-a14)
 - [3590-A50 IBM TotalStorage Enterprise Tape Controller Model A50](#3590-a50-ibm-totalstorage-enterprise-tape-controller-model-a50)
@@ -75,7 +73,6 @@ content update: 2025-06-10 00:31:12.941746277 +0800 CST
 - [Family 3592+12 IBM TS1155 Tape Drive Model 55G](#family-359212-ibm-ts1155-tape-drive-model-55g)
 - [Family 3592+14 IBM TS1160 Tape Drive Model 60G](#family-359214-ibm-ts1160-tape-drive-model-60g)
 - [Family 3592+15 IBM TS1160 Tape Drive Model 60E](#family-359215-ibm-ts1160-tape-drive-model-60e)
-- [Family 3592+16 IBM TS1160 Tape Drive Model 60S for IBM TS4500](#family-359216-ibm-ts1160-tape-drive-model-60s-for-ibm-ts4500)
 - [7205-311 IBM 35GB External Digital Linear Tape Drive Model 311](#7205-311-ibm-35gb-external-digital-linear-tape-drive-model-311)
 - [7205-440 IBM 40 GB External Digital Linear Tape Drive Model 440](#7205-440-ibm-40-gb-external-digital-linear-tape-drive-model-440)
 - [7205-550 IBM 160 GB External Digital Linear Tape Drive Model 550](#7205-550-ibm-160-gb-external-digital-linear-tape-drive-model-550)
@@ -90,7 +87,6 @@ content update: 2025-06-10 00:31:12.941746277 +0800 CST
 - [7208-011 IBM External 8mm Tape Drive Model 011](#7208-011-ibm-external-8mm-tape-drive-model-011)
 - [7208-012 IBM External 8mm Tape Drive Model 012](#7208-012-ibm-external-8mm-tape-drive-model-012)
 - [7208-222 IBM External 8mm Tape Drive Model 222](#7208-222-ibm-external-8mm-tape-drive-model-222)
-- [7208-232 IBM External 8mm Tape Subsystem Model 232](#7208-232-ibm-external-8mm-tape-subsystem-model-232)
 - [7208-234 IBM External 8mm Tape Drive Model 234](#7208-234-ibm-external-8mm-tape-drive-model-234)
 - [7208-341 IBM 20GB External 8mm Tape Drive Model 341](#7208-341-ibm-20gb-external-8mm-tape-drive-model-341)
 - [7208-342 IBM 20GB External 8mm Tape Drive Model 342](#7208-342-ibm-20gb-external-8mm-tape-drive-model-342)
@@ -1069,29 +1065,6 @@ content update: 2025-06-10 00:31:12.941746277 +0800 CST
 
 
 
-### Family 3588+10 IBM TS1080 Tape Drive Model F8C
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts1080-tape-drive-model-f8c](https://www.ibm.com/docs/en/announcements/ts1080-tape-drive-model-f8c?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3588-F8C | 2017-10-10 | 2017-11-17 | - | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 3588+11 IBM TS1080 Tape Drive Model F8S
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts1080-tape-drive-model-f8s](https://www.ibm.com/docs/en/announcements/ts1080-tape-drive-model-f8s?region=AP)
@@ -1101,31 +1074,6 @@ content update: 2025-06-10 00:31:12.941746277 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3588-F8S | 2018-11-20 | 2018-12-07 | 2023-12-31 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3588+12 IBM LTO 9 Tape Drive models F9C, F9S, and S9C
-
-🔗 [https://www.ibm.com/docs/en/announcements/lto-9-tape-drive-models-f9c-f9s-s9c](https://www.ibm.com/docs/en/announcements/lto-9-tape-drive-models-f9c-f9s-s9c?region=AP)
-
-📅 2023-06-27
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3588-F9C | 2021-09-07 | 2021-09-10 | - | - |
-| 3588-F9S | 2021-09-07 | 2021-09-10 | 2023-12-31 | - |
-| 3588-S9C | 2021-09-07 | 2021-09-10 | - | - |
 
 
 
@@ -1693,29 +1641,6 @@ content update: 2025-06-10 00:31:12.941746277 +0800 CST
 
 
 
-### Family 3592+16 IBM TS1160 Tape Drive Model 60S for IBM TS4500
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts1160-tape-drive-model-60s-ts4500](https://www.ibm.com/docs/en/announcements/ts1160-tape-drive-model-60s-ts4500?region=AP)
-
-📅 2023-10-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3592-60S | 2020-08-11 | 2020-09-04 | - | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 7205-311 IBM 35GB External Digital Linear Tape Drive Model 311
 
 🔗 [https://www.ibm.com/docs/en/announcements/35gb-external-digital-linear-tape-drive-model-311](https://www.ibm.com/docs/en/announcements/35gb-external-digital-linear-tape-drive-model-311?region=AP)
@@ -2015,26 +1940,6 @@ content update: 2025-06-10 00:31:12.941746277 +0800 CST
 ### 7208-222 IBM External 8mm Tape Drive Model 222
 
 🔗 [https://www.ibm.com/docs/en/announcements/external-8mm-tape-drive-model-222](https://www.ibm.com/docs/en/announcements/external-8mm-tape-drive-model-222?region=AP)
-
-📅 2002-06-10
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7208-232 IBM External 8mm Tape Subsystem Model 232
-
-🔗 [https://www.ibm.com/docs/en/announcements/external-8mm-tape-subsystem-model-232](https://www.ibm.com/docs/en/announcements/external-8mm-tape-subsystem-model-232?region=AP)
 
 📅 2002-06-10
 
