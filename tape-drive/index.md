@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2025-06-11 00:31:28.287634012 +0800 CST
+content update: 2025-06-12 00:31:32.146933485 +0800 CST
 
 ---
 
@@ -86,7 +86,6 @@ content update: 2025-06-11 00:31:28.287634012 +0800 CST
 - [7208-002 IBM External 8mm Tape Drive Model 002](#7208-002-ibm-external-8mm-tape-drive-model-002)
 - [7208-011 IBM External 8mm Tape Drive Model 011](#7208-011-ibm-external-8mm-tape-drive-model-011)
 - [7208-012 IBM External 8mm Tape Drive Model 012](#7208-012-ibm-external-8mm-tape-drive-model-012)
-- [7208-222 IBM External 8mm Tape Drive Model 222](#7208-222-ibm-external-8mm-tape-drive-model-222)
 - [7208-234 IBM External 8mm Tape Drive Model 234](#7208-234-ibm-external-8mm-tape-drive-model-234)
 - [7208-341 IBM 20GB External 8mm Tape Drive Model 341](#7208-341-ibm-20gb-external-8mm-tape-drive-model-341)
 - [7208-342 IBM 20GB External 8mm Tape Drive Model 342](#7208-342-ibm-20gb-external-8mm-tape-drive-model-342)
@@ -1923,26 +1922,6 @@ content update: 2025-06-11 00:31:28.287634012 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7208-012 | 1993-02-01 | 1993-02-01 | 1998-06-26 | 2015-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7208-222 IBM External 8mm Tape Drive Model 222
-
-🔗 [https://www.ibm.com/docs/en/announcements/external-8mm-tape-drive-model-222](https://www.ibm.com/docs/en/announcements/external-8mm-tape-drive-model-222?region=AP)
-
-📅 2002-06-10
-
 
 
 
