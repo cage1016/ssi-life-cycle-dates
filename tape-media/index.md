@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2025-07-14 00:30:46.871666424 +0800 CST
+content update: 2025-07-15 00:30:56.945497246 +0800 CST
 
 ---
 
@@ -34,7 +34,7 @@ content update: 2025-07-14 00:30:46.871666424 +0800 CST
 - [3599-005 IBM 3590 Extended High Performance Cartridge Tape Model 005](#3599-005-ibm-3590-extended-high-performance-cartridge-tape-model-005)
 - [3599-006 IBM 3590 Extended High Performance Cartridge Tape Model 006](#3599-006-ibm-3590-extended-high-performance-cartridge-tape-model-006)
 - [3599-007 IBM 3590 Cleaning Cartridges Model 007](#3599-007-ibm-3590-cleaning-cartridges-model-007)
-- [3599-008 IBM 3590 Cartridge Magazine Model 008](#3599-008-ibm-3590-cartridge-magazine-model-008)
+- [](#)
 - [3599-011 IBM 3592 Enterprise Tape Cartridge with Labeling,Init Model 011](#3599-011-ibm-3592-enterprise-tape-cartridge-with-labeling-init-model-011)
 - [3599-012 IBM 3592 Enterprise Tape Cartridge with Labeling Model 012](#3599-012-ibm-3592-enterprise-tape-cartridge-with-labeling-model-012)
 - [3599-013 IBM 3592 Enterprise Tape Cartridge Model 013](#3599-013-ibm-3592-enterprise-tape-cartridge-model-013)
@@ -704,15 +704,12 @@ content update: 2025-07-14 00:30:46.871666424 +0800 CST
 
 
 
-### 3599-008 IBM 3590 Cartridge Magazine Model 008
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/3590-cartridge-magazine-model-008](https://www.ibm.com/docs/en/announcements/3590-cartridge-magazine-model-008?region=AP)
 
 📅 2023-11-21
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3599-008 | 1999-08-24 | 1999-09-10 | 2008-12-26 | - |
 
 
 
