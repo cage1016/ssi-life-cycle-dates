@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2025-07-17 00:30:55.030794161 +0800 CST
+content update: 2025-07-18 00:31:21.890703901 +0800 CST
 
 ---
 
@@ -132,12 +132,8 @@ content update: 2025-07-17 00:30:55.030794161 +0800 CST
 - [3390-B9C IBM Direct Access Storage Device (DASD) Model B9C](#3390-b9c-ibm-direct-access-storage-device-dasd-model-b9c)
 - [3552-1RU IBM TotalStorage FAStT500 Storage Server Model 1RU](#3552-1ru-ibm-totalstorage-fastt500-storage-server-model-1ru)
 - [Family 3560+01 IBM FAStT EXP500 Expansion Unit](#family-356001-ibm-fastt-exp500-expansion-unit)
-- [3990-001 IBM Storage Control Model 001](#3990-001-ibm-storage-control-model-001)
-- [3990-002 IBM Storage Control Model 002](#3990-002-ibm-storage-control-model-002)
-- [3990-006 IBM Storage Control Model 006](#3990-006-ibm-storage-control-model-006)
 - [Family 4939+01 IBM Flex System V7000 Storage Node Hardware - AAS](#family-493901-ibm-flex-system-v7000-storage-node-hardware-aas)
 - [Family 5331+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533101-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
-- [Family 5331+02 IBM DS8882F Model 983](#family-533102-ibm-ds8882f-model-983)
 - [Family 5332+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533201-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
 - [Family 5332+02 IBM DS8882F Model 983](#family-533202-ibm-ds8882f-model-983)
 - [Family 5333+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533301-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
@@ -3227,72 +3223,6 @@ content update: 2025-07-17 00:30:55.030794161 +0800 CST
 
 
 
-### 3990-001 IBM Storage Control Model 001
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-control-model-001](https://www.ibm.com/docs/en/announcements/storage-control-model-001?region=AP)
-
-📅 1996-01-10
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3990-002 IBM Storage Control Model 002
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-control-model-002](https://www.ibm.com/docs/en/announcements/storage-control-model-002?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3990-002 | 1987-09-30 | 1988-08-26 | 1996-04-26 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3990-006 IBM Storage Control Model 006
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-control-model-006](https://www.ibm.com/docs/en/announcements/storage-control-model-006?region=AP)
-
-📅 2008-03-07
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3990-006 | 1993-05-01 | 1993-09-01 | 2000-08-11 | 2008-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 4939+01 IBM Flex System V7000 Storage Node Hardware - AAS
 
 🔗 [https://www.ibm.com/docs/en/announcements/flex-system-v7000-storage-node-hardware-aas](https://www.ibm.com/docs/en/announcements/flex-system-v7000-storage-node-hardware-aas?region=AP)
@@ -3332,29 +3262,6 @@ content update: 2025-07-17 00:30:55.030794161 +0800 CST
 | 5331-985 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
 | 5331-986 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
 | 5331-988 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 5331+02 IBM DS8882F Model 983
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8882f-model-983](https://www.ibm.com/docs/en/announcements/ds8882f-model-983?region=AP)
-
-📅 2023-01-31
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5331-983 | 2018-08-21 | 2018-09-07 | 2020-06-30 | 2024-06-30 |
 
 
 
