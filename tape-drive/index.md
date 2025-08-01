@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2025-08-01 00:31:22.887160952 +0800 CST
+content update: 2025-08-02 00:30:55.609134908 +0800 CST
 
 ---
 
@@ -32,7 +32,6 @@ content update: 2025-08-01 00:31:22.887160952 +0800 CST
 - [Family 3580+12 IBM System Storage TS2250 Tape Drive Express Model H5S](#family-358012-ibm-system-storage-ts2250-tape-drive-express-model-h5s)
 - [Family 3580+13 IBM System Storage TS2350 Tape Drive Express Model S53](#family-358013-ibm-system-storage-ts2350-tape-drive-express-model-s53)
 - [Family 3580+16 IBM System Storage TS2360 Tape Drive Model S63](#family-358016-ibm-system-storage-ts2360-tape-drive-model-s63)
-- [Family 3580+17 IBM System Storage TS2260 Tape Drive Model H6S](#family-358017-ibm-system-storage-ts2260-tape-drive-model-h6s)
 - [Family 3580+18 IBM TS2270 Tape Drive Model H7S](#family-358018-ibm-ts2270-tape-drive-model-h7s)
 - [Family 3581+01 IBM Ultrium Tape Autoloader](#family-358101-ibm-ultrium-tape-autoloader)
 - [Family 3581+02 IBM Ultrium Tape Autoloader](#family-358102-ibm-ultrium-tape-autoloader)
@@ -44,7 +43,6 @@ content update: 2025-08-01 00:31:22.887160952 +0800 CST
 - [Family 3588+03 IBM System Storage TS1040 Tape Drive Model F4A](#family-358803-ibm-system-storage-ts1040-tape-drive-model-f4a)
 - [Family 3588+04 IBM System Storage TS1050 Tape Drive Model F5A](#family-358804-ibm-system-storage-ts1050-tape-drive-model-f5a)
 - [Family 3588+05 IBM System Storage TS1060 Tape Drive Model F6A](#family-358805-ibm-system-storage-ts1060-tape-drive-model-f6a)
-- [Family 3588+06 IBM TS1050 and TS1060 Tape Drive Models F5C,F6C](#family-358806-ibm-ts1050-and-ts1060-tape-drive-models-f5c-f6c)
 - [Family 3588+07 IBM TS1070 Tape Drive Model F7C](#family-358807-ibm-ts1070-tape-drive-model-f7c)
 - [Family 3588+08 IBM TS1070 Tape Drive Model F7A](#family-358808-ibm-ts1070-tape-drive-model-f7a)
 - [Family 3588+09 IBM TS1080 Tape Drive Model F8A](#family-358809-ibm-ts1080-tape-drive-model-f8a)
@@ -72,7 +70,6 @@ content update: 2025-08-01 00:31:22.887160952 +0800 CST
 - [Family 3592+10 IBM TS1150 Tape Drive and HD2 Tape Drive](#family-359210-ibm-ts1150-tape-drive-and-hd2-tape-drive)
 - [Family 3592+12 IBM TS1155 Tape Drive Model 55G](#family-359212-ibm-ts1155-tape-drive-model-55g)
 - [Family 3592+14 IBM TS1160 Tape Drive Model 60G](#family-359214-ibm-ts1160-tape-drive-model-60g)
-- [Family 3592+15 IBM TS1160 Tape Drive Model 60E](#family-359215-ibm-ts1160-tape-drive-model-60e)
 - [7205-311 IBM 35GB External Digital Linear Tape Drive Model 311](#7205-311-ibm-35gb-external-digital-linear-tape-drive-model-311)
 - [7205-440 IBM 40 GB External Digital Linear Tape Drive Model 440](#7205-440-ibm-40-gb-external-digital-linear-tape-drive-model-440)
 - [7205-550 IBM 160 GB External Digital Linear Tape Drive Model 550](#7205-550-ibm-160-gb-external-digital-linear-tape-drive-model-550)
@@ -690,29 +687,6 @@ content update: 2025-08-01 00:31:22.887160952 +0800 CST
 
 
 
-### Family 3580+17 IBM System Storage TS2260 Tape Drive Model H6S
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts2260-tape-drive-model-h6s](https://www.ibm.com/docs/en/announcements/system-storage-ts2260-tape-drive-model-h6s?region=AP)
-
-📅 2021-05-25
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3580-H6S | 2014-05-06 | 2014-05-06 | 2021-08-30 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 3580+18 IBM TS2270 Tape Drive Model H7S
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts2270-tape-drive-model-h7s](https://www.ibm.com/docs/en/announcements/ts2270-tape-drive-model-h7s?region=AP)
@@ -957,30 +931,6 @@ content update: 2025-08-01 00:31:22.887160952 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3588-F6A | 2012-10-03 | 2012-11-09 | 2021-08-30 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3588+06 IBM TS1050 and TS1060 Tape Drive Models F5C,F6C
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts1050-ts1060-tape-drive-models-f5cf6c](https://www.ibm.com/docs/en/announcements/ts1050-ts1060-tape-drive-models-f5cf6c?region=AP)
-
-📅 2023-07-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3588-F5C | 2014-05-19 | 2014-06-13 | 2018-03-17 | 2024-12-31 |
-| 3588-F6C | 2014-05-19 | 2014-06-13 | 2021-08-30 | - |
 
 
 
@@ -1603,29 +1553,6 @@ content update: 2025-08-01 00:31:22.887160952 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3592-60G | 2018-11-20 | 2018-12-07 | 2023-06-30 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3592+15 IBM TS1160 Tape Drive Model 60E
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts1160-tape-drive-model-60e](https://www.ibm.com/docs/en/announcements/ts1160-tape-drive-model-60e?region=AP)
-
-📅 2021-10-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3592-60E | 2019-10-08 | 2019-10-18 | 2021-12-31 | - |
 
 
 
