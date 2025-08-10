@@ -2,7 +2,7 @@
 
 [![SSI Crawling](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml/badge.svg)](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml)
 
-update: 2025-08-10 00:30:23.743973922 +0800 CST
+update: 2025-08-11 00:30:35.094936837 +0800 CST
 
 
 
