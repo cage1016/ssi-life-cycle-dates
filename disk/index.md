@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2025-08-19 00:30:59.160932114 +0800 CST
+content update: 2025-08-20 00:30:38.679427895 +0800 CST
 
 ---
 
@@ -8,7 +8,7 @@ content update: 2025-08-19 00:30:59.160932114 +0800 CST
 
 
 - [](#)
-- [Family 1269+02 IBM System Storage DCS9900 Storage System](#family-126902-ibm-system-storage-dcs9900-storage-system)
+- [](#)
 - [Family 1710+01 IBM TotalStorage DS4000 EXP100 Storage Expansion Unit](#family-171001-ibm-totalstorage-ds4000-exp100-storage-expansion-unit)
 - [1722-60U IBM TotalStorage DS4300 Midrange Disk System Model 60U](#1722-60u-ibm-totalstorage-ds4300-midrange-disk-system-model-60u)
 - [1722-6LU IBM TotalStorage DS4300 Midrange Disk System Model 6LU](#1722-6lu-ibm-totalstorage-ds4300-midrange-disk-system-model-6lu)
@@ -257,17 +257,12 @@ content update: 2025-08-19 00:30:59.160932114 +0800 CST
 
 
 
-### Family 1269+02 IBM System Storage DCS9900 Storage System
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-dcs9900-storage-system](https://www.ibm.com/docs/en/announcements/system-storage-dcs9900-storage-system?region=AP)
 
 📅 2018-07-10
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1269-CP2 | 2008-10-14 | 2008-10-24 | 2011-10-15 | 2016-12-31 |
-| 1269-3S1 | 2008-10-14 | 2008-10-24 | 2012-10-20 | 2016-12-31 |
-| 1269-3S2 | 2008-11-25 | 2008-12-05 | 2009-05-26 | 2016-12-31 |
 
 
 
