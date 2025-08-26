@@ -1,14 +1,14 @@
 # Power7
 
-content update: 2025-08-26 00:30:32.092118626 +0800 CST
+content update: 2025-08-27 00:30:52.943913209 +0800 CST
 
 ---
 
 ### Table of contents
 
 
-- [](#)
-- [](#)
+- [Family 7895+01 IBM Flex System p460 Compute Node (7895-42X)](#family-789501-ibm-flex-system-p460-compute-node-7895-42x)
+- [Family 7895+02 IBM Flex System p260 Compute Node (7895-22X)](#family-789502-ibm-flex-system-p260-compute-node-7895-22x)
 - [Family 7895+04 IBM Flex System p460 Compute Node (7895-43X)](#family-789504-ibm-flex-system-p460-compute-node-7895-43x)
 - [Family 7895+05 IBM Flex System p260 Compute Node](#family-789505-ibm-flex-system-p260-compute-node)
 - [Family 7954+01 IBM Flex System p270 Compute Node 7954 24X](#family-795401-ibm-flex-system-p270-compute-node-7954-24x)
@@ -42,12 +42,15 @@ content update: 2025-08-26 00:30:32.092118626 +0800 CST
 
 
 
-### 
+### Family 7895+01 IBM Flex System p460 Compute Node (7895-42X)
 
 🔗 [https://www.ibm.com/docs/en/announcements/flex-system-p460-compute-node-7895-42x](https://www.ibm.com/docs/en/announcements/flex-system-p460-compute-node-7895-42x?region=AP)
 
 📅 2023-10-24
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7895-42X | 2012-04-11 | 2012-05-21 | 2014-01-14 | 2019-09-30 |
 
 
 
@@ -62,12 +65,15 @@ content update: 2025-08-26 00:30:32.092118626 +0800 CST
 
 
 
-### 
+### Family 7895+02 IBM Flex System p260 Compute Node (7895-22X)
 
 🔗 [https://www.ibm.com/docs/en/announcements/flex-system-p260-compute-node-7895-22x](https://www.ibm.com/docs/en/announcements/flex-system-p260-compute-node-7895-22x?region=AP)
 
 📅 2023-10-24
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7895-22X | 2012-04-11 | 2012-05-21 | 2013-09-30 | 2019-09-30 |
 
 
 

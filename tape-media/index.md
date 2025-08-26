@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2025-08-26 00:30:32.092118626 +0800 CST
+content update: 2025-08-27 00:30:52.943913209 +0800 CST
 
 ---
 
@@ -57,7 +57,7 @@ content update: 2025-08-26 00:30:32.092118626 +0800 CST
 - [3599-E23 IBM 3592 Enterprise Tape Economy WORM Cartridge Model E23](#3599-e23-ibm-3592-enterprise-tape-economy-worm-cartridge-model-e23)
 - [3859-D02 IBM 40 GB DLTtape IV Cartridges Labeled Model D02](#3859-d02-ibm-40-gb-dlttape-iv-cartridges-labeled-model-d02)
 - [3859-D03 IBM 40 GB DLTtape IV Cartridges Model D03](#3859-d03-ibm-40-gb-dlttape-iv-cartridges-model-d03)
-- [](#)
+- [3859-D04 IBM 40 GB DTLtape Cleaning Cartridge Model D04](#3859-d04-ibm-40-gb-dtltape-cleaning-cartridge-model-d04)
 
 ---
 
@@ -1228,7 +1228,7 @@ content update: 2025-08-26 00:30:32.092118626 +0800 CST
 
 
 
-### 
+### 3859-D04 IBM 40 GB DTLtape Cleaning Cartridge Model D04
 
 🔗 [https://www.ibm.com/docs/en/announcements/40-gb-dtltape-cleaning-cartridge-model-d04](https://www.ibm.com/docs/en/announcements/40-gb-dtltape-cleaning-cartridge-model-d04?region=AP)
 
