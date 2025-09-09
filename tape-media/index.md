@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2025-09-09 00:30:29.910013514 +0800 CST
+content update: 2025-09-10 00:31:29.056082608 +0800 CST
 
 ---
 
@@ -22,7 +22,6 @@ content update: 2025-09-09 00:30:29.910013514 +0800 CST
 - [Family 3589+06 IBM Ultrium 5 1.5 TB Data Cartridge Models 014 015 034 035](#family-358906-ibm-ultrium-5-15-tb-data-cartridge-models-014-015-034-035)
 - [Family 3589+07 IBM Ultrium 6 2.5 TB Data Cartridge Models 550,650,570,670](#family-358907-ibm-ultrium-6-25-tb-data-cartridge-models-550-650-570-670)
 - [Family 3589+08 IBM Ultrium 7 6 TB Data Cartridge Models 551, 651, 571, 671](#family-358908-ibm-ultrium-7-6-tb-data-cartridge-models-551-651-571-671)
-- [Family 3589+09 IBM Ultrium 8 12 TB Data Cartridge Models 552 and 652](#family-358909-ibm-ultrium-8-12-tb-data-cartridge-models-552-and-652)
 - [Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452](#family-358910-ibm-ultrium-7-9-tb-uninitialized-data-cartridge-model-452)
 - [Family 3599+01 IBM Tape Cartridges 3592](#family-359901-ibm-tape-cartridges-3592)
 - [Family 3599+02 IBM Tape Cart 3592](#family-359902-ibm-tape-cart-3592)
@@ -394,30 +393,6 @@ content update: 2025-09-09 00:30:29.910013514 +0800 CST
 | 3589-571 | 2015-10-20 | 2015-11-20 | 2018-09-15 | - |
 | 3589-651 | 2015-10-20 | 2015-11-20 | 2024-12-31 | - |
 | 3589-671 | 2015-10-20 | 2015-11-20 | 2018-09-15 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3589+09 IBM Ultrium 8 12 TB Data Cartridge Models 552 and 652
-
-🔗 [https://www.ibm.com/docs/en/announcements/ultrium-8-12-tb-data-cartridge-models-552-652](https://www.ibm.com/docs/en/announcements/ultrium-8-12-tb-data-cartridge-models-552-652?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3589-552 | 2017-12-19 | 2018-01-17 | - | - |
-| 3589-652 | 2017-12-19 | 2018-01-17 | - | - |
 
 
 
