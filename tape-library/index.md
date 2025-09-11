@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2025-09-11 00:30:39.84509773 +0800 CST
+content update: 2025-09-12 00:30:46.352457195 +0800 CST
 
 ---
 
@@ -13,7 +13,7 @@ content update: 2025-09-11 00:30:39.84509773 +0800 CST
 - [3494-L14 IBM TotalStorage Enterprise Tape Library Base Frame Model L14](#3494-l14-ibm-totalstorage-enterprise-tape-library-base-frame-model-l14)
 - [3494-L22 IBM TotalStorage Enterprise Tape Library Base Frame Model L22](#3494-l22-ibm-totalstorage-enterprise-tape-library-base-frame-model-l22)
 - [Family 3573+01 IBM System Storage TS3100 Tape Library Express Model L2U](#family-357301-ibm-system-storage-ts3100-tape-library-express-model-l2u)
-- [Family 3576+01 IBM System Storage TS3310 Tape Library and Expansion Modules](#family-357601-ibm-system-storage-ts3310-tape-library-and-expansion-modules)
+- [](#)
 - [Family 3577+01 IBM System Storage TS3400 Tape Library Model L5U](#family-357701-ibm-system-storage-ts3400-tape-library-model-l5u)
 - [3582-L23 IBM TotalStorage Ultrium Tape Library Model L23](#3582-l23-ibm-totalstorage-ultrium-tape-library-model-l23)
 - [3583-L36 IBM TotalStorage Ultrium Scalable Tape Library Model L36](#3583-l36-ibm-totalstorage-ultrium-scalable-tape-library-model-l36)
@@ -177,16 +177,12 @@ content update: 2025-09-11 00:30:39.84509773 +0800 CST
 
 
 
-### Family 3576+01 IBM System Storage TS3310 Tape Library and Expansion Modules
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts3310-tape-library-expansion-modules](https://www.ibm.com/docs/en/announcements/system-storage-ts3310-tape-library-expansion-modules?region=AP)
 
 📅 2022-07-26
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3576-E9U | 2005-10-11 | 2005-11-18 | 2018-09-01 | 2023-12-31 |
-| 3576-L5B | 2005-10-11 | 2005-11-18 | 2018-03-24 | 2023-12-31 |
 
 
 

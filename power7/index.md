@@ -1,6 +1,6 @@
 # Power7
 
-content update: 2025-09-11 00:30:39.84509773 +0800 CST
+content update: 2025-09-12 00:30:46.352457195 +0800 CST
 
 ---
 
@@ -31,8 +31,8 @@ content update: 2025-09-11 00:30:39.84509773 +0800 CST
 - [Family 9117+05 IBM Power 770 POWER7+ Server (9117-MMD)](#family-911705-ibm-power-770-power7-server-9117-mmd)
 - [Family 9119+04 IBM Power 795 Server](#family-911904-ibm-power-795-server)
 - [Family 9179+01 IBM Power 780 Server](#family-917901-ibm-power-780-server)
-- [Family 9179+02 IBM Power 780 Server](#family-917902-ibm-power-780-server)
-- [Family 9179+03 IBM Power 780 Server (9179-MHD)](#family-917903-ibm-power-780-server-9179-mhd)
+- [](#)
+- [](#)
 
 ---
 
@@ -594,15 +594,12 @@ content update: 2025-09-11 00:30:39.84509773 +0800 CST
 
 
 
-### Family 9179+02 IBM Power 780 Server
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-780-server-2023-10-24](https://www.ibm.com/docs/en/announcements/power-780-server-2023-10-24?region=AP)
 
 📅 2023-10-24
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9179-MHC | 2011-10-12 | 2011-10-21 | 2014-07-11 | 2019-09-30 |
 
 
 
@@ -617,15 +614,12 @@ content update: 2025-09-11 00:30:39.84509773 +0800 CST
 
 
 
-### Family 9179+03 IBM Power 780 Server (9179-MHD)
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-780-server-9179-mhd](https://www.ibm.com/docs/en/announcements/power-780-server-9179-mhd?region=AP)
 
 📅 2023-10-24
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9179-MHD | 2012-10-03 | 2012-10-19 | 2015-11-30 | 2020-12-31 |
 
 
 
