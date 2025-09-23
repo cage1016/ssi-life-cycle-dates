@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2025-09-23 00:31:21.854382812 +0800 CST
+content update: 2025-09-24 00:31:14.244998062 +0800 CST
 
 ---
 
@@ -8,7 +8,6 @@ content update: 2025-09-23 00:31:21.854382812 +0800 CST
 
 
 - [](#)
-- [Family 4666+01 IBM FlashSystem 9200 with Expert Care](#family-466601-ibm-flashsystem-9200-with-expert-care)
 - [Family 9745+01 IBM FlashSystem Utility models Variable Use billing](#family-974501-ibm-flashsystem-utility-models-variable-use-billing)
 - [Family 9830+01 IBM FlashSystem 710 and FlashSystem 810](#family-983001-ibm-flashsystem-710-and-flashsystem-810)
 - [Family 9831+01 IBM FlashSystem 720 and FlashSystem 820](#family-983101-ibm-flashsystem-720-and-flashsystem-820)
@@ -51,32 +50,6 @@ content update: 2025-09-23 00:31:21.854382812 +0800 CST
 
 📅 
 
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 4666+01 IBM FlashSystem 9200 with Expert Care
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9200-expert-care](https://www.ibm.com/docs/en/announcements/flashsystem-9200-expert-care?region=AP)
-
-📅 2021-08-17
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 4666-AFF | 2021-08-17 | 2021-08-27 | - | - |
-| 4666-A9F | 2021-08-17 | 2021-08-27 | - | - |
-| 4666-AG8 | 2021-08-17 | 2021-08-27 | 2022-07-16 | - |
-| 4666-UG8 | 2021-08-17 | 2021-08-27 | 2022-07-16 | - |
 
 
 
