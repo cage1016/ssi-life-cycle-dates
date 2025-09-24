@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2025-09-24 00:31:14.244998062 +0800 CST
+content update: 2025-09-25 00:31:27.288881019 +0800 CST
 
 ---
 
@@ -8,11 +8,14 @@ content update: 2025-09-24 00:31:14.244998062 +0800 CST
 
 
 - [](#)
+- [3499-002 IBM Label Only 3490E Data Cartridges Model 002](#3499-002-ibm-label-only-3490e-data-cartridges-model-002)
 - [3499-003 IBM Standard 3490E Data Cartridges Model 003](#3499-003-ibm-standard-3490e-data-cartridges-model-003)
 - [3499-004 IBM Labeled and Initialized (L&I) 3480 Data Cartridges Model 004](#3499-004-ibm-labeled-and-initialized-l-i-3480-data-cartridges-model-004)
 - [3499-005 IBM Label Only 3480 Data Cartridges Model 005](#3499-005-ibm-label-only-3480-data-cartridges-model-005)
+- [3499-006 IBM Standard 3480 Data Cartridges Model 006](#3499-006-ibm-standard-3480-data-cartridges-model-006)
 - [3499-007 IBM 3480/3490 Conductive Cleaning Cartridges Model 007](#3499-007-ibm-3480-3490-conductive-cleaning-cartridges-model-007)
 - [Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004](#family-358901-ibm-ultrium-cartridges-models-002-003-004)
+- [Family 3589+02 IBM Ultrium Cartridges Models 006 and 007](#family-358902-ibm-ultrium-cartridges-models-006-and-007)
 - [Family 3589+03 IBM TotalStorage Ultrium Tape Cartridge Models 008 and 009](#family-358903-ibm-totalstorage-ultrium-tape-cartridge-models-008-and-009)
 - [Family 3589+04 IBM TotalStorage Ultrium Tape Cartridge Models 028 and 029](#family-358904-ibm-totalstorage-ultrium-tape-cartridge-models-028-and-029)
 - [Family 3589+05 IBM 3589 Ultrium Tape Cartridge Models 010, 011, 032, 033](#family-358905-ibm-3589-ultrium-tape-cartridge-models-010-011-032-033)
@@ -24,6 +27,7 @@ content update: 2025-09-24 00:31:14.244998062 +0800 CST
 - [Family 3599+02 IBM Tape Cart 3592](#family-359902-ibm-tape-cart-3592)
 - [Family 3599+03 IBM Tape Cartridge 3592](#family-359903-ibm-tape-cartridge-3592)
 - [3599-001 IBM 3590 High Performance Cartridge Tape with Labeling and Initialization Model 001](#3599-001-ibm-3590-high-performance-cartridge-tape-with-labeling-and-initialization-model-001)
+- [3599-002 IBM 3590 High Performance Cartridge Tape with Labeling Model 002](#3599-002-ibm-3590-high-performance-cartridge-tape-with-labeling-model-002)
 - [3599-003 IBM 3590 High Performance Cartridge Tape Model 003](#3599-003-ibm-3590-high-performance-cartridge-tape-model-003)
 - [3599-004 IBM 3590 Extended High Performance Cartridge Tape Model 004](#3599-004-ibm-3590-extended-high-performance-cartridge-tape-model-004)
 - [3599-005 IBM 3590 Extended High Performance Cartridge Tape Model 005](#3599-005-ibm-3590-extended-high-performance-cartridge-tape-model-005)
@@ -67,6 +71,26 @@ content update: 2025-09-24 00:31:14.244998062 +0800 CST
 🔗 [](?region=AP)
 
 📅 
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3499-002 IBM Label Only 3490E Data Cartridges Model 002
+
+🔗 [https://www.ibm.com/docs/en/announcements/label-only-3490e-data-cartridges-model-002](https://www.ibm.com/docs/en/announcements/label-only-3490e-data-cartridges-model-002?region=AP)
+
+📅 2003-11-24
 
 
 
@@ -142,6 +166,26 @@ content update: 2025-09-24 00:31:14.244998062 +0800 CST
 
 
 
+### 3499-006 IBM Standard 3480 Data Cartridges Model 006
+
+🔗 [https://www.ibm.com/docs/en/announcements/standard-3480-data-cartridges-model-006](https://www.ibm.com/docs/en/announcements/standard-3480-data-cartridges-model-006?region=AP)
+
+📅 2003-11-24
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 3499-007 IBM 3480/3490 Conductive Cleaning Cartridges Model 007
 
 🔗 [https://www.ibm.com/docs/en/announcements/34803490-conductive-cleaning-cartridges-model-007](https://www.ibm.com/docs/en/announcements/34803490-conductive-cleaning-cartridges-model-007?region=AP)
@@ -173,6 +217,30 @@ content update: 2025-09-24 00:31:14.244998062 +0800 CST
 | 3589-002 | 2000-08-23 | 2000-09-01 | 2008-12-26 | - |
 | 3589-003 | 2000-08-23 | 2000-09-01 | 2008-12-26 | - |
 | 3589-004 | 2000-08-23 | 2000-09-01 | - | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 3589+02 IBM Ultrium Cartridges Models 006 and 007
+
+🔗 [https://www.ibm.com/docs/en/announcements/ultrium-cartridges-models-006-007](https://www.ibm.com/docs/en/announcements/ultrium-cartridges-models-006-007?region=AP)
+
+📅 2023-11-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3589-006 | 2003-06-03 | 2003-06-13 | 2009-05-29 | - |
+| 3589-007 | 2003-06-03 | 2003-06-06 | 2009-05-29 | - |
 
 
 
@@ -459,6 +527,29 @@ content update: 2025-09-24 00:31:14.244998062 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3599-001 | 1997-03-25 | 1997-03-28 | 2008-12-26 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3599-002 IBM 3590 High Performance Cartridge Tape with Labeling Model 002
+
+🔗 [https://www.ibm.com/docs/en/announcements/3590-high-performance-cartridge-tape-labeling-model-002](https://www.ibm.com/docs/en/announcements/3590-high-performance-cartridge-tape-labeling-model-002?region=AP)
+
+📅 2023-11-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3599-002 | 1997-03-25 | 1997-03-28 | 2008-12-26 | - |
 
 
 
