@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2025-09-30 00:31:05.952443207 +0800 CST
+content update: 2025-10-02 00:31:28.167894357 +0800 CST
 
 ---
 
@@ -52,6 +52,7 @@ content update: 2025-09-30 00:31:05.952443207 +0800 CST
 - [3599-E12 IBM 3592 Enterprise Tape Economy Cartridge with Labeling Model E12](#3599-e12-ibm-3592-enterprise-tape-economy-cartridge-with-labeling-model-e12)
 - [3599-E13 IBM 3592 Enterprise Tape Economy Cartridge Model E13](#3599-e13-ibm-3592-enterprise-tape-economy-cartridge-model-e13)
 - [3599-E21 IBM 3592 Enterprise Tape Economy WORM Cartridge with Labeling, Initialization Model E21](#3599-e21-ibm-3592-enterprise-tape-economy-worm-cartridge-with-labeling-initialization-model-e21)
+- [3599-E22 IBM 3592 Enterprise Tape Economy WORM Cartridge with Labeling Model E22](#3599-e22-ibm-3592-enterprise-tape-economy-worm-cartridge-with-labeling-model-e22)
 - [3599-E23 IBM 3592 Enterprise Tape Economy WORM Cartridge Model E23](#3599-e23-ibm-3592-enterprise-tape-economy-worm-cartridge-model-e23)
 - [3859-D02 IBM 40 GB DLTtape IV Cartridges Labeled Model D02](#3859-d02-ibm-40-gb-dlttape-iv-cartridges-labeled-model-d02)
 - [3859-D03 IBM 40 GB DLTtape IV Cartridges Model D03](#3859-d03-ibm-40-gb-dlttape-iv-cartridges-model-d03)
@@ -1102,6 +1103,29 @@ content update: 2025-09-30 00:31:05.952443207 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3599-E21 | 2004-04-27 | 2004-05-21 | 2009-05-29 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3599-E22 IBM 3592 Enterprise Tape Economy WORM Cartridge with Labeling Model E22
+
+🔗 [https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-economy-worm-cartridge-labeling-model-e22](https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-economy-worm-cartridge-labeling-model-e22?region=AP)
+
+📅 2023-11-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3599-E22 | 2004-04-27 | 2004-05-21 | 2009-05-29 | - |
 
 
 
