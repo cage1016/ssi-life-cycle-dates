@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2025-10-02 00:31:28.167894357 +0800 CST
+content update: 2025-10-03 00:30:59.564588842 +0800 CST
 
 ---
 
@@ -15,9 +15,9 @@ content update: 2025-10-02 00:31:28.167894357 +0800 CST
 - [Family 1724+01 IBM TotalStorage DS4100 Midrange Disk System Model 100](#family-172401-ibm-totalstorage-ds4100-midrange-disk-system-model-100)
 - [1740-1RU IBM TotalStorage DS4000 EXP700 Expansion Unit Model 1RU](#1740-1ru-ibm-totalstorage-ds4000-exp700-expansion-unit-model-1ru)
 - [1740-710 IBM TotalStorage DS4000 EXP710 Storage Expansion Unit Model 710](#1740-710-ibm-totalstorage-ds4000-exp710-storage-expansion-unit-model-710)
-- [1742-1RU IBM TotalStorage DS4400 Midrange Disk System Model 1RU](#1742-1ru-ibm-totalstorage-ds4400-midrange-disk-system-model-1ru)
+- [](#)
 - [1742-90U IBM TotalStorage DS4500 Midrange Disk System Model 90U](#1742-90u-ibm-totalstorage-ds4500-midrange-disk-system-model-90u)
-- [Family 1747+02 IBM System Storage EXP2500 Express Storage Enclosures (AAS / WTAAS)](#family-174702-ibm-system-storage-exp2500-express-storage-enclosures-aas-wtaas)
+- [](#)
 - [Family 1750+01 IBM TotalStorage DS6800 and DS6000 Expansion Enclosure](#family-175001-ibm-totalstorage-ds6800-and-ds6000-expansion-enclosure)
 - [Family 1750+02 IBM System Storage DS6800 and DS6000](#family-175002-ibm-system-storage-ds6800-and-ds6000)
 - [Family 1812+01 IBM System Storage DS4000 EXP810 Storage Expansion Unit](#family-181201-ibm-system-storage-ds4000-exp810-storage-expansion-unit)
@@ -54,7 +54,7 @@ content update: 2025-10-02 00:31:28.167894357 +0800 CST
 - [Family 2078+01 IBM Storwize V5000 Disk System](#family-207801-ibm-storwize-v5000-disk-system)
 - [Family 2078+02 IBM Storwize V5000](#family-207802-ibm-storwize-v5000)
 - [Family 2078+03 IBM Storwize V5030F](#family-207803-ibm-storwize-v5030f)
-- [Family 2078+04 IBM Storwize V5100](#family-207804-ibm-storwize-v5100)
+- [](#)
 - [Family 2101+01 IBM Seascape Solutions Rack Model 100](#family-210101-ibm-seascape-solutions-rack-model-100)
 - [Family 2101+02 IBM Storage Solutions Rack Model 200](#family-210102-ibm-storage-solutions-rack-model-200)
 - [2104-DL1 IBM Expandable Storage Plus Model DL1](#2104-dl1-ibm-expandable-storage-plus-model-dl1)
@@ -420,15 +420,12 @@ content update: 2025-10-02 00:31:28.167894357 +0800 CST
 
 
 
-### 1742-1RU IBM TotalStorage DS4400 Midrange Disk System Model 1RU
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4400-midrange-disk-system-model-1ru](https://www.ibm.com/docs/en/announcements/totalstorage-ds4400-midrange-disk-system-model-1ru?region=AP)
 
 📅 2014-07-01
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1742-1RU | 2001-10-30 | 2001-12-14 | 2005-06-10 | 2015-01-31 |
 
 
 
@@ -466,16 +463,12 @@ content update: 2025-10-02 00:31:28.167894357 +0800 CST
 
 
 
-### Family 1747+02 IBM System Storage EXP2500 Express Storage Enclosures (AAS / WTAAS)
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-exp2500-express-storage-enclosures-aas-wtaas](https://www.ibm.com/docs/en/announcements/system-storage-exp2500-express-storage-enclosures-aas-wtaas?region=AP)
 
 📅 2019-07-09
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1747-HC1 | 2014-07-08 | 2014-07-11 | 2017-01-14 | 2019-12-31 |
-| 1747-HC2 | 2014-07-08 | 2014-07-11 | 2017-01-14 | 2019-12-31 |
 
 
 
@@ -1380,17 +1373,12 @@ content update: 2025-10-02 00:31:28.167894357 +0800 CST
 
 
 
-### Family 2078+04 IBM Storwize V5100
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5100-2021-10-26](https://www.ibm.com/docs/en/announcements/storwize-v5100-2021-10-26?region=AP)
 
 📅 2020-02-11
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2078-AF4 | 2019-04-09 | 2019-06-07 | 2020-04-11 | 31 December 2025 |
-| 2078-U5B | 2019-04-09 | 2019-06-07 | 2020-04-11 | 31 December 2025 |
-| 2078-424 | 2019-04-09 | 2019-06-07 | 2020-04-11 | 31 December 2025 |
 
 
 
