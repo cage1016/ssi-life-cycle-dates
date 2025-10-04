@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2025-10-04 00:30:54.845727666 +0800 CST
+content update: 2025-10-05 00:30:16.272288261 +0800 CST
 
 ---
 
@@ -19,7 +19,7 @@ content update: 2025-10-04 00:30:54.845727666 +0800 CST
 - [1742-90U IBM TotalStorage DS4500 Midrange Disk System Model 90U](#1742-90u-ibm-totalstorage-ds4500-midrange-disk-system-model-90u)
 - [Family 1747+02 IBM System Storage EXP2500 Express Storage Enclosures (AAS / WTAAS)](#family-174702-ibm-system-storage-exp2500-express-storage-enclosures-aas-wtaas)
 - [Family 1750+01 IBM TotalStorage DS6800 and DS6000 Expansion Enclosure](#family-175001-ibm-totalstorage-ds6800-and-ds6000-expansion-enclosure)
-- [](#)
+- [Family 1750+02 IBM System Storage DS6800 and DS6000](#family-175002-ibm-system-storage-ds6800-and-ds6000)
 - [Family 1812+01 IBM System Storage DS4000 EXP810 Storage Expansion Unit](#family-181201-ibm-system-storage-ds4000-exp810-storage-expansion-unit)
 - [Family 1812+02 IBM System Storage DS4000 EXP420 Storage Expansion Unit](#family-181202-ibm-system-storage-ds4000-exp420-storage-expansion-unit)
 - [Family 1812+03 IBM System Storage DS4000 EXP810 Expansion Unit Model 81S](#family-181203-ibm-system-storage-ds4000-exp810-expansion-unit-model-81s)
@@ -86,7 +86,7 @@ content update: 2025-10-04 00:30:54.845727666 +0800 CST
 - [Family 2422+02 IBM System Storage DS8700 Models 941 and 94E](#family-242202-ibm-system-storage-ds8700-models-941-and-94e)
 - [Family 2422+03 IBM System Storage DS8800 Model 951 and Model 95E](#family-242203-ibm-system-storage-ds8800-model-951-and-model-95e)
 - [Family 2422+04 IBM DS8870 Models 961 and 96E](#family-242204-ibm-ds8870-models-961-and-96e)
-- [Family 2423+03 IBM System Storage DS8800 Model 951 and Model 95E](#family-242303-ibm-system-storage-ds8800-model-951-and-model-95e)
+- [](#)
 - [Family 2423+04 IBM DS8870 Models 961 and 96E](#family-242304-ibm-ds8870-models-961-and-96e)
 - [Family 2424+02 IBM System Storage DS8700 Models 941 and 94E](#family-242402-ibm-system-storage-ds8700-models-941-and-94e)
 - [Family 2424+04 IBM DS8870 Models 961 and 96E](#family-242404-ibm-ds8870-models-961-and-96e)
@@ -514,12 +514,16 @@ content update: 2025-10-04 00:30:54.845727666 +0800 CST
 
 
 
-### 
+### Family 1750+02 IBM System Storage DS6800 and DS6000
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds6800-ds6000](https://www.ibm.com/docs/en/announcements/system-storage-ds6800-ds6000?region=AP)
 
 📅 2015-03-10
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 1750-522 | 2006-08-22 | 2006-09-08 | 2010-06-11 | 2015-09-30 |
+| 1750-EX2 | 2006-08-22 | 2006-09-08 | 2011-02-03 | 2015-09-30 |
 
 
 
@@ -2124,16 +2128,12 @@ content update: 2025-10-04 00:30:54.845727666 +0800 CST
 
 
 
-### Family 2423+03 IBM System Storage DS8800 Model 951 and Model 95E
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds8800-model-951-model-95e-2018-02-20](https://www.ibm.com/docs/en/announcements/system-storage-ds8800-model-951-model-95e-2018-02-20?region=AP)
 
 📅 2018-02-20
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2423-95E | 2010-10-07 | 2010-10-22 | 2015-09-16 | 2019-03-31 |
-| 2423-951 | 2010-10-07 | 2010-10-22 | 2013-05-03 | 2019-03-31 |
 
 
 
