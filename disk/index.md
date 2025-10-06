@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2025-10-06 00:30:24.639199273 +0800 CST
+content update: 2025-10-07 00:31:29.987394906 +0800 CST
 
 ---
 
@@ -40,7 +40,6 @@ content update: 2025-10-06 00:30:24.639199273 +0800 CST
 - [Family 1818+06 IBM System Storage DCS3700 Controller 90C](#family-181806-ibm-system-storage-dcs3700-controller-90c)
 - [Family 2071+02 IBM Storwize V3500 Disk System](#family-207102-ibm-storwize-v3500-disk-system)
 - [Family 2072+03 IBM Storwize V3700 Disk System (AAS)](#family-207203-ibm-storwize-v3700-disk-system-aas)
-- [Family 2072+04 IBM Storwize V5000E](#family-207204-ibm-storwize-v5000e)
 - [Family 2076+01 IBM Storwize V7000 Disk System](#family-207601-ibm-storwize-v7000-disk-system)
 - [Family 2076+02 IBM Storwize V7000 Disk System](#family-207602-ibm-storwize-v7000-disk-system)
 - [Family 2076+03 IBM Storwize V7000](#family-207603-ibm-storwize-v7000)
@@ -999,35 +998,6 @@ content update: 2025-10-06 00:30:24.639199273 +0800 CST
 | 2072-2DE | 2014-09-09 | 2014-09-12 | 2018-01-13 | 2022-12-31 |
 | 2072-24C | 2014-09-09 | 2014-09-12 | 2017-01-14 | 2022-12-31 |
 | 2072-24E | 2014-09-09 | 2014-09-12 | 2018-01-13 | 2022-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2072+04 IBM Storwize V5000E
-
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5000e](https://www.ibm.com/docs/en/announcements/storwize-v5000e?region=AP)
-
-📅 2020-02-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2072-12F | 2019-04-09 | 2019-04-26 | 2020-04-11 | 31 December 2025 |
-| 2072-212 | 2019-04-09 | 2019-04-26 | 2020-04-11 | 31 December 2025 |
-| 2072-224 | 2019-04-09 | 2019-04-26 | 2020-04-11 | 31 December 2025 |
-| 2072-24F | 2019-04-09 | 2019-04-26 | 2020-04-11 | 31 December 2025 |
-| 2072-312 | 2019-04-09 | 2019-04-26 | 2020-04-11 | 31 December 2025 |
-| 2072-324 | 2019-04-09 | 2019-04-26 | 2020-04-11 | 31 December 2025 |
-| 2072-92F | 2019-04-09 | 2019-04-26 | 2020-04-11 | 31 December 2025 |
 
 
 
