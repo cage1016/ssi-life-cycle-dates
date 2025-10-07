@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2025-10-07 00:31:29.987394906 +0800 CST
+content update: 2025-10-08 00:31:06.853728103 +0800 CST
 
 ---
 
@@ -42,17 +42,9 @@ content update: 2025-10-07 00:31:29.987394906 +0800 CST
 - [Family 2072+03 IBM Storwize V3700 Disk System (AAS)](#family-207203-ibm-storwize-v3700-disk-system-aas)
 - [Family 2076+01 IBM Storwize V7000 Disk System](#family-207601-ibm-storwize-v7000-disk-system)
 - [Family 2076+02 IBM Storwize V7000 Disk System](#family-207602-ibm-storwize-v7000-disk-system)
-- [Family 2076+03 IBM Storwize V7000](#family-207603-ibm-storwize-v7000)
-- [Family 2076+04 IBM Storwize V7000F](#family-207604-ibm-storwize-v7000f)
 - [Family 2076+05 IBM Storwize V7000](#family-207605-ibm-storwize-v7000)
-- [Family 2076+06 IBM Storwize V7000](#family-207606-ibm-storwize-v7000)
 - [Family 2077+01 IBM Storwize V5000 Disk System](#family-207701-ibm-storwize-v5000-disk-system)
-- [Family 2077+02 IBM Storwize V5000](#family-207702-ibm-storwize-v5000)
-- [Family 2077+03 IBM Storwize V5030F](#family-207703-ibm-storwize-v5030f)
-- [Family 2077+04 IBM Storwize V5100](#family-207704-ibm-storwize-v5100)
 - [Family 2078+01 IBM Storwize V5000 Disk System](#family-207801-ibm-storwize-v5000-disk-system)
-- [Family 2078+02 IBM Storwize V5000](#family-207802-ibm-storwize-v5000)
-- [Family 2078+03 IBM Storwize V5030F](#family-207803-ibm-storwize-v5030f)
 - [Family 2078+04 IBM Storwize V5100](#family-207804-ibm-storwize-v5100)
 - [Family 2101+01 IBM Seascape Solutions Rack Model 100](#family-210101-ibm-seascape-solutions-rack-model-100)
 - [Family 2101+02 IBM Storage Solutions Rack Model 200](#family-210102-ibm-storage-solutions-rack-model-200)
@@ -1062,57 +1054,6 @@ content update: 2025-10-07 00:31:29.987394906 +0800 CST
 
 
 
-### Family 2076+03 IBM Storwize V7000
-
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000](https://www.ibm.com/docs/en/announcements/storwize-v7000?region=AP)
-
-📅 2020-02-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2076-12F | 2014-05-06 | 2014-06-06 | 2020-04-11 | 31 December 2025 |
-| 2076-24F | 2014-05-06 | 2014-06-06 | 2020-04-11 | 31 December 2025 |
-| 2076-524 | 2014-05-06 | 2014-06-06 | 2017-06-17 | 31 December 2022 |
-| 2076-92F | 2016-11-02 | 2016-12-09 | 2020-04-11 | 31 December 2025 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2076+04 IBM Storwize V7000F
-
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000f](https://www.ibm.com/docs/en/announcements/storwize-v7000f?region=AP)
-
-📅 2024-07-30
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2076-AFF | 2016-08-23 | 2016-09-09 | 2020-04-11 | 31 December 2025 |
-| 2076-AF6 | 2016-08-23 | 2016-09-09 | 2020-08-15 | 31 December 2024 |
-| 2076-A9F | 2017-03-14 | 2017-03-17 | 2020-04-11 | 31 December 2025 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 2076+05 IBM Storwize V7000
 
 🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000-2023-07-11](https://www.ibm.com/docs/en/announcements/storwize-v7000-2023-07-11?region=AP)
@@ -1123,30 +1064,6 @@ content update: 2025-10-07 00:31:29.987394906 +0800 CST
 | --- | --- | --- | --- | --- |
 | 2076-624 | 2016-08-23 | 2016-09-09 | 2020-08-15 | 2024-12-31 |
 | 2076-U7A | 2017-11-14 | 2017-12-08 | 2020-08-15 | 2024-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2076+06 IBM Storwize V7000
-
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000-2021-10-26-1](https://www.ibm.com/docs/en/announcements/storwize-v7000-2021-10-26-1?region=AP)
-
-📅 2020-02-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2076-U7B | 2018-11-06 | 2019-01-25 | 2020-10-17 | 31 December 2025 |
-| 2076-724 | 2018-11-06 | 2018-12-07 | 2020-10-17 | 31 December 2025 |
 
 
 
@@ -1187,86 +1104,6 @@ content update: 2025-10-07 00:31:29.987394906 +0800 CST
 
 
 
-### Family 2077+02 IBM Storwize V5000
-
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5000](https://www.ibm.com/docs/en/announcements/storwize-v5000?region=AP)
-
-📅 2020-02-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2077-112 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2077-12F | 2016-02-16 | 2016-03-04 | 2020-04-11 | 31 December 2025 |
-| 2077-124 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2077-212 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2077-224 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2077-24F | 2016-02-16 | 2016-03-04 | 2020-04-11 | 31 December 2025 |
-| 2077-312 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2077-324 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2077-92F | 2016-11-02 | 2016-12-09 | 2020-04-11 | 31 December 2025 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2077+03 IBM Storwize V5030F
-
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5030f](https://www.ibm.com/docs/en/announcements/storwize-v5030f?region=AP)
-
-📅 2020-02-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2077-AFF | 2016-08-23 | 2016-09-09 | 2020-04-11 | 31 December 2025 |
-| 2077-AF3 | 2016-08-23 | 2016-09-09 | 2020-01-11 | 2023-12-31 |
-| 2077-A9F | 2017-03-14 | 2017-03-17 | 2020-04-11 | 31 December 2025 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2077+04 IBM Storwize V5100
-
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5100](https://www.ibm.com/docs/en/announcements/storwize-v5100?region=AP)
-
-📅 2020-02-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2077-AF4 | 2019-04-09 | 2019-06-07 | 2020-04-11 | 31 December 2025 |
-| 2077-424 | 2019-04-09 | 2019-06-07 | 2020-04-11 | 31 December 2025 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 2078+01 IBM Storwize V5000 Disk System
 
 🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5000-disk-system-2021-07-13](https://www.ibm.com/docs/en/announcements/storwize-v5000-disk-system-2021-07-13?region=AP)
@@ -1279,63 +1116,6 @@ content update: 2025-10-07 00:31:29.987394906 +0800 CST
 | 2078-12E | 2013-10-08 | 2013-10-10 | 2018-01-13 | 2022-12-31 |
 | 2078-24C | 2013-10-08 | 2013-10-10 | 2017-01-14 | 2022-12-31 |
 | 2078-24E | 2013-10-08 | 2013-10-10 | 2018-01-13 | 2022-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2078+02 IBM Storwize V5000
-
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5000-2022-07-26](https://www.ibm.com/docs/en/announcements/storwize-v5000-2022-07-26?region=AP)
-
-📅 2020-02-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2078-112 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2078-12F | 2016-02-16 | 2016-03-04 | 2020-04-11 | 31 December 2025 |
-| 2078-124 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2078-212 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2078-224 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2078-24F | 2016-02-16 | 2016-03-04 | 2020-04-11 | 31 December 2025 |
-| 2078-312 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2078-324 | 2016-02-16 | 2016-03-04 | 2020-01-11 | 2023-12-31 |
-| 2078-92F | 2016-11-02 | 2016-12-09 | 2020-04-11 | 31 December 2025 |
-| 2078-U5A | 2017-11-14 | 2017-12-08 | 2020-01-11 | 2023-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2078+03 IBM Storwize V5030F
-
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5030f-2022-07-26](https://www.ibm.com/docs/en/announcements/storwize-v5030f-2022-07-26?region=AP)
-
-📅 2020-02-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2078-AFF | 2016-08-23 | 2016-09-09 | 2020-04-11 | 31 December 2025 |
-| 2078-AF3 | 2016-08-23 | 2016-09-09 | 2020-01-11 | 2023-12-31 |
-| 2078-A9F | 2017-03-14 | 2017-03-17 | 2020-04-11 | 31 December 2025 |
 
 
 
