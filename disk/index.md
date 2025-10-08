@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2025-10-08 00:31:06.853728103 +0800 CST
+content update: 2025-10-09 00:31:01.144105126 +0800 CST
 
 ---
 
@@ -45,7 +45,6 @@ content update: 2025-10-08 00:31:06.853728103 +0800 CST
 - [Family 2076+05 IBM Storwize V7000](#family-207605-ibm-storwize-v7000)
 - [Family 2077+01 IBM Storwize V5000 Disk System](#family-207701-ibm-storwize-v5000-disk-system)
 - [Family 2078+01 IBM Storwize V5000 Disk System](#family-207801-ibm-storwize-v5000-disk-system)
-- [Family 2078+04 IBM Storwize V5100](#family-207804-ibm-storwize-v5100)
 - [Family 2101+01 IBM Seascape Solutions Rack Model 100](#family-210101-ibm-seascape-solutions-rack-model-100)
 - [Family 2101+02 IBM Storage Solutions Rack Model 200](#family-210102-ibm-storage-solutions-rack-model-200)
 - [2104-DL1 IBM Expandable Storage Plus Model DL1](#2104-dl1-ibm-expandable-storage-plus-model-dl1)
@@ -1116,31 +1115,6 @@ content update: 2025-10-08 00:31:06.853728103 +0800 CST
 | 2078-12E | 2013-10-08 | 2013-10-10 | 2018-01-13 | 2022-12-31 |
 | 2078-24C | 2013-10-08 | 2013-10-10 | 2017-01-14 | 2022-12-31 |
 | 2078-24E | 2013-10-08 | 2013-10-10 | 2018-01-13 | 2022-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2078+04 IBM Storwize V5100
-
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v5100-2021-10-26](https://www.ibm.com/docs/en/announcements/storwize-v5100-2021-10-26?region=AP)
-
-📅 2020-02-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2078-AF4 | 2019-04-09 | 2019-06-07 | 2020-04-11 | 31 December 2025 |
-| 2078-U5B | 2019-04-09 | 2019-06-07 | 2020-04-11 | 31 December 2025 |
-| 2078-424 | 2019-04-09 | 2019-06-07 | 2020-04-11 | 31 December 2025 |
 
 
 
