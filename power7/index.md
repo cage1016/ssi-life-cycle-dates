@@ -1,6 +1,6 @@
 # Power7
 
-content update: 2025-10-11 00:33:24.583177305 +0800 CST
+content update: 2025-10-12 00:31:50.178864256 +0800 CST
 
 ---
 
@@ -29,7 +29,7 @@ content update: 2025-10-11 00:33:24.583177305 +0800 CST
 - [Family 9117+03 IBM Power 770 Server MMB](#family-911703-ibm-power-770-server-mmb)
 - [Family 9117+04 IBM Power 770 POWER7 Server (9117-MMC)](#family-911704-ibm-power-770-power7-server-9117-mmc)
 - [Family 9117+05 IBM Power 770 POWER7+ Server (9117-MMD)](#family-911705-ibm-power-770-power7-server-9117-mmd)
-- [](#)
+- [Family 9119+04 IBM Power 795 Server](#family-911904-ibm-power-795-server)
 - [Family 9179+01 IBM Power 780 Server](#family-917901-ibm-power-780-server)
 - [Family 9179+02 IBM Power 780 Server](#family-917902-ibm-power-780-server)
 - [Family 9179+03 IBM Power 780 Server (9179-MHD)](#family-917903-ibm-power-780-server-9179-mhd)
@@ -548,12 +548,15 @@ content update: 2025-10-11 00:33:24.583177305 +0800 CST
 
 
 
-### 
+### Family 9119+04 IBM Power 795 Server
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-795-server](https://www.ibm.com/docs/en/announcements/power-795-server?region=AP)
 
 📅 2022-10-25
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9119-FHB | 2010-08-17 | 2010-09-17 | 2015-11-30 | 2020-12-31 |
 
 
 
