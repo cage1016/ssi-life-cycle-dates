@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2025-10-23 00:31:02.898099727 +0800 CST
+content update: 2025-10-24 00:31:54.467335844 +0800 CST
 
 ---
 
@@ -118,15 +118,15 @@ content update: 2025-10-23 00:31:02.898099727 +0800 CST
 - [3390-B38 IBM Direct Access Storage Device (DASD) Model B38](#3390-b38-ibm-direct-access-storage-device-dasd-model-b38)
 - [3390-B3C IBM Direct Access Storage Device (DASD) Model B3C](#3390-b3c-ibm-direct-access-storage-device-dasd-model-b3c)
 - [3390-B94 IBM Direct Access Storage Device (DASD) Model B94](#3390-b94-ibm-direct-access-storage-device-dasd-model-b94)
-- [](#)
+- [3390-B98 IBM Direct Access Storage Device (DASD) Model B98](#3390-b98-ibm-direct-access-storage-device-dasd-model-b98)
 - [3390-B9C IBM Direct Access Storage Device (DASD) Model B9C](#3390-b9c-ibm-direct-access-storage-device-dasd-model-b9c)
-- [](#)
-- [](#)
+- [3552-1RU IBM TotalStorage FAStT500 Storage Server Model 1RU](#3552-1ru-ibm-totalstorage-fastt500-storage-server-model-1ru)
+- [Family 3560+01 IBM FAStT EXP500 Expansion Unit](#family-356001-ibm-fastt-exp500-expansion-unit)
 - [3990-001 IBM Storage Control Model 001](#3990-001-ibm-storage-control-model-001)
 - [3990-002 IBM Storage Control Model 002](#3990-002-ibm-storage-control-model-002)
 - [3990-006 IBM Storage Control Model 006](#3990-006-ibm-storage-control-model-006)
 - [Family 4939+01 IBM Flex System V7000 Storage Node Hardware - AAS](#family-493901-ibm-flex-system-v7000-storage-node-hardware-aas)
-- [](#)
+- [Family 5331+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533101-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
 - [Family 5331+02 IBM DS8882F Model 983](#family-533102-ibm-ds8882f-model-983)
 - [Family 5332+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533201-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
 - [Family 5332+02 IBM DS8882F Model 983](#family-533202-ibm-ds8882f-model-983)
@@ -2858,12 +2858,15 @@ content update: 2025-10-23 00:31:02.898099727 +0800 CST
 
 
 
-### 
+### 3390-B98 IBM Direct Access Storage Device (DASD) Model B98
 
 🔗 [https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b98](https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b98?region=AP)
 
 📅 2007-06-11
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3390-B98 | 1993-05-20 | 1993-05-20 | 1996-12-31 | 2008-12-31 |
 
 
 
@@ -2901,12 +2904,15 @@ content update: 2025-10-23 00:31:02.898099727 +0800 CST
 
 
 
-### 
+### 3552-1RU IBM TotalStorage FAStT500 Storage Server Model 1RU
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-fastt500-storage-server-model-1ru](https://www.ibm.com/docs/en/announcements/totalstorage-fastt500-storage-server-model-1ru?region=AP)
 
 📅 2016-06-28
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3552-1RU | 2001-10-30 | 2001-11-30 | 2003-06-13 | 2011-12-31 |
 
 
 
@@ -2921,12 +2927,16 @@ content update: 2025-10-23 00:31:02.898099727 +0800 CST
 
 
 
-### 
+### Family 3560+01 IBM FAStT EXP500 Expansion Unit
 
 🔗 [https://www.ibm.com/docs/en/announcements/fastt-exp500-expansion-unit](https://www.ibm.com/docs/en/announcements/fastt-exp500-expansion-unit?region=AP)
 
 📅 2013-08-13
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3560-1RU | 2000-11-07 | 2000-11-17 | 2004-11-05 | 2012-12-31 |
+| 3560-1RX | 2000-11-07 | 2000-11-17 | 2004-11-05 | 2012-12-31 |
 
 
 
@@ -3031,12 +3041,21 @@ content update: 2025-10-23 00:31:02.898099727 +0800 CST
 
 
 
-### 
+### Family 5331+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E
 
 🔗 [https://www.ibm.com/docs/en/announcements/ds8880-models-984-98585e-98686e-98888e](https://www.ibm.com/docs/en/announcements/ds8880-models-984-98585e-98686e-98888e?region=AP)
 
 📅 2023-01-31
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 5331-85E | 2017-01-10 | 2017-01-20 | 2023-06-30 | 2024-06-30 |
+| 5331-86E | 2017-01-10 | 2017-01-20 | 2023-06-30 | 2024-06-30 |
+| 5331-88E | 2017-01-10 | 2017-01-20 | 2023-06-30 | 2024-06-30 |
+| 5331-984 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
+| 5331-985 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
+| 5331-986 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
+| 5331-988 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
 
 
 
