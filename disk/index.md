@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2025-10-27 00:30:31.94919816 +0800 CST
+content update: 2025-10-28 00:30:56.942320544 +0800 CST
 
 ---
 
@@ -25,9 +25,9 @@ content update: 2025-10-27 00:30:31.94919816 +0800 CST
 - [Family 1812+03 IBM System Storage DS4000 EXP810 Expansion Unit Model 81S](#family-181203-ibm-system-storage-ds4000-exp810-expansion-unit-model-81s)
 - [Family 1813+02 IBM System Storage DCS3860 (AAS)](#family-181302-ibm-system-storage-dcs3860-aas)
 - [Family 1813+03 IBM System Storage DCS3860 Controller 96C](#family-181303-ibm-system-storage-dcs3860-controller-96c)
-- [](#)
+- [Family 1814+01 IBM System Storage DS4700 Express Models](#family-181401-ibm-system-storage-ds4700-express-models)
 - [Family 1814+02 IBM System Storage DS4200 Express Model 7V](#family-181402-ibm-system-storage-ds4200-express-model-7v)
-- [](#)
+- [Family 1814+03 IBM System Storage DS4700 Express Models 70-DC and 72-DC](#family-181403-ibm-system-storage-ds4700-express-models-70-dc-and-72-dc)
 - [Family 1814+04 IBM System Storage DS5020 Midrange Disk EXP520 Expansion Unit](#family-181404-ibm-system-storage-ds5020-midrange-disk-exp520-expansion-unit)
 - [Family 1815+01 IBM TotalStorage DS4800 Midrange Disk System](#family-181501-ibm-totalstorage-ds4800-midrange-disk-system)
 - [Family 1815+02 IBM TotalStorage DS4800 Model 88 Midrange Disk System](#family-181502-ibm-totalstorage-ds4800-model-88-midrange-disk-system)
@@ -79,7 +79,7 @@ content update: 2025-10-27 00:30:31.94919816 +0800 CST
 - [Family 2423+03 IBM System Storage DS8800 Model 951 and Model 95E](#family-242303-ibm-system-storage-ds8800-model-951-and-model-95e)
 - [Family 2423+04 IBM DS8870 Models 961 and 96E](#family-242304-ibm-ds8870-models-961-and-96e)
 - [Family 2424+02 IBM System Storage DS8700 Models 941 and 94E](#family-242402-ibm-system-storage-ds8700-models-941-and-94e)
-- [Family 2424+04 IBM DS8870 Models 961 and 96E](#family-242404-ibm-ds8870-models-961-and-96e)
+- [](#)
 - [Family 2810+01 IBM XIV Storage System](#family-281001-ibm-xiv-storage-system)
 - [Family 2810+02 IBM XIV Storage System (M/T 2810) Model Gen3](#family-281002-ibm-xiv-storage-system-m-t-2810-model-gen3)
 - [Family 2810+03 IBM XIV Storage System (M/T 2810) Model 214](#family-281003-ibm-xiv-storage-system-m-t-2810-model-214)
@@ -98,16 +98,16 @@ content update: 2025-10-27 00:30:31.94919816 +0800 CST
 - [Family 2833+02 IBM DS8888 Model 982/98F](#family-283302-ibm-ds8888-model-982-98f)
 - [Family 2833+03 IBM DS8880 Models 984/84E, 985/85E, and 986/86E](#family-283303-ibm-ds8880-models-984-84e-985-85e-and-986-86e)
 - [Family 2834+01 IBM DS8880 Models 981, 98E, 980, and 98B](#family-283401-ibm-ds8880-models-981-98e-980-and-98b)
-- [Family 2834+02 IBM DS8888 Model 982/98F](#family-283402-ibm-ds8888-model-982-98f)
+- [](#)
 - [Family 2834+03 IBM DS8880 Models 984/84E, 985/85E, and 986/86E](#family-283403-ibm-ds8880-models-984-84e-985-85e-and-986-86e)
-- [3390-A14 IBM Direct Access Storage Device (DASD) Model A14](#3390-a14-ibm-direct-access-storage-device-dasd-model-a14)
+- [](#)
 - [3390-A18 IBM Direct Access Storage Device (DASD) Model A18](#3390-a18-ibm-direct-access-storage-device-dasd-model-a18)
 - [3390-A24 IBM Direct Access Storage Device (DASD) Model A24](#3390-a24-ibm-direct-access-storage-device-dasd-model-a24)
 - [3390-A28 IBM Direct Access Storage Device (DASD) Model A28](#3390-a28-ibm-direct-access-storage-device-dasd-model-a28)
 - [3390-A34 IBM Direct Access Storage Device (DASD) Model A34](#3390-a34-ibm-direct-access-storage-device-dasd-model-a34)
-- [3390-A38 IBM Direct Access Storage Device (DASD) Model A38](#3390-a38-ibm-direct-access-storage-device-dasd-model-a38)
+- [](#)
 - [3390-A94 IBM Direct Access Storage Device (DASD) Model A94](#3390-a94-ibm-direct-access-storage-device-dasd-model-a94)
-- [3390-A98 IBM Direct Access Storage Device (DASD) Model A98](#3390-a98-ibm-direct-access-storage-device-dasd-model-a98)
+- [](#)
 - [3390-B14 IBM Direct Access Storage Device (DASD) Model B14](#3390-b14-ibm-direct-access-storage-device-dasd-model-b14)
 - [3390-B18 IBM Direct Access Storage Device (DASD) Model B18](#3390-b18-ibm-direct-access-storage-device-dasd-model-b18)
 - [3390-B1C IBM Direct Access Storage Device (DASD) Model B1C](#3390-b1c-ibm-direct-access-storage-device-dasd-model-b1c)
@@ -644,12 +644,16 @@ content update: 2025-10-27 00:30:31.94919816 +0800 CST
 
 
 
-### 
+### Family 1814+01 IBM System Storage DS4700 Express Models
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds4700-express-models](https://www.ibm.com/docs/en/announcements/system-storage-ds4700-express-models?region=AP)
 
 📅 2016-07-19
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 1814-70A | 2006-05-09 | 2006-06-09 | 2009-12-11 | 2017-01-31 |
+| 1814-72A | 2006-05-09 | 2006-06-09 | 2009-12-11 | 2017-01-31 |
 
 
 
@@ -687,12 +691,16 @@ content update: 2025-10-27 00:30:31.94919816 +0800 CST
 
 
 
-### 
+### Family 1814+03 IBM System Storage DS4700 Express Models 70-DC and 72-DC
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds4700-express-models-70-dc-72-dc](https://www.ibm.com/docs/en/announcements/system-storage-ds4700-express-models-70-dc-72-dc?region=AP)
 
 📅 2015-07-14
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 1814-70S | 2006-10-31 | 2006-11-17 | 2009-12-11 | - |
+| 1814-72S | 2006-10-31 | 2006-11-17 | 2009-12-11 | - |
 
 
 
@@ -1916,16 +1924,12 @@ content update: 2025-10-27 00:30:31.94919816 +0800 CST
 
 
 
-### Family 2424+04 IBM DS8870 Models 961 and 96E
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/ds8870-models-961-96e-2019-10-15-2](https://www.ibm.com/docs/en/announcements/ds8870-models-961-96e-2019-10-15-2?region=AP)
 
 📅 2019-10-15
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2424-96E | 2012-10-03 | 2012-10-19 | 2017-11-22 | 2020-12-31 |
-| 2424-961 | 2012-10-03 | 2012-10-19 | 2016-06-01 | 2020-12-31 |
 
 
 
@@ -2384,16 +2388,12 @@ content update: 2025-10-27 00:30:31.94919816 +0800 CST
 
 
 
-### Family 2834+02 IBM DS8888 Model 982/98F
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/ds8888-model-98298f-2022-03-15-2](https://www.ibm.com/docs/en/announcements/ds8888-model-98298f-2022-03-15-2?region=AP)
 
 📅 2022-03-15
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2834-98F | 2016-05-31 | 2016-06-24 | 2020-06-30 | 2022-12-31 |
-| 2834-982 | 2016-05-31 | 2016-06-24 | 2017-01-10 | 2022-12-31 |
 
 
 
@@ -2436,15 +2436,12 @@ content update: 2025-10-27 00:30:31.94919816 +0800 CST
 
 
 
-### 3390-A14 IBM Direct Access Storage Device (DASD) Model A14
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-a14](https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-a14?region=AP)
 
 📅 2005-06-06
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3390-A14 | 1989-11-14 | 1989-12-01 | 1996-04-26 | 2005-12-31 |
 
 
 
@@ -2551,15 +2548,12 @@ content update: 2025-10-27 00:30:31.94919816 +0800 CST
 
 
 
-### 3390-A38 IBM Direct Access Storage Device (DASD) Model A38
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-a38](https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-a38?region=AP)
 
 📅 2008-03-07
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3390-A38 | 1991-09-11 | 1991-09-27 | 1996-04-26 | 2008-12-31 |
 
 
 
@@ -2597,15 +2591,12 @@ content update: 2025-10-27 00:30:31.94919816 +0800 CST
 
 
 
-### 3390-A98 IBM Direct Access Storage Device (DASD) Model A98
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-a98](https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-a98?region=AP)
 
 📅 2008-03-07
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3390-A98 | 1993-05-20 | 1993-05-20 | 1996-12-31 | 2008-12-31 |
 
 
 
