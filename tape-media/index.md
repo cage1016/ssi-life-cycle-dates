@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2025-10-28 00:30:56.942320544 +0800 CST
+content update: 2025-10-29 00:30:57.810901417 +0800 CST
 
 ---
 
@@ -10,7 +10,7 @@ content update: 2025-10-28 00:30:56.942320544 +0800 CST
 - [](#)
 - [3499-002 IBM Label Only 3490E Data Cartridges Model 002](#3499-002-ibm-label-only-3490e-data-cartridges-model-002)
 - [3499-003 IBM Standard 3490E Data Cartridges Model 003](#3499-003-ibm-standard-3490e-data-cartridges-model-003)
-- [](#)
+- [3499-004 IBM Labeled and Initialized (L&I) 3480 Data Cartridges Model 004](#3499-004-ibm-labeled-and-initialized-l-i-3480-data-cartridges-model-004)
 - [3499-005 IBM Label Only 3480 Data Cartridges Model 005](#3499-005-ibm-label-only-3480-data-cartridges-model-005)
 - [3499-006 IBM Standard 3480 Data Cartridges Model 006](#3499-006-ibm-standard-3480-data-cartridges-model-006)
 - [3499-007 IBM 3480/3490 Conductive Cleaning Cartridges Model 007](#3499-007-ibm-3480-3490-conductive-cleaning-cartridges-model-007)
@@ -36,12 +36,12 @@ content update: 2025-10-28 00:30:56.942320544 +0800 CST
 - [3599-008 IBM 3590 Cartridge Magazine Model 008](#3599-008-ibm-3590-cartridge-magazine-model-008)
 - [3599-011 IBM 3592 Enterprise Tape Cartridge with Labeling,Init Model 011](#3599-011-ibm-3592-enterprise-tape-cartridge-with-labeling-init-model-011)
 - [3599-012 IBM 3592 Enterprise Tape Cartridge with Labeling Model 012](#3599-012-ibm-3592-enterprise-tape-cartridge-with-labeling-model-012)
-- [](#)
+- [3599-013 IBM 3592 Enterprise Tape Cartridge Model 013](#3599-013-ibm-3592-enterprise-tape-cartridge-model-013)
 - [3599-014 IBM 3592 Ext Tape Cart with Labeling and Init Model 014](#3599-014-ibm-3592-ext-tape-cart-with-labeling-and-init-model-014)
 - [3599-015 IBM 3592 Extended Tape Cart with Labeling Model 015](#3599-015-ibm-3592-extended-tape-cart-with-labeling-model-015)
 - [3599-016 IBM 3592 Extended Tape Cart Model 016](#3599-016-ibm-3592-extended-tape-cart-model-016)
 - [3599-017 IBM 3592 Enterprise Tape Cartridge (Cleaning) Model 017](#3599-017-ibm-3592-enterprise-tape-cartridge-cleaning-model-017)
-- [](#)
+- [3599-021 IBM 3592 Ent Tape WORM Cart with Labeling, Init Model 021](#3599-021-ibm-3592-ent-tape-worm-cart-with-labeling-init-model-021)
 - [3599-022 IBM 3592 Enterprise Tape WORM Cartridge with Labeling Model 022](#3599-022-ibm-3592-enterprise-tape-worm-cartridge-with-labeling-model-022)
 - [3599-023 IBM 3592 Ent Tape WORM Cart Model 023](#3599-023-ibm-3592-ent-tape-worm-cart-model-023)
 - [3599-024 IBM 3592 Ext WORM Cart with Labeling and Init Model 024](#3599-024-ibm-3592-ext-worm-cart-with-labeling-and-init-model-024)
@@ -51,8 +51,8 @@ content update: 2025-10-28 00:30:56.942320544 +0800 CST
 - [3599-E11 IBM 3592 Enterprise Tape Economy Cartridge with Labeling, Initialization Model E11](#3599-e11-ibm-3592-enterprise-tape-economy-cartridge-with-labeling-initialization-model-e11)
 - [3599-E12 IBM 3592 Enterprise Tape Economy Cartridge with Labeling Model E12](#3599-e12-ibm-3592-enterprise-tape-economy-cartridge-with-labeling-model-e12)
 - [3599-E13 IBM 3592 Enterprise Tape Economy Cartridge Model E13](#3599-e13-ibm-3592-enterprise-tape-economy-cartridge-model-e13)
-- [](#)
-- [](#)
+- [3599-E21 IBM 3592 Enterprise Tape Economy WORM Cartridge with Labeling, Initialization Model E21](#3599-e21-ibm-3592-enterprise-tape-economy-worm-cartridge-with-labeling-initialization-model-e21)
+- [3599-E22 IBM 3592 Enterprise Tape Economy WORM Cartridge with Labeling Model E22](#3599-e22-ibm-3592-enterprise-tape-economy-worm-cartridge-with-labeling-model-e22)
 - [3599-E23 IBM 3592 Enterprise Tape Economy WORM Cartridge Model E23](#3599-e23-ibm-3592-enterprise-tape-economy-worm-cartridge-model-e23)
 - [3859-D02 IBM 40 GB DLTtape IV Cartridges Labeled Model D02](#3859-d02-ibm-40-gb-dlttape-iv-cartridges-labeled-model-d02)
 - [3859-D03 IBM 40 GB DLTtape IV Cartridges Model D03](#3859-d03-ibm-40-gb-dlttape-iv-cartridges-model-d03)
@@ -126,7 +126,7 @@ content update: 2025-10-28 00:30:56.942320544 +0800 CST
 
 
 
-### 
+### 3499-004 IBM Labeled and Initialized (L&I) 3480 Data Cartridges Model 004
 
 🔗 [https://www.ibm.com/docs/en/announcements/labeled-initialized-li-3480-data-cartridges-model-004](https://www.ibm.com/docs/en/announcements/labeled-initialized-li-3480-data-cartridges-model-004?region=AP)
 
@@ -748,12 +748,15 @@ content update: 2025-10-28 00:30:56.942320544 +0800 CST
 
 
 
-### 
+### 3599-013 IBM 3592 Enterprise Tape Cartridge Model 013
 
 🔗 [https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-cartridge-model-013](https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-cartridge-model-013?region=AP)
 
 📅 2023-11-21
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3599-013 | 2003-09-09 | 2003-10-31 | 2011-11-25 | - |
 
 
 
@@ -860,12 +863,15 @@ content update: 2025-10-28 00:30:56.942320544 +0800 CST
 
 
 
-### 
+### 3599-021 IBM 3592 Ent Tape WORM Cart with Labeling, Init Model 021
 
 🔗 [https://www.ibm.com/docs/en/announcements/3592-ent-tape-worm-cart-labeling-init-model-021](https://www.ibm.com/docs/en/announcements/3592-ent-tape-worm-cart-labeling-init-model-021?region=AP)
 
 📅 2023-11-21
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3599-021 | 2004-04-27 | 2004-05-21 | 2009-05-29 | - |
 
 
 
@@ -1088,12 +1094,15 @@ content update: 2025-10-28 00:30:56.942320544 +0800 CST
 
 
 
-### 
+### 3599-E21 IBM 3592 Enterprise Tape Economy WORM Cartridge with Labeling, Initialization Model E21
 
 🔗 [https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-economy-worm-cartridge-labeling-initialization-model-e21](https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-economy-worm-cartridge-labeling-initialization-model-e21?region=AP)
 
 📅 2023-11-21
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3599-E21 | 2004-04-27 | 2004-05-21 | 2009-05-29 | - |
 
 
 
@@ -1108,12 +1117,15 @@ content update: 2025-10-28 00:30:56.942320544 +0800 CST
 
 
 
-### 
+### 3599-E22 IBM 3592 Enterprise Tape Economy WORM Cartridge with Labeling Model E22
 
 🔗 [https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-economy-worm-cartridge-labeling-model-e22](https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-economy-worm-cartridge-labeling-model-e22?region=AP)
 
 📅 2023-11-21
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3599-E22 | 2004-04-27 | 2004-05-21 | 2009-05-29 | - |
 
 
 

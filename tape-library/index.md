@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2025-10-28 00:30:56.942320544 +0800 CST
+content update: 2025-10-29 00:30:57.810901417 +0800 CST
 
 ---
 
@@ -21,13 +21,13 @@ content update: 2025-10-28 00:30:56.942320544 +0800 CST
 - [Family 3584+02 IBM TotalStorage 3584 Tape Library Model L32](#family-358402-ibm-totalstorage-3584-tape-library-model-l32)
 - [Family 3584+05 IBM TotalStorage 3584 Tape Library Model L22](#family-358405-ibm-totalstorage-3584-tape-library-model-l22)
 - [Family 3584+07 IBM TotalStorage 3584 Tape Library Model L52](#family-358407-ibm-totalstorage-3584-tape-library-model-l52)
-- [](#)
+- [Family 3584+10 IBM System Storage TS3500 Tape Library Model L23](#family-358410-ibm-system-storage-ts3500-tape-library-model-l23)
 - [Family 3584+12 IBM System Storage TS3500 Tape Library Model L53](#family-358412-ibm-system-storage-ts3500-tape-library-model-l53)
 - [Family 3953+01 IBM TotalStorage Library Manager and Tape Frame](#family-395301-ibm-totalstorage-library-manager-and-tape-frame)
 - [Family 3958+01 IBM System Storage TS7650G Server](#family-395801-ibm-system-storage-ts7650g-server)
 - [Family 3958+02 IBM System Storage TS7650G Server](#family-395802-ibm-system-storage-ts7650g-server)
 - [Family 3958+03 IBM System Storage TS7650 ProtecTIER De-duplication Appliance](#family-395803-ibm-system-storage-ts7650-protectier-de-duplication-appliance)
-- [](#)
+- [Family 3958+04 IBM TS7680 ProtecTIER Deduplication Gateway for System z](#family-395804-ibm-ts7680-protectier-deduplication-gateway-for-system-z)
 - [Family 3958+05 IBM System Storage TS7650G Server Model DD4](#family-395805-ibm-system-storage-ts7650g-server-model-dd4)
 - [Family 3958+06 IBM System Storage TS7650G ProtecTIER Gateway Server](#family-395806-ibm-system-storage-ts7650g-protectier-gateway-server)
 - [Family 3958+07 IBM TS7650G ProtecTIER Gateway Server Model DD6](#family-395807-ibm-ts7650g-protectier-gateway-server-model-dd6)
@@ -362,12 +362,15 @@ content update: 2025-10-28 00:30:56.942320544 +0800 CST
 
 
 
-### 
+### Family 3584+10 IBM System Storage TS3500 Tape Library Model L23
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts3500-tape-library-model-l23](https://www.ibm.com/docs/en/announcements/system-storage-ts3500-tape-library-model-l23?region=AP)
 
 📅 2023-05-23
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3584-L23 | 2006-05-09 | 2006-06-09 | 2017-10-07 | 2023-12-31 |
 
 
 
@@ -498,12 +501,15 @@ content update: 2025-10-28 00:30:56.942320544 +0800 CST
 
 
 
-### 
+### Family 3958+04 IBM TS7680 ProtecTIER Deduplication Gateway for System z
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts7680-protectier-deduplication-gateway-system-z](https://www.ibm.com/docs/en/announcements/ts7680-protectier-deduplication-gateway-system-z?region=AP)
 
 📅 2019-12-10
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3958-DE2 | 2010-02-09 | 2010-02-19 | 2012-09-28 | 2016-12-31 |
 
 
 
