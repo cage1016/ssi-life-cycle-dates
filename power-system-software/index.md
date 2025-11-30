@@ -1,6 +1,6 @@
 # Power System Software
 
-content update: 2025-11-30 00:30:36.755529644 +0800 CST
+content update: 2025-12-01 00:30:07.230328562 +0800 CST
 
 ---
 
