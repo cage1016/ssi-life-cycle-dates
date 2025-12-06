@@ -1,6 +1,6 @@
 # Elastic Storage Server
 
-content update: 2025-12-06 00:30:44.635172445 +0800 CST
+content update: 2025-12-07 00:30:33.388773801 +0800 CST
 
 ---
 
@@ -8,10 +8,8 @@ content update: 2025-12-06 00:30:44.635172445 +0800 CST
 
 
 - [](#)
-- [Family 5105+01 IBM Elastic Storage System 5000](#family-510501-ibm-elastic-storage-system-5000)
 - [Family 5141+01 IBM Elastic Storage System 3000](#family-514101-ibm-elastic-storage-system-3000)
 - [Family 5141+02 IBM Elastic Storage System 3200](#family-514102-ibm-elastic-storage-system-3200)
-- [Family 5147+05 IBM Elastic Storage System 5000](#family-514705-ibm-elastic-storage-system-5000)
 
 ---
 
@@ -27,29 +25,6 @@ content update: 2025-12-06 00:30:44.635172445 +0800 CST
 
 📅 
 
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 5105+01 IBM Elastic Storage System 5000
-
-🔗 [https://www.ibm.com/docs/en/announcements/elastic-storage-system-5000-2023-10-10](https://www.ibm.com/docs/en/announcements/elastic-storage-system-5000-2023-10-10?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5105-22E | 2020-07-07 | 2020-08-14 | 2024-06-28 | - |
 
 
 
@@ -96,29 +71,6 @@ content update: 2025-12-06 00:30:44.635172445 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 5141-FN1 | 2021-05-04 | 2021-05-21 | 2023-03-31 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 5147+05 IBM Elastic Storage System 5000
-
-🔗 [https://www.ibm.com/docs/en/announcements/elastic-storage-system-5000-2023-10-10-1](https://www.ibm.com/docs/en/announcements/elastic-storage-system-5000-2023-10-10-1?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5147-092 | 2020-07-07 | 2020-08-14 | 2024-03-31 | - |
 
 
 
