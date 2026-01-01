@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2026-01-01 00:31:02.420534986 +0800 CST
+content update: 2026-01-02 00:30:38.652452725 +0800 CST
 
 ---
 
@@ -52,7 +52,6 @@ content update: 2026-01-01 00:31:02.420534986 +0800 CST
 - [2104-DU3 IBM Expandable Storage Plus Drawer Model DU3](#2104-du3-ibm-expandable-storage-plus-drawer-model-du3)
 - [2104-TL1 IBM Expandable Storage Plus Model TL1](#2104-tl1-ibm-expandable-storage-plus-model-tl1)
 - [2104-TS4 IBM TotalStorage Expandable Storage Plus 320 Model TS4](#2104-ts4-ibm-totalstorage-expandable-storage-plus-320-model-ts4)
-- [2104-TU3 IBM Expandable Storage Plus Tower Model TU3](#2104-tu3-ibm-expandable-storage-plus-tower-model-tu3)
 - [2105-100 IBM Versatile Storage Server Model 100](#2105-100-ibm-versatile-storage-server-model-100)
 - [2105-750 IBM TotalStorage Enterprise Storage Server Model 750](#2105-750-ibm-totalstorage-enterprise-storage-server-model-750)
 - [2105-800 IBM TotalStorage Enterprise Storage Server Model 800](#2105-800-ibm-totalstorage-enterprise-storage-server-model-800)
@@ -1276,29 +1275,6 @@ content update: 2026-01-01 00:31:02.420534986 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2104-TS4 | 2003-10-14 | 2003-10-31 | 2006-03-31 | 2016-10-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2104-TU3 IBM Expandable Storage Plus Tower Model TU3
-
-🔗 [https://www.ibm.com/docs/en/announcements/expandable-storage-plus-tower-model-tu3](https://www.ibm.com/docs/en/announcements/expandable-storage-plus-tower-model-tu3?region=AP)
-
-📅 2011-06-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2104-TU3 | 2000-10-03 | 2000-10-13 | 2004-02-13 | 2012-12-31 |
 
 
 
