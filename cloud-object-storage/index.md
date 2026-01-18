@@ -1,6 +1,6 @@
 # Cloud Object Storage
 
-content update: 2026-01-18 00:30:42.479704766 +0800 CST
+content update: 2026-01-19 00:30:41.503225207 +0800 CST
 
 ---
 
