@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2026-03-13 00:48:36.754190084 +0800 CST
+content update: 2026-03-14 00:37:19.748730086 +0800 CST
 
 ---
 
@@ -165,6 +165,7 @@ content update: 2026-03-13 00:48:36.754190084 +0800 CST
 - [9333-011 IBM High-Performance Disk Drive Subsystem Model 011](#9333-011-ibm-high-performance-disk-drive-subsystem-model-011)
 - [9333-500 IBM High-Performance Disk Drive Sybsystem Model 500](#9333-500-ibm-high-performance-disk-drive-sybsystem-model-500)
 - [9333-501 IBM High-Performance Disk Drive Subsystem Model 501](#9333-501-ibm-high-performance-disk-drive-subsystem-model-501)
+- [9334-010 IBM SCSI Drawer Expansion Unit Model 010](#9334-010-ibm-scsi-drawer-expansion-unit-model-010)
 - [9334-011 IBM 9334 SCSI Expansion Unit Model 011](#9334-011-ibm-9334-scsi-expansion-unit-model-011)
 - [9334-500 IBM SCSI Deskside Expansion Unit Model 500](#9334-500-ibm-scsi-deskside-expansion-unit-model-500)
 - [9334-501 IBM SCSI Expansion Unit Model 501](#9334-501-ibm-scsi-expansion-unit-model-501)
@@ -3932,6 +3933,29 @@ content update: 2026-03-13 00:48:36.754190084 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9333-501 | 1993-07-13 | 1993-08-27 | 1996-03-29 | 2010-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 9334-010 IBM SCSI Drawer Expansion Unit Model 010
+
+🔗 [https://www.ibm.com/docs/en/announcements/scsi-drawer-expansion-unit-model-010](https://www.ibm.com/docs/en/announcements/scsi-drawer-expansion-unit-model-010?region=AP)
+
+📅 2009-06-06
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9334-010 | 1991-03-12 | 1991-09-27 | 1996-01-09 | 2010-12-31 |
 
 
 
