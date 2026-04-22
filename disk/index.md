@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2026-04-22 00:50:44.732712942 +0800 CST
+content update: 2026-04-23 00:49:55.302107427 +0800 CST
 
 ---
 
@@ -120,6 +120,7 @@ content update: 2026-04-22 00:50:44.732712942 +0800 CST
 - [3390-B94 IBM Direct Access Storage Device (DASD) Model B94](#3390-b94-ibm-direct-access-storage-device-dasd-model-b94)
 - [3390-B98 IBM Direct Access Storage Device (DASD) Model B98](#3390-b98-ibm-direct-access-storage-device-dasd-model-b98)
 - [3390-B9C IBM Direct Access Storage Device (DASD) Model B9C](#3390-b9c-ibm-direct-access-storage-device-dasd-model-b9c)
+- [3552-1RU IBM TotalStorage FAStT500 Storage Server Model 1RU](#3552-1ru-ibm-totalstorage-fastt500-storage-server-model-1ru)
 - [Family 3560+01 IBM FAStT EXP500 Expansion Unit](#family-356001-ibm-fastt-exp500-expansion-unit)
 - [3990-001 IBM Storage Control Model 001](#3990-001-ibm-storage-control-model-001)
 - [3990-002 IBM Storage Control Model 002](#3990-002-ibm-storage-control-model-002)
@@ -155,6 +156,8 @@ content update: 2026-04-22 00:50:44.732712942 +0800 CST
 - [7204-402 IBM External Disk Drive Model 402](#7204-402-ibm-external-disk-drive-model-402)
 - [7204-404 IBM External Disk Drive Model 404](#7204-404-ibm-external-disk-drive-model-404)
 - [7204-409 IBM 9.1 GB External Disk Drive Model 409](#7204-409-ibm-91-gb-external-disk-drive-model-409)
+- [7204-419 IBM 18.2 GB External Disk Drive Model 419](#7204-419-ibm-182-gb-external-disk-drive-model-419)
+- [7204-518 IBM 7204 18.2 GB External Disk Drive Model 518](#7204-518-ibm-7204-182-gb-external-disk-drive-model-518)
 - [7204-536 IBM 36.4 GB External Disk Drive Model 536](#7204-536-ibm-364-gb-external-disk-drive-model-536)
 - [7204-573 IBM External Disk Drive Model 573](#7204-573-ibm-external-disk-drive-model-573)
 - [7204-646 IBM 7204 External Disk Drive Model 646](#7204-646-ibm-7204-external-disk-drive-model-646)
@@ -2901,6 +2904,29 @@ content update: 2026-04-22 00:50:44.732712942 +0800 CST
 
 
 
+### 3552-1RU IBM TotalStorage FAStT500 Storage Server Model 1RU
+
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-fastt500-storage-server-model-1ru](https://www.ibm.com/docs/en/announcements/totalstorage-fastt500-storage-server-model-1ru?region=AP)
+
+📅 2016-06-28
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3552-1RU | 2001-10-30 | 2001-11-30 | 2003-06-13 | 2011-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 3560+01 IBM FAStT EXP500 Expansion Unit
 
 🔗 [https://www.ibm.com/docs/en/announcements/fastt-exp500-expansion-unit](https://www.ibm.com/docs/en/announcements/fastt-exp500-expansion-unit?region=AP)
@@ -3700,6 +3726,52 @@ content update: 2026-04-22 00:50:44.732712942 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7204-409 | 1999-09-07 | 1999-09-24 | 2002-10-11 | 2007-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7204-419 IBM 18.2 GB External Disk Drive Model 419
+
+🔗 [https://www.ibm.com/docs/en/announcements/182-gb-external-disk-drive-model-419](https://www.ibm.com/docs/en/announcements/182-gb-external-disk-drive-model-419?region=AP)
+
+📅 2007-06-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7204-419 | 1999-09-07 | 1999-09-24 | 2002-10-11 | 2007-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7204-518 IBM 7204 18.2 GB External Disk Drive Model 518
+
+🔗 [https://www.ibm.com/docs/en/announcements/7204-182-gb-external-disk-drive-model-518](https://www.ibm.com/docs/en/announcements/7204-182-gb-external-disk-drive-model-518?region=AP)
+
+📅 2009-06-24
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7204-518 | 2002-07-09 | 2002-07-19 | 2005-03-25 | - |
 
 
 
