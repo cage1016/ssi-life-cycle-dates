@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2026-04-30 00:59:20.286455962 +0800 CST
+content update: 2026-05-01 00:57:39.940876663 +0800 CST
 
 ---
 
@@ -90,7 +90,6 @@ content update: 2026-04-30 00:59:20.286455962 +0800 CST
 - [Family 2812+04 IBM XIV Storage System (M/T 2812) Model 314](#family-281204-ibm-xiv-storage-system-m-t-2812-model-314)
 - [Family 2831+01 IBM DS8880 Models 981, 98E, 980, and 98B](#family-283101-ibm-ds8880-models-981-98e-980-and-98b)
 - [Family 2831+02 IBM DS8888 Model 982/98F](#family-283102-ibm-ds8888-model-982-98f)
-- [Family 2831+03 IBM DS8880 Models 984/84E, 985/85E, and 986/86E](#family-283103-ibm-ds8880-models-984-84e-985-85e-and-986-86e)
 - [Family 2832+01 IBM DS8880 Models 981, 98E, 980, and 98B](#family-283201-ibm-ds8880-models-981-98e-980-and-98b)
 - [Family 2832+02 IBM DS8888 Model 982/98F](#family-283202-ibm-ds8888-model-982-98f)
 - [Family 2832+03 IBM DS8880 Models 984/84E, 985/85E, and 986/86E](#family-283203-ibm-ds8880-models-984-84e-985-85e-and-986-86e)
@@ -2168,34 +2167,6 @@ content update: 2026-04-30 00:59:20.286455962 +0800 CST
 | --- | --- | --- | --- | --- |
 | 2831-98F | 2016-05-31 | 2016-06-24 | 2021-12-31 | 2022-12-31 |
 | 2831-982 | 2016-05-31 | 2016-06-24 | 2017-01-10 | 2022-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2831+03 IBM DS8880 Models 984/84E, 985/85E, and 986/86E
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8880-models-98484e-98585e-98686e](https://www.ibm.com/docs/en/announcements/ds8880-models-98484e-98585e-98686e?region=AP)
-
-📅 2023-01-31
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2831-84E | 2016-11-02 | 2016-12-09 | 2023-06-30 | 2024-06-30 |
-| 2831-85E | 2016-11-02 | 2016-12-09 | 2023-06-30 | 2024-06-30 |
-| 2831-86E | 2016-11-02 | 2016-12-09 | 2023-06-30 | 2024-06-30 |
-| 2831-984 | 2016-11-02 | 2016-12-09 | 2020-06-30 | 2024-06-30 |
-| 2831-985 | 2016-11-02 | 2016-12-09 | 2020-06-30 | 2024-06-30 |
-| 2831-986 | 2016-11-02 | 2016-12-09 | 2020-06-30 | 2024-06-30 |
 
 
 
