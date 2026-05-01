@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2026-05-01 00:57:39.940876663 +0800 CST
+content update: 2026-05-02 00:46:25.483987534 +0800 CST
 
 ---
 
@@ -22,7 +22,6 @@ content update: 2026-05-01 00:57:39.940876663 +0800 CST
 - [Family 3584+05 IBM TotalStorage 3584 Tape Library Model L22](#family-358405-ibm-totalstorage-3584-tape-library-model-l22)
 - [Family 3584+07 IBM TotalStorage 3584 Tape Library Model L52](#family-358407-ibm-totalstorage-3584-tape-library-model-l52)
 - [Family 3584+10 IBM System Storage TS3500 Tape Library Model L23](#family-358410-ibm-system-storage-ts3500-tape-library-model-l23)
-- [Family 3584+12 IBM System Storage TS3500 Tape Library Model L53](#family-358412-ibm-system-storage-ts3500-tape-library-model-l53)
 - [Family 3953+01 IBM TotalStorage Library Manager and Tape Frame](#family-395301-ibm-totalstorage-library-manager-and-tape-frame)
 - [Family 3958+01 IBM System Storage TS7650G Server](#family-395801-ibm-system-storage-ts7650g-server)
 - [Family 3958+02 IBM System Storage TS7650G Server](#family-395802-ibm-system-storage-ts7650g-server)
@@ -371,29 +370,6 @@ content update: 2026-05-01 00:57:39.940876663 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3584-L23 | 2006-05-09 | 2006-06-09 | 2017-10-07 | 2023-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3584+12 IBM System Storage TS3500 Tape Library Model L53
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts3500-tape-library-model-l53](https://www.ibm.com/docs/en/announcements/system-storage-ts3500-tape-library-model-l53?region=AP)
-
-📅 2023-05-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3584-L53 | 2006-05-09 | 2006-06-09 | 2017-10-07 | 2023-12-31 |
 
 
 

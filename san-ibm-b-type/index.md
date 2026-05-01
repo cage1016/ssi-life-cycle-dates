@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2026-05-01 00:57:39.940876663 +0800 CST
+content update: 2026-05-02 00:46:25.483987534 +0800 CST
 
 ---
 
@@ -19,7 +19,6 @@ content update: 2026-05-01 00:57:39.940876663 +0800 CST
 - [Family 2027+02 IBM TotalStorage SAN256M Director SAN16M-R Router SANC40M 40U Cabinet](#family-202702-ibm-totalstorage-san256m-director-san16m-r-router-sanc40m-40u-cabinet)
 - [Family 2027+03 IBM TotalStorage SAN04M-R Router](#family-202703-ibm-totalstorage-san04m-r-router)
 - [Family 2045+01 IBM TotalStorage SAN256N Director and Cabinet](#family-204501-ibm-totalstorage-san256n-director-and-cabinet)
-- [2108-G07 IBM Storage Area Network Data Gateway Model G07](#2108-g07-ibm-storage-area-network-data-gateway-model-g07)
 - [2108-R03 IBM SAN Data Gateway Router Model R03](#2108-r03-ibm-san-data-gateway-router-model-r03)
 - [2108-S20 IBM Storage Area Network Data Gateway for Serial Systems Model S20](#2108-s20-ibm-storage-area-network-data-gateway-for-serial-systems-model-s20)
 - [2109-A16 IBM TotalStorage SAN16B-R Multiprotocol Router Model A16](#2109-a16-ibm-totalstorage-san16b-r-multiprotocol-router-model-a16)
@@ -316,29 +315,6 @@ content update: 2026-05-01 00:57:39.940876663 +0800 CST
 | --- | --- | --- | --- | --- |
 | 2045-C40 | 2004-11-09 | 2004-11-19 | 2005-09-30 | - |
 | 2045-N16 | 2004-11-09 | 2004-11-19 | 2005-09-30 | 2010-09-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2108-G07 IBM Storage Area Network Data Gateway Model G07
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-area-network-data-gateway-model-g07](https://www.ibm.com/docs/en/announcements/storage-area-network-data-gateway-model-g07?region=AP)
-
-📅 2008-03-07
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2108-G07 | 1999-02-16 | 1999-03-26 | 2002-12-13 | 2008-12-31 |
 
 
 

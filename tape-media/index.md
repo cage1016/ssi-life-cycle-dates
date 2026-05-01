@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2026-05-01 00:57:39.940876663 +0800 CST
+content update: 2026-05-02 00:46:25.483987534 +0800 CST
 
 ---
 
@@ -17,12 +17,9 @@ content update: 2026-05-01 00:57:39.940876663 +0800 CST
 - [Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004](#family-358901-ibm-ultrium-cartridges-models-002-003-004)
 - [Family 3589+02 IBM Ultrium Cartridges Models 006 and 007](#family-358902-ibm-ultrium-cartridges-models-006-and-007)
 - [Family 3589+03 IBM TotalStorage Ultrium Tape Cartridge Models 008 and 009](#family-358903-ibm-totalstorage-ultrium-tape-cartridge-models-008-and-009)
-- [Family 3589+04 IBM TotalStorage Ultrium Tape Cartridge Models 028 and 029](#family-358904-ibm-totalstorage-ultrium-tape-cartridge-models-028-and-029)
 - [Family 3589+05 IBM 3589 Ultrium Tape Cartridge Models 010, 011, 032, 033](#family-358905-ibm-3589-ultrium-tape-cartridge-models-010-011-032-033)
 - [Family 3589+06 IBM Ultrium 5 1.5 TB Data Cartridge Models 014 015 034 035](#family-358906-ibm-ultrium-5-15-tb-data-cartridge-models-014-015-034-035)
-- [Family 3589+07 IBM Ultrium 6 2.5 TB Data Cartridge Models 550,650,570,670](#family-358907-ibm-ultrium-6-25-tb-data-cartridge-models-550-650-570-670)
 - [Family 3589+08 IBM Ultrium 7 6 TB Data Cartridge Models 551, 651, 571, 671](#family-358908-ibm-ultrium-7-6-tb-data-cartridge-models-551-651-571-671)
-- [Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452](#family-358910-ibm-ultrium-7-9-tb-uninitialized-data-cartridge-model-452)
 - [Family 3599+01 IBM Tape Cartridges 3592](#family-359901-ibm-tape-cartridges-3592)
 - [Family 3599+02 IBM Tape Cart 3592](#family-359902-ibm-tape-cart-3592)
 - [Family 3599+03 IBM Tape Cartridge 3592](#family-359903-ibm-tape-cartridge-3592)
@@ -49,14 +46,9 @@ content update: 2026-05-01 00:57:39.940876663 +0800 CST
 - [3599-026 IBM 3592 Extended Tape WORM Cart Model 026](#3599-026-ibm-3592-extended-tape-worm-cart-model-026)
 - [Family 3599+04 IBM Tape Cartridge 3592](#family-359904-ibm-tape-cartridge-3592)
 - [3599-E11 IBM 3592 Enterprise Tape Economy Cartridge with Labeling, Initialization Model E11](#3599-e11-ibm-3592-enterprise-tape-economy-cartridge-with-labeling-initialization-model-e11)
-- [3599-E12 IBM 3592 Enterprise Tape Economy Cartridge with Labeling Model E12](#3599-e12-ibm-3592-enterprise-tape-economy-cartridge-with-labeling-model-e12)
 - [3599-E13 IBM 3592 Enterprise Tape Economy Cartridge Model E13](#3599-e13-ibm-3592-enterprise-tape-economy-cartridge-model-e13)
 - [3599-E21 IBM 3592 Enterprise Tape Economy WORM Cartridge with Labeling, Initialization Model E21](#3599-e21-ibm-3592-enterprise-tape-economy-worm-cartridge-with-labeling-initialization-model-e21)
 - [3599-E22 IBM 3592 Enterprise Tape Economy WORM Cartridge with Labeling Model E22](#3599-e22-ibm-3592-enterprise-tape-economy-worm-cartridge-with-labeling-model-e22)
-- [3599-E23 IBM 3592 Enterprise Tape Economy WORM Cartridge Model E23](#3599-e23-ibm-3592-enterprise-tape-economy-worm-cartridge-model-e23)
-- [3859-D02 IBM 40 GB DLTtape IV Cartridges Labeled Model D02](#3859-d02-ibm-40-gb-dlttape-iv-cartridges-labeled-model-d02)
-- [3859-D03 IBM 40 GB DLTtape IV Cartridges Model D03](#3859-d03-ibm-40-gb-dlttape-iv-cartridges-model-d03)
-- [3859-D04 IBM 40 GB DTLtape Cleaning Cartridge Model D04](#3859-d04-ibm-40-gb-dtltape-cleaning-cartridge-model-d04)
 
 ---
 
@@ -279,30 +271,6 @@ content update: 2026-05-01 00:57:39.940876663 +0800 CST
 
 
 
-### Family 3589+04 IBM TotalStorage Ultrium Tape Cartridge Models 028 and 029
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ultrium-tape-cartridge-models-028-029](https://www.ibm.com/docs/en/announcements/totalstorage-ultrium-tape-cartridge-models-028-029?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3589-028 | 2005-05-10 | 2005-05-27 | 2009-12-31 | - |
-| 3589-029 | 2005-05-10 | 2005-05-27 | 2009-12-31 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 3589+05 IBM 3589 Ultrium Tape Cartridge Models 010, 011, 032, 033
 
 🔗 [https://www.ibm.com/docs/en/announcements/3589-ultrium-tape-cartridge-models-010-011-032-033](https://www.ibm.com/docs/en/announcements/3589-ultrium-tape-cartridge-models-010-011-032-033?region=AP)
@@ -355,32 +323,6 @@ content update: 2026-05-01 00:57:39.940876663 +0800 CST
 
 
 
-### Family 3589+07 IBM Ultrium 6 2.5 TB Data Cartridge Models 550,650,570,670
-
-🔗 [https://www.ibm.com/docs/en/announcements/ultrium-6-25-tb-data-cartridge-models-550650570670](https://www.ibm.com/docs/en/announcements/ultrium-6-25-tb-data-cartridge-models-550650570670?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3589-550 | 2012-12-04 | 2012-12-07 | 2022-12-16 | - |
-| 3589-570 | 2012-12-04 | 2012-12-07 | 2018-09-15 | - |
-| 3589-650 | 2012-12-04 | 2012-12-07 | 2022-12-16 | - |
-| 3589-670 | 2012-12-04 | 2012-12-07 | 2018-09-15 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 3589+08 IBM Ultrium 7 6 TB Data Cartridge Models 551, 651, 571, 671
 
 🔗 [https://www.ibm.com/docs/en/announcements/ultrium-7-6-tb-data-cartridge-models-551-651-571-671](https://www.ibm.com/docs/en/announcements/ultrium-7-6-tb-data-cartridge-models-551-651-571-671?region=AP)
@@ -393,29 +335,6 @@ content update: 2026-05-01 00:57:39.940876663 +0800 CST
 | 3589-571 | 2015-10-20 | 2015-11-20 | 2018-09-15 | - |
 | 3589-651 | 2015-10-20 | 2015-11-20 | 2024-12-31 | - |
 | 3589-671 | 2015-10-20 | 2015-11-20 | 2018-09-15 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452
-
-🔗 [https://www.ibm.com/docs/en/announcements/ultrium-7-9-tb-uninitialized-data-cartridge-model-452](https://www.ibm.com/docs/en/announcements/ultrium-7-9-tb-uninitialized-data-cartridge-model-452?region=AP)
-
-📅 2023-07-04
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3589-452 | 2017-12-19 | 2017-12-19 | - | - |
 
 
 
@@ -1048,29 +967,6 @@ content update: 2026-05-01 00:57:39.940876663 +0800 CST
 
 
 
-### 3599-E12 IBM 3592 Enterprise Tape Economy Cartridge with Labeling Model E12
-
-🔗 [https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-economy-cartridge-labeling-model-e12](https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-economy-cartridge-labeling-model-e12?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3599-E12 | 2004-04-27 | 2004-05-21 | 2014-09-25 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 3599-E13 IBM 3592 Enterprise Tape Economy Cartridge Model E13
 
 🔗 [https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-economy-cartridge-model-e13](https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-economy-cartridge-model-e13?region=AP)
@@ -1126,89 +1022,6 @@ content update: 2026-05-01 00:57:39.940876663 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3599-E22 | 2004-04-27 | 2004-05-21 | 2009-05-29 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3599-E23 IBM 3592 Enterprise Tape Economy WORM Cartridge Model E23
-
-🔗 [https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-economy-worm-cartridge-model-e23](https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-economy-worm-cartridge-model-e23?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3599-E23 | 2004-04-27 | 2004-05-21 | 2009-05-29 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3859-D02 IBM 40 GB DLTtape IV Cartridges Labeled Model D02
-
-🔗 [https://www.ibm.com/docs/en/announcements/40-gb-dlttape-iv-cartridges-labeled-model-d02](https://www.ibm.com/docs/en/announcements/40-gb-dlttape-iv-cartridges-labeled-model-d02?region=AP)
-
-📅 2004-12-13
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3859-D03 IBM 40 GB DLTtape IV Cartridges Model D03
-
-🔗 [https://www.ibm.com/docs/en/announcements/40-gb-dlttape-iv-cartridges-model-d03](https://www.ibm.com/docs/en/announcements/40-gb-dlttape-iv-cartridges-model-d03?region=AP)
-
-📅 2004-12-13
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3859-D04 IBM 40 GB DTLtape Cleaning Cartridge Model D04
-
-🔗 [https://www.ibm.com/docs/en/announcements/40-gb-dtltape-cleaning-cartridge-model-d04](https://www.ibm.com/docs/en/announcements/40-gb-dtltape-cleaning-cartridge-model-d04?region=AP)
-
-📅 2004-12-13
-
 
 
 
