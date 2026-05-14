@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2026-05-14 01:12:00.041671565 +0800 CST
+content update: 2026-05-15 01:05:23.029414801 +0800 CST
 
 ---
 
@@ -25,7 +25,7 @@ content update: 2026-05-14 01:12:00.041671565 +0800 CST
 - [Family 3584+12 IBM System Storage TS3500 Tape Library Model L53](#family-358412-ibm-system-storage-ts3500-tape-library-model-l53)
 - [Family 3953+01 IBM TotalStorage Library Manager and Tape Frame](#family-395301-ibm-totalstorage-library-manager-and-tape-frame)
 - [Family 3958+01 IBM System Storage TS7650G Server](#family-395801-ibm-system-storage-ts7650g-server)
-- [Family 3958+02 IBM System Storage TS7650G Server](#family-395802-ibm-system-storage-ts7650g-server)
+- [](#)
 - [Family 3958+03 IBM System Storage TS7650 ProtecTIER De-duplication Appliance](#family-395803-ibm-system-storage-ts7650-protectier-de-duplication-appliance)
 - [Family 3958+04 IBM TS7680 ProtecTIER Deduplication Gateway for System z](#family-395804-ibm-ts7680-protectier-deduplication-gateway-for-system-z)
 - [Family 3958+05 IBM System Storage TS7650G Server Model DD4](#family-395805-ibm-system-storage-ts7650g-server-model-dd4)
@@ -455,15 +455,12 @@ content update: 2026-05-14 01:12:00.041671565 +0800 CST
 
 
 
-### Family 3958+02 IBM System Storage TS7650G Server
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts7650g-server](https://www.ibm.com/docs/en/announcements/system-storage-ts7650g-server?region=AP)
 
 📅 2019-12-10
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3958-DD3 | 2009-02-10 | 2009-03-06 | 2010-12-03 | 2018-11-30 |
 
 
 
