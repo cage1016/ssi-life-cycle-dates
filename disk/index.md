@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2026-05-15 01:05:23.029414801 +0800 CST
+content update: 2026-05-16 01:01:54.380042995 +0800 CST
 
 ---
 
@@ -8,14 +8,10 @@ content update: 2026-05-15 01:05:23.029414801 +0800 CST
 
 
 - [](#)
-- [Family 1269+02 IBM System Storage DCS9900 Storage System](#family-126902-ibm-system-storage-dcs9900-storage-system)
 - [Family 1710+01 IBM TotalStorage DS4000 EXP100 Storage Expansion Unit](#family-171001-ibm-totalstorage-ds4000-exp100-storage-expansion-unit)
 - [1722-60U IBM TotalStorage DS4300 Midrange Disk System Model 60U](#1722-60u-ibm-totalstorage-ds4300-midrange-disk-system-model-60u)
-- [1722-6LU IBM TotalStorage DS4300 Midrange Disk System Model 6LU](#1722-6lu-ibm-totalstorage-ds4300-midrange-disk-system-model-6lu)
 - [Family 1724+01 IBM TotalStorage DS4100 Midrange Disk System Model 100](#family-172401-ibm-totalstorage-ds4100-midrange-disk-system-model-100)
-- [1740-1RU IBM TotalStorage DS4000 EXP700 Expansion Unit Model 1RU](#1740-1ru-ibm-totalstorage-ds4000-exp700-expansion-unit-model-1ru)
 - [1740-710 IBM TotalStorage DS4000 EXP710 Storage Expansion Unit Model 710](#1740-710-ibm-totalstorage-ds4000-exp710-storage-expansion-unit-model-710)
-- [1742-1RU IBM TotalStorage DS4400 Midrange Disk System Model 1RU](#1742-1ru-ibm-totalstorage-ds4400-midrange-disk-system-model-1ru)
 - [1742-90U IBM TotalStorage DS4500 Midrange Disk System Model 90U](#1742-90u-ibm-totalstorage-ds4500-midrange-disk-system-model-90u)
 - [Family 1747+02 IBM System Storage EXP2500 Express Storage Enclosures (AAS / WTAAS)](#family-174702-ibm-system-storage-exp2500-express-storage-enclosures-aas-wtaas)
 - [Family 1750+01 IBM TotalStorage DS6800 and DS6000 Expansion Enclosure](#family-175001-ibm-totalstorage-ds6800-and-ds6000-expansion-enclosure)
@@ -59,6 +55,7 @@ content update: 2026-05-15 01:05:23.029414801 +0800 CST
 - [2105-B09 IBM Versatile Storage Server Model B09](#2105-b09-ibm-versatile-storage-server-model-b09)
 - [2105-E10 IBM Enterprise Storage Server Model E10](#2105-e10-ibm-enterprise-storage-server-model-e10)
 - [2105-E20 IBM Enterprise Storage Server Model E20](#2105-e20-ibm-enterprise-storage-server-model-e20)
+- [2105-F10 IBM Enterprise Storage Server Model F10](#2105-f10-ibm-enterprise-storage-server-model-f10)
 - [2105-F20 IBM Enterprise Storage Server Model F20](#2105-f20-ibm-enterprise-storage-server-model-f20)
 - [2106-200 IBM MSS Controller Enclosure Model 200](#2106-200-ibm-mss-controller-enclosure-model-200)
 - [2106-D10 IBM MSS 10 Bay Single Bus Disk Drive Model D10](#2106-d10-ibm-mss-10-bay-single-bus-disk-drive-model-d10)
@@ -245,31 +242,6 @@ content update: 2026-05-15 01:05:23.029414801 +0800 CST
 
 
 
-### Family 1269+02 IBM System Storage DCS9900 Storage System
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-dcs9900-storage-system](https://www.ibm.com/docs/en/announcements/system-storage-dcs9900-storage-system?region=AP)
-
-📅 2018-07-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1269-CP2 | 2008-10-14 | 2008-10-24 | 2011-10-15 | 2016-12-31 |
-| 1269-3S1 | 2008-10-14 | 2008-10-24 | 2012-10-20 | 2016-12-31 |
-| 1269-3S2 | 2008-11-25 | 2008-12-05 | 2009-05-26 | 2016-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 1710+01 IBM TotalStorage DS4000 EXP100 Storage Expansion Unit
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4000-exp100-storage-expansion-unit](https://www.ibm.com/docs/en/announcements/totalstorage-ds4000-exp100-storage-expansion-unit?region=AP)
@@ -316,29 +288,6 @@ content update: 2026-05-15 01:05:23.029414801 +0800 CST
 
 
 
-### 1722-6LU IBM TotalStorage DS4300 Midrange Disk System Model 6LU
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4300-midrange-disk-system-model-6lu](https://www.ibm.com/docs/en/announcements/totalstorage-ds4300-midrange-disk-system-model-6lu?region=AP)
-
-📅 2014-07-01
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1722-6LU | 2004-04-06 | 2004-04-16 | 2006-12-08 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 1724+01 IBM TotalStorage DS4100 Midrange Disk System Model 100
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4100-midrange-disk-system-model-100](https://www.ibm.com/docs/en/announcements/totalstorage-ds4100-midrange-disk-system-model-100?region=AP)
@@ -362,29 +311,6 @@ content update: 2026-05-15 01:05:23.029414801 +0800 CST
 
 
 
-### 1740-1RU IBM TotalStorage DS4000 EXP700 Expansion Unit Model 1RU
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4000-exp700-expansion-unit-model-1ru](https://www.ibm.com/docs/en/announcements/totalstorage-ds4000-exp700-expansion-unit-model-1ru?region=AP)
-
-📅 2014-10-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1740-1RU | 2002-07-09 | 2002-07-26 | 2005-09-09 | 2016-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 1740-710 IBM TotalStorage DS4000 EXP710 Storage Expansion Unit Model 710
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4000-exp710-storage-expansion-unit-model-710](https://www.ibm.com/docs/en/announcements/totalstorage-ds4000-exp710-storage-expansion-unit-model-710?region=AP)
@@ -394,29 +320,6 @@ content update: 2026-05-15 01:05:23.029414801 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 1740-710 | 2004-10-05 | 2004-10-15 | 2006-12-08 | 2016-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 1742-1RU IBM TotalStorage DS4400 Midrange Disk System Model 1RU
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4400-midrange-disk-system-model-1ru](https://www.ibm.com/docs/en/announcements/totalstorage-ds4400-midrange-disk-system-model-1ru?region=AP)
-
-📅 2014-07-01
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1742-1RU | 2001-10-30 | 2001-12-14 | 2005-06-10 | 2015-01-31 |
 
 
 
@@ -1435,6 +1338,29 @@ content update: 2026-05-15 01:05:23.029414801 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2105-E20 | 1999-07-27 | 1999-09-24 | 2000-09-29 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 2105-F10 IBM Enterprise Storage Server Model F10
+
+🔗 [https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-f10](https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-f10?region=AP)
+
+📅 2009-06-25
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2105-F10 | 2000-03-28 | 2000-03-31 | 2002-11-22 | - |
 
 
 
