@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2026-05-18 00:47:08.553671119 +0800 CST
+content update: 2026-05-19 01:22:58.426175357 +0800 CST
 
 ---
 
@@ -72,22 +72,19 @@ content update: 2026-05-18 00:47:08.553671119 +0800 CST
 - [Family 3592+14 IBM TS1160 Tape Drive Model 60G](#family-359214-ibm-ts1160-tape-drive-model-60g)
 - [7205-311 IBM 35GB External Digital Linear Tape Drive Model 311](#7205-311-ibm-35gb-external-digital-linear-tape-drive-model-311)
 - [7205-440 IBM 40 GB External Digital Linear Tape Drive Model 440](#7205-440-ibm-40-gb-external-digital-linear-tape-drive-model-440)
+- [7205-550 IBM 160 GB External Digital Linear Tape Drive Model 550](#7205-550-ibm-160-gb-external-digital-linear-tape-drive-model-550)
+- [7206-110 IBM 12GB External 4mm DDS-3 Tape Drive Model 110](#7206-110-ibm-12gb-external-4mm-dds-3-tape-drive-model-110)
+- [7206-220 IBM External 20 GB 4mm DDS-4 Tape Drive Model 220](#7206-220-ibm-external-20-gb-4mm-dds-4-tape-drive-model-220)
+- [7206-336 IBM External 36 GB DAT72 (DDS Gen5) Tape Drive Model 336](#7206-336-ibm-external-36-gb-dat72-dds-gen5-tape-drive-model-336)
 - [7206-VX2 IBM External Tape Drive Model VX2](#7206-vx2-ibm-external-tape-drive-model-vx2)
+- [7206-VX3 IBM External Tape Drive Model VX3](#7206-vx3-ibm-external-tape-drive-model-vx3)
 - [7207-122 IBM 4 GB External SLR5 QIC Tape Drive Model 122](#7207-122-ibm-4-gb-external-slr5-qic-tape-drive-model-122)
 - [7208-001 IBM External 8mm Tape Drive Model 001](#7208-001-ibm-external-8mm-tape-drive-model-001)
 - [7208-002 IBM External 8mm Tape Drive Model 002](#7208-002-ibm-external-8mm-tape-drive-model-002)
 - [7208-011 IBM External 8mm Tape Drive Model 011](#7208-011-ibm-external-8mm-tape-drive-model-011)
-- [7208-012 IBM External 8mm Tape Drive Model 012](#7208-012-ibm-external-8mm-tape-drive-model-012)
-- [7208-234 IBM External 8mm Tape Drive Model 234](#7208-234-ibm-external-8mm-tape-drive-model-234)
 - [7208-341 IBM 20GB External 8mm Tape Drive Model 341](#7208-341-ibm-20gb-external-8mm-tape-drive-model-341)
 - [7208-342 IBM 20GB External 8mm Tape Drive Model 342](#7208-342-ibm-20gb-external-8mm-tape-drive-model-342)
 - [7208-345 IBM 60 GB External 8mm Tape Drive Model 345](#7208-345-ibm-60-gb-external-8mm-tape-drive-model-345)
-- [Family 7212+01 IBM TotalStorage Storage Device Enclosure](#family-721201-ibm-totalstorage-storage-device-enclosure)
-- [Family 7212+02 IBM 1U VXA-2 Autoloader](#family-721202-ibm-1u-vxa-2-autoloader)
-- [Family 7212+03 IBM System Storage 7212 Tape & DVD Enclosure Express Model](#family-721203-ibm-system-storage-7212-tape-dvd-enclosure-express-model)
-- [Family 7214+01 IBM System Storage Tape/Optical Storage Device Enclosure](#family-721401-ibm-system-storage-tape-optical-storage-device-enclosure)
-- [Family 7214+02 IBM System Storage Tape/DVD Device Enclosure Model TT2](#family-721402-ibm-system-storage-tape-dvd-device-enclosure-model-tt2)
-- [Family 7216+01 IBM System Storage 7216 Multi-Media Enclosure](#family-721601-ibm-system-storage-7216-multi-media-enclosure)
 - [7329-308 IBM SLR100 Tape Autoloader Model 308](#7329-308-ibm-slr100-tape-autoloader-model-308)
 - [7332-005 IBM 4MM DDS-2 Tape Autoloader Model 005](#7332-005-ibm-4mm-dds-2-tape-autoloader-model-005)
 - [7332-110 IBM 4mm DDS-3 Tape Cartridge Autoloader Model 110](#7332-110-ibm-4mm-dds-3-tape-cartridge-autoloader-model-110)
@@ -1608,6 +1605,98 @@ content update: 2026-05-18 00:47:08.553671119 +0800 CST
 
 
 
+### 7205-550 IBM 160 GB External Digital Linear Tape Drive Model 550
+
+🔗 [https://www.ibm.com/docs/en/announcements/160-gb-external-digital-linear-tape-drive-model-550](https://www.ibm.com/docs/en/announcements/160-gb-external-digital-linear-tape-drive-model-550?region=AP)
+
+📅 2014-10-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7205-550 | 2003-02-17 | 2003-03-14 | 2006-06-02 | 2015-01-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7206-110 IBM 12GB External 4mm DDS-3 Tape Drive Model 110
+
+🔗 [https://www.ibm.com/docs/en/announcements/12gb-external-4mm-dds-3-tape-drive-model-110](https://www.ibm.com/docs/en/announcements/12gb-external-4mm-dds-3-tape-drive-model-110?region=AP)
+
+📅 2008-07-16
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7206-110 | 1998-04-21 | 1998-05-01 | 2002-11-15 | 2008-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7206-220 IBM External 20 GB 4mm DDS-4 Tape Drive Model 220
+
+🔗 [https://www.ibm.com/docs/en/announcements/external-20-gb-4mm-dds-4-tape-drive-model-220](https://www.ibm.com/docs/en/announcements/external-20-gb-4mm-dds-4-tape-drive-model-220?region=AP)
+
+📅 2017-09-19
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7206-220 | 2000-02-08 | 2000-02-25 | 2005-07-29 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7206-336 IBM External 36 GB DAT72 (DDS Gen5) Tape Drive Model 336
+
+🔗 [https://www.ibm.com/docs/en/announcements/external-36-gb-dat72-dds-gen5-tape-drive-model-336](https://www.ibm.com/docs/en/announcements/external-36-gb-dat72-dds-gen5-tape-drive-model-336?region=AP)
+
+📅 2018-07-10
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7206-336 | 2003-11-11 | 2003-12-05 | 2008-12-19 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 7206-VX2 IBM External Tape Drive Model VX2
 
 🔗 [https://www.ibm.com/docs/en/announcements/external-tape-drive-model-vx2](https://www.ibm.com/docs/en/announcements/external-tape-drive-model-vx2?region=AP)
@@ -1617,6 +1706,29 @@ content update: 2026-05-18 00:47:08.553671119 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7206-VX2 | 2002-07-09 | 2002-08-23 | 2007-12-14 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7206-VX3 IBM External Tape Drive Model VX3
+
+🔗 [https://www.ibm.com/docs/en/announcements/external-tape-drive-model-vx3](https://www.ibm.com/docs/en/announcements/external-tape-drive-model-vx3?region=AP)
+
+📅 2011-06-23
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7206-VX3 | 2006-04-11 | 2006-05-12 | 2007-12-14 | - |
 
 
 
@@ -1720,49 +1832,6 @@ content update: 2026-05-18 00:47:08.553671119 +0800 CST
 
 
 
-### 7208-012 IBM External 8mm Tape Drive Model 012
-
-🔗 [https://www.ibm.com/docs/en/announcements/external-8mm-tape-drive-model-012](https://www.ibm.com/docs/en/announcements/external-8mm-tape-drive-model-012?region=AP)
-
-📅 2014-07-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7208-012 | 1993-02-01 | 1993-02-01 | 1998-06-26 | 2015-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7208-234 IBM External 8mm Tape Drive Model 234
-
-🔗 [https://www.ibm.com/docs/en/announcements/external-8mm-tape-drive-model-234](https://www.ibm.com/docs/en/announcements/external-8mm-tape-drive-model-234?region=AP)
-
-📅 2004-01-30
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 7208-341 IBM 20GB External 8mm Tape Drive Model 341
 
 🔗 [https://www.ibm.com/docs/en/announcements/20gb-external-8mm-tape-drive-model-341](https://www.ibm.com/docs/en/announcements/20gb-external-8mm-tape-drive-model-341?region=AP)
@@ -1818,144 +1887,6 @@ content update: 2026-05-18 00:47:08.553671119 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7208-345 | 2000-09-26 | 2000-11-17 | 2005-03-31 | 2015-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 7212+01 IBM TotalStorage Storage Device Enclosure
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-storage-device-enclosure](https://www.ibm.com/docs/en/announcements/totalstorage-storage-device-enclosure?region=AP)
-
-📅 2018-07-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7212-102 | 2001-10-02 | 2001-10-26 | 2006-08-18 | 2015-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 7212+02 IBM 1U VXA-2 Autoloader
-
-🔗 [https://www.ibm.com/docs/en/announcements/1u-vxa-2-autoloader](https://www.ibm.com/docs/en/announcements/1u-vxa-2-autoloader?region=AP)
-
-📅 2015-10-02
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7212-312 | 2004-07-27 | 2004-08-27 | 2006-06-02 | 2011-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 7212+03 IBM System Storage 7212 Tape & DVD Enclosure Express Model
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-7212-tape-dvd-enclosure-express-model](https://www.ibm.com/docs/en/announcements/system-storage-7212-tape-dvd-enclosure-express-model?region=AP)
-
-📅 2018-07-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7212-103 | 2006-06-06 | 2006-08-25 | 2010-02-26 | 2015-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 7214+01 IBM System Storage Tape/Optical Storage Device Enclosure
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-tapeoptical-storage-device-enclosure](https://www.ibm.com/docs/en/announcements/system-storage-tapeoptical-storage-device-enclosure?region=AP)
-
-📅 2021-07-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7214-1U2 | 2007-11-06 | 2007-11-30 | 2011-09-16 | 2022-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 7214+02 IBM System Storage Tape/DVD Device Enclosure Model TT2
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-tapedvd-device-enclosure-model-tt2](https://www.ibm.com/docs/en/announcements/system-storage-tapedvd-device-enclosure-model-tt2?region=AP)
-
-📅 2018-04-24
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7214-TT2 | 2008-10-14 | 2008-11-21 | 2010-04-02 | 2016-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 7216+01 IBM System Storage 7216 Multi-Media Enclosure
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-7216-multi-media-enclosure](https://www.ibm.com/docs/en/announcements/system-storage-7216-multi-media-enclosure?region=AP)
-
-📅 2021-07-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7216-1U2 | 2010-08-17 | 2010-09-10 | 2012-04-27 | 2022-12-31 |
 
 
 

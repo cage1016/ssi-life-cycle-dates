@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2026-05-18 00:47:08.553671119 +0800 CST
+content update: 2026-05-19 01:22:58.426175357 +0800 CST
 
 ---
 
@@ -45,14 +45,6 @@ content update: 2026-05-18 00:47:08.553671119 +0800 CST
 - [Family 2076+05 IBM Storwize V7000](#family-207605-ibm-storwize-v7000)
 - [Family 2077+01 IBM Storwize V5000 Disk System](#family-207701-ibm-storwize-v5000-disk-system)
 - [Family 2078+01 IBM Storwize V5000 Disk System](#family-207801-ibm-storwize-v5000-disk-system)
-- [Family 2101+01 IBM Seascape Solutions Rack Model 100](#family-210101-ibm-seascape-solutions-rack-model-100)
-- [Family 2101+02 IBM Storage Solutions Rack Model 200](#family-210102-ibm-storage-solutions-rack-model-200)
-- [2104-DL1 IBM Expandable Storage Plus Model DL1](#2104-dl1-ibm-expandable-storage-plus-model-dl1)
-- [2104-DS4 IBM TotalStorage Expandable Storage Plus 320 Model DS4](#2104-ds4-ibm-totalstorage-expandable-storage-plus-320-model-ds4)
-- [2104-DU3 IBM Expandable Storage Plus Drawer Model DU3](#2104-du3-ibm-expandable-storage-plus-drawer-model-du3)
-- [2104-TL1 IBM Expandable Storage Plus Model TL1](#2104-tl1-ibm-expandable-storage-plus-model-tl1)
-- [2104-TS4 IBM TotalStorage Expandable Storage Plus 320 Model TS4](#2104-ts4-ibm-totalstorage-expandable-storage-plus-320-model-ts4)
-- [2104-TU3 IBM Expandable Storage Plus Tower Model TU3](#2104-tu3-ibm-expandable-storage-plus-tower-model-tu3)
 - [2105-100 IBM Versatile Storage Server Model 100](#2105-100-ibm-versatile-storage-server-model-100)
 - [2105-750 IBM TotalStorage Enterprise Storage Server Model 750](#2105-750-ibm-totalstorage-enterprise-storage-server-model-750)
 - [2105-800 IBM TotalStorage Enterprise Storage Server Model 800](#2105-800-ibm-totalstorage-enterprise-storage-server-model-800)
@@ -83,15 +75,8 @@ content update: 2026-05-18 00:47:08.553671119 +0800 CST
 - [Family 2810+01 IBM XIV Storage System](#family-281001-ibm-xiv-storage-system)
 - [Family 2810+02 IBM XIV Storage System (M/T 2810) Model Gen3](#family-281002-ibm-xiv-storage-system-m-t-2810-model-gen3)
 - [Family 2810+03 IBM XIV Storage System (M/T 2810) Model 214](#family-281003-ibm-xiv-storage-system-m-t-2810-model-214)
-- [Family 2810+04 IBM XIV Storage System (M/T 2810) Model 314](#family-281004-ibm-xiv-storage-system-m-t-2810-model-314)
-- [Family 2812+01 IBM XIV Storage System Model A14](#family-281201-ibm-xiv-storage-system-model-a14)
-- [Family 2812+02 IBM XIV Storage System (M/T 2812) Model Gen3](#family-281202-ibm-xiv-storage-system-m-t-2812-model-gen3)
 - [Family 2812+03 IBM XIV Storage System (M/T 2812) Model 214](#family-281203-ibm-xiv-storage-system-m-t-2812-model-214)
-- [Family 2812+04 IBM XIV Storage System (M/T 2812) Model 314](#family-281204-ibm-xiv-storage-system-m-t-2812-model-314)
-- [Family 2831+01 IBM DS8880 Models 981, 98E, 980, and 98B](#family-283101-ibm-ds8880-models-981-98e-980-and-98b)
-- [Family 2831+02 IBM DS8888 Model 982/98F](#family-283102-ibm-ds8888-model-982-98f)
 - [Family 2832+01 IBM DS8880 Models 981, 98E, 980, and 98B](#family-283201-ibm-ds8880-models-981-98e-980-and-98b)
-- [Family 2832+02 IBM DS8888 Model 982/98F](#family-283202-ibm-ds8888-model-982-98f)
 - [Family 2832+03 IBM DS8880 Models 984/84E, 985/85E, and 986/86E](#family-283203-ibm-ds8880-models-984-84e-985-85e-and-986-86e)
 - [Family 2833+01 IBM DS8880 Models 981, 98E, 980, and 98B](#family-283301-ibm-ds8880-models-981-98e-980-and-98b)
 - [Family 2833+02 IBM DS8888 Model 982/98F](#family-283302-ibm-ds8888-model-982-98f)
@@ -133,12 +118,10 @@ content update: 2026-05-18 00:47:08.553671119 +0800 CST
 - [Family 5333+02 IBM DS8882F Model 983](#family-533302-ibm-ds8882f-model-983)
 - [Family 5334+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533401-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
 - [Family 5334+02 IBM DS8882F Model 983](#family-533402-ibm-ds8882f-model-983)
-- [7027-HSC IBM High Capacity Drawer Model HSC](#7027-hsc-ibm-high-capacity-drawer-model-hsc)
 - [7027-HSD IBM High Capacity Drawer Model HSD](#7027-hsd-ibm-high-capacity-drawer-model-hsd)
 - [7133-010 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 010](#7133-010-ibm-serial-storage-architecture-ssa-disk-subsystem-model-010)
 - [7133-020 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 020](#7133-020-ibm-serial-storage-architecture-ssa-disk-subsystem-model-020)
 - [7133-500 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 500](#7133-500-ibm-serial-storage-architecture-ssa-disk-subsystem-model-500)
-- [7133-600 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 600](#7133-600-ibm-serial-storage-architecture-ssa-disk-subsystem-model-600)
 - [7133-D40 IBM Serial Disk System Advanced Model D40](#7133-d40-ibm-serial-disk-system-advanced-model-d40)
 - [7133-T40 IBM Serial Disk System Advanced Model T40](#7133-t40-ibm-serial-disk-system-advanced-model-t40)
 - [7134-010 IBM High Density SCSI Disk Subsystem Model 010](#7134-010-ibm-high-density-scsi-disk-subsystem-model-010)
@@ -160,9 +143,7 @@ content update: 2026-05-18 00:47:08.553671119 +0800 CST
 - [7204-536 IBM 36.4 GB External Disk Drive Model 536](#7204-536-ibm-364-gb-external-disk-drive-model-536)
 - [7204-573 IBM External Disk Drive Model 573](#7204-573-ibm-external-disk-drive-model-573)
 - [7204-646 IBM 7204 External Disk Drive Model 646](#7204-646-ibm-7204-external-disk-drive-model-646)
-- [9333-010 IBM High-Performance Disk Drive Subsystem Model 010](#9333-010-ibm-high-performance-disk-drive-subsystem-model-010)
 - [9333-011 IBM High-Performance Disk Drive Subsystem Model 011](#9333-011-ibm-high-performance-disk-drive-subsystem-model-011)
-- [9333-500 IBM High-Performance Disk Drive Sybsystem Model 500](#9333-500-ibm-high-performance-disk-drive-sybsystem-model-500)
 - [9333-501 IBM High-Performance Disk Drive Subsystem Model 501](#9333-501-ibm-high-performance-disk-drive-subsystem-model-501)
 - [9334-010 IBM SCSI Drawer Expansion Unit Model 010](#9334-010-ibm-scsi-drawer-expansion-unit-model-010)
 - [9334-011 IBM 9334 SCSI Expansion Unit Model 011](#9334-011-ibm-9334-scsi-expansion-unit-model-011)
@@ -203,15 +184,10 @@ content update: 2026-05-18 00:47:08.553671119 +0800 CST
 - [9390-002 IBM RAMAC 3 Array Storage Control Model 002](#9390-002-ibm-ramac-3-array-storage-control-model-002)
 - [9391-A30 IBM RAMAC 3 Array DASD Model A30](#9391-a30-ibm-ramac-3-array-dasd-model-a30)
 - [9392-B13 IBM RAMAC Array DASD Model B13](#9392-b13-ibm-ramac-array-dasd-model-b13)
-- [9392-B23 IBM RAMAC 2 Array DASD Model B23](#9392-b23-ibm-ramac-2-array-dasd-model-b23)
 - [9392-B33 IBM RAMAC 3 Array DASD Model B33](#9392-b33-ibm-ramac-3-array-dasd-model-b33)
 - [9393-001 IBM RAMAC Virtual Array Storage Model 001](#9393-001-ibm-ramac-virtual-array-storage-model-001)
 - [9393-002 IBM RAMAC Virtual Array Storage Model 002](#9393-002-ibm-ramac-virtual-array-storage-model-002)
-- [9393-T42 IBM RAMAC Virtual Array Storage Model T42](#9393-t42-ibm-ramac-virtual-array-storage-model-t42)
-- [9393-T82 IBM RAMAC Virtual Array Storage Model T82](#9393-t82-ibm-ramac-virtual-array-storage-model-t82)
-- [9393-UPA IBM RAMAC Virtual Array Storage Model UPA](#9393-upa-ibm-ramac-virtual-array-storage-model-upa)
 - [9393-UPC IBM RAMAC Virtual Array Storage Model UPC](#9393-upc-ibm-ramac-virtual-array-storage-model-upc)
-- [9393-X83 IBM RAMAC Virtual Array Turbo Model X83](#9393-x83-ibm-ramac-virtual-array-turbo-model-x83)
 - [9394-001 IBM RAMAC 2 Array Subsystem Model 001](#9394-001-ibm-ramac-2-array-subsystem-model-001)
 - [9394-002 IBM RAMAC 2 Array Subsystem Model 002](#9394-002-ibm-ramac-2-array-subsystem-model-002)
 - [9394-003 IBM RAMAC 2 Array Subsystem Model 003](#9394-003-ibm-ramac-2-array-subsystem-model-003)
@@ -1128,190 +1104,6 @@ content update: 2026-05-18 00:47:08.553671119 +0800 CST
 
 
 
-### Family 2101+01 IBM Seascape Solutions Rack Model 100
-
-🔗 [https://www.ibm.com/docs/en/announcements/seascape-solutions-rack-model-100](https://www.ibm.com/docs/en/announcements/seascape-solutions-rack-model-100?region=AP)
-
-📅 2009-02-04
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2101-100 | 1999-02-16 | 1999-03-26 | 2001-10-19 | 2005-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2101+02 IBM Storage Solutions Rack Model 200
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-solutions-rack-model-200](https://www.ibm.com/docs/en/announcements/storage-solutions-rack-model-200?region=AP)
-
-📅 2018-07-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2101-200 | 2001-01-16 | 2001-01-26 | 2018-02-17 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2104-DL1 IBM Expandable Storage Plus Model DL1
-
-🔗 [https://www.ibm.com/docs/en/announcements/expandable-storage-plus-model-dl1](https://www.ibm.com/docs/en/announcements/expandable-storage-plus-model-dl1?region=AP)
-
-📅 2008-03-07
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2104-DL1 | 1999-09-13 | 1999-10-22 | 2001-01-26 | 2007-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2104-DS4 IBM TotalStorage Expandable Storage Plus 320 Model DS4
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-expandable-storage-plus-320-model-ds4](https://www.ibm.com/docs/en/announcements/totalstorage-expandable-storage-plus-320-model-ds4?region=AP)
-
-📅 2016-07-19
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2104-DS4 | 2003-10-14 | 2003-10-31 | 2006-03-31 | 2016-10-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2104-DU3 IBM Expandable Storage Plus Drawer Model DU3
-
-🔗 [https://www.ibm.com/docs/en/announcements/expandable-storage-plus-drawer-model-du3](https://www.ibm.com/docs/en/announcements/expandable-storage-plus-drawer-model-du3?region=AP)
-
-📅 2011-06-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2104-DU3 | 2000-10-03 | 2000-10-13 | 2004-02-13 | 2012-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2104-TL1 IBM Expandable Storage Plus Model TL1
-
-🔗 [https://www.ibm.com/docs/en/announcements/expandable-storage-plus-model-tl1](https://www.ibm.com/docs/en/announcements/expandable-storage-plus-model-tl1?region=AP)
-
-📅 2007-06-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2104-TL1 | 1999-09-13 | 1999-10-29 | 2001-01-26 | 2007-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2104-TS4 IBM TotalStorage Expandable Storage Plus 320 Model TS4
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-expandable-storage-plus-320-model-ts4](https://www.ibm.com/docs/en/announcements/totalstorage-expandable-storage-plus-320-model-ts4?region=AP)
-
-📅 2016-07-19
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2104-TS4 | 2003-10-14 | 2003-10-31 | 2006-03-31 | 2016-10-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2104-TU3 IBM Expandable Storage Plus Tower Model TU3
-
-🔗 [https://www.ibm.com/docs/en/announcements/expandable-storage-plus-tower-model-tu3](https://www.ibm.com/docs/en/announcements/expandable-storage-plus-tower-model-tu3?region=AP)
-
-📅 2011-06-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2104-TU3 | 2000-10-03 | 2000-10-13 | 2004-02-13 | 2012-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 2105-100 IBM Versatile Storage Server Model 100
 
 🔗 [https://www.ibm.com/docs/en/announcements/versatile-storage-server-model-100](https://www.ibm.com/docs/en/announcements/versatile-storage-server-model-100?region=AP)
@@ -2016,75 +1808,6 @@ content update: 2026-05-18 00:47:08.553671119 +0800 CST
 
 
 
-### Family 2810+04 IBM XIV Storage System (M/T 2810) Model 314
-
-🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2810-model-314](https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2810-model-314?region=AP)
-
-📅 2022-07-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2810-314 | 2015-11-10 | 2015-12-04 | 2018-05-27 | 2023-07-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2812+01 IBM XIV Storage System Model A14
-
-🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-model-a14](https://www.ibm.com/docs/en/announcements/xiv-storage-system-model-a14?region=AP)
-
-📅 2017-07-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2812-A14 | 2009-07-14 | 2009-08-13 | 2012-10-26 | 2018-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2812+02 IBM XIV Storage System (M/T 2812) Model Gen3
-
-🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-gen3](https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-gen3?region=AP)
-
-📅 2019-10-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2812-114 | 2011-07-12 | 2011-09-08 | 2013-10-25 | 2020-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 2812+03 IBM XIV Storage System (M/T 2812) Model 214
 
 🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-214](https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-214?region=AP)
@@ -2094,79 +1817,6 @@ content update: 2026-05-18 00:47:08.553671119 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2812-214 | 2013-02-05 | 2013-03-07 | 2018-05-27 | 2023-07-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2812+04 IBM XIV Storage System (M/T 2812) Model 314
-
-🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-314](https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-314?region=AP)
-
-📅 2022-07-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2812-314 | 2015-11-10 | 2015-12-04 | 2018-05-27 | 2023-07-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2831+01 IBM DS8880 Models 981, 98E, 980, and 98B
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8880-models-981-98e-980-98b](https://www.ibm.com/docs/en/announcements/ds8880-models-981-98e-980-98b?region=AP)
-
-📅 2022-03-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2831-98B | 2015-10-20 | 2015-12-04 | 2021-12-31 | 2022-12-31 |
-| 2831-98E | 2015-10-20 | 2015-12-04 | 2021-12-31 | 2022-12-31 |
-| 2831-980 | 2015-10-20 | 2015-12-04 | 2016-12-31 | 2022-12-31 |
-| 2831-981 | 2015-10-20 | 2015-12-04 | 2016-12-31 | 2022-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2831+02 IBM DS8888 Model 982/98F
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8888-model-98298f](https://www.ibm.com/docs/en/announcements/ds8888-model-98298f?region=AP)
-
-📅 2022-03-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2831-98F | 2016-05-31 | 2016-06-24 | 2021-12-31 | 2022-12-31 |
-| 2831-982 | 2016-05-31 | 2016-06-24 | 2017-01-10 | 2022-12-31 |
 
 
 
@@ -2193,30 +1843,6 @@ content update: 2026-05-18 00:47:08.553671119 +0800 CST
 | 2832-98E | 2015-10-20 | 2015-12-04 | 2020-06-30 | 2022-12-31 |
 | 2832-980 | 2015-10-20 | 2015-12-04 | 2016-12-31 | 2022-12-31 |
 | 2832-981 | 2015-10-20 | 2015-12-04 | 2016-12-31 | 2022-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2832+02 IBM DS8888 Model 982/98F
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8888-model-98298f-2022-03-15](https://www.ibm.com/docs/en/announcements/ds8888-model-98298f-2022-03-15?region=AP)
-
-📅 2022-03-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2832-98F | 2016-05-31 | 2016-06-24 | 2020-06-30 | 2022-12-31 |
-| 2832-982 | 2016-05-31 | 2016-06-24 | 2017-01-10 | 2022-12-31 |
 
 
 
@@ -3220,26 +2846,6 @@ content update: 2026-05-18 00:47:08.553671119 +0800 CST
 
 
 
-### 7027-HSC IBM High Capacity Drawer Model HSC
-
-🔗 [https://www.ibm.com/docs/en/announcements/high-capacity-drawer-model-hsc](https://www.ibm.com/docs/en/announcements/high-capacity-drawer-model-hsc?region=AP)
-
-📅 2003-06-02
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 7027-HSD IBM High Capacity Drawer Model HSD
 
 🔗 [https://www.ibm.com/docs/en/announcements/high-capacity-drawer-model-hsd](https://www.ibm.com/docs/en/announcements/high-capacity-drawer-model-hsd?region=AP)
@@ -3315,29 +2921,6 @@ content update: 2026-05-18 00:47:08.553671119 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7133-500 | 1995-07-25 | 1995-08-11 | 1997-05-05 | 2019-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7133-600 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 600
-
-🔗 [https://www.ibm.com/docs/en/announcements/serial-storage-architecture-ssa-disk-subsystem-model-600](https://www.ibm.com/docs/en/announcements/serial-storage-architecture-ssa-disk-subsystem-model-600?region=AP)
-
-📅 2018-07-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7133-600 | 1996-10-08 | 1996-10-18 | 1999-06-16 | 2019-12-31 |
 
 
 
@@ -3826,29 +3409,6 @@ content update: 2026-05-18 00:47:08.553671119 +0800 CST
 
 
 
-### 9333-010 IBM High-Performance Disk Drive Subsystem Model 010
-
-🔗 [https://www.ibm.com/docs/en/announcements/high-performance-disk-drive-subsystem-model-010](https://www.ibm.com/docs/en/announcements/high-performance-disk-drive-subsystem-model-010?region=AP)
-
-📅 2009-06-06
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9333-010 | 1991-07-24 | 1992-02-28 | 1994-10-26 | 2010-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 9333-011 IBM High-Performance Disk Drive Subsystem Model 011
 
 🔗 [https://www.ibm.com/docs/en/announcements/high-performance-disk-drive-subsystem-model-011](https://www.ibm.com/docs/en/announcements/high-performance-disk-drive-subsystem-model-011?region=AP)
@@ -3858,29 +3418,6 @@ content update: 2026-05-18 00:47:08.553671119 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9333-011 | 1993-07-13 | 1993-08-27 | 1996-03-29 | 2010-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9333-500 IBM High-Performance Disk Drive Sybsystem Model 500
-
-🔗 [https://www.ibm.com/docs/en/announcements/high-performance-disk-drive-sybsystem-model-500](https://www.ibm.com/docs/en/announcements/high-performance-disk-drive-sybsystem-model-500?region=AP)
-
-📅 2009-06-06
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9333-500 | 1991-07-24 | 1992-02-28 | 1994-10-26 | 2010-12-31 |
 
 
 
@@ -4815,29 +4352,6 @@ content update: 2026-05-18 00:47:08.553671119 +0800 CST
 
 
 
-### 9392-B23 IBM RAMAC 2 Array DASD Model B23
-
-🔗 [https://www.ibm.com/docs/en/announcements/ramac-2-array-dasd-model-b23](https://www.ibm.com/docs/en/announcements/ramac-2-array-dasd-model-b23?region=AP)
-
-📅 2009-06-07
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9392-B23 | 1995-06-12 | 1995-10-27 | 1998-07-28 | 2010-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 9392-B33 IBM RAMAC 3 Array DASD Model B33
 
 🔗 [https://www.ibm.com/docs/en/announcements/ramac-3-array-dasd-model-b33](https://www.ibm.com/docs/en/announcements/ramac-3-array-dasd-model-b33?region=AP)
@@ -4904,101 +4418,12 @@ content update: 2026-05-18 00:47:08.553671119 +0800 CST
 
 
 
-### 9393-T42 IBM RAMAC Virtual Array Storage Model T42
-
-🔗 [https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-t42](https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-t42?region=AP)
-
-📅 2008-06-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9393-T42 | 1997-04-08 | 1997-04-25 | 1998-07-31 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9393-T82 IBM RAMAC Virtual Array Storage Model T82
-
-🔗 [https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-t82](https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-t82?region=AP)
-
-📅 2008-06-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9393-T82 | 1997-04-08 | 1997-08-29 | 1999-06-18 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9393-UPA IBM RAMAC Virtual Array Storage Model UPA
-
-🔗 [https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-upa](https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-upa?region=AP)
-
-📅 1999-04-26
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 9393-UPC IBM RAMAC Virtual Array Storage Model UPC
 
 🔗 [https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-upc](https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-upc?region=AP)
 
 📅 1999-04-26
 
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9393-X83 IBM RAMAC Virtual Array Turbo Model X83
-
-🔗 [https://www.ibm.com/docs/en/announcements/ramac-virtual-array-turbo-model-x83](https://www.ibm.com/docs/en/announcements/ramac-virtual-array-turbo-model-x83?region=AP)
-
-📅 2008-03-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9393-X83 | 1999-07-27 | 1999-08-06 | 2001-03-30 | 2008-12-31 |
 
 
 
