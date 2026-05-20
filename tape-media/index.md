@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2026-05-20 01:24:33.003526573 +0800 CST
+content update: 2026-05-21 01:28:54.978786315 +0800 CST
 
 ---
 
@@ -17,6 +17,7 @@ content update: 2026-05-20 01:24:33.003526573 +0800 CST
 - [Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004](#family-358901-ibm-ultrium-cartridges-models-002-003-004)
 - [Family 3589+02 IBM Ultrium Cartridges Models 006 and 007](#family-358902-ibm-ultrium-cartridges-models-006-and-007)
 - [Family 3589+03 IBM TotalStorage Ultrium Tape Cartridge Models 008 and 009](#family-358903-ibm-totalstorage-ultrium-tape-cartridge-models-008-and-009)
+- [Family 3589+04 IBM TotalStorage Ultrium Tape Cartridge Models 028 and 029](#family-358904-ibm-totalstorage-ultrium-tape-cartridge-models-028-and-029)
 - [Family 3589+05 IBM 3589 Ultrium Tape Cartridge Models 010, 011, 032, 033](#family-358905-ibm-3589-ultrium-tape-cartridge-models-010-011-032-033)
 - [Family 3589+06 IBM Ultrium 5 1.5 TB Data Cartridge Models 014 015 034 035](#family-358906-ibm-ultrium-5-15-tb-data-cartridge-models-014-015-034-035)
 - [Family 3589+07 IBM Ultrium 6 2.5 TB Data Cartridge Models 550,650,570,670](#family-358907-ibm-ultrium-6-25-tb-data-cartridge-models-550-650-570-670)
@@ -264,6 +265,30 @@ content update: 2026-05-20 01:24:33.003526573 +0800 CST
 | --- | --- | --- | --- | --- |
 | 3589-008 | 2005-02-15 | 2005-03-04 | 2010-11-26 | - |
 | 3589-009 | 2005-02-15 | 2005-03-04 | 2010-11-26 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 3589+04 IBM TotalStorage Ultrium Tape Cartridge Models 028 and 029
+
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ultrium-tape-cartridge-models-028-029](https://www.ibm.com/docs/en/announcements/totalstorage-ultrium-tape-cartridge-models-028-029?region=AP)
+
+📅 2023-11-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3589-028 | 2005-05-10 | 2005-05-27 | 2009-12-31 | - |
+| 3589-029 | 2005-05-10 | 2005-05-27 | 2009-12-31 | - |
 
 
 
