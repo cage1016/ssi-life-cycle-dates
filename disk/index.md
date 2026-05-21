@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2026-05-21 01:28:54.978786315 +0800 CST
+content update: 2026-05-22 01:19:20.992526933 +0800 CST
 
 ---
 
@@ -80,14 +80,10 @@ content update: 2026-05-21 01:28:54.978786315 +0800 CST
 - [Family 2423+04 IBM DS8870 Models 961 and 96E](#family-242304-ibm-ds8870-models-961-and-96e)
 - [Family 2424+02 IBM System Storage DS8700 Models 941 and 94E](#family-242402-ibm-system-storage-ds8700-models-941-and-94e)
 - [Family 2424+04 IBM DS8870 Models 961 and 96E](#family-242404-ibm-ds8870-models-961-and-96e)
-- [Family 2810+01 IBM XIV Storage System](#family-281001-ibm-xiv-storage-system)
 - [Family 2810+02 IBM XIV Storage System (M/T 2810) Model Gen3](#family-281002-ibm-xiv-storage-system-m-t-2810-model-gen3)
 - [Family 2810+03 IBM XIV Storage System (M/T 2810) Model 214](#family-281003-ibm-xiv-storage-system-m-t-2810-model-214)
 - [Family 2810+04 IBM XIV Storage System (M/T 2810) Model 314](#family-281004-ibm-xiv-storage-system-m-t-2810-model-314)
-- [Family 2812+01 IBM XIV Storage System Model A14](#family-281201-ibm-xiv-storage-system-model-a14)
-- [Family 2812+02 IBM XIV Storage System (M/T 2812) Model Gen3](#family-281202-ibm-xiv-storage-system-m-t-2812-model-gen3)
 - [Family 2812+03 IBM XIV Storage System (M/T 2812) Model 214](#family-281203-ibm-xiv-storage-system-m-t-2812-model-214)
-- [Family 2812+04 IBM XIV Storage System (M/T 2812) Model 314](#family-281204-ibm-xiv-storage-system-m-t-2812-model-314)
 - [Family 2831+01 IBM DS8880 Models 981, 98E, 980, and 98B](#family-283101-ibm-ds8880-models-981-98e-980-and-98b)
 - [Family 2831+02 IBM DS8888 Model 982/98F](#family-283102-ibm-ds8888-model-982-98f)
 - [Family 2832+01 IBM DS8880 Models 981, 98E, 980, and 98B](#family-283201-ibm-ds8880-models-981-98e-980-and-98b)
@@ -118,10 +114,10 @@ content update: 2026-05-21 01:28:54.978786315 +0800 CST
 - [3390-B3C IBM Direct Access Storage Device (DASD) Model B3C](#3390-b3c-ibm-direct-access-storage-device-dasd-model-b3c)
 - [3390-B94 IBM Direct Access Storage Device (DASD) Model B94](#3390-b94-ibm-direct-access-storage-device-dasd-model-b94)
 - [3390-B98 IBM Direct Access Storage Device (DASD) Model B98](#3390-b98-ibm-direct-access-storage-device-dasd-model-b98)
+- [3390-B9C IBM Direct Access Storage Device (DASD) Model B9C](#3390-b9c-ibm-direct-access-storage-device-dasd-model-b9c)
+- [3552-1RU IBM TotalStorage FAStT500 Storage Server Model 1RU](#3552-1ru-ibm-totalstorage-fastt500-storage-server-model-1ru)
 - [Family 3560+01 IBM FAStT EXP500 Expansion Unit](#family-356001-ibm-fastt-exp500-expansion-unit)
 - [3990-001 IBM Storage Control Model 001](#3990-001-ibm-storage-control-model-001)
-- [3990-002 IBM Storage Control Model 002](#3990-002-ibm-storage-control-model-002)
-- [3990-006 IBM Storage Control Model 006](#3990-006-ibm-storage-control-model-006)
 - [Family 4939+01 IBM Flex System V7000 Storage Node Hardware - AAS](#family-493901-ibm-flex-system-v7000-storage-node-hardware-aas)
 - [Family 5331+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533101-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
 - [Family 5331+02 IBM DS8882F Model 983](#family-533102-ibm-ds8882f-model-983)
@@ -1945,29 +1941,6 @@ content update: 2026-05-21 01:28:54.978786315 +0800 CST
 
 
 
-### Family 2810+01 IBM XIV Storage System
-
-🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system](https://www.ibm.com/docs/en/announcements/xiv-storage-system?region=AP)
-
-📅 2017-07-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2810-A14 | 2008-08-12 | 2008-08-15 | 2012-10-26 | 2018-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 2810+02 IBM XIV Storage System (M/T 2810) Model Gen3
 
 🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2810-model-gen3](https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2810-model-gen3?region=AP)
@@ -2037,52 +2010,6 @@ content update: 2026-05-21 01:28:54.978786315 +0800 CST
 
 
 
-### Family 2812+01 IBM XIV Storage System Model A14
-
-🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-model-a14](https://www.ibm.com/docs/en/announcements/xiv-storage-system-model-a14?region=AP)
-
-📅 2017-07-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2812-A14 | 2009-07-14 | 2009-08-13 | 2012-10-26 | 2018-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2812+02 IBM XIV Storage System (M/T 2812) Model Gen3
-
-🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-gen3](https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-gen3?region=AP)
-
-📅 2019-10-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2812-114 | 2011-07-12 | 2011-09-08 | 2013-10-25 | 2020-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 2812+03 IBM XIV Storage System (M/T 2812) Model 214
 
 🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-214](https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-214?region=AP)
@@ -2092,29 +2019,6 @@ content update: 2026-05-21 01:28:54.978786315 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2812-214 | 2013-02-05 | 2013-03-07 | 2018-05-27 | 2023-07-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2812+04 IBM XIV Storage System (M/T 2812) Model 314
-
-🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-314](https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2812-model-314?region=AP)
-
-📅 2022-07-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2812-314 | 2015-11-10 | 2015-12-04 | 2018-05-27 | 2023-07-31 |
 
 
 
@@ -2850,6 +2754,52 @@ content update: 2026-05-21 01:28:54.978786315 +0800 CST
 
 
 
+### 3390-B9C IBM Direct Access Storage Device (DASD) Model B9C
+
+🔗 [https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b9c](https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b9c?region=AP)
+
+📅 2007-06-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3390-B9C | 1993-05-20 | 1993-05-20 | 1996-12-31 | 2008-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3552-1RU IBM TotalStorage FAStT500 Storage Server Model 1RU
+
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-fastt500-storage-server-model-1ru](https://www.ibm.com/docs/en/announcements/totalstorage-fastt500-storage-server-model-1ru?region=AP)
+
+📅 2016-06-28
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3552-1RU | 2001-10-30 | 2001-11-30 | 2003-06-13 | 2011-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 3560+01 IBM FAStT EXP500 Expansion Unit
 
 🔗 [https://www.ibm.com/docs/en/announcements/fastt-exp500-expansion-unit](https://www.ibm.com/docs/en/announcements/fastt-exp500-expansion-unit?region=AP)
@@ -2880,52 +2830,6 @@ content update: 2026-05-21 01:28:54.978786315 +0800 CST
 
 📅 1996-01-10
 
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3990-002 IBM Storage Control Model 002
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-control-model-002](https://www.ibm.com/docs/en/announcements/storage-control-model-002?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3990-002 | 1987-09-30 | 1988-08-26 | 1996-04-26 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3990-006 IBM Storage Control Model 006
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-control-model-006](https://www.ibm.com/docs/en/announcements/storage-control-model-006?region=AP)
-
-📅 2008-03-07
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3990-006 | 1993-05-01 | 1993-09-01 | 2000-08-11 | 2008-12-31 |
 
 
 

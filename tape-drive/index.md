@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2026-05-21 01:28:54.978786315 +0800 CST
+content update: 2026-05-22 01:19:20.992526933 +0800 CST
 
 ---
 
@@ -49,7 +49,6 @@ content update: 2026-05-21 01:28:54.978786315 +0800 CST
 - [Family 3588+11 IBM TS1080 Tape Drive Model F8S](#family-358811-ibm-ts1080-tape-drive-model-f8s)
 - [3590-A00 IBM TotalStorage Enterprise Tape Controller Model A00](#3590-a00-ibm-totalstorage-enterprise-tape-controller-model-a00)
 - [3590-A14 IBM TotalStorage Enterprise Tape Drive Frame Model A14](#3590-a14-ibm-totalstorage-enterprise-tape-drive-frame-model-a14)
-- [3590-A50 IBM TotalStorage Enterprise Tape Controller Model A50](#3590-a50-ibm-totalstorage-enterprise-tape-controller-model-a50)
 - [3590-B11 IBM TotalStorage Enterprise Tape Drive Model B11](#3590-b11-ibm-totalstorage-enterprise-tape-drive-model-b11)
 - [3590-B1A IBM TotalStorage Enterprise Tape Drive Model B1A](#3590-b1a-ibm-totalstorage-enterprise-tape-drive-model-b1a)
 - [3590-C10 IBM TotalStorage Silo Compatible Tape Controller Model C10](#3590-c10-ibm-totalstorage-silo-compatible-tape-controller-model-c10)
@@ -68,8 +67,6 @@ content update: 2026-05-21 01:28:54.978786315 +0800 CST
 - [Family 3592+08 IBM System Storage Tape Controller Mod C07 System z AAS](#family-359208-ibm-system-storage-tape-controller-mod-c07-system-z-aas)
 - [Family 3592+09 IBM TS1140 Tape Drive Model EH7](#family-359209-ibm-ts1140-tape-drive-model-eh7)
 - [Family 3592+10 IBM TS1150 Tape Drive and HD2 Tape Drive](#family-359210-ibm-ts1150-tape-drive-and-hd2-tape-drive)
-- [Family 3592+12 IBM TS1155 Tape Drive Model 55G](#family-359212-ibm-ts1155-tape-drive-model-55g)
-- [Family 3592+14 IBM TS1160 Tape Drive Model 60G](#family-359214-ibm-ts1160-tape-drive-model-60g)
 - [7205-311 IBM 35GB External Digital Linear Tape Drive Model 311](#7205-311-ibm-35gb-external-digital-linear-tape-drive-model-311)
 - [7205-440 IBM 40 GB External Digital Linear Tape Drive Model 440](#7205-440-ibm-40-gb-external-digital-linear-tape-drive-model-440)
 - [7205-550 IBM 160 GB External Digital Linear Tape Drive Model 550](#7205-550-ibm-160-gb-external-digital-linear-tape-drive-model-550)
@@ -1083,29 +1080,6 @@ content update: 2026-05-21 01:28:54.978786315 +0800 CST
 
 
 
-### 3590-A50 IBM TotalStorage Enterprise Tape Controller Model A50
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-controller-model-a50](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-controller-model-a50?region=AP)
-
-📅 2017-09-19
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3590-A50 | 1997-10-06 | 1997-10-31 | 2000-09-29 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 3590-B11 IBM TotalStorage Enterprise Tape Drive Model B11
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-drive-model-b11](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-drive-model-b11?region=AP)
@@ -1507,52 +1481,6 @@ content update: 2026-05-21 01:28:54.978786315 +0800 CST
 | --- | --- | --- | --- | --- |
 | 3592-EH8 | 2014-10-06 | 2014-11-21 | 2022-12-31 | - |
 | 3592-E08 | 2014-10-06 | 2014-10-24 | 2022-12-31 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3592+12 IBM TS1155 Tape Drive Model 55G
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts1155-tape-drive-model-55g](https://www.ibm.com/docs/en/announcements/ts1155-tape-drive-model-55g?region=AP)
-
-📅 2022-07-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3592-55G | 2017-10-10 | 2017-11-17 | 2019-12-07 | 2023-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3592+14 IBM TS1160 Tape Drive Model 60G
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts1160-tape-drive-model-60g](https://www.ibm.com/docs/en/announcements/ts1160-tape-drive-model-60g?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3592-60G | 2018-11-20 | 2018-12-07 | 2023-06-30 | - |
 
 
 
