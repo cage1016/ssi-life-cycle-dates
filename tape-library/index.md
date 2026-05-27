@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2026-05-27 01:32:08.35859722 +0800 CST
+content update: 2026-05-28 01:30:01.468992574 +0800 CST
 
 ---
 
@@ -12,7 +12,6 @@ content update: 2026-05-27 01:32:08.35859722 +0800 CST
 - [3494-L12 IBM TotalStorage Enterprise Tape Library Base Frame Model L12](#3494-l12-ibm-totalstorage-enterprise-tape-library-base-frame-model-l12)
 - [3494-L14 IBM TotalStorage Enterprise Tape Library Base Frame Model L14](#3494-l14-ibm-totalstorage-enterprise-tape-library-base-frame-model-l14)
 - [3494-L22 IBM TotalStorage Enterprise Tape Library Base Frame Model L22](#3494-l22-ibm-totalstorage-enterprise-tape-library-base-frame-model-l22)
-- [Family 3573+01 IBM System Storage TS3100 Tape Library Express Model L2U](#family-357301-ibm-system-storage-ts3100-tape-library-express-model-l2u)
 - [Family 3576+01 IBM System Storage TS3310 Tape Library and Expansion Modules](#family-357601-ibm-system-storage-ts3310-tape-library-and-expansion-modules)
 - [Family 3577+01 IBM System Storage TS3400 Tape Library Model L5U](#family-357701-ibm-system-storage-ts3400-tape-library-model-l5u)
 - [3582-L23 IBM TotalStorage Ultrium Tape Library Model L23](#3582-l23-ibm-totalstorage-ultrium-tape-library-model-l23)
@@ -140,29 +139,6 @@ content update: 2026-05-27 01:32:08.35859722 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3494-L22 | 2003-09-09 | 2003-10-31 | 2006-12-01 | 2017-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3573+01 IBM System Storage TS3100 Tape Library Express Model L2U
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts3100-tape-library-express-model-l2u](https://www.ibm.com/docs/en/announcements/system-storage-ts3100-tape-library-express-model-l2u?region=AP)
-
-📅 2023-05-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3573-L2U | 2006-04-11 | 2006-05-12 | 2018-03-24 | 2023-12-31 |
 
 
 
