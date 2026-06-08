@@ -1,17 +1,39 @@
 # Elastic Storage Server
 
-content update: 2026-06-08 00:55:28.829680134 +0800 CST
+content update: 2026-06-09 01:31:33.50730871 +0800 CST
 
 ---
 
 ### Table of contents
 
 
+- [](#)
 - [Family 5141+01 IBM Elastic Storage System 3000](#family-514101-ibm-elastic-storage-system-3000)
+- [Family 5141+02 IBM Elastic Storage System 3200](#family-514102-ibm-elastic-storage-system-3200)
 
 ---
 
 [← Back to README](../README.md)
+
+
+
+
+
+### 
+
+🔗 [](?region=AP)
+
+📅 
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
 
 
 
@@ -26,6 +48,29 @@ content update: 2026-06-08 00:55:28.829680134 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 5141-AF8 | 2019-11-12 | 2019-12-06 | 2022-05-15 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 5141+02 IBM Elastic Storage System 3200
+
+🔗 [https://www.ibm.com/docs/en/announcements/elastic-storage-system-3200](https://www.ibm.com/docs/en/announcements/elastic-storage-system-3200?region=AP)
+
+📅 2022-08-23
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 5141-FN1 | 2021-05-04 | 2021-05-21 | 2023-03-31 | - |
 
 
 

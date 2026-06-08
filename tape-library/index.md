@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2026-06-08 00:55:28.829680134 +0800 CST
+content update: 2026-06-09 01:31:33.50730871 +0800 CST
 
 ---
 
@@ -8,7 +8,6 @@ content update: 2026-06-08 00:55:28.829680134 +0800 CST
 
 
 - [](#)
-- [3494-L10 IBM TotalStorage Enterprise Tape Library Base Frame Model L10](#3494-l10-ibm-totalstorage-enterprise-tape-library-base-frame-model-l10)
 - [3494-L12 IBM TotalStorage Enterprise Tape Library Base Frame Model L12](#3494-l12-ibm-totalstorage-enterprise-tape-library-base-frame-model-l12)
 - [3494-L14 IBM TotalStorage Enterprise Tape Library Base Frame Model L14](#3494-l14-ibm-totalstorage-enterprise-tape-library-base-frame-model-l14)
 - [3494-L22 IBM TotalStorage Enterprise Tape Library Base Frame Model L22](#3494-l22-ibm-totalstorage-enterprise-tape-library-base-frame-model-l22)
@@ -27,10 +26,7 @@ content update: 2026-06-08 00:55:28.829680134 +0800 CST
 - [Family 3958+01 IBM System Storage TS7650G Server](#family-395801-ibm-system-storage-ts7650g-server)
 - [Family 3958+02 IBM System Storage TS7650G Server](#family-395802-ibm-system-storage-ts7650g-server)
 - [Family 3958+03 IBM System Storage TS7650 ProtecTIER De-duplication Appliance](#family-395803-ibm-system-storage-ts7650-protectier-de-duplication-appliance)
-- [Family 3958+04 IBM TS7680 ProtecTIER Deduplication Gateway for System z](#family-395804-ibm-ts7680-protectier-deduplication-gateway-for-system-z)
 - [Family 3958+05 IBM System Storage TS7650G Server Model DD4](#family-395805-ibm-system-storage-ts7650g-server-model-dd4)
-- [Family 3958+06 IBM System Storage TS7650G ProtecTIER Gateway Server](#family-395806-ibm-system-storage-ts7650g-protectier-gateway-server)
-- [Family 3958+07 IBM TS7650G ProtecTIER Gateway Server Model DD6](#family-395807-ibm-ts7650g-protectier-gateway-server-model-dd6)
 - [Family 3959+01 IBM System Storage TS7610 ProtecTIER Deduplication Express](#family-395901-ibm-system-storage-ts7610-protectier-deduplication-express)
 - [Family 3959+02 IBM System Storage TS7620 ProtecTIER Appliance Model](#family-395902-ibm-system-storage-ts7620-protectier-appliance-model)
 
@@ -48,29 +44,6 @@ content update: 2026-06-08 00:55:28.829680134 +0800 CST
 
 📅 
 
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3494-L10 IBM TotalStorage Enterprise Tape Library Base Frame Model L10
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-library-base-frame-model-l10](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-tape-library-base-frame-model-l10?region=AP)
-
-📅 2015-06-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3494-L10 | 1993-09-07 | 1993-12-17 | 2002-12-27 | 2017-01-31 |
 
 
 
@@ -501,29 +474,6 @@ content update: 2026-06-08 00:55:28.829680134 +0800 CST
 
 
 
-### Family 3958+04 IBM TS7680 ProtecTIER Deduplication Gateway for System z
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts7680-protectier-deduplication-gateway-system-z](https://www.ibm.com/docs/en/announcements/ts7680-protectier-deduplication-gateway-system-z?region=AP)
-
-📅 2019-12-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3958-DE2 | 2010-02-09 | 2010-02-19 | 2012-09-28 | 2016-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 3958+05 IBM System Storage TS7650G Server Model DD4
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts7650g-server-model-dd4](https://www.ibm.com/docs/en/announcements/system-storage-ts7650g-server-model-dd4?region=AP)
@@ -533,52 +483,6 @@ content update: 2026-06-08 00:55:28.829680134 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3958-DD4 | 2010-10-26 | 2010-12-03 | 2012-08-31 | 2019-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3958+06 IBM System Storage TS7650G ProtecTIER Gateway Server
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts7650g-protectier-gateway-server](https://www.ibm.com/docs/en/announcements/system-storage-ts7650g-protectier-gateway-server?region=AP)
-
-📅 2019-12-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3958-DD5 | 2012-06-04 | 2012-06-08 | 2016-06-18 | 2020-09-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3958+07 IBM TS7650G ProtecTIER Gateway Server Model DD6
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts7650g-protectier-gateway-server-model-dd6](https://www.ibm.com/docs/en/announcements/ts7650g-protectier-gateway-server-model-dd6?region=AP)
-
-📅 2019-07-09
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3958-DD6 | 2016-02-23 | 2016-03-11 | 2018-05-19 | 2020-11-30 |
 
 
 
