@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2026-06-09 01:31:33.50730871 +0800 CST
+content update: 2026-06-10 01:19:29.799190484 +0800 CST
 
 ---
 
@@ -10,7 +10,7 @@ content update: 2026-06-09 01:31:33.50730871 +0800 CST
 - [](#)
 - [Family 1269+02 IBM System Storage DCS9900 Storage System](#family-126902-ibm-system-storage-dcs9900-storage-system)
 - [Family 1710+01 IBM TotalStorage DS4000 EXP100 Storage Expansion Unit](#family-171001-ibm-totalstorage-ds4000-exp100-storage-expansion-unit)
-- [1722-60U IBM TotalStorage DS4300 Midrange Disk System Model 60U](#1722-60u-ibm-totalstorage-ds4300-midrange-disk-system-model-60u)
+- [](#)
 - [1722-6LU IBM TotalStorage DS4300 Midrange Disk System Model 6LU](#1722-6lu-ibm-totalstorage-ds4300-midrange-disk-system-model-6lu)
 - [Family 1724+01 IBM TotalStorage DS4100 Midrange Disk System Model 100](#family-172401-ibm-totalstorage-ds4100-midrange-disk-system-model-100)
 - [1740-1RU IBM TotalStorage DS4000 EXP700 Expansion Unit Model 1RU](#1740-1ru-ibm-totalstorage-ds4000-exp700-expansion-unit-model-1ru)
@@ -22,10 +22,10 @@ content update: 2026-06-09 01:31:33.50730871 +0800 CST
 - [Family 1750+02 IBM System Storage DS6800 and DS6000](#family-175002-ibm-system-storage-ds6800-and-ds6000)
 - [Family 1812+01 IBM System Storage DS4000 EXP810 Storage Expansion Unit](#family-181201-ibm-system-storage-ds4000-exp810-storage-expansion-unit)
 - [Family 1812+02 IBM System Storage DS4000 EXP420 Storage Expansion Unit](#family-181202-ibm-system-storage-ds4000-exp420-storage-expansion-unit)
-- [Family 1812+03 IBM System Storage DS4000 EXP810 Expansion Unit Model 81S](#family-181203-ibm-system-storage-ds4000-exp810-expansion-unit-model-81s)
+- [](#)
 - [Family 1813+02 IBM System Storage DCS3860 (AAS)](#family-181302-ibm-system-storage-dcs3860-aas)
 - [Family 1813+03 IBM System Storage DCS3860 Controller 96C](#family-181303-ibm-system-storage-dcs3860-controller-96c)
-- [Family 1814+01 IBM System Storage DS4700 Express Models](#family-181401-ibm-system-storage-ds4700-express-models)
+- [](#)
 - [Family 1814+02 IBM System Storage DS4200 Express Model 7V](#family-181402-ibm-system-storage-ds4200-express-model-7v)
 - [Family 1814+03 IBM System Storage DS4700 Express Models 70-DC and 72-DC](#family-181403-ibm-system-storage-ds4700-express-models-70-dc-and-72-dc)
 - [Family 1814+04 IBM System Storage DS5020 Midrange Disk EXP520 Expansion Unit](#family-181404-ibm-system-storage-ds5020-midrange-disk-exp520-expansion-unit)
@@ -133,7 +133,6 @@ content update: 2026-06-09 01:31:33.50730871 +0800 CST
 - [Family 5333+02 IBM DS8882F Model 983](#family-533302-ibm-ds8882f-model-983)
 - [Family 5334+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533401-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
 - [Family 5334+02 IBM DS8882F Model 983](#family-533402-ibm-ds8882f-model-983)
-- [7027-HSC IBM High Capacity Drawer Model HSC](#7027-hsc-ibm-high-capacity-drawer-model-hsc)
 - [7027-HSD IBM High Capacity Drawer Model HSD](#7027-hsd-ibm-high-capacity-drawer-model-hsd)
 - [7133-010 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 010](#7133-010-ibm-serial-storage-architecture-ssa-disk-subsystem-model-010)
 - [7133-020 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 020](#7133-020-ibm-serial-storage-architecture-ssa-disk-subsystem-model-020)
@@ -175,6 +174,7 @@ content update: 2026-06-09 01:31:33.50730871 +0800 CST
 - [9336-025 IBM Disk Unit Model 025](#9336-025-ibm-disk-unit-model-025)
 - [9337-010 IBM Disk Array Subsystem Model 010](#9337-010-ibm-disk-array-subsystem-model-010)
 - [9337-015 IBM Disk Array Subsystem Model 015](#9337-015-ibm-disk-array-subsystem-model-015)
+- [9337-020 IBM Disk Array Subsystem Model 020](#9337-020-ibm-disk-array-subsystem-model-020)
 - [9337-025 IBM Disk Array Subsystem Model 025](#9337-025-ibm-disk-array-subsystem-model-025)
 - [9337-040 IBM Disk Array Subsystem Model 040](#9337-040-ibm-disk-array-subsystem-model-040)
 - [9337-110 IBM Disk Array Subsystem Model 110](#9337-110-ibm-disk-array-subsystem-model-110)
@@ -293,15 +293,12 @@ content update: 2026-06-09 01:31:33.50730871 +0800 CST
 
 
 
-### 1722-60U IBM TotalStorage DS4300 Midrange Disk System Model 60U
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4300-midrange-disk-system-model-60u](https://www.ibm.com/docs/en/announcements/totalstorage-ds4300-midrange-disk-system-model-60u?region=AP)
 
 📅 2013-07-02
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1722-60U | 2003-04-08 | 2003-04-15 | 2006-12-08 | 2014-12-31 |
 
 
 
@@ -572,15 +569,12 @@ content update: 2026-06-09 01:31:33.50730871 +0800 CST
 
 
 
-### Family 1812+03 IBM System Storage DS4000 EXP810 Expansion Unit Model 81S
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds4000-exp810-expansion-unit-model-81s](https://www.ibm.com/docs/en/announcements/system-storage-ds4000-exp810-expansion-unit-model-81s?region=AP)
 
 📅 2015-02-24
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1812-81S | 2006-10-31 | 2006-11-17 | 2009-12-11 | - |
 
 
 
@@ -642,16 +636,12 @@ content update: 2026-06-09 01:31:33.50730871 +0800 CST
 
 
 
-### Family 1814+01 IBM System Storage DS4700 Express Models
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds4700-express-models](https://www.ibm.com/docs/en/announcements/system-storage-ds4700-express-models?region=AP)
 
 📅 2016-07-19
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1814-70A | 2006-05-09 | 2006-06-09 | 2009-12-11 | 2017-01-31 |
-| 1814-72A | 2006-05-09 | 2006-06-09 | 2009-12-11 | 2017-01-31 |
 
 
 
@@ -3219,26 +3209,6 @@ content update: 2026-06-09 01:31:33.50730871 +0800 CST
 
 
 
-### 7027-HSC IBM High Capacity Drawer Model HSC
-
-🔗 [https://www.ibm.com/docs/en/announcements/high-capacity-drawer-model-hsc](https://www.ibm.com/docs/en/announcements/high-capacity-drawer-model-hsc?region=AP)
-
-📅 2003-06-02
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 7027-HSD IBM High Capacity Drawer Model HSD
 
 🔗 [https://www.ibm.com/docs/en/announcements/high-capacity-drawer-model-hsd](https://www.ibm.com/docs/en/announcements/high-capacity-drawer-model-hsd?region=AP)
@@ -4156,6 +4126,29 @@ content update: 2026-06-09 01:31:33.50730871 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9337-015 | 1993-09-07 | 1993-09-24 | 1994-12-30 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 9337-020 IBM Disk Array Subsystem Model 020
+
+🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-020](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-020?region=AP)
+
+📅 2008-03-10
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9337-020 | 1992-09-01 | 1992-09-01 | 1994-05-02 | 2008-12-31 |
 
 
 
