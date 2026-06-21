@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2026-06-21 00:57:31.817433352 +0800 CST
+content update: 2026-06-22 00:59:17.121676727 +0800 CST
 
 ---
 
@@ -71,7 +71,7 @@ content update: 2026-06-21 00:57:31.817433352 +0800 CST
 - [Family 2107+05 IBM System Storage DS8000 Series Disk Storage Model 922](#family-210705-ibm-system-storage-ds8000-series-disk-storage-model-922)
 - [Family 2421+01 IBM System Storage DS8000 2421 1-Year Warranty](#family-242101-ibm-system-storage-ds8000-2421-1-year-warranty)
 - [Family 2421+02 IBM System Storage DS8700 Models 941 and 94E](#family-242102-ibm-system-storage-ds8700-models-941-and-94e)
-- [Family 2421+03 IBM System Storage DS8800 Model 951 and Model 95E](#family-242103-ibm-system-storage-ds8800-model-951-and-model-95e)
+- [](#)
 - [Family 2421+04 IBM DS8870 Models 961 and 96E](#family-242104-ibm-ds8870-models-961-and-96e)
 - [Family 2422+02 IBM System Storage DS8700 Models 941 and 94E](#family-242202-ibm-system-storage-ds8700-models-941-and-94e)
 - [Family 2422+03 IBM System Storage DS8800 Model 951 and Model 95E](#family-242203-ibm-system-storage-ds8800-model-951-and-model-95e)
@@ -1731,16 +1731,12 @@ content update: 2026-06-21 00:57:31.817433352 +0800 CST
 
 
 
-### Family 2421+03 IBM System Storage DS8800 Model 951 and Model 95E
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds8800-model-951-model-95e](https://www.ibm.com/docs/en/announcements/system-storage-ds8800-model-951-model-95e?region=AP)
 
 📅 2018-02-20
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2421-95E | 2010-10-07 | 2010-10-22 | 2015-09-16 | 2019-03-31 |
-| 2421-951 | 2010-10-07 | 2010-10-22 | 2013-05-03 | 2019-03-31 |
 
 
 
