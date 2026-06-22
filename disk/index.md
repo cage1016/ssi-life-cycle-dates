@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2026-06-22 00:59:17.121676727 +0800 CST
+content update: 2026-06-23 01:58:28.67291294 +0800 CST
 
 ---
 
@@ -71,7 +71,7 @@ content update: 2026-06-22 00:59:17.121676727 +0800 CST
 - [Family 2107+05 IBM System Storage DS8000 Series Disk Storage Model 922](#family-210705-ibm-system-storage-ds8000-series-disk-storage-model-922)
 - [Family 2421+01 IBM System Storage DS8000 2421 1-Year Warranty](#family-242101-ibm-system-storage-ds8000-2421-1-year-warranty)
 - [Family 2421+02 IBM System Storage DS8700 Models 941 and 94E](#family-242102-ibm-system-storage-ds8700-models-941-and-94e)
-- [](#)
+- [Family 2421+03 IBM System Storage DS8800 Model 951 and Model 95E](#family-242103-ibm-system-storage-ds8800-model-951-and-model-95e)
 - [Family 2421+04 IBM DS8870 Models 961 and 96E](#family-242104-ibm-ds8870-models-961-and-96e)
 - [Family 2422+02 IBM System Storage DS8700 Models 941 and 94E](#family-242202-ibm-system-storage-ds8700-models-941-and-94e)
 - [Family 2422+03 IBM System Storage DS8800 Model 951 and Model 95E](#family-242203-ibm-system-storage-ds8800-model-951-and-model-95e)
@@ -122,8 +122,6 @@ content update: 2026-06-22 00:59:17.121676727 +0800 CST
 - [3552-1RU IBM TotalStorage FAStT500 Storage Server Model 1RU](#3552-1ru-ibm-totalstorage-fastt500-storage-server-model-1ru)
 - [Family 3560+01 IBM FAStT EXP500 Expansion Unit](#family-356001-ibm-fastt-exp500-expansion-unit)
 - [3990-001 IBM Storage Control Model 001](#3990-001-ibm-storage-control-model-001)
-- [3990-002 IBM Storage Control Model 002](#3990-002-ibm-storage-control-model-002)
-- [3990-006 IBM Storage Control Model 006](#3990-006-ibm-storage-control-model-006)
 - [Family 4939+01 IBM Flex System V7000 Storage Node Hardware - AAS](#family-493901-ibm-flex-system-v7000-storage-node-hardware-aas)
 - [Family 5331+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533101-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
 - [Family 5331+02 IBM DS8882F Model 983](#family-533102-ibm-ds8882f-model-983)
@@ -1731,12 +1729,16 @@ content update: 2026-06-22 00:59:17.121676727 +0800 CST
 
 
 
-### 
+### Family 2421+03 IBM System Storage DS8800 Model 951 and Model 95E
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds8800-model-951-model-95e](https://www.ibm.com/docs/en/announcements/system-storage-ds8800-model-951-model-95e?region=AP)
 
 📅 2018-02-20
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2421-95E | 2010-10-07 | 2010-10-22 | 2015-09-16 | 2019-03-31 |
+| 2421-951 | 2010-10-07 | 2010-10-22 | 2013-05-03 | 2019-03-31 |
 
 
 
@@ -2924,52 +2926,6 @@ content update: 2026-06-22 00:59:17.121676727 +0800 CST
 
 📅 1996-01-10
 
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3990-002 IBM Storage Control Model 002
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-control-model-002](https://www.ibm.com/docs/en/announcements/storage-control-model-002?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3990-002 | 1987-09-30 | 1988-08-26 | 1996-04-26 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3990-006 IBM Storage Control Model 006
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-control-model-006](https://www.ibm.com/docs/en/announcements/storage-control-model-006?region=AP)
-
-📅 2008-03-07
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3990-006 | 1993-05-01 | 1993-09-01 | 2000-08-11 | 2008-12-31 |
 
 
 
