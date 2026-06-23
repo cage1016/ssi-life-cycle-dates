@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2026-06-23 01:58:28.67291294 +0800 CST
+content update: 2026-06-24 01:14:47.896078151 +0800 CST
 
 ---
 
@@ -122,6 +122,8 @@ content update: 2026-06-23 01:58:28.67291294 +0800 CST
 - [3552-1RU IBM TotalStorage FAStT500 Storage Server Model 1RU](#3552-1ru-ibm-totalstorage-fastt500-storage-server-model-1ru)
 - [Family 3560+01 IBM FAStT EXP500 Expansion Unit](#family-356001-ibm-fastt-exp500-expansion-unit)
 - [3990-001 IBM Storage Control Model 001](#3990-001-ibm-storage-control-model-001)
+- [3990-002 IBM Storage Control Model 002](#3990-002-ibm-storage-control-model-002)
+- [3990-006 IBM Storage Control Model 006](#3990-006-ibm-storage-control-model-006)
 - [Family 4939+01 IBM Flex System V7000 Storage Node Hardware - AAS](#family-493901-ibm-flex-system-v7000-storage-node-hardware-aas)
 - [Family 5331+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533101-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
 - [Family 5331+02 IBM DS8882F Model 983](#family-533102-ibm-ds8882f-model-983)
@@ -2926,6 +2928,52 @@ content update: 2026-06-23 01:58:28.67291294 +0800 CST
 
 📅 1996-01-10
 
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3990-002 IBM Storage Control Model 002
+
+🔗 [https://www.ibm.com/docs/en/announcements/storage-control-model-002](https://www.ibm.com/docs/en/announcements/storage-control-model-002?region=AP)
+
+📅 2006-06-13
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3990-002 | 1987-09-30 | 1988-08-26 | 1996-04-26 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3990-006 IBM Storage Control Model 006
+
+🔗 [https://www.ibm.com/docs/en/announcements/storage-control-model-006](https://www.ibm.com/docs/en/announcements/storage-control-model-006?region=AP)
+
+📅 2008-03-07
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3990-006 | 1993-05-01 | 1993-09-01 | 2000-08-11 | 2008-12-31 |
 
 
 
