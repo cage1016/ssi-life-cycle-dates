@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2026-06-24 01:14:47.896078151 +0800 CST
+content update: 2026-06-25 01:06:29.661465253 +0800 CST
 
 ---
 
@@ -9,11 +9,8 @@ content update: 2026-06-24 01:14:47.896078151 +0800 CST
 
 - [](#)
 - [Family 2005+01 IBM TotalStorage SAN Switch Models H08 and H16](#family-200501-ibm-totalstorage-san-switch-models-h08-and-h16)
-- [Family 2005+02 IBM TotalStorage SANB32 Switch](#family-200502-ibm-totalstorage-sanb32-switch)
-- [Family 2005+04 IBM TotalStorage SANB16B-2 Fabric Switch](#family-200504-ibm-totalstorage-sanb16b-2-fabric-switch)
 - [Family 2005+06 IBM System Storage SANR18B-R](#family-200506-ibm-system-storage-sanr18b-r)
 - [Family 2005+07 IBM System Storage SANB64B-2 Fabric Switch](#family-200507-ibm-system-storage-sanb64b-2-fabric-switch)
-- [Family 2005+08 IBM System Storage SANB32B-3 Fabric Switch](#family-200508-ibm-system-storage-sanb32b-3-fabric-switch)
 - [Family 2005+09 IBM System Storage SAN04B-R](#family-200509-ibm-system-storage-san04b-r)
 - [Family 2026+01 IBM TotalStorage SAN12M-1 Entry and SAN24M-1 Mid-range Switches](#family-202601-ibm-totalstorage-san12m-1-entry-and-san24m-1-mid-range-switches)
 - [Family 2027+02 IBM TotalStorage SAN256M Director SAN16M-R Router SANC40M 40U Cabinet](#family-202702-ibm-totalstorage-san256m-director-san16m-r-router-sanc40m-40u-cabinet)
@@ -34,12 +31,6 @@ content update: 2026-06-24 01:14:47.896078151 +0800 CST
 - [Family 2498+05 IBM System Networking SAN24B-5](#family-249805-ibm-system-networking-san24b-5)
 - [Family 2498+07 IBM System Storage SAN40B-4](#family-249807-ibm-system-storage-san40b-4)
 - [Family 2498+08 IBM System Storage SAN80B-4](#family-249808-ibm-system-storage-san80b-4)
-- [Family 2499+02 IBM System Storage SAN384B](#family-249902-ibm-system-storage-san384b)
-- [3534-1RU IBM SAN Fibre Channel Managed Hub Model 1RU](#3534-1ru-ibm-san-fibre-channel-managed-hub-model-1ru)
-- [3534-F08 IBM TotalStorage Storage Area Network (SAN) Model F08](#3534-f08-ibm-totalstorage-storage-area-network-san-model-f08)
-- [Family 3758+01 IBM Converged Switch B32](#family-375801-ibm-converged-switch-b32)
-- [Family 3758+02 IBM Converged Switch L32](#family-375802-ibm-converged-switch-l32)
-- [7140-160 IBM TotalStorage SAN Controller Model 160](#7140-160-ibm-totalstorage-san-controller-model-160)
 - [Family 9239+01 IBM SANnav](#family-923901-ibm-sannav)
 - [Family 9240+01 IBM SANnav](#family-924001-ibm-sannav)
 - [Family 9241+01 IBM SANnav](#family-924101-ibm-sannav)
@@ -96,52 +87,6 @@ content update: 2026-06-24 01:14:47.896078151 +0800 CST
 
 
 
-### Family 2005+02 IBM TotalStorage SANB32 Switch
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-sanb32-switch](https://www.ibm.com/docs/en/announcements/totalstorage-sanb32-switch?region=AP)
-
-📅 2013-10-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2005-B32 | 2004-11-09 | 2004-11-19 | 2007-10-06 | 2012-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2005+04 IBM TotalStorage SANB16B-2 Fabric Switch
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-sanb16b-2-fabric-switch](https://www.ibm.com/docs/en/announcements/totalstorage-sanb16b-2-fabric-switch?region=AP)
-
-📅 2013-10-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2005-B16 | 2005-07-26 | 2005-08-26 | 2008-11-29 | 2012-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 2005+06 IBM System Storage SANR18B-R
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-sanr18b-r](https://www.ibm.com/docs/en/announcements/system-storage-sanr18b-r?region=AP)
@@ -174,29 +119,6 @@ content update: 2026-06-24 01:14:47.896078151 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2005-B64 | 2006-05-09 | 2006-06-09 | 2008-11-29 | 2012-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2005+08 IBM System Storage SANB32B-3 Fabric Switch
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-sanb32b-3-fabric-switch](https://www.ibm.com/docs/en/announcements/system-storage-sanb32b-3-fabric-switch?region=AP)
-
-📅 2013-10-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2005-B5K | 2007-04-24 | 2007-05-04 | 2008-11-29 | - |
 
 
 
@@ -661,144 +583,6 @@ content update: 2026-06-24 01:14:47.896078151 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2498-B80 | 2008-05-13 | 2008-05-23 | 2014-06-20 | 2019-08-01 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2499+02 IBM System Storage SAN384B
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-san384b](https://www.ibm.com/docs/en/announcements/system-storage-san384b?region=AP)
-
-📅 2021-02-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2499-192 | 2009-07-14 | 2009-07-17 | 2014-08-30 | 2019-10-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3534-1RU IBM SAN Fibre Channel Managed Hub Model 1RU
-
-🔗 [https://www.ibm.com/docs/en/announcements/san-fibre-channel-managed-hub-model-1ru](https://www.ibm.com/docs/en/announcements/san-fibre-channel-managed-hub-model-1ru?region=AP)
-
-📅 2008-03-07
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3534-1RU | 2001-04-23 | 2001-04-27 | 2003-02-14 | 2008-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3534-F08 IBM TotalStorage Storage Area Network (SAN) Model F08
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-storage-area-network-san-model-f08](https://www.ibm.com/docs/en/announcements/totalstorage-storage-area-network-san-model-f08?region=AP)
-
-📅 2009-08-18
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3534-F08 | 2002-04-23 | 2002-05-03 | 2004-10-15 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3758+01 IBM Converged Switch B32
-
-🔗 [https://www.ibm.com/docs/en/announcements/converged-switch-b32](https://www.ibm.com/docs/en/announcements/converged-switch-b32?region=AP)
-
-📅 2018-07-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3758-B32 | 2009-07-14 | 2009-07-17 | 2010-06-12 | 2018-04-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3758+02 IBM Converged Switch L32
-
-🔗 [https://www.ibm.com/docs/en/announcements/converged-switch-l32](https://www.ibm.com/docs/en/announcements/converged-switch-l32?region=AP)
-
-📅 2018-07-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3758-L32 | 2010-02-09 | 2010-02-19 | 2013-03-16 | 2018-04-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7140-160 IBM TotalStorage SAN Controller Model 160
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-san-controller-model-160](https://www.ibm.com/docs/en/announcements/totalstorage-san-controller-model-160?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7140-160 | 2001-07-31 | 2001-09-07 | 2003-12-12 | 2007-12-31 |
 
 
 
