@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2026-07-14 01:14:03.843604528 +0800 CST
+content update: 2026-07-15 00:53:40.807331194 +0800 CST
 
 ---
 
@@ -29,11 +29,9 @@ content update: 2026-07-14 01:14:03.843604528 +0800 CST
 - [Family 9843+03 IBM FlashSystem 900](#family-984303-ibm-flashsystem-900)
 - [Family 9846+01 IBM FlashSystem V840](#family-984601-ibm-flashsystem-v840)
 - [Family 9846+02 IBM FlashSystem V9000](#family-984602-ibm-flashsystem-v9000)
-- [Family 9846+04 IBM FlashSystem 9200](#family-984604-ibm-flashsystem-9200)
 - [Family 9847+01 IBM DeepFlash 150](#family-984701-ibm-deepflash-150)
 - [Family 9848+01 IBM FlashSystem V840](#family-984801-ibm-flashsystem-v840)
 - [Family 9848+02 IBM FlashSystem V9000](#family-984802-ibm-flashsystem-v9000)
-- [Family 9848+04 IBM FlashSystem 9200](#family-984804-ibm-flashsystem-9200)
 - [Family 9849+01 IBM DeepFlash 150](#family-984901-ibm-deepflash-150)
 
 ---
@@ -560,29 +558,6 @@ content update: 2026-07-14 01:14:03.843604528 +0800 CST
 
 
 
-### Family 9846+04 IBM FlashSystem 9200
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9200-2023-09-12](https://www.ibm.com/docs/en/announcements/flashsystem-9200-2023-09-12?region=AP)
-
-📅 2023-09-12
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9846-AG8 | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 9847+01 IBM DeepFlash 150
 
 🔗 [https://www.ibm.com/docs/en/announcements/deepflash-150](https://www.ibm.com/docs/en/announcements/deepflash-150?region=AP)
@@ -648,30 +623,6 @@ content update: 2026-07-14 01:14:03.843604528 +0800 CST
 | 9848-24F | 2016-08-23 | 2016-09-09 | 2021-01-17 | 2023-12-31 |
 | 9848-92F | 2016-11-02 | 2016-12-09 | 2021-01-17 | 2023-12-31 |
 | 9848-AE3 | 2017-10-24 | 2017-12-08 | 2020-01-18 | 2023-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 9848+04 IBM FlashSystem 9200
-
-🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-9200-2023-09-12-1](https://www.ibm.com/docs/en/announcements/flashsystem-9200-2023-09-12-1?region=AP)
-
-📅 2023-09-12
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9848-AG8 | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
-| 9848-UG8 | 2020-02-11 | 2020-03-06 | 2022-07-16 | - |
 
 
 

@@ -1,6 +1,6 @@
 # Power9
 
-content update: 2026-07-14 01:14:03.843604528 +0800 CST
+content update: 2026-07-15 00:53:40.807331194 +0800 CST
 
 ---
 
@@ -11,7 +11,6 @@ content update: 2026-07-14 01:14:03.843604528 +0800 CST
 - [Family 8335+05 IBM Power System AC922 (8335-GTH)](#family-833505-ibm-power-system-ac922-8335-gth)
 - [Family 9009+04 IBM Power System S922 (9009-22G)](#family-900904-ibm-power-system-s922-9009-22g)
 - [Family 9040+01 IBM Power System E950 (9040-MR9)](#family-904001-ibm-power-system-e950-9040-mr9)
-- [Family 9080+03 IBM Power System E980 (9080-M9S)](#family-908003-ibm-power-system-e980-9080-m9s)
 - [Family 9223+04 IBM Power System H924 (9223-42S)](#family-922304-ibm-power-system-h924-9223-42s)
 
 ---
@@ -97,29 +96,6 @@ content update: 2026-07-14 01:14:03.843604528 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9040-MR9 | 2018-08-07 | 2018-08-17 | 2023-10-20 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 9080+03 IBM Power System E980 (9080-M9S)
-
-🔗 [https://www.ibm.com/docs/en/announcements/power-system-e980-9080-m9s](https://www.ibm.com/docs/en/announcements/power-system-e980-9080-m9s?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9080-M9S | 2018-08-07 | 2018-09-21 | 2022-10-31 | - |
 
 
 

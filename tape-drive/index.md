@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2026-07-14 01:14:03.843604528 +0800 CST
+content update: 2026-07-15 00:53:40.807331194 +0800 CST
 
 ---
 
@@ -67,7 +67,6 @@ content update: 2026-07-14 01:14:03.843604528 +0800 CST
 - [Family 3592+07 IBM System Storage TS1140 Tape Drive Model E07](#family-359207-ibm-system-storage-ts1140-tape-drive-model-e07)
 - [Family 3592+08 IBM System Storage Tape Controller Mod C07 System z AAS](#family-359208-ibm-system-storage-tape-controller-mod-c07-system-z-aas)
 - [Family 3592+09 IBM TS1140 Tape Drive Model EH7](#family-359209-ibm-ts1140-tape-drive-model-eh7)
-- [Family 3592+10 IBM TS1150 Tape Drive and HD2 Tape Drive](#family-359210-ibm-ts1150-tape-drive-and-hd2-tape-drive)
 - [Family 3592+12 IBM TS1155 Tape Drive Model 55G](#family-359212-ibm-ts1155-tape-drive-model-55g)
 - [Family 3592+14 IBM TS1160 Tape Drive Model 60G](#family-359214-ibm-ts1160-tape-drive-model-60g)
 - [7205-311 IBM 35GB External Digital Linear Tape Drive Model 311](#7205-311-ibm-35gb-external-digital-linear-tape-drive-model-311)
@@ -1483,30 +1482,6 @@ content update: 2026-07-14 01:14:03.843604528 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3592-EH7 | 2014-05-19 | 2014-06-13 | 2019-12-07 | 2022-02-28 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3592+10 IBM TS1150 Tape Drive and HD2 Tape Drive
-
-🔗 [https://www.ibm.com/docs/en/announcements/ts1150-tape-drive-hd2-tape-drive](https://www.ibm.com/docs/en/announcements/ts1150-tape-drive-hd2-tape-drive?region=AP)
-
-📅 2023-11-14
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3592-EH8 | 2014-10-06 | 2014-11-21 | 2022-12-31 | - |
-| 3592-E08 | 2014-10-06 | 2014-10-24 | 2022-12-31 | - |
 
 
 
