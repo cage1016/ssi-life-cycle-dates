@@ -1,6 +1,6 @@
 # Power System Software
 
-content update: 2026-07-15 00:53:40.807331194 +0800 CST
+content update: 2026-07-16 00:55:26.127457094 +0800 CST
 
 ---
 
@@ -8,7 +8,6 @@ content update: 2026-07-15 00:53:40.807331194 +0800 CST
 
 
 - [](#)
-- [5765-G98 IBM AIX 7 Standard Edition](#5765-g98-ibm-aix-7-standard-edition)
 
 ---
 
@@ -24,31 +23,6 @@ content update: 2026-07-15 00:53:40.807331194 +0800 CST
 
 📅 
 
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 5765-G98 IBM AIX 7 Standard Edition
-
-🔗 [https://www.ibm.com/docs/en/announcements/aix-standard-edition-73](https://www.ibm.com/docs/en/announcements/aix-standard-edition-73?region=AP)
-
-📅 2023-10-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5765-G98 | 07.01.00 | 2010-08-17 | 2010-09-10 | 2021-11-23 |
-| 5765-G99 | 07.01.00 | 2010-08-17 | 2010-09-10 | 2016-01-12 |
-| 5765-G97 | 07.01.00 | 2010-08-17 | 2010-09-10 | 2016-04-05 |
 
 
 
