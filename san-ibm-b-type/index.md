@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2026-07-16 00:55:26.127457094 +0800 CST
+content update: 2026-07-17 00:54:14.744752854 +0800 CST
 
 ---
 
@@ -31,7 +31,6 @@ content update: 2026-07-16 00:55:26.127457094 +0800 CST
 - [2109-S08 IBM SAN Fibre Channel Switch Model S08](#2109-s08-ibm-san-fibre-channel-switch-model-s08)
 - [2109-S16 IBM SAN Fibre Channel Switch Model S16](#2109-s16-ibm-san-fibre-channel-switch-model-s16)
 - [Family 2498+03 IBM System Storage SAN32B-E4](#family-249803-ibm-system-storage-san32b-e4)
-- [Family 2498+05 IBM System Networking SAN24B-5](#family-249805-ibm-system-networking-san24b-5)
 - [Family 2498+07 IBM System Storage SAN40B-4](#family-249807-ibm-system-storage-san40b-4)
 - [Family 2498+08 IBM System Storage SAN80B-4](#family-249808-ibm-system-storage-san80b-4)
 - [Family 2499+02 IBM System Storage SAN384B](#family-249902-ibm-system-storage-san384b)
@@ -592,29 +591,6 @@ content update: 2026-07-16 00:55:26.127457094 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2498-E32 | 2010-11-09 | 2010-11-19 | 2014-12-02 | 2019-11-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2498+05 IBM System Networking SAN24B-5
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-networking-san24b-5](https://www.ibm.com/docs/en/announcements/system-networking-san24b-5?region=AP)
-
-📅 2023-07-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2498-F24 | 2012-04-24 | 2012-05-04 | 2014-10-17 | 2025-04-30 |
 
 
 
