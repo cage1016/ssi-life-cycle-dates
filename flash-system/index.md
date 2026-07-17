@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2026-07-17 00:54:14.744752854 +0800 CST
+content update: 2026-07-18 00:52:25.326428851 +0800 CST
 
 ---
 
@@ -30,6 +30,8 @@ content update: 2026-07-17 00:54:14.744752854 +0800 CST
 - [Family 9846+01 IBM FlashSystem V840](#family-984601-ibm-flashsystem-v840)
 - [Family 9846+02 IBM FlashSystem V9000](#family-984602-ibm-flashsystem-v9000)
 - [Family 9847+01 IBM DeepFlash 150](#family-984701-ibm-deepflash-150)
+- [Family 9848+01 IBM FlashSystem V840](#family-984801-ibm-flashsystem-v840)
+- [Family 9848+02 IBM FlashSystem V9000](#family-984802-ibm-flashsystem-v9000)
 - [Family 9849+01 IBM DeepFlash 150](#family-984901-ibm-deepflash-150)
 
 ---
@@ -567,6 +569,60 @@ content update: 2026-07-17 00:54:14.744752854 +0800 CST
 | 9847-IF1 | 2016-07-26 | 2016-07-28 | 2017-05-09 | 2017-12-31 |
 | 9847-IF2 | 2016-07-26 | 2016-07-28 | 2017-05-09 | 2017-12-31 |
 | 9847-IF3 | 2016-07-26 | 2016-07-28 | 2017-05-09 | 2017-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 9848+01 IBM FlashSystem V840
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-v840-2020-07-14](https://www.ibm.com/docs/en/announcements/flashsystem-v840-2020-07-14?region=AP)
+
+📅 2020-07-14
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9848-AC0 | 2014-02-11 | 2014-03-07 | 2014-08-23 | 2019-12-31 |
+| 9848-AE1 | 2014-02-11 | 2014-03-07 | 2015-06-02 | 2019-12-31 |
+| 9848-AC1 | 2014-07-15 | 2014-07-18 | 2015-06-02 | 2019-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 9848+02 IBM FlashSystem V9000
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-v9000-2022-07-26](https://www.ibm.com/docs/en/announcements/flashsystem-v9000-2022-07-26?region=AP)
+
+📅 2022-07-26
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9848-AC2 | 2015-02-23 | 2015-04-24 | 2016-12-31 | 2022-12-31 |
+| 9848-AE2 | 2015-02-23 | 2015-04-24 | 2018-07-14 | 2022-12-31 |
+| 9848-12F | 2016-05-24 | 2016-06-10 | 2021-01-17 | 2023-12-31 |
+| 9848-AC3 | 2016-08-23 | 2016-09-09 | 2020-01-18 | 2023-12-31 |
+| 9848-24F | 2016-08-23 | 2016-09-09 | 2021-01-17 | 2023-12-31 |
+| 9848-92F | 2016-11-02 | 2016-12-09 | 2021-01-17 | 2023-12-31 |
+| 9848-AE3 | 2017-10-24 | 2017-12-08 | 2020-01-18 | 2023-12-31 |
 
 
 
