@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2026-07-20 00:45:35.31894856 +0800 CST
+content update: 2026-07-21 00:55:57.49753265 +0800 CST
 
 ---
 
@@ -47,15 +47,12 @@ content update: 2026-07-20 00:45:35.31894856 +0800 CST
 - [Family 2078+01 IBM Storwize V5000 Disk System](#family-207801-ibm-storwize-v5000-disk-system)
 - [Family 2101+01 IBM Seascape Solutions Rack Model 100](#family-210101-ibm-seascape-solutions-rack-model-100)
 - [Family 2101+02 IBM Storage Solutions Rack Model 200](#family-210102-ibm-storage-solutions-rack-model-200)
-- [2104-DL1 IBM Expandable Storage Plus Model DL1](#2104-dl1-ibm-expandable-storage-plus-model-dl1)
-- [2104-DS4 IBM TotalStorage Expandable Storage Plus 320 Model DS4](#2104-ds4-ibm-totalstorage-expandable-storage-plus-320-model-ds4)
 - [2104-DU3 IBM Expandable Storage Plus Drawer Model DU3](#2104-du3-ibm-expandable-storage-plus-drawer-model-du3)
 - [2104-TL1 IBM Expandable Storage Plus Model TL1](#2104-tl1-ibm-expandable-storage-plus-model-tl1)
 - [2104-TS4 IBM TotalStorage Expandable Storage Plus 320 Model TS4](#2104-ts4-ibm-totalstorage-expandable-storage-plus-320-model-ts4)
 - [2104-TU3 IBM Expandable Storage Plus Tower Model TU3](#2104-tu3-ibm-expandable-storage-plus-tower-model-tu3)
 - [2105-100 IBM Versatile Storage Server Model 100](#2105-100-ibm-versatile-storage-server-model-100)
 - [2105-750 IBM TotalStorage Enterprise Storage Server Model 750](#2105-750-ibm-totalstorage-enterprise-storage-server-model-750)
-- [2105-800 IBM TotalStorage Enterprise Storage Server Model 800](#2105-800-ibm-totalstorage-enterprise-storage-server-model-800)
 - [2105-B09 IBM Versatile Storage Server Model B09](#2105-b09-ibm-versatile-storage-server-model-b09)
 - [2105-E10 IBM Enterprise Storage Server Model E10](#2105-e10-ibm-enterprise-storage-server-model-e10)
 - [2105-E20 IBM Enterprise Storage Server Model E20](#2105-e20-ibm-enterprise-storage-server-model-e20)
@@ -1174,52 +1171,6 @@ content update: 2026-07-20 00:45:35.31894856 +0800 CST
 
 
 
-### 2104-DL1 IBM Expandable Storage Plus Model DL1
-
-🔗 [https://www.ibm.com/docs/en/announcements/expandable-storage-plus-model-dl1](https://www.ibm.com/docs/en/announcements/expandable-storage-plus-model-dl1?region=AP)
-
-📅 2008-03-07
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2104-DL1 | 1999-09-13 | 1999-10-22 | 2001-01-26 | 2007-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2104-DS4 IBM TotalStorage Expandable Storage Plus 320 Model DS4
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-expandable-storage-plus-320-model-ds4](https://www.ibm.com/docs/en/announcements/totalstorage-expandable-storage-plus-320-model-ds4?region=AP)
-
-📅 2016-07-19
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2104-DS4 | 2003-10-14 | 2003-10-31 | 2006-03-31 | 2016-10-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 2104-DU3 IBM Expandable Storage Plus Drawer Model DU3
 
 🔗 [https://www.ibm.com/docs/en/announcements/expandable-storage-plus-drawer-model-du3](https://www.ibm.com/docs/en/announcements/expandable-storage-plus-drawer-model-du3?region=AP)
@@ -1344,29 +1295,6 @@ content update: 2026-07-20 00:45:35.31894856 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2105-750 | 2004-04-07 | 2004-05-28 | 2006-04-28 | 2012-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2105-800 IBM TotalStorage Enterprise Storage Server Model 800
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-storage-server-model-800](https://www.ibm.com/docs/en/announcements/totalstorage-enterprise-storage-server-model-800?region=AP)
-
-📅 2017-01-24
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2105-800 | 2002-07-15 | 2002-08-16 | 2006-04-28 | 2014-12-31 |
 
 
 
