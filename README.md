@@ -2,7 +2,7 @@
 
 [![SSI Crawling](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml/badge.svg)](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml)
 
-update: 2026-08-08 01:11:02.034829697 +0800 CST
+update: 2026-08-09 00:50:12.814452246 +0800 CST
 
 
 
@@ -12,9 +12,6 @@ update: 2026-08-08 01:11:02.034829697 +0800 CST
 
 
 - [Power System Software](power-system-software/index.md)
-
-
-- [Power10](power10/index.md)
 
 
 - [Power7](power7/index.md)
