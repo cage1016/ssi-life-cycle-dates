@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2026-08-11 01:12:01.333105715 +0800 CST
+content update: 2026-08-12 01:17:44.826832589 +0800 CST
 
 ---
 
@@ -8,7 +8,7 @@ content update: 2026-08-11 01:12:01.333105715 +0800 CST
 
 
 - [](#)
-- [Family 2421+05 IBM Storage Appliance Model AP1](#family-242105-ibm-storage-appliance-model-ap1)
+- [](#)
 - [3450-001 IBM 1.2GB 1/4-Inch Cartridge Tape Drive Model 001](#3450-001-ibm-12gb-1-4-inch-cartridge-tape-drive-model-001)
 - [3480-A11 IBM Magnetic Tape Subsystem Model A11](#3480-a11-ibm-magnetic-tape-subsystem-model-a11)
 - [3480-A22 IBM Magnetic Tape Subsystem Model A22](#3480-a22-ibm-magnetic-tape-subsystem-model-a22)
@@ -32,7 +32,7 @@ content update: 2026-08-11 01:12:01.333105715 +0800 CST
 - [Family 3580+12 IBM System Storage TS2250 Tape Drive Express Model H5S](#family-358012-ibm-system-storage-ts2250-tape-drive-express-model-h5s)
 - [Family 3580+13 IBM System Storage TS2350 Tape Drive Express Model S53](#family-358013-ibm-system-storage-ts2350-tape-drive-express-model-s53)
 - [Family 3580+16 IBM System Storage TS2360 Tape Drive Model S63](#family-358016-ibm-system-storage-ts2360-tape-drive-model-s63)
-- [Family 3580+18 IBM TS2270 Tape Drive Model H7S](#family-358018-ibm-ts2270-tape-drive-model-h7s)
+- [](#)
 - [Family 3581+01 IBM Ultrium Tape Autoloader](#family-358101-ibm-ultrium-tape-autoloader)
 - [Family 3581+02 IBM Ultrium Tape Autoloader](#family-358102-ibm-ultrium-tape-autoloader)
 - [Family 3581+03 IBM TotalStorage Ultrium Tape Autoloader Models H23, L23](#family-358103-ibm-totalstorage-ultrium-tape-autoloader-models-h23-l23)
@@ -133,15 +133,12 @@ content update: 2026-08-11 01:12:01.333105715 +0800 CST
 
 
 
-### Family 2421+05 IBM Storage Appliance Model AP1
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-appliance-model-ap1](https://www.ibm.com/docs/en/announcements/storage-appliance-model-ap1?region=AP)
 
 📅 2020-07-14
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2421-AP1 | 2015-05-11 | 2015-07-17 | 2020-05-26 | 2021-12-31 |
 
 
 
@@ -685,15 +682,12 @@ content update: 2026-08-11 01:12:01.333105715 +0800 CST
 
 
 
-### Family 3580+18 IBM TS2270 Tape Drive Model H7S
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/ts2270-tape-drive-model-h7s](https://www.ibm.com/docs/en/announcements/ts2270-tape-drive-model-h7s?region=AP)
 
 📅 2023-10-10
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3580-H7S | 2015-10-06 | 2015-11-20 | 2024-06-30 | - |
 
 
 
