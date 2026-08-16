@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2026-08-16 00:43:16.596480572 +0800 CST
+content update: 2026-08-17 00:42:27.711232612 +0800 CST
 
 ---
 
@@ -15,12 +15,12 @@ content update: 2026-08-16 00:43:16.596480572 +0800 CST
 - [Family 3573+01 IBM System Storage TS3100 Tape Library Express Model L2U](#family-357301-ibm-system-storage-ts3100-tape-library-express-model-l2u)
 - [Family 3576+01 IBM System Storage TS3310 Tape Library and Expansion Modules](#family-357601-ibm-system-storage-ts3310-tape-library-and-expansion-modules)
 - [Family 3577+01 IBM System Storage TS3400 Tape Library Model L5U](#family-357701-ibm-system-storage-ts3400-tape-library-model-l5u)
-- [](#)
+- [3582-L23 IBM TotalStorage Ultrium Tape Library Model L23](#3582-l23-ibm-totalstorage-ultrium-tape-library-model-l23)
 - [3583-L36 IBM TotalStorage Ultrium Scalable Tape Library Model L36](#3583-l36-ibm-totalstorage-ultrium-scalable-tape-library-model-l36)
 - [3583-L72 IBM TotalStorage Ultrium Scalable Tape Library Model L72](#3583-l72-ibm-totalstorage-ultrium-scalable-tape-library-model-l72)
 - [Family 3584+02 IBM TotalStorage 3584 Tape Library Model L32](#family-358402-ibm-totalstorage-3584-tape-library-model-l32)
 - [Family 3584+05 IBM TotalStorage 3584 Tape Library Model L22](#family-358405-ibm-totalstorage-3584-tape-library-model-l22)
-- [](#)
+- [Family 3584+07 IBM TotalStorage 3584 Tape Library Model L52](#family-358407-ibm-totalstorage-3584-tape-library-model-l52)
 - [Family 3584+10 IBM System Storage TS3500 Tape Library Model L23](#family-358410-ibm-system-storage-ts3500-tape-library-model-l23)
 - [Family 3584+12 IBM System Storage TS3500 Tape Library Model L53](#family-358412-ibm-system-storage-ts3500-tape-library-model-l53)
 - [Family 3953+01 IBM TotalStorage Library Manager and Tape Frame](#family-395301-ibm-totalstorage-library-manager-and-tape-frame)
@@ -31,7 +31,7 @@ content update: 2026-08-16 00:43:16.596480572 +0800 CST
 - [Family 3958+05 IBM System Storage TS7650G Server Model DD4](#family-395805-ibm-system-storage-ts7650g-server-model-dd4)
 - [Family 3958+06 IBM System Storage TS7650G ProtecTIER Gateway Server](#family-395806-ibm-system-storage-ts7650g-protectier-gateway-server)
 - [Family 3958+07 IBM TS7650G ProtecTIER Gateway Server Model DD6](#family-395807-ibm-ts7650g-protectier-gateway-server-model-dd6)
-- [](#)
+- [Family 3959+01 IBM System Storage TS7610 ProtecTIER Deduplication Express](#family-395901-ibm-system-storage-ts7610-protectier-deduplication-express)
 - [Family 3959+02 IBM System Storage TS7620 ProtecTIER Appliance Model](#family-395902-ibm-system-storage-ts7620-protectier-appliance-model)
 
 ---
@@ -224,12 +224,15 @@ content update: 2026-08-16 00:43:16.596480572 +0800 CST
 
 
 
-### 
+### 3582-L23 IBM TotalStorage Ultrium Tape Library Model L23
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ultrium-tape-library-model-l23](https://www.ibm.com/docs/en/announcements/totalstorage-ultrium-tape-library-model-l23?region=AP)
 
 📅 2019-07-09
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3582-L23 | 2003-05-06 | 2003-05-09 | 2006-10-27 | 2020-12-31 |
 
 
 
@@ -336,12 +339,15 @@ content update: 2026-08-16 00:43:16.596480572 +0800 CST
 
 
 
-### 
+### Family 3584+07 IBM TotalStorage 3584 Tape Library Model L52
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-3584-tape-library-model-l52](https://www.ibm.com/docs/en/announcements/totalstorage-3584-tape-library-model-l52?region=AP)
 
 📅 2023-05-23
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3584-L52 | 2004-04-27 | 2004-06-11 | 2006-12-01 | 2021-12-31 |
 
 
 
@@ -587,12 +593,15 @@ content update: 2026-08-16 00:43:16.596480572 +0800 CST
 
 
 
-### 
+### Family 3959+01 IBM System Storage TS7610 ProtecTIER Deduplication Express
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ts7610-protectier-deduplication-express](https://www.ibm.com/docs/en/announcements/system-storage-ts7610-protectier-deduplication-express?region=AP)
 
 📅 2018-05-08
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3959-SM1 | 2010-07-20 | 2010-08-06 | 2012-08-31 | 2016-10-31 |
 
 
 
