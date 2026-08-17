@@ -1,6 +1,6 @@
 # Spectrum Software
 
-content update: 2026-08-17 00:42:27.711232612 +0800 CST
+content update: 2026-08-18 00:46:57.683457262 +0800 CST
 
 ---
 
@@ -9,7 +9,7 @@ content update: 2026-08-17 00:42:27.711232612 +0800 CST
 
 - [](#)
 - [5639-003 IBM Copy Manager for IBM Spectrum Virtualize 1.1](#5639-003-ibm-copy-manager-for-ibm-spectrum-virtualize-11)
-- [5639-691 IBM Storage Protect Plus for IBM FlashSystem 10.1](#5639-691-ibm-storage-protect-plus-for-ibm-flashsystem-101)
+- [](#)
 - [5725-F92 IBM Virtual Storage Center 5.4](#5725-f92-ibm-virtual-storage-center-54)
 
 ---
@@ -63,19 +63,12 @@ content update: 2026-08-17 00:42:27.711232612 +0800 CST
 
 
 
-### 5639-691 IBM Storage Protect Plus for IBM FlashSystem 10.1
+### 
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-protect-plus-flashsystem-101](https://www.ibm.com/docs/en/announcements/storage-protect-plus-flashsystem-101?region=AP)
 
 📅 2023-06-13
 
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 5639-691 | 10.01.08 | 2021-07-06 | 2021-07-07 | - |
-| 5639-692 | 10.01.08 | 2021-07-06 | 2021-07-07 | - |
-| 5639-693 | 10.01.08 | 2021-07-06 | 2021-07-07 | - |
-| 5639-694 | 10.01.08 | 2021-07-06 | 2021-07-07 | - |
-| 5639-695 | 10.01.08 | 2021-07-06 | 2021-07-07 | - |
 
 
 
