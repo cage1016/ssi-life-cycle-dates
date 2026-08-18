@@ -1,6 +1,6 @@
 # Open Software Family
 
-content update: 2026-08-18 00:46:57.683457262 +0800 CST
+content update: 2026-08-19 00:49:10.249044716 +0800 CST
 
 ---
 
@@ -8,7 +8,7 @@ content update: 2026-08-18 00:46:57.683457262 +0800 CST
 
 
 - [](#)
-- [](#)
+- [Family 2145+11 IBM SAN Volume Controller model SV3](#family-214511-ibm-san-volume-controller-model-sv3)
 - [Family 2147+03 IBM SAN Volume Controller model SV3](#family-214703-ibm-san-volume-controller-model-sv3)
 
 ---
@@ -39,12 +39,15 @@ content update: 2026-08-18 00:46:57.683457262 +0800 CST
 
 
 
-### 
+### Family 2145+11 IBM SAN Volume Controller model SV3
 
 🔗 [https://www.ibm.com/docs/en/announcements/san-volume-controller-model-sv3-2023-10-10](https://www.ibm.com/docs/en/announcements/san-volume-controller-model-sv3-2023-10-10?region=AP)
 
 📅 2023-12-12
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2145-SV3 | 2022-02-08 | 2022-03-04 | - | - |
 
 
 

@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2026-08-18 00:46:57.683457262 +0800 CST
+content update: 2026-08-19 00:49:10.249044716 +0800 CST
 
 ---
 
@@ -16,7 +16,7 @@ content update: 2026-08-18 00:46:57.683457262 +0800 CST
 - [Family 2005+08 IBM System Storage SANB32B-3 Fabric Switch](#family-200508-ibm-system-storage-sanb32b-3-fabric-switch)
 - [Family 2005+09 IBM System Storage SAN04B-R](#family-200509-ibm-system-storage-san04b-r)
 - [Family 2026+01 IBM TotalStorage SAN12M-1 Entry and SAN24M-1 Mid-range Switches](#family-202601-ibm-totalstorage-san12m-1-entry-and-san24m-1-mid-range-switches)
-- [](#)
+- [Family 2027+02 IBM TotalStorage SAN256M Director SAN16M-R Router SANC40M 40U Cabinet](#family-202702-ibm-totalstorage-san256m-director-san16m-r-router-sanc40m-40u-cabinet)
 - [Family 2027+03 IBM TotalStorage SAN04M-R Router](#family-202703-ibm-totalstorage-san04m-r-router)
 - [Family 2045+01 IBM TotalStorage SAN256N Director and Cabinet](#family-204501-ibm-totalstorage-san256n-director-and-cabinet)
 - [2108-G07 IBM Storage Area Network Data Gateway Model G07](#2108-g07-ibm-storage-area-network-data-gateway-model-g07)
@@ -26,9 +26,9 @@ content update: 2026-08-18 00:46:57.683457262 +0800 CST
 - [2109-F16 IBM TotalStorage Storage Area Network (SAN) Switch Model F16](#2109-f16-ibm-totalstorage-storage-area-network-san-switch-model-f16)
 - [2109-F32 IBM TotalStorage Storage Area Network Switch (SAN) Model F32](#2109-f32-ibm-totalstorage-storage-area-network-switch-san-model-f32)
 - [2109-M12 IBM TotalStorage SAN Switch Model M12](#2109-m12-ibm-totalstorage-san-switch-model-m12)
-- [](#)
+- [2109-M14 IBM TotalStorage SAN Switch Model M14](#2109-m14-ibm-totalstorage-san-switch-model-m14)
 - [2109-M48 IBM TotalStorage SAN256B Director Model M48](#2109-m48-ibm-totalstorage-san256b-director-model-m48)
-- [](#)
+- [2109-S08 IBM SAN Fibre Channel Switch Model S08](#2109-s08-ibm-san-fibre-channel-switch-model-s08)
 - [2109-S16 IBM SAN Fibre Channel Switch Model S16](#2109-s16-ibm-san-fibre-channel-switch-model-s16)
 - [Family 2498+03 IBM System Storage SAN32B-E4](#family-249803-ibm-system-storage-san32b-e4)
 - [Family 2498+05 IBM System Networking SAN24B-5](#family-249805-ibm-system-networking-san24b-5)
@@ -41,7 +41,7 @@ content update: 2026-08-18 00:46:57.683457262 +0800 CST
 - [Family 3758+02 IBM Converged Switch L32](#family-375802-ibm-converged-switch-l32)
 - [7140-160 IBM TotalStorage SAN Controller Model 160](#7140-160-ibm-totalstorage-san-controller-model-160)
 - [Family 9239+01 IBM SANnav](#family-923901-ibm-sannav)
-- [](#)
+- [Family 9240+01 IBM SANnav](#family-924001-ibm-sannav)
 - [Family 9241+01 IBM SANnav](#family-924101-ibm-sannav)
 
 ---
@@ -258,12 +258,17 @@ content update: 2026-08-18 00:46:57.683457262 +0800 CST
 
 
 
-### 
+### Family 2027+02 IBM TotalStorage SAN256M Director SAN16M-R Router SANC40M 40U Cabinet
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-san256m-director-san16m-r-router-sanc40m-40u-cabinet](https://www.ibm.com/docs/en/announcements/totalstorage-san256m-director-san16m-r-router-sanc40m-40u-cabinet?region=AP)
 
 📅 2013-10-01
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2027-R16 | 2005-03-08 | 2005-03-11 | 2007-12-29 | 2011-12-31 |
+| 2027-C40 | 2005-03-08 | 2005-03-11 | 2008-11-29 | 2011-12-31 |
+| 2027-256 | 2005-03-08 | 2005-03-11 | 2008-11-29 | 2011-12-31 |
 
 
 
@@ -486,12 +491,15 @@ content update: 2026-08-18 00:46:57.683457262 +0800 CST
 
 
 
-### 
+### 2109-M14 IBM TotalStorage SAN Switch Model M14
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-san-switch-model-m14](https://www.ibm.com/docs/en/announcements/totalstorage-san-switch-model-m14?region=AP)
 
 📅 2010-11-18
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2109-M14 | 2004-04-27 | 2004-05-07 | 2006-03-31 | 2010-12-31 |
 
 
 
@@ -529,12 +537,15 @@ content update: 2026-08-18 00:46:57.683457262 +0800 CST
 
 
 
-### 
+### 2109-S08 IBM SAN Fibre Channel Switch Model S08
 
 🔗 [https://www.ibm.com/docs/en/announcements/san-fibre-channel-switch-model-s08](https://www.ibm.com/docs/en/announcements/san-fibre-channel-switch-model-s08?region=AP)
 
 📅 2008-07-16
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2109-S08 | 1999-08-03 | 1999-09-17 | 2003-01-30 | 2008-12-31 |
 
 
 
@@ -827,12 +838,17 @@ content update: 2026-08-18 00:46:57.683457262 +0800 CST
 
 
 
-### 
+### Family 9240+01 IBM SANnav
 
 🔗 [https://www.ibm.com/docs/en/announcements/sannav-2023-07-25](https://www.ibm.com/docs/en/announcements/sannav-2023-07-25?region=AP)
 
 📅 2023-07-25
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9240-B03 | 2020-09-08 | 2020-09-18 | - | - |
+| 9240-E03 | 2020-09-08 | 2020-09-18 | - | - |
+| 9240-G03 | 2020-09-08 | 2020-09-18 | - | - |
 
 
 
