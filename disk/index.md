@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2026-09-02 03:32:56.032946703 +0800 CST
+content update: 2026-09-03 03:35:06.760574695 +0800 CST
 
 ---
 
@@ -139,7 +139,6 @@ content update: 2026-09-02 03:32:56.032946703 +0800 CST
 - [7133-020 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 020](#7133-020-ibm-serial-storage-architecture-ssa-disk-subsystem-model-020)
 - [7133-500 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 500](#7133-500-ibm-serial-storage-architecture-ssa-disk-subsystem-model-500)
 - [7133-600 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 600](#7133-600-ibm-serial-storage-architecture-ssa-disk-subsystem-model-600)
-- [7133-D40 IBM Serial Disk System Advanced Model D40](#7133-d40-ibm-serial-disk-system-advanced-model-d40)
 - [7133-T40 IBM Serial Disk System Advanced Model T40](#7133-t40-ibm-serial-disk-system-advanced-model-t40)
 - [7134-010 IBM High Density SCSI Disk Subsystem Model 010](#7134-010-ibm-high-density-scsi-disk-subsystem-model-010)
 - [7135-010 IBM RAIDiant Array Model 010](#7135-010-ibm-raidiant-array-model-010)
@@ -147,7 +146,6 @@ content update: 2026-09-02 03:32:56.032946703 +0800 CST
 - [7137-415 IBM Disk Array Subsystem Model 415](#7137-415-ibm-disk-array-subsystem-model-415)
 - [7137-515 IBM Disk Array Subsystem Model 515](#7137-515-ibm-disk-array-subsystem-model-515)
 - [7204-112 IBM RS/6000 External Disk Drive Model 112](#7204-112-ibm-rs-6000-external-disk-drive-model-112)
-- [7204-113 IBM RS/6000 External Disk Drive Model 113](#7204-113-ibm-rs-6000-external-disk-drive-model-113)
 - [7204-114 IBM RS/6000 External Disk Drive Model 114](#7204-114-ibm-rs-6000-external-disk-drive-model-114)
 - [7204-118 IBM 7204 18.2 GB External Disk Drive Model 118](#7204-118-ibm-7204-182-gb-external-disk-drive-model-118)
 - [7204-139 IBM RS/6000 External Disk Drive Model 139](#7204-139-ibm-rs-6000-external-disk-drive-model-139)
@@ -184,7 +182,6 @@ content update: 2026-09-02 03:32:56.032946703 +0800 CST
 - [9337-125 IBM Disk Array Subsystem Model 125](#9337-125-ibm-disk-array-subsystem-model-125)
 - [9337-140 IBM Disk Array Subsystem Model 140](#9337-140-ibm-disk-array-subsystem-model-140)
 - [9337-210 IBM Disk Array Subsystem Model 210](#9337-210-ibm-disk-array-subsystem-model-210)
-- [9337-215 IBM Disk Array Subsystem Model 215](#9337-215-ibm-disk-array-subsystem-model-215)
 - [9337-220 IBM Disk Array Subsystem Model 220](#9337-220-ibm-disk-array-subsystem-model-220)
 - [9337-225 IBM Disk Array Subsystem Model 225](#9337-225-ibm-disk-array-subsystem-model-225)
 - [9337-240 IBM Disk Array Subsystem Model 240](#9337-240-ibm-disk-array-subsystem-model-240)
@@ -3352,29 +3349,6 @@ content update: 2026-09-02 03:32:56.032946703 +0800 CST
 
 
 
-### 7133-D40 IBM Serial Disk System Advanced Model D40
-
-🔗 [https://www.ibm.com/docs/en/announcements/serial-disk-system-advanced-model-d40](https://www.ibm.com/docs/en/announcements/serial-disk-system-advanced-model-d40?region=AP)
-
-📅 2018-07-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7133-D40 | 1998-11-03 | 1998-11-13 | 2005-06-03 | 2019-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 7133-T40 IBM Serial Disk System Advanced Model T40
 
 🔗 [https://www.ibm.com/docs/en/announcements/serial-disk-system-advanced-model-t40](https://www.ibm.com/docs/en/announcements/serial-disk-system-advanced-model-t40?region=AP)
@@ -3513,29 +3487,6 @@ content update: 2026-09-02 03:32:56.032946703 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7204-112 | 1994-10-04 | 1994-11-18 | 1996-12-27 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7204-113 IBM RS/6000 External Disk Drive Model 113
-
-🔗 [https://www.ibm.com/docs/en/announcements/rs6000-external-disk-drive-model-113](https://www.ibm.com/docs/en/announcements/rs6000-external-disk-drive-model-113?region=AP)
-
-📅 2008-06-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7204-113 | 1995-10-10 | 1995-12-01 | 1998-06-26 | - |
 
 
 
@@ -4364,29 +4315,6 @@ content update: 2026-09-02 03:32:56.032946703 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9337-210 | 1993-09-07 | 1993-11-26 | 1994-08-03 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9337-215 IBM Disk Array Subsystem Model 215
-
-🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-215](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-215?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9337-215 | 1993-09-07 | 1993-11-26 | 1994-12-30 | - |
 
 
 
