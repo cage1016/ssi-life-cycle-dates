@@ -1,6 +1,6 @@
 # Tape Library
 
-content update: 2026-09-03 03:35:06.760574695 +0800 CST
+content update: 2026-09-04 03:27:42.392472659 +0800 CST
 
 ---
 
@@ -17,6 +17,7 @@ content update: 2026-09-03 03:35:06.760574695 +0800 CST
 - [Family 3577+01 IBM System Storage TS3400 Tape Library Model L5U](#family-357701-ibm-system-storage-ts3400-tape-library-model-l5u)
 - [3582-L23 IBM TotalStorage Ultrium Tape Library Model L23](#3582-l23-ibm-totalstorage-ultrium-tape-library-model-l23)
 - [3583-L36 IBM TotalStorage Ultrium Scalable Tape Library Model L36](#3583-l36-ibm-totalstorage-ultrium-scalable-tape-library-model-l36)
+- [3583-L72 IBM TotalStorage Ultrium Scalable Tape Library Model L72](#3583-l72-ibm-totalstorage-ultrium-scalable-tape-library-model-l72)
 - [Family 3584+02 IBM TotalStorage 3584 Tape Library Model L32](#family-358402-ibm-totalstorage-3584-tape-library-model-l32)
 - [Family 3584+05 IBM TotalStorage 3584 Tape Library Model L22](#family-358405-ibm-totalstorage-3584-tape-library-model-l22)
 - [Family 3584+07 IBM TotalStorage 3584 Tape Library Model L52](#family-358407-ibm-totalstorage-3584-tape-library-model-l52)
@@ -255,6 +256,29 @@ content update: 2026-09-03 03:35:06.760574695 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3583-L36 | 2000-08-23 | 2000-10-20 | 2006-01-27 | 2017-11-30 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3583-L72 IBM TotalStorage Ultrium Scalable Tape Library Model L72
+
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ultrium-scalable-tape-library-model-l72](https://www.ibm.com/docs/en/announcements/totalstorage-ultrium-scalable-tape-library-model-l72?region=AP)
+
+📅 2017-07-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3583-L72 | 2000-08-23 | 2000-10-20 | 2006-01-27 | 2017-11-30 |
 
 
 
