@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2026-09-05 03:11:32.053221802 +0800 CST
+content update: 2026-09-06 02:17:26.518034491 +0800 CST
 
 ---
 
@@ -72,14 +72,9 @@ content update: 2026-09-05 03:11:32.053221802 +0800 CST
 - [Family 2421+01 IBM System Storage DS8000 2421 1-Year Warranty](#family-242101-ibm-system-storage-ds8000-2421-1-year-warranty)
 - [Family 2421+02 IBM System Storage DS8700 Models 941 and 94E](#family-242102-ibm-system-storage-ds8700-models-941-and-94e)
 - [Family 2421+03 IBM System Storage DS8800 Model 951 and Model 95E](#family-242103-ibm-system-storage-ds8800-model-951-and-model-95e)
-- [Family 2421+04 IBM DS8870 Models 961 and 96E](#family-242104-ibm-ds8870-models-961-and-96e)
 - [Family 2422+02 IBM System Storage DS8700 Models 941 and 94E](#family-242202-ibm-system-storage-ds8700-models-941-and-94e)
-- [Family 2422+03 IBM System Storage DS8800 Model 951 and Model 95E](#family-242203-ibm-system-storage-ds8800-model-951-and-model-95e)
 - [Family 2422+04 IBM DS8870 Models 961 and 96E](#family-242204-ibm-ds8870-models-961-and-96e)
-- [Family 2423+03 IBM System Storage DS8800 Model 951 and Model 95E](#family-242303-ibm-system-storage-ds8800-model-951-and-model-95e)
-- [Family 2423+04 IBM DS8870 Models 961 and 96E](#family-242304-ibm-ds8870-models-961-and-96e)
 - [Family 2424+02 IBM System Storage DS8700 Models 941 and 94E](#family-242402-ibm-system-storage-ds8700-models-941-and-94e)
-- [Family 2424+04 IBM DS8870 Models 961 and 96E](#family-242404-ibm-ds8870-models-961-and-96e)
 - [Family 2810+01 IBM XIV Storage System](#family-281001-ibm-xiv-storage-system)
 - [Family 2810+02 IBM XIV Storage System (M/T 2810) Model Gen3](#family-281002-ibm-xiv-storage-system-m-t-2810-model-gen3)
 - [Family 2810+03 IBM XIV Storage System (M/T 2810) Model 214](#family-281003-ibm-xiv-storage-system-m-t-2810-model-214)
@@ -1755,30 +1750,6 @@ content update: 2026-09-05 03:11:32.053221802 +0800 CST
 
 
 
-### Family 2421+04 IBM DS8870 Models 961 and 96E
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8870-models-961-96e](https://www.ibm.com/docs/en/announcements/ds8870-models-961-96e?region=AP)
-
-📅 2019-10-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2421-96E | 2012-10-03 | 2012-10-19 | 2018-11-21 | 2020-12-31 |
-| 2421-961 | 2012-10-03 | 2012-10-19 | 2016-06-01 | 2020-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 2422+02 IBM System Storage DS8700 Models 941 and 94E
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds8700-models-941-94e-2017-03-28](https://www.ibm.com/docs/en/announcements/system-storage-ds8700-models-941-94e-2017-03-28?region=AP)
@@ -1789,30 +1760,6 @@ content update: 2026-09-05 03:11:32.053221802 +0800 CST
 | --- | --- | --- | --- | --- |
 | 2422-94E | 2009-10-20 | 2009-10-23 | 2014-10-01 | 2017-12-31 |
 | 2422-941 | 2009-10-20 | 2009-10-23 | 2012-10-01 | 2017-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2422+03 IBM System Storage DS8800 Model 951 and Model 95E
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds8800-model-951-model-95e-2018-02-06](https://www.ibm.com/docs/en/announcements/system-storage-ds8800-model-951-model-95e-2018-02-06?region=AP)
-
-📅 2018-02-06
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2422-95E | 2010-10-07 | 2010-10-22 | 2015-09-16 | 2019-03-31 |
-| 2422-951 | 2010-10-07 | 2010-10-22 | 2013-05-03 | 2019-03-31 |
 
 
 
@@ -1851,54 +1798,6 @@ content update: 2026-09-05 03:11:32.053221802 +0800 CST
 
 
 
-### Family 2423+03 IBM System Storage DS8800 Model 951 and Model 95E
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds8800-model-951-model-95e-2018-02-20](https://www.ibm.com/docs/en/announcements/system-storage-ds8800-model-951-model-95e-2018-02-20?region=AP)
-
-📅 2018-02-20
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2423-95E | 2010-10-07 | 2010-10-22 | 2015-09-16 | 2019-03-31 |
-| 2423-951 | 2010-10-07 | 2010-10-22 | 2013-05-03 | 2019-03-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2423+04 IBM DS8870 Models 961 and 96E
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8870-models-961-96e-2019-10-15](https://www.ibm.com/docs/en/announcements/ds8870-models-961-96e-2019-10-15?region=AP)
-
-📅 2019-10-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2423-96E | 2012-10-03 | 2012-10-19 | 2017-11-22 | 2020-12-31 |
-| 2423-961 | 2012-10-03 | 2012-10-19 | 2016-06-01 | 2020-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 2424+02 IBM System Storage DS8700 Models 941 and 94E
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds8700-models-941-94e-2017-03-28-1](https://www.ibm.com/docs/en/announcements/system-storage-ds8700-models-941-94e-2017-03-28-1?region=AP)
@@ -1909,30 +1808,6 @@ content update: 2026-09-05 03:11:32.053221802 +0800 CST
 | --- | --- | --- | --- | --- |
 | 2424-94E | 2009-10-20 | 2009-10-23 | 2014-10-01 | 2017-12-31 |
 | 2424-941 | 2009-10-20 | 2009-10-23 | 2012-10-01 | 2017-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2424+04 IBM DS8870 Models 961 and 96E
-
-🔗 [https://www.ibm.com/docs/en/announcements/ds8870-models-961-96e-2019-10-15-2](https://www.ibm.com/docs/en/announcements/ds8870-models-961-96e-2019-10-15-2?region=AP)
-
-📅 2019-10-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2424-96E | 2012-10-03 | 2012-10-19 | 2017-11-22 | 2020-12-31 |
-| 2424-961 | 2012-10-03 | 2012-10-19 | 2016-06-01 | 2020-12-31 |
 
 
 
