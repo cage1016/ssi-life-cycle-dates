@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2026-09-07 02:22:33.95289972 +0800 CST
+content update: 2026-09-08 03:58:09.991870071 +0800 CST
 
 ---
 
@@ -66,7 +66,6 @@ content update: 2026-09-07 02:22:33.95289972 +0800 CST
 - [2106-D14 IBM MSS 14 Bay Single Bus Disk Drive Model D14](#2106-d14-ibm-mss-14-bay-single-bus-disk-drive-model-d14)
 - [2106-D20 IBM MSS 10 Bay Dual Bus Disk Drive Model D20](#2106-d20-ibm-mss-10-bay-dual-bus-disk-drive-model-d20)
 - [2106-D24 IBM MSS 14 Dual Bus Disk Drive Enclosure Model D24](#2106-d24-ibm-mss-14-dual-bus-disk-drive-enclosure-model-d24)
-- [Family 2107+02 IBM System Storage DS8000 Series Disk Storage Model 9A2](#family-210702-ibm-system-storage-ds8000-series-disk-storage-model-9a2)
 - [Family 2107+04 IBM System Storage DS8000 Series Disk Storage Model 921](#family-210704-ibm-system-storage-ds8000-series-disk-storage-model-921)
 - [Family 2107+05 IBM System Storage DS8000 Series Disk Storage Model 922](#family-210705-ibm-system-storage-ds8000-series-disk-storage-model-922)
 - [Family 2421+01 IBM System Storage DS8000 2421 1-Year Warranty](#family-242101-ibm-system-storage-ds8000-2421-1-year-warranty)
@@ -1597,29 +1596,6 @@ content update: 2026-09-07 02:22:33.95289972 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2106-D24 | 2000-08-29 | 2000-09-29 | 2002-11-22 | 2007-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2107+02 IBM System Storage DS8000 Series Disk Storage Model 9A2
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds8000-series-disk-storage-model-9a2](https://www.ibm.com/docs/en/announcements/system-storage-ds8000-series-disk-storage-model-9a2?region=AP)
-
-📅 2016-06-28
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2107-9A2 | 2004-10-12 | 2004-12-03 | 2006-10-20 | 2016-03-31 |
 
 
 
