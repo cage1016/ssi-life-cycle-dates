@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2026-09-08 03:58:09.991870071 +0800 CST
+content update: 2026-09-09 03:37:39.204713063 +0800 CST
 
 ---
 
@@ -22,11 +22,10 @@ content update: 2026-09-08 03:58:09.991870071 +0800 CST
 - [Family 3589+06 IBM Ultrium 5 1.5 TB Data Cartridge Models 014 015 034 035](#family-358906-ibm-ultrium-5-15-tb-data-cartridge-models-014-015-034-035)
 - [Family 3589+07 IBM Ultrium 6 2.5 TB Data Cartridge Models 550,650,570,670](#family-358907-ibm-ultrium-6-25-tb-data-cartridge-models-550-650-570-670)
 - [Family 3589+08 IBM Ultrium 7 6 TB Data Cartridge Models 551, 651, 571, 671](#family-358908-ibm-ultrium-7-6-tb-data-cartridge-models-551-651-571-671)
-- [Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452](#family-358910-ibm-ultrium-7-9-tb-uninitialized-data-cartridge-model-452)
 - [Family 3599+01 IBM Tape Cartridges 3592](#family-359901-ibm-tape-cartridges-3592)
-- [Family 3599+02 IBM Tape Cart 3592](#family-359902-ibm-tape-cart-3592)
-- [Family 3599+03 IBM Tape Cartridge 3592](#family-359903-ibm-tape-cartridge-3592)
+- [3599-001 IBM 3590 High Performance Cartridge Tape with Labeling and Initialization Model 001](#3599-001-ibm-3590-high-performance-cartridge-tape-with-labeling-and-initialization-model-001)
 - [3599-002 IBM 3590 High Performance Cartridge Tape with Labeling Model 002](#3599-002-ibm-3590-high-performance-cartridge-tape-with-labeling-model-002)
+- [3599-003 IBM 3590 High Performance Cartridge Tape Model 003](#3599-003-ibm-3590-high-performance-cartridge-tape-model-003)
 - [3599-004 IBM 3590 Extended High Performance Cartridge Tape Model 004](#3599-004-ibm-3590-extended-high-performance-cartridge-tape-model-004)
 - [3599-005 IBM 3590 Extended High Performance Cartridge Tape Model 005](#3599-005-ibm-3590-extended-high-performance-cartridge-tape-model-005)
 - [3599-006 IBM 3590 Extended High Performance Cartridge Tape Model 006](#3599-006-ibm-3590-extended-high-performance-cartridge-tape-model-006)
@@ -405,29 +404,6 @@ content update: 2026-09-08 03:58:09.991870071 +0800 CST
 
 
 
-### Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452
-
-🔗 [https://www.ibm.com/docs/en/announcements/ultrium-7-9-tb-uninitialized-data-cartridge-model-452](https://www.ibm.com/docs/en/announcements/ultrium-7-9-tb-uninitialized-data-cartridge-model-452?region=AP)
-
-📅 2023-07-04
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3589-452 | 2017-12-19 | 2017-12-19 | - | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 3599+01 IBM Tape Cartridges 3592
 
 🔗 [https://www.ibm.com/docs/en/announcements/tape-cartridges-3592](https://www.ibm.com/docs/en/announcements/tape-cartridges-3592?region=AP)
@@ -459,49 +435,15 @@ content update: 2026-09-08 03:58:09.991870071 +0800 CST
 
 
 
-### Family 3599+02 IBM Tape Cart 3592
+### 3599-001 IBM 3590 High Performance Cartridge Tape with Labeling and Initialization Model 001
 
-🔗 [https://www.ibm.com/docs/en/announcements/tape-cart-3592](https://www.ibm.com/docs/en/announcements/tape-cart-3592?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3599-425 | 2014-10-06 | 2014-10-24 | - | - |
-| 3599-435 | 2014-10-06 | 2014-10-24 | - | - |
-| 3599-445 | 2014-10-06 | 2014-10-24 | 2018-06-16 | - |
-| 3599-525 | 2014-10-06 | 2014-10-24 | - | - |
-| 3599-535 | 2014-10-06 | 2014-10-24 | - | - |
-| 3599-545 | 2014-10-06 | 2014-10-24 | 2018-06-16 | - |
-| 3599-625 | 2014-10-06 | 2014-10-24 | 2019-10-26 | - |
-| 3599-635 | 2014-10-06 | 2014-10-24 | 2019-10-26 | - |
-| 3599-645 | 2014-10-06 | 2014-10-24 | 2018-06-16 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3599+03 IBM Tape Cartridge 3592
-
-🔗 [https://www.ibm.com/docs/en/announcements/tape-cartridge-3592](https://www.ibm.com/docs/en/announcements/tape-cartridge-3592?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/3590-high-performance-cartridge-tape-labeling-initialization-model-001](https://www.ibm.com/docs/en/announcements/3590-high-performance-cartridge-tape-labeling-initialization-model-001?region=AP)
 
 📅 2023-11-21
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 3599-426 | 2019-01-08 | 2019-01-18 | - | - |
-| 3599-436 | 2019-01-08 | 2019-01-18 | - | - |
-| 3599-526 | 2019-01-08 | 2019-01-18 | - | - |
-| 3599-536 | 2019-01-08 | 2019-01-18 | - | - |
+| 3599-001 | 1997-03-25 | 1997-03-28 | 2008-12-26 | - |
 
 
 
@@ -525,6 +467,29 @@ content update: 2026-09-08 03:58:09.991870071 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3599-002 | 1997-03-25 | 1997-03-28 | 2008-12-26 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3599-003 IBM 3590 High Performance Cartridge Tape Model 003
+
+🔗 [https://www.ibm.com/docs/en/announcements/3590-high-performance-cartridge-tape-model-003](https://www.ibm.com/docs/en/announcements/3590-high-performance-cartridge-tape-model-003?region=AP)
+
+📅 2023-11-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3599-003 | 1997-03-25 | 1997-03-28 | 2008-12-26 | - |
 
 
 
