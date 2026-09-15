@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2026-09-15 04:33:13.007553069 +0800 CST
+content update: 2026-09-16 03:50:35.032700439 +0800 CST
 
 ---
 
@@ -27,13 +27,11 @@ content update: 2026-09-15 04:33:13.007553069 +0800 CST
 - [3599-002 IBM 3590 High Performance Cartridge Tape with Labeling Model 002](#3599-002-ibm-3590-high-performance-cartridge-tape-with-labeling-model-002)
 - [3599-003 IBM 3590 High Performance Cartridge Tape Model 003](#3599-003-ibm-3590-high-performance-cartridge-tape-model-003)
 - [3599-004 IBM 3590 Extended High Performance Cartridge Tape Model 004](#3599-004-ibm-3590-extended-high-performance-cartridge-tape-model-004)
-- [3599-005 IBM 3590 Extended High Performance Cartridge Tape Model 005](#3599-005-ibm-3590-extended-high-performance-cartridge-tape-model-005)
 - [3599-006 IBM 3590 Extended High Performance Cartridge Tape Model 006](#3599-006-ibm-3590-extended-high-performance-cartridge-tape-model-006)
 - [3599-007 IBM 3590 Cleaning Cartridges Model 007](#3599-007-ibm-3590-cleaning-cartridges-model-007)
 - [3599-008 IBM 3590 Cartridge Magazine Model 008](#3599-008-ibm-3590-cartridge-magazine-model-008)
 - [3599-011 IBM 3592 Enterprise Tape Cartridge with Labeling,Init Model 011](#3599-011-ibm-3592-enterprise-tape-cartridge-with-labeling-init-model-011)
 - [3599-012 IBM 3592 Enterprise Tape Cartridge with Labeling Model 012](#3599-012-ibm-3592-enterprise-tape-cartridge-with-labeling-model-012)
-- [3599-013 IBM 3592 Enterprise Tape Cartridge Model 013](#3599-013-ibm-3592-enterprise-tape-cartridge-model-013)
 - [3599-014 IBM 3592 Ext Tape Cart with Labeling and Init Model 014](#3599-014-ibm-3592-ext-tape-cart-with-labeling-and-init-model-014)
 - [3599-015 IBM 3592 Extended Tape Cart with Labeling Model 015](#3599-015-ibm-3592-extended-tape-cart-with-labeling-model-015)
 - [3599-016 IBM 3592 Extended Tape Cart Model 016](#3599-016-ibm-3592-extended-tape-cart-model-016)
@@ -53,7 +51,6 @@ content update: 2026-09-15 04:33:13.007553069 +0800 CST
 - [3599-E23 IBM 3592 Enterprise Tape Economy WORM Cartridge Model E23](#3599-e23-ibm-3592-enterprise-tape-economy-worm-cartridge-model-e23)
 - [3859-D02 IBM 40 GB DLTtape IV Cartridges Labeled Model D02](#3859-d02-ibm-40-gb-dlttape-iv-cartridges-labeled-model-d02)
 - [3859-D03 IBM 40 GB DLTtape IV Cartridges Model D03](#3859-d03-ibm-40-gb-dlttape-iv-cartridges-model-d03)
-- [3859-D04 IBM 40 GB DTLtape Cleaning Cartridge Model D04](#3859-d04-ibm-40-gb-dtltape-cleaning-cartridge-model-d04)
 
 ---
 
@@ -527,29 +524,6 @@ content update: 2026-09-15 04:33:13.007553069 +0800 CST
 
 
 
-### 3599-005 IBM 3590 Extended High Performance Cartridge Tape Model 005
-
-🔗 [https://www.ibm.com/docs/en/announcements/3590-extended-high-performance-cartridge-tape-model-005](https://www.ibm.com/docs/en/announcements/3590-extended-high-performance-cartridge-tape-model-005?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3599-005 | 2000-02-29 | 2000-03-17 | 2008-12-26 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 3599-006 IBM 3590 Extended High Performance Cartridge Tape Model 006
 
 🔗 [https://www.ibm.com/docs/en/announcements/3590-extended-high-performance-cartridge-tape-model-006](https://www.ibm.com/docs/en/announcements/3590-extended-high-performance-cartridge-tape-model-006?region=AP)
@@ -651,29 +625,6 @@ content update: 2026-09-15 04:33:13.007553069 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3599-012 | 2003-09-09 | 2003-10-31 | 2011-11-25 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3599-013 IBM 3592 Enterprise Tape Cartridge Model 013
-
-🔗 [https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-cartridge-model-013](https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-cartridge-model-013?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3599-013 | 2003-09-09 | 2003-10-31 | 2011-11-25 | - |
 
 
 
@@ -1103,26 +1054,6 @@ content update: 2026-09-15 04:33:13.007553069 +0800 CST
 ### 3859-D03 IBM 40 GB DLTtape IV Cartridges Model D03
 
 🔗 [https://www.ibm.com/docs/en/announcements/40-gb-dlttape-iv-cartridges-model-d03](https://www.ibm.com/docs/en/announcements/40-gb-dlttape-iv-cartridges-model-d03?region=AP)
-
-📅 2004-12-13
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3859-D04 IBM 40 GB DTLtape Cleaning Cartridge Model D04
-
-🔗 [https://www.ibm.com/docs/en/announcements/40-gb-dtltape-cleaning-cartridge-model-d04](https://www.ibm.com/docs/en/announcements/40-gb-dtltape-cleaning-cartridge-model-d04?region=AP)
 
 📅 2004-12-13
 

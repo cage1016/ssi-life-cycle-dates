@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2026-09-15 04:33:13.007553069 +0800 CST
+content update: 2026-09-16 03:50:35.032700439 +0800 CST
 
 ---
 
@@ -16,9 +16,9 @@ content update: 2026-09-15 04:33:13.007553069 +0800 CST
 - [1740-1RU IBM TotalStorage DS4000 EXP700 Expansion Unit Model 1RU](#1740-1ru-ibm-totalstorage-ds4000-exp700-expansion-unit-model-1ru)
 - [1740-710 IBM TotalStorage DS4000 EXP710 Storage Expansion Unit Model 710](#1740-710-ibm-totalstorage-ds4000-exp710-storage-expansion-unit-model-710)
 - [1742-1RU IBM TotalStorage DS4400 Midrange Disk System Model 1RU](#1742-1ru-ibm-totalstorage-ds4400-midrange-disk-system-model-1ru)
+- [1742-90U IBM TotalStorage DS4500 Midrange Disk System Model 90U](#1742-90u-ibm-totalstorage-ds4500-midrange-disk-system-model-90u)
 - [Family 1747+02 IBM System Storage EXP2500 Express Storage Enclosures (AAS / WTAAS)](#family-174702-ibm-system-storage-exp2500-express-storage-enclosures-aas-wtaas)
 - [Family 1750+01 IBM TotalStorage DS6800 and DS6000 Expansion Enclosure](#family-175001-ibm-totalstorage-ds6800-and-ds6000-expansion-enclosure)
-- [Family 1750+02 IBM System Storage DS6800 and DS6000](#family-175002-ibm-system-storage-ds6800-and-ds6000)
 - [Family 1812+01 IBM System Storage DS4000 EXP810 Storage Expansion Unit](#family-181201-ibm-system-storage-ds4000-exp810-storage-expansion-unit)
 - [Family 1812+02 IBM System Storage DS4000 EXP420 Storage Expansion Unit](#family-181202-ibm-system-storage-ds4000-exp420-storage-expansion-unit)
 - [Family 1812+03 IBM System Storage DS4000 EXP810 Expansion Unit Model 81S](#family-181203-ibm-system-storage-ds4000-exp810-expansion-unit-model-81s)
@@ -51,7 +51,6 @@ content update: 2026-09-15 04:33:13.007553069 +0800 CST
 - [2104-DU3 IBM Expandable Storage Plus Drawer Model DU3](#2104-du3-ibm-expandable-storage-plus-drawer-model-du3)
 - [2104-TL1 IBM Expandable Storage Plus Model TL1](#2104-tl1-ibm-expandable-storage-plus-model-tl1)
 - [2104-TS4 IBM TotalStorage Expandable Storage Plus 320 Model TS4](#2104-ts4-ibm-totalstorage-expandable-storage-plus-320-model-ts4)
-- [2104-TU3 IBM Expandable Storage Plus Tower Model TU3](#2104-tu3-ibm-expandable-storage-plus-tower-model-tu3)
 - [2105-100 IBM Versatile Storage Server Model 100](#2105-100-ibm-versatile-storage-server-model-100)
 - [2105-750 IBM TotalStorage Enterprise Storage Server Model 750](#2105-750-ibm-totalstorage-enterprise-storage-server-model-750)
 - [2105-800 IBM TotalStorage Enterprise Storage Server Model 800](#2105-800-ibm-totalstorage-enterprise-storage-server-model-800)
@@ -60,7 +59,6 @@ content update: 2026-09-15 04:33:13.007553069 +0800 CST
 - [2105-E20 IBM Enterprise Storage Server Model E20](#2105-e20-ibm-enterprise-storage-server-model-e20)
 - [2105-F10 IBM Enterprise Storage Server Model F10](#2105-f10-ibm-enterprise-storage-server-model-f10)
 - [2105-F20 IBM Enterprise Storage Server Model F20](#2105-f20-ibm-enterprise-storage-server-model-f20)
-- [2106-200 IBM MSS Controller Enclosure Model 200](#2106-200-ibm-mss-controller-enclosure-model-200)
 - [2106-D10 IBM MSS 10 Bay Single Bus Disk Drive Model D10](#2106-d10-ibm-mss-10-bay-single-bus-disk-drive-model-d10)
 - [2106-D14 IBM MSS 14 Bay Single Bus Disk Drive Model D14](#2106-d14-ibm-mss-14-bay-single-bus-disk-drive-model-d14)
 - [2106-D20 IBM MSS 10 Bay Dual Bus Disk Drive Model D20](#2106-d20-ibm-mss-10-bay-dual-bus-disk-drive-model-d20)
@@ -132,14 +130,13 @@ content update: 2026-09-15 04:33:13.007553069 +0800 CST
 - [Family 5333+02 IBM DS8882F Model 983](#family-533302-ibm-ds8882f-model-983)
 - [Family 5334+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533401-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
 - [Family 5334+02 IBM DS8882F Model 983](#family-533402-ibm-ds8882f-model-983)
+- [7027-HSC IBM High Capacity Drawer Model HSC](#7027-hsc-ibm-high-capacity-drawer-model-hsc)
 - [7027-HSD IBM High Capacity Drawer Model HSD](#7027-hsd-ibm-high-capacity-drawer-model-hsd)
 - [7133-010 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 010](#7133-010-ibm-serial-storage-architecture-ssa-disk-subsystem-model-010)
 - [7133-020 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 020](#7133-020-ibm-serial-storage-architecture-ssa-disk-subsystem-model-020)
-- [7133-500 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 500](#7133-500-ibm-serial-storage-architecture-ssa-disk-subsystem-model-500)
 - [7133-600 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 600](#7133-600-ibm-serial-storage-architecture-ssa-disk-subsystem-model-600)
 - [7133-D40 IBM Serial Disk System Advanced Model D40](#7133-d40-ibm-serial-disk-system-advanced-model-d40)
 - [7133-T40 IBM Serial Disk System Advanced Model T40](#7133-t40-ibm-serial-disk-system-advanced-model-t40)
-- [7134-010 IBM High Density SCSI Disk Subsystem Model 010](#7134-010-ibm-high-density-scsi-disk-subsystem-model-010)
 - [7135-010 IBM RAIDiant Array Model 010](#7135-010-ibm-raidiant-array-model-010)
 - [7135-110 IBM RAIDiant Array Model 110](#7135-110-ibm-raidiant-array-model-110)
 - [7137-415 IBM Disk Array Subsystem Model 415](#7137-415-ibm-disk-array-subsystem-model-415)
@@ -161,8 +158,6 @@ content update: 2026-09-15 04:33:13.007553069 +0800 CST
 - [9333-010 IBM High-Performance Disk Drive Subsystem Model 010](#9333-010-ibm-high-performance-disk-drive-subsystem-model-010)
 - [9333-011 IBM High-Performance Disk Drive Subsystem Model 011](#9333-011-ibm-high-performance-disk-drive-subsystem-model-011)
 - [9333-500 IBM High-Performance Disk Drive Sybsystem Model 500](#9333-500-ibm-high-performance-disk-drive-sybsystem-model-500)
-- [9333-501 IBM High-Performance Disk Drive Subsystem Model 501](#9333-501-ibm-high-performance-disk-drive-subsystem-model-501)
-- [9334-010 IBM SCSI Drawer Expansion Unit Model 010](#9334-010-ibm-scsi-drawer-expansion-unit-model-010)
 - [9334-011 IBM 9334 SCSI Expansion Unit Model 011](#9334-011-ibm-9334-scsi-expansion-unit-model-011)
 - [9334-500 IBM SCSI Deskside Expansion Unit Model 500](#9334-500-ibm-scsi-deskside-expansion-unit-model-500)
 - [9334-501 IBM SCSI Expansion Unit Model 501](#9334-501-ibm-scsi-expansion-unit-model-501)
@@ -430,6 +425,29 @@ content update: 2026-09-15 04:33:13.007553069 +0800 CST
 
 
 
+### 1742-90U IBM TotalStorage DS4500 Midrange Disk System Model 90U
+
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4500-midrange-disk-system-model-90u](https://www.ibm.com/docs/en/announcements/totalstorage-ds4500-midrange-disk-system-model-90u?region=AP)
+
+📅 2014-07-01
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 1742-90U | 2003-02-17 | 2003-03-14 | 2006-12-08 | 2015-01-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 1747+02 IBM System Storage EXP2500 Express Storage Enclosures (AAS / WTAAS)
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-exp2500-express-storage-enclosures-aas-wtaas](https://www.ibm.com/docs/en/announcements/system-storage-exp2500-express-storage-enclosures-aas-wtaas?region=AP)
@@ -464,30 +482,6 @@ content update: 2026-09-15 04:33:13.007553069 +0800 CST
 | --- | --- | --- | --- | --- |
 | 1750-EX1 | 2004-10-12 | 2004-12-03 | 2006-09-30 | 2015-09-30 |
 | 1750-511 | 2004-10-12 | 2004-12-03 | 2006-09-30 | 2015-09-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 1750+02 IBM System Storage DS6800 and DS6000
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds6800-ds6000](https://www.ibm.com/docs/en/announcements/system-storage-ds6800-ds6000?region=AP)
-
-📅 2015-03-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1750-522 | 2006-08-22 | 2006-09-08 | 2010-06-11 | 2015-09-30 |
-| 1750-EX2 | 2006-08-22 | 2006-09-08 | 2011-02-03 | 2015-09-30 |
 
 
 
@@ -1264,29 +1258,6 @@ content update: 2026-09-15 04:33:13.007553069 +0800 CST
 
 
 
-### 2104-TU3 IBM Expandable Storage Plus Tower Model TU3
-
-🔗 [https://www.ibm.com/docs/en/announcements/expandable-storage-plus-tower-model-tu3](https://www.ibm.com/docs/en/announcements/expandable-storage-plus-tower-model-tu3?region=AP)
-
-📅 2011-06-23
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2104-TU3 | 2000-10-03 | 2000-10-13 | 2004-02-13 | 2012-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 2105-100 IBM Versatile Storage Server Model 100
 
 🔗 [https://www.ibm.com/docs/en/announcements/versatile-storage-server-model-100](https://www.ibm.com/docs/en/announcements/versatile-storage-server-model-100?region=AP)
@@ -1457,29 +1428,6 @@ content update: 2026-09-15 04:33:13.007553069 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2105-F20 | 2000-03-28 | 2000-03-31 | 2003-12-31 | 2012-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2106-200 IBM MSS Controller Enclosure Model 200
-
-🔗 [https://www.ibm.com/docs/en/announcements/mss-controller-enclosure-model-200](https://www.ibm.com/docs/en/announcements/mss-controller-enclosure-model-200?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2106-200 | 2000-08-29 | 2000-09-29 | 2001-11-15 | 2007-12-31 |
 
 
 
@@ -3195,6 +3143,26 @@ content update: 2026-09-15 04:33:13.007553069 +0800 CST
 
 
 
+### 7027-HSC IBM High Capacity Drawer Model HSC
+
+🔗 [https://www.ibm.com/docs/en/announcements/high-capacity-drawer-model-hsc](https://www.ibm.com/docs/en/announcements/high-capacity-drawer-model-hsc?region=AP)
+
+📅 2003-06-02
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 7027-HSD IBM High Capacity Drawer Model HSD
 
 🔗 [https://www.ibm.com/docs/en/announcements/high-capacity-drawer-model-hsd](https://www.ibm.com/docs/en/announcements/high-capacity-drawer-model-hsd?region=AP)
@@ -3261,29 +3229,6 @@ content update: 2026-09-15 04:33:13.007553069 +0800 CST
 
 
 
-### 7133-500 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 500
-
-🔗 [https://www.ibm.com/docs/en/announcements/serial-storage-architecture-ssa-disk-subsystem-model-500](https://www.ibm.com/docs/en/announcements/serial-storage-architecture-ssa-disk-subsystem-model-500?region=AP)
-
-📅 2018-07-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7133-500 | 1995-07-25 | 1995-08-11 | 1997-05-05 | 2019-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 7133-600 IBM Serial Storage Architecture (SSA) Disk Subsystem Model 600
 
 🔗 [https://www.ibm.com/docs/en/announcements/serial-storage-architecture-ssa-disk-subsystem-model-600](https://www.ibm.com/docs/en/announcements/serial-storage-architecture-ssa-disk-subsystem-model-600?region=AP)
@@ -3336,29 +3281,6 @@ content update: 2026-09-15 04:33:13.007553069 +0800 CST
 
 📅 2004-12-28
 
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7134-010 IBM High Density SCSI Disk Subsystem Model 010
-
-🔗 [https://www.ibm.com/docs/en/announcements/high-density-scsi-disk-subsystem-model-010](https://www.ibm.com/docs/en/announcements/high-density-scsi-disk-subsystem-model-010?region=AP)
-
-📅 2009-06-06
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7134-010 | 1994-05-24 | 1994-06-10 | 1996-12-06 | 2010-12-31 |
 
 
 
@@ -3836,52 +3758,6 @@ content update: 2026-09-15 04:33:13.007553069 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9333-500 | 1991-07-24 | 1992-02-28 | 1994-10-26 | 2010-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9333-501 IBM High-Performance Disk Drive Subsystem Model 501
-
-🔗 [https://www.ibm.com/docs/en/announcements/high-performance-disk-drive-subsystem-model-501](https://www.ibm.com/docs/en/announcements/high-performance-disk-drive-subsystem-model-501?region=AP)
-
-📅 2009-06-06
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9333-501 | 1993-07-13 | 1993-08-27 | 1996-03-29 | 2010-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9334-010 IBM SCSI Drawer Expansion Unit Model 010
-
-🔗 [https://www.ibm.com/docs/en/announcements/scsi-drawer-expansion-unit-model-010](https://www.ibm.com/docs/en/announcements/scsi-drawer-expansion-unit-model-010?region=AP)
-
-📅 2009-06-06
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9334-010 | 1991-03-12 | 1991-09-27 | 1996-01-09 | 2010-12-31 |
 
 
 
