@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2026-09-17 03:42:26.559667934 +0800 CST
+content update: 2026-09-18 03:53:49.202419829 +0800 CST
 
 ---
 
@@ -45,9 +45,6 @@ content update: 2026-09-17 03:42:26.559667934 +0800 CST
 - [3599-025 IBM 3592 Extended Tape WORM Cart with Labeling Model 025](#3599-025-ibm-3592-extended-tape-worm-cart-with-labeling-model-025)
 - [3599-026 IBM 3592 Extended Tape WORM Cart Model 026](#3599-026-ibm-3592-extended-tape-worm-cart-model-026)
 - [Family 3599+04 IBM Tape Cartridge 3592](#family-359904-ibm-tape-cartridge-3592)
-- [3599-E11 IBM 3592 Enterprise Tape Economy Cartridge with Labeling, Initialization Model E11](#3599-e11-ibm-3592-enterprise-tape-economy-cartridge-with-labeling-initialization-model-e11)
-- [3599-E12 IBM 3592 Enterprise Tape Economy Cartridge with Labeling Model E12](#3599-e12-ibm-3592-enterprise-tape-economy-cartridge-with-labeling-model-e12)
-- [3599-E13 IBM 3592 Enterprise Tape Economy Cartridge Model E13](#3599-e13-ibm-3592-enterprise-tape-economy-cartridge-model-e13)
 - [3599-E21 IBM 3592 Enterprise Tape Economy WORM Cartridge with Labeling, Initialization Model E21](#3599-e21-ibm-3592-enterprise-tape-economy-worm-cartridge-with-labeling-initialization-model-e21)
 - [3599-E22 IBM 3592 Enterprise Tape Economy WORM Cartridge with Labeling Model E22](#3599-e22-ibm-3592-enterprise-tape-economy-worm-cartridge-with-labeling-model-e22)
 - [3599-E23 IBM 3592 Enterprise Tape Economy WORM Cartridge Model E23](#3599-e23-ibm-3592-enterprise-tape-economy-worm-cartridge-model-e23)
@@ -928,75 +925,6 @@ content update: 2026-09-17 03:42:26.559667934 +0800 CST
 | --- | --- | --- | --- | --- |
 | 3599-427 | 2023-08-22 | 2023-08-25 |  |  |
 | 3599-527 | 2023-08-22 | 2023-08-25 |  |  |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3599-E11 IBM 3592 Enterprise Tape Economy Cartridge with Labeling, Initialization Model E11
-
-🔗 [https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-economy-cartridge-labeling-initialization-model-e11](https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-economy-cartridge-labeling-initialization-model-e11?region=AP)
-
-📅 2023-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3599-E11 | 2004-04-27 | 2004-05-21 | 2014-09-25 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3599-E12 IBM 3592 Enterprise Tape Economy Cartridge with Labeling Model E12
-
-🔗 [https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-economy-cartridge-labeling-model-e12](https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-economy-cartridge-labeling-model-e12?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3599-E12 | 2004-04-27 | 2004-05-21 | 2014-09-25 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3599-E13 IBM 3592 Enterprise Tape Economy Cartridge Model E13
-
-🔗 [https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-economy-cartridge-model-e13](https://www.ibm.com/docs/en/announcements/3592-enterprise-tape-economy-cartridge-model-e13?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3599-E13 | 2004-04-27 | 2004-05-21 | 2014-09-25 | - |
 
 
 

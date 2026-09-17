@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2026-09-17 03:42:26.559667934 +0800 CST
+content update: 2026-09-18 03:53:49.202419829 +0800 CST
 
 ---
 
@@ -19,12 +19,9 @@ content update: 2026-09-17 03:42:26.559667934 +0800 CST
 - [Family 2027+02 IBM TotalStorage SAN256M Director SAN16M-R Router SANC40M 40U Cabinet](#family-202702-ibm-totalstorage-san256m-director-san16m-r-router-sanc40m-40u-cabinet)
 - [Family 2027+03 IBM TotalStorage SAN04M-R Router](#family-202703-ibm-totalstorage-san04m-r-router)
 - [Family 2045+01 IBM TotalStorage SAN256N Director and Cabinet](#family-204501-ibm-totalstorage-san256n-director-and-cabinet)
-- [2108-G07 IBM Storage Area Network Data Gateway Model G07](#2108-g07-ibm-storage-area-network-data-gateway-model-g07)
 - [2108-R03 IBM SAN Data Gateway Router Model R03](#2108-r03-ibm-san-data-gateway-router-model-r03)
-- [2108-S20 IBM Storage Area Network Data Gateway for Serial Systems Model S20](#2108-s20-ibm-storage-area-network-data-gateway-for-serial-systems-model-s20)
 - [2109-A16 IBM TotalStorage SAN16B-R Multiprotocol Router Model A16](#2109-a16-ibm-totalstorage-san16b-r-multiprotocol-router-model-a16)
 - [2109-F16 IBM TotalStorage Storage Area Network (SAN) Switch Model F16](#2109-f16-ibm-totalstorage-storage-area-network-san-switch-model-f16)
-- [2109-F32 IBM TotalStorage Storage Area Network Switch (SAN) Model F32](#2109-f32-ibm-totalstorage-storage-area-network-switch-san-model-f32)
 - [2109-M12 IBM TotalStorage SAN Switch Model M12](#2109-m12-ibm-totalstorage-san-switch-model-m12)
 - [2109-M14 IBM TotalStorage SAN Switch Model M14](#2109-m14-ibm-totalstorage-san-switch-model-m14)
 - [2109-M48 IBM TotalStorage SAN256B Director Model M48](#2109-m48-ibm-totalstorage-san256b-director-model-m48)
@@ -330,29 +327,6 @@ content update: 2026-09-17 03:42:26.559667934 +0800 CST
 
 
 
-### 2108-G07 IBM Storage Area Network Data Gateway Model G07
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-area-network-data-gateway-model-g07](https://www.ibm.com/docs/en/announcements/storage-area-network-data-gateway-model-g07?region=AP)
-
-📅 2008-03-07
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2108-G07 | 1999-02-16 | 1999-03-26 | 2002-12-13 | 2008-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 2108-R03 IBM SAN Data Gateway Router Model R03
 
 🔗 [https://www.ibm.com/docs/en/announcements/san-data-gateway-router-model-r03](https://www.ibm.com/docs/en/announcements/san-data-gateway-router-model-r03?region=AP)
@@ -362,29 +336,6 @@ content update: 2026-09-17 03:42:26.559667934 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2108-R03 | 1999-08-03 | 1999-09-17 | 2002-12-13 | 2008-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2108-S20 IBM Storage Area Network Data Gateway for Serial Systems Model S20
-
-🔗 [https://www.ibm.com/docs/en/announcements/storage-area-network-data-gateway-serial-systems-model-s20](https://www.ibm.com/docs/en/announcements/storage-area-network-data-gateway-serial-systems-model-s20?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2108-S20 | 1999-05-04 | 1999-05-07 | 2003-12-12 | - |
 
 
 
@@ -431,29 +382,6 @@ content update: 2026-09-17 03:42:26.559667934 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2109-F16 | 2001-10-02 | 2001-10-12 | 2005-04-29 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 2109-F32 IBM TotalStorage Storage Area Network Switch (SAN) Model F32
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-storage-area-network-switch-san-model-f32](https://www.ibm.com/docs/en/announcements/totalstorage-storage-area-network-switch-san-model-f32?region=AP)
-
-📅 2012-03-08
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2109-F32 | 2002-11-12 | 2002-11-15 | 2005-10-28 | 2010-03-30 |
 
 
 
