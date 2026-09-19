@@ -1,6 +1,6 @@
 # Power7
 
-content update: 2026-09-19 03:13:00.82532867 +0800 CST
+content update: 2026-09-20 02:46:01.259132987 +0800 CST
 
 ---
 
@@ -23,6 +23,7 @@ content update: 2026-09-19 03:13:00.82532867 +0800 CST
 - [Family 8231+03 IBM Power 730 Express server](#family-823103-ibm-power-730-express-server)
 - [Family 8231+04 IBM Power 710 Express Server](#family-823104-ibm-power-710-express-server)
 - [Family 8231+05 IBM Power 730 Express server](#family-823105-ibm-power-730-express-server)
+- [Family 8233+01 IBM Power 750 Express Server](#family-823301-ibm-power-750-express-server)
 - [Family 8408+01 IBM Power 750 Express](#family-840801-ibm-power-750-express)
 - [Family 9109+01 IBM Power 760](#family-910901-ibm-power-760)
 - [Family 9117+03 IBM Power 770 Server MMB](#family-911703-ibm-power-770-server-mmb)
@@ -395,6 +396,29 @@ content update: 2026-09-19 03:13:00.82532867 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 8231-E2D | 2013-02-05 | 2013-02-20 | 2015-11-30 | 2020-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 8233+01 IBM Power 750 Express Server
+
+🔗 [https://www.ibm.com/docs/en/announcements/power-750-express-server](https://www.ibm.com/docs/en/announcements/power-750-express-server?region=AP)
+
+📅 2023-10-24
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 8233-E8B | 2010-02-09 | 2010-02-19 | 2014-01-03 | 2019-09-30 |
 
 
 
