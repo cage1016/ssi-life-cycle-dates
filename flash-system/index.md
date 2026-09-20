@@ -1,6 +1,6 @@
 # FlashSystem
 
-content update: 2026-09-20 02:46:01.259132987 +0800 CST
+content update: 2026-09-21 02:51:49.191380423 +0800 CST
 
 ---
 
@@ -11,9 +11,12 @@ content update: 2026-09-20 02:46:01.259132987 +0800 CST
 - [Family 9745+01 IBM FlashSystem Utility models Variable Use billing](#family-974501-ibm-flashsystem-utility-models-variable-use-billing)
 - [Family 9830+01 IBM FlashSystem 710 and FlashSystem 810](#family-983001-ibm-flashsystem-710-and-flashsystem-810)
 - [Family 9831+01 IBM FlashSystem 720 and FlashSystem 820](#family-983101-ibm-flashsystem-720-and-flashsystem-820)
+- [Family 9835+01 IBM FlashSystem A9000R](#family-983501-ibm-flashsystem-a9000r)
 - [Family 9835+02 IBM FlashSystem A9000R](#family-983502-ibm-flashsystem-a9000r)
+- [Family 9836+01 IBM FlashSystem A9000](#family-983601-ibm-flashsystem-a9000)
 - [Family 9836+02 IBM FlashSystem A9000](#family-983602-ibm-flashsystem-a9000)
 - [Family 9837+01 IBM FlashSystem A9000R](#family-983701-ibm-flashsystem-a9000r)
+- [Family 9837+02 IBM FlashSystem A9000R](#family-983702-ibm-flashsystem-a9000r)
 - [Family 9837+03 IBM FlashSystem A9000R Utility Offerings](#family-983703-ibm-flashsystem-a9000r-utility-offerings)
 - [Family 9838+01 IBM FlashSystem A9000](#family-983801-ibm-flashsystem-a9000)
 - [Family 9838+02 IBM FlashSystem A9000](#family-983802-ibm-flashsystem-a9000)
@@ -132,6 +135,29 @@ content update: 2026-09-20 02:46:01.259132987 +0800 CST
 
 
 
+### Family 9835+01 IBM FlashSystem A9000R
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-a9000r](https://www.ibm.com/docs/en/announcements/flashsystem-a9000r?region=AP)
+
+📅 2021-08-24
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9835-415 | 2016-04-27 | 2016-04-29 | 2018-06-02 | 2022-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 9835+02 IBM FlashSystem A9000R
 
 🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-a9000r-2022-07-26](https://www.ibm.com/docs/en/announcements/flashsystem-a9000r-2022-07-26?region=AP)
@@ -141,6 +167,29 @@ content update: 2026-09-20 02:46:01.259132987 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9835-425 | 2017-10-24 | 2017-11-24 | 2020-11-20 | 2023-07-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 9836+01 IBM FlashSystem A9000
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-a9000](https://www.ibm.com/docs/en/announcements/flashsystem-a9000?region=AP)
+
+📅 2021-07-13
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9836-415 | 2016-04-27 | 2016-04-29 | 2018-06-02 | 2022-12-31 |
 
 
 
@@ -187,6 +236,29 @@ content update: 2026-09-20 02:46:01.259132987 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9837-415 | 2016-04-27 | 2016-04-29 | 2018-06-02 | 2022-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 9837+02 IBM FlashSystem A9000R
+
+🔗 [https://www.ibm.com/docs/en/announcements/flashsystem-a9000r-2022-07-26-1](https://www.ibm.com/docs/en/announcements/flashsystem-a9000r-2022-07-26-1?region=AP)
+
+📅 2022-07-26
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9837-425 | 2017-10-24 | 2017-11-24 | 2020-11-20 | 2023-07-31 |
 
 
 
