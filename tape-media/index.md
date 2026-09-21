@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2026-09-21 02:51:49.191380423 +0800 CST
+content update: 2026-09-22 04:39:33.824419845 +0800 CST
 
 ---
 
@@ -25,10 +25,7 @@ content update: 2026-09-21 02:51:49.191380423 +0800 CST
 - [Family 3599+01 IBM Tape Cartridges 3592](#family-359901-ibm-tape-cartridges-3592)
 - [3599-001 IBM 3590 High Performance Cartridge Tape with Labeling and Initialization Model 001](#3599-001-ibm-3590-high-performance-cartridge-tape-with-labeling-and-initialization-model-001)
 - [3599-002 IBM 3590 High Performance Cartridge Tape with Labeling Model 002](#3599-002-ibm-3590-high-performance-cartridge-tape-with-labeling-model-002)
-- [3599-003 IBM 3590 High Performance Cartridge Tape Model 003](#3599-003-ibm-3590-high-performance-cartridge-tape-model-003)
 - [3599-004 IBM 3590 Extended High Performance Cartridge Tape Model 004](#3599-004-ibm-3590-extended-high-performance-cartridge-tape-model-004)
-- [3599-005 IBM 3590 Extended High Performance Cartridge Tape Model 005](#3599-005-ibm-3590-extended-high-performance-cartridge-tape-model-005)
-- [3599-006 IBM 3590 Extended High Performance Cartridge Tape Model 006](#3599-006-ibm-3590-extended-high-performance-cartridge-tape-model-006)
 - [3599-007 IBM 3590 Cleaning Cartridges Model 007](#3599-007-ibm-3590-cleaning-cartridges-model-007)
 - [3599-008 IBM 3590 Cartridge Magazine Model 008](#3599-008-ibm-3590-cartridge-magazine-model-008)
 - [3599-011 IBM 3592 Enterprise Tape Cartridge with Labeling,Init Model 011](#3599-011-ibm-3592-enterprise-tape-cartridge-with-labeling-init-model-011)
@@ -40,7 +37,6 @@ content update: 2026-09-21 02:51:49.191380423 +0800 CST
 - [3599-017 IBM 3592 Enterprise Tape Cartridge (Cleaning) Model 017](#3599-017-ibm-3592-enterprise-tape-cartridge-cleaning-model-017)
 - [3599-021 IBM 3592 Ent Tape WORM Cart with Labeling, Init Model 021](#3599-021-ibm-3592-ent-tape-worm-cart-with-labeling-init-model-021)
 - [3599-022 IBM 3592 Enterprise Tape WORM Cartridge with Labeling Model 022](#3599-022-ibm-3592-enterprise-tape-worm-cartridge-with-labeling-model-022)
-- [3599-023 IBM 3592 Ent Tape WORM Cart Model 023](#3599-023-ibm-3592-ent-tape-worm-cart-model-023)
 - [3599-024 IBM 3592 Ext WORM Cart with Labeling and Init Model 024](#3599-024-ibm-3592-ext-worm-cart-with-labeling-and-init-model-024)
 - [3599-025 IBM 3592 Extended Tape WORM Cart with Labeling Model 025](#3599-025-ibm-3592-extended-tape-worm-cart-with-labeling-model-025)
 - [3599-026 IBM 3592 Extended Tape WORM Cart Model 026](#3599-026-ibm-3592-extended-tape-worm-cart-model-026)
@@ -481,29 +477,6 @@ content update: 2026-09-21 02:51:49.191380423 +0800 CST
 
 
 
-### 3599-003 IBM 3590 High Performance Cartridge Tape Model 003
-
-🔗 [https://www.ibm.com/docs/en/announcements/3590-high-performance-cartridge-tape-model-003](https://www.ibm.com/docs/en/announcements/3590-high-performance-cartridge-tape-model-003?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3599-003 | 1997-03-25 | 1997-03-28 | 2008-12-26 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 3599-004 IBM 3590 Extended High Performance Cartridge Tape Model 004
 
 🔗 [https://www.ibm.com/docs/en/announcements/3590-extended-high-performance-cartridge-tape-model-004](https://www.ibm.com/docs/en/announcements/3590-extended-high-performance-cartridge-tape-model-004?region=AP)
@@ -513,52 +486,6 @@ content update: 2026-09-21 02:51:49.191380423 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3599-004 | 2000-02-29 | 2000-03-17 | 2008-12-26 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3599-005 IBM 3590 Extended High Performance Cartridge Tape Model 005
-
-🔗 [https://www.ibm.com/docs/en/announcements/3590-extended-high-performance-cartridge-tape-model-005](https://www.ibm.com/docs/en/announcements/3590-extended-high-performance-cartridge-tape-model-005?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3599-005 | 2000-02-29 | 2000-03-17 | 2008-12-26 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3599-006 IBM 3590 Extended High Performance Cartridge Tape Model 006
-
-🔗 [https://www.ibm.com/docs/en/announcements/3590-extended-high-performance-cartridge-tape-model-006](https://www.ibm.com/docs/en/announcements/3590-extended-high-performance-cartridge-tape-model-006?region=AP)
-
-📅 2023-05-30
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3599-006 | 2000-02-29 | 2000-03-03 | 2008-12-26 | - |
 
 
 
@@ -812,29 +739,6 @@ content update: 2026-09-21 02:51:49.191380423 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3599-022 | 2004-04-27 | 2004-05-21 | 2009-05-29 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3599-023 IBM 3592 Ent Tape WORM Cart Model 023
-
-🔗 [https://www.ibm.com/docs/en/announcements/3592-ent-tape-worm-cart-model-023](https://www.ibm.com/docs/en/announcements/3592-ent-tape-worm-cart-model-023?region=AP)
-
-📅 2023-11-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3599-023 | 2004-04-27 | 2004-05-21 | 2009-05-29 | - |
 
 
 
