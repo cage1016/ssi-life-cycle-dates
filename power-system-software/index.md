@@ -1,38 +1,17 @@
 # Power System Software
 
-content update: 2026-09-22 04:39:33.824419845 +0800 CST
+content update: 2026-09-23 03:52:52.630454183 +0800 CST
 
 ---
 
 ### Table of contents
 
 
-- [](#)
 - [5765-G98 IBM AIX 7 Standard Edition](#5765-g98-ibm-aix-7-standard-edition)
 
 ---
 
 [← Back to README](../README.md)
-
-
-
-
-
-### 
-
-🔗 [](?region=AP)
-
-📅 
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
 
 
 

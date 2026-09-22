@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2026-09-22 04:39:33.824419845 +0800 CST
+content update: 2026-09-23 03:52:52.630454183 +0800 CST
 
 ---
 
@@ -17,7 +17,6 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 - [1740-710 IBM TotalStorage DS4000 EXP710 Storage Expansion Unit Model 710](#1740-710-ibm-totalstorage-ds4000-exp710-storage-expansion-unit-model-710)
 - [1742-1RU IBM TotalStorage DS4400 Midrange Disk System Model 1RU](#1742-1ru-ibm-totalstorage-ds4400-midrange-disk-system-model-1ru)
 - [1742-90U IBM TotalStorage DS4500 Midrange Disk System Model 90U](#1742-90u-ibm-totalstorage-ds4500-midrange-disk-system-model-90u)
-- [Family 1747+02 IBM System Storage EXP2500 Express Storage Enclosures (AAS / WTAAS)](#family-174702-ibm-system-storage-exp2500-express-storage-enclosures-aas-wtaas)
 - [Family 1750+01 IBM TotalStorage DS6800 and DS6000 Expansion Enclosure](#family-175001-ibm-totalstorage-ds6800-and-ds6000-expansion-enclosure)
 - [Family 1750+02 IBM System Storage DS6800 and DS6000](#family-175002-ibm-system-storage-ds6800-and-ds6000)
 - [Family 1812+01 IBM System Storage DS4000 EXP810 Storage Expansion Unit](#family-181201-ibm-system-storage-ds4000-exp810-storage-expansion-unit)
@@ -38,11 +37,6 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 - [Family 1818+04 IBM System Storage DS Remote Support Manager for Storage 3](#family-181804-ibm-system-storage-ds-remote-support-manager-for-storage-3)
 - [Family 1818+05 IBM System Storage DCS3700](#family-181805-ibm-system-storage-dcs3700)
 - [Family 1818+06 IBM System Storage DCS3700 Controller 90C](#family-181806-ibm-system-storage-dcs3700-controller-90c)
-- [Family 2071+02 IBM Storwize V3500 Disk System](#family-207102-ibm-storwize-v3500-disk-system)
-- [Family 2072+03 IBM Storwize V3700 Disk System (AAS)](#family-207203-ibm-storwize-v3700-disk-system-aas)
-- [Family 2076+01 IBM Storwize V7000 Disk System](#family-207601-ibm-storwize-v7000-disk-system)
-- [Family 2076+02 IBM Storwize V7000 Disk System](#family-207602-ibm-storwize-v7000-disk-system)
-- [Family 2076+05 IBM Storwize V7000](#family-207605-ibm-storwize-v7000)
 - [Family 2077+01 IBM Storwize V5000 Disk System](#family-207701-ibm-storwize-v5000-disk-system)
 - [Family 2078+01 IBM Storwize V5000 Disk System](#family-207801-ibm-storwize-v5000-disk-system)
 - [Family 2101+01 IBM Seascape Solutions Rack Model 100](#family-210101-ibm-seascape-solutions-rack-model-100)
@@ -105,20 +99,16 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 - [3390-A28 IBM Direct Access Storage Device (DASD) Model A28](#3390-a28-ibm-direct-access-storage-device-dasd-model-a28)
 - [3390-A34 IBM Direct Access Storage Device (DASD) Model A34](#3390-a34-ibm-direct-access-storage-device-dasd-model-a34)
 - [3390-A38 IBM Direct Access Storage Device (DASD) Model A38](#3390-a38-ibm-direct-access-storage-device-dasd-model-a38)
-- [3390-A94 IBM Direct Access Storage Device (DASD) Model A94](#3390-a94-ibm-direct-access-storage-device-dasd-model-a94)
 - [3390-A98 IBM Direct Access Storage Device (DASD) Model A98](#3390-a98-ibm-direct-access-storage-device-dasd-model-a98)
-- [3390-B14 IBM Direct Access Storage Device (DASD) Model B14](#3390-b14-ibm-direct-access-storage-device-dasd-model-b14)
 - [3390-B18 IBM Direct Access Storage Device (DASD) Model B18](#3390-b18-ibm-direct-access-storage-device-dasd-model-b18)
 - [3390-B1C IBM Direct Access Storage Device (DASD) Model B1C](#3390-b1c-ibm-direct-access-storage-device-dasd-model-b1c)
 - [3390-B24 IBM Direct Access Storage Device (DASD) Model B24](#3390-b24-ibm-direct-access-storage-device-dasd-model-b24)
 - [3390-B28 IBM Direct Access Storage Device (DASD) Model B28](#3390-b28-ibm-direct-access-storage-device-dasd-model-b28)
 - [3390-B2C IBM Direct Access Storage Device (DASD) Model B2C](#3390-b2c-ibm-direct-access-storage-device-dasd-model-b2c)
-- [3390-B34 IBM Direct Access Storage Device (DASD) Model B34](#3390-b34-ibm-direct-access-storage-device-dasd-model-b34)
 - [3390-B38 IBM Direct Access Storage Device (DASD) Model B38](#3390-b38-ibm-direct-access-storage-device-dasd-model-b38)
 - [3390-B3C IBM Direct Access Storage Device (DASD) Model B3C](#3390-b3c-ibm-direct-access-storage-device-dasd-model-b3c)
 - [3390-B94 IBM Direct Access Storage Device (DASD) Model B94](#3390-b94-ibm-direct-access-storage-device-dasd-model-b94)
 - [3390-B98 IBM Direct Access Storage Device (DASD) Model B98](#3390-b98-ibm-direct-access-storage-device-dasd-model-b98)
-- [3390-B9C IBM Direct Access Storage Device (DASD) Model B9C](#3390-b9c-ibm-direct-access-storage-device-dasd-model-b9c)
 - [3552-1RU IBM TotalStorage FAStT500 Storage Server Model 1RU](#3552-1ru-ibm-totalstorage-fastt500-storage-server-model-1ru)
 - [Family 3560+01 IBM FAStT EXP500 Expansion Unit](#family-356001-ibm-fastt-exp500-expansion-unit)
 - [3990-001 IBM Storage Control Model 001](#3990-001-ibm-storage-control-model-001)
@@ -166,6 +156,7 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 - [9333-501 IBM High-Performance Disk Drive Subsystem Model 501](#9333-501-ibm-high-performance-disk-drive-subsystem-model-501)
 - [9334-010 IBM SCSI Drawer Expansion Unit Model 010](#9334-010-ibm-scsi-drawer-expansion-unit-model-010)
 - [9334-011 IBM 9334 SCSI Expansion Unit Model 011](#9334-011-ibm-9334-scsi-expansion-unit-model-011)
+- [9334-500 IBM SCSI Deskside Expansion Unit Model 500](#9334-500-ibm-scsi-deskside-expansion-unit-model-500)
 - [9334-501 IBM SCSI Expansion Unit Model 501](#9334-501-ibm-scsi-expansion-unit-model-501)
 - [9335-A01 IBM Direct Access Storage Subsystem Model A01](#9335-a01-ibm-direct-access-storage-subsystem-model-a01)
 - [9335-B01 IBM Direct Access Storage Subsystem Model B01](#9335-b01-ibm-direct-access-storage-subsystem-model-b01)
@@ -173,7 +164,6 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 - [9336-020 IBM Disk Unit Model 020](#9336-020-ibm-disk-unit-model-020)
 - [9336-025 IBM Disk Unit Model 025](#9336-025-ibm-disk-unit-model-025)
 - [9337-010 IBM Disk Array Subsystem Model 010](#9337-010-ibm-disk-array-subsystem-model-010)
-- [9337-015 IBM Disk Array Subsystem Model 015](#9337-015-ibm-disk-array-subsystem-model-015)
 - [9337-020 IBM Disk Array Subsystem Model 020](#9337-020-ibm-disk-array-subsystem-model-020)
 - [9337-025 IBM Disk Array Subsystem Model 025](#9337-025-ibm-disk-array-subsystem-model-025)
 - [9337-040 IBM Disk Array Subsystem Model 040](#9337-040-ibm-disk-array-subsystem-model-040)
@@ -182,35 +172,27 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 - [9337-120 IBM Disk Array Subsystem Model 120](#9337-120-ibm-disk-array-subsystem-model-120)
 - [9337-125 IBM Disk Array Subsystem Model 125](#9337-125-ibm-disk-array-subsystem-model-125)
 - [9337-140 IBM Disk Array Subsystem Model 140](#9337-140-ibm-disk-array-subsystem-model-140)
-- [9337-210 IBM Disk Array Subsystem Model 210](#9337-210-ibm-disk-array-subsystem-model-210)
-- [9337-215 IBM Disk Array Subsystem Model 215](#9337-215-ibm-disk-array-subsystem-model-215)
-- [9337-225 IBM Disk Array Subsystem Model 225](#9337-225-ibm-disk-array-subsystem-model-225)
+- [9337-220 IBM Disk Array Subsystem Model 220](#9337-220-ibm-disk-array-subsystem-model-220)
 - [9337-240 IBM Disk Array Subsystem Model 240](#9337-240-ibm-disk-array-subsystem-model-240)
 - [9337-420 IBM Disk Array Subsystem Model 420](#9337-420-ibm-disk-array-subsystem-model-420)
 - [9337-440 IBM Disk Array Subsystem Model 440](#9337-440-ibm-disk-array-subsystem-model-440)
-- [9337-480 IBM Disk Array Subsystem Model 480](#9337-480-ibm-disk-array-subsystem-model-480)
 - [9337-540 IBM Disk Array Subsystem Model 540](#9337-540-ibm-disk-array-subsystem-model-540)
-- [9337-545 IBM Disk Array Subsystem Model 545](#9337-545-ibm-disk-array-subsystem-model-545)
-- [9337-580 IBM Disk Array Subsystem Model 580](#9337-580-ibm-disk-array-subsystem-model-580)
-- [9337-585 IBM Disk Array Subsystem Model 585](#9337-585-ibm-disk-array-subsystem-model-585)
 - [9337-590 IBM Disk Array Subsystem Model 590](#9337-590-ibm-disk-array-subsystem-model-590)
 - [9337-595 IBM Disk Array Subsystem Model 595](#9337-595-ibm-disk-array-subsystem-model-595)
+- [9345-B12 IBM DASD Model B12](#9345-b12-ibm-dasd-model-b12)
 - [9345-B22 IBM DASD Model B22](#9345-b22-ibm-dasd-model-b22)
 - [9390-001 IBM RAMAC 3 Array Storage Control Model 001](#9390-001-ibm-ramac-3-array-storage-control-model-001)
 - [9390-002 IBM RAMAC 3 Array Storage Control Model 002](#9390-002-ibm-ramac-3-array-storage-control-model-002)
 - [9391-A30 IBM RAMAC 3 Array DASD Model A30](#9391-a30-ibm-ramac-3-array-dasd-model-a30)
-- [9392-B23 IBM RAMAC 2 Array DASD Model B23](#9392-b23-ibm-ramac-2-array-dasd-model-b23)
+- [9392-B13 IBM RAMAC Array DASD Model B13](#9392-b13-ibm-ramac-array-dasd-model-b13)
 - [9392-B33 IBM RAMAC 3 Array DASD Model B33](#9392-b33-ibm-ramac-3-array-dasd-model-b33)
-- [9393-001 IBM RAMAC Virtual Array Storage Model 001](#9393-001-ibm-ramac-virtual-array-storage-model-001)
 - [9393-002 IBM RAMAC Virtual Array Storage Model 002](#9393-002-ibm-ramac-virtual-array-storage-model-002)
 - [9393-T42 IBM RAMAC Virtual Array Storage Model T42](#9393-t42-ibm-ramac-virtual-array-storage-model-t42)
 - [9393-T82 IBM RAMAC Virtual Array Storage Model T82](#9393-t82-ibm-ramac-virtual-array-storage-model-t82)
 - [9393-UPA IBM RAMAC Virtual Array Storage Model UPA](#9393-upa-ibm-ramac-virtual-array-storage-model-upa)
-- [9393-UPC IBM RAMAC Virtual Array Storage Model UPC](#9393-upc-ibm-ramac-virtual-array-storage-model-upc)
 - [9393-X83 IBM RAMAC Virtual Array Turbo Model X83](#9393-x83-ibm-ramac-virtual-array-turbo-model-x83)
 - [9394-001 IBM RAMAC 2 Array Subsystem Model 001](#9394-001-ibm-ramac-2-array-subsystem-model-001)
 - [9394-002 IBM RAMAC 2 Array Subsystem Model 002](#9394-002-ibm-ramac-2-array-subsystem-model-002)
-- [9394-003 IBM RAMAC 2 Array Subsystem Model 003](#9394-003-ibm-ramac-2-array-subsystem-model-003)
 - [9395-B13 IBM RAMAC 2 Array Subsystem Model B13](#9395-b13-ibm-ramac-2-array-subsystem-model-b13)
 - [9395-B23 IBM RAMAC 2 Array Subsystem Model B23](#9395-b23-ibm-ramac-2-array-subsystem-model-b23)
 
@@ -437,30 +419,6 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 1742-90U | 2003-02-17 | 2003-03-14 | 2006-12-08 | 2015-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 1747+02 IBM System Storage EXP2500 Express Storage Enclosures (AAS / WTAAS)
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-exp2500-express-storage-enclosures-aas-wtaas](https://www.ibm.com/docs/en/announcements/system-storage-exp2500-express-storage-enclosures-aas-wtaas?region=AP)
-
-📅 2019-07-09
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1747-HC1 | 2014-07-08 | 2014-07-11 | 2017-01-14 | 2019-12-31 |
-| 1747-HC2 | 2014-07-08 | 2014-07-11 | 2017-01-14 | 2019-12-31 |
 
 
 
@@ -932,132 +890,6 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 1818-90C | 2015-04-28 | 2015-06-05 | 2017-09-09 | 2022-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2071+02 IBM Storwize V3500 Disk System
-
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v3500-disk-system](https://www.ibm.com/docs/en/announcements/storwize-v3500-disk-system?region=AP)
-
-📅 2021-07-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2071-02A | 2014-09-09 | 2014-09-12 | 2017-01-14 | 2022-12-31 |
-| 2071-10A | 2014-09-09 | 2014-09-12 | 2017-01-14 | 2022-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2072+03 IBM Storwize V3700 Disk System (AAS)
-
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v3700-disk-system-aas](https://www.ibm.com/docs/en/announcements/storwize-v3700-disk-system-aas?region=AP)
-
-📅 2021-07-27
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2072-12C | 2014-09-09 | 2014-09-12 | 2017-01-14 | 2022-12-31 |
-| 2072-12E | 2014-09-09 | 2014-09-12 | 2018-01-13 | 2022-12-31 |
-| 2072-2DC | 2014-09-09 | 2014-09-12 | 2017-01-14 | 2022-12-31 |
-| 2072-2DE | 2014-09-09 | 2014-09-12 | 2018-01-13 | 2022-12-31 |
-| 2072-24C | 2014-09-09 | 2014-09-12 | 2017-01-14 | 2022-12-31 |
-| 2072-24E | 2014-09-09 | 2014-09-12 | 2018-01-13 | 2022-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2076+01 IBM Storwize V7000 Disk System
-
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000-disk-system](https://www.ibm.com/docs/en/announcements/storwize-v7000-disk-system?region=AP)
-
-📅 2021-08-24
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2076-112 | 2010-10-07 | 2010-11-12 | 2015-01-17 | 2022-12-31 |
-| 2076-124 | 2010-10-07 | 2010-11-12 | 2015-01-17 | 2022-12-31 |
-| 2076-212 | 2010-10-07 | 2010-11-12 | 2016-01-16 | 2022-12-31 |
-| 2076-224 | 2010-10-07 | 2010-11-12 | 2016-01-16 | 2022-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2076+02 IBM Storwize V7000 Disk System
-
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000-disk-system-2021-08-24](https://www.ibm.com/docs/en/announcements/storwize-v7000-disk-system-2021-08-24?region=AP)
-
-📅 2021-08-24
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2076-312 | 2011-05-09 | 2011-06-10 | 2015-01-17 | 2022-12-31 |
-| 2076-324 | 2011-05-09 | 2011-06-10 | 2015-01-17 | 2022-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2076+05 IBM Storwize V7000
-
-🔗 [https://www.ibm.com/docs/en/announcements/storwize-v7000-2023-07-11](https://www.ibm.com/docs/en/announcements/storwize-v7000-2023-07-11?region=AP)
-
-📅 2023-12-05
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2076-624 | 2016-08-23 | 2016-09-09 | 2020-08-15 | 2024-12-31 |
-| 2076-U7A | 2017-11-14 | 2017-12-08 | 2020-08-15 | 2024-12-31 |
 
 
 
@@ -2549,29 +2381,6 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 
 
 
-### 3390-A94 IBM Direct Access Storage Device (DASD) Model A94
-
-🔗 [https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-a94](https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-a94?region=AP)
-
-📅 2008-03-07
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3390-A94 | 1993-09-07 | 1993-09-07 | 1996-12-31 | 2008-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 3390-A98 IBM Direct Access Storage Device (DASD) Model A98
 
 🔗 [https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-a98](https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-a98?region=AP)
@@ -2581,29 +2390,6 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3390-A98 | 1993-05-20 | 1993-05-20 | 1996-12-31 | 2008-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3390-B14 IBM Direct Access Storage Device (DASD) Model B14
-
-🔗 [https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b14](https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b14?region=AP)
-
-📅 2005-06-06
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3390-B14 | 1989-11-14 | 1989-12-01 | 1996-04-26 | 2005-12-31 |
 
 
 
@@ -2733,29 +2519,6 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 
 
 
-### 3390-B34 IBM Direct Access Storage Device (DASD) Model B34
-
-🔗 [https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b34](https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b34?region=AP)
-
-📅 2006-06-15
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3390-B34 | 1991-09-11 | 1991-09-27 | 1996-04-26 | 2008-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 3390-B38 IBM Direct Access Storage Device (DASD) Model B38
 
 🔗 [https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b38](https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b38?region=AP)
@@ -2834,29 +2597,6 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3390-B98 | 1993-05-20 | 1993-05-20 | 1996-12-31 | 2008-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 3390-B9C IBM Direct Access Storage Device (DASD) Model B9C
-
-🔗 [https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b9c](https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b9c?region=AP)
-
-📅 2007-06-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3390-B9C | 1993-05-20 | 1993-05-20 | 1996-12-31 | 2008-12-31 |
 
 
 
@@ -3960,6 +3700,29 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 
 
 
+### 9334-500 IBM SCSI Deskside Expansion Unit Model 500
+
+🔗 [https://www.ibm.com/docs/en/announcements/scsi-deskside-expansion-unit-model-500](https://www.ibm.com/docs/en/announcements/scsi-deskside-expansion-unit-model-500?region=AP)
+
+📅 2009-06-06
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9334-500 | 1991-03-12 | 1991-09-27 | 1996-01-09 | 2010-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 9334-501 IBM SCSI Expansion Unit Model 501
 
 🔗 [https://www.ibm.com/docs/en/announcements/scsi-expansion-unit-model-501](https://www.ibm.com/docs/en/announcements/scsi-expansion-unit-model-501?region=AP)
@@ -4107,29 +3870,6 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9337-010 | 1992-09-01 | 1992-09-01 | 1994-05-02 | 2008-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9337-015 IBM Disk Array Subsystem Model 015
-
-🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-015](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-015?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9337-015 | 1993-09-07 | 1993-09-24 | 1994-12-30 | - |
 
 
 
@@ -4328,61 +4068,15 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 
 
 
-### 9337-210 IBM Disk Array Subsystem Model 210
+### 9337-220 IBM Disk Array Subsystem Model 220
 
-🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-210](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-210?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9337-210 | 1993-09-07 | 1993-11-26 | 1994-08-03 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9337-215 IBM Disk Array Subsystem Model 215
-
-🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-215](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-215?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9337-215 | 1993-09-07 | 1993-11-26 | 1994-12-30 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9337-225 IBM Disk Array Subsystem Model 225
-
-🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-225](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-225?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-220](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-220?region=AP)
 
 📅 2008-06-11
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 9337-225 | 1993-09-07 | 1993-11-26 | 1996-09-13 | - |
+| 9337-220 | 1993-09-07 | 1993-11-26 | 1994-08-03 | - |
 
 
 
@@ -4466,29 +4160,6 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 
 
 
-### 9337-480 IBM Disk Array Subsystem Model 480
-
-🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-480](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-480?region=AP)
-
-📅 2008-06-11
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9337-480 | 1994-10-04 | 1994-10-14 | 1996-12-20 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 9337-540 IBM Disk Array Subsystem Model 540
 
 🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-540](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-540?region=AP)
@@ -4498,75 +4169,6 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9337-540 | 1996-06-04 | 1996-06-21 | 1998-09-30 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9337-545 IBM Disk Array Subsystem Model 545
-
-🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-545](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-545?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9337-545 | 1996-06-04 | 1996-06-21 | 1998-09-30 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9337-580 IBM Disk Array Subsystem Model 580
-
-🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-580](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-580?region=AP)
-
-📅 2008-03-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9337-580 | 1996-06-04 | 1996-06-21 | 1998-09-30 | 2008-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9337-585 IBM Disk Array Subsystem Model 585
-
-🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-585](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-585?region=AP)
-
-📅 2006-06-13
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9337-585 | 1996-06-04 | 1996-06-21 | 1998-09-30 | - |
 
 
 
@@ -4613,6 +4215,29 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9337-595 | 1997-02-18 | 1997-02-28 | 1998-09-30 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 9345-B12 IBM DASD Model B12
+
+🔗 [https://www.ibm.com/docs/en/announcements/dasd-model-b12](https://www.ibm.com/docs/en/announcements/dasd-model-b12?region=AP)
+
+📅 2005-12-12
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9345-B12 | 1991-09-11 | 1992-02-14 | 1996-12-31 | 2006-03-31 |
 
 
 
@@ -4719,15 +4344,15 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 
 
 
-### 9392-B23 IBM RAMAC 2 Array DASD Model B23
+### 9392-B13 IBM RAMAC Array DASD Model B13
 
-🔗 [https://www.ibm.com/docs/en/announcements/ramac-2-array-dasd-model-b23](https://www.ibm.com/docs/en/announcements/ramac-2-array-dasd-model-b23?region=AP)
+🔗 [https://www.ibm.com/docs/en/announcements/ramac-array-dasd-model-b13](https://www.ibm.com/docs/en/announcements/ramac-array-dasd-model-b13?region=AP)
 
-📅 2009-06-07
+📅 2008-07-16
 
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
-| 9392-B23 | 1995-06-12 | 1995-10-27 | 1998-07-28 | 2010-12-31 |
+| 9392-B13 | 1994-06-21 | 1994-09-30 | 1997-03-14 | - |
 
 
 
@@ -4751,26 +4376,6 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9392-B33 | 1996-09-10 | 1996-11-22 | 2000-08-11 | 2010-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9393-001 IBM RAMAC Virtual Array Storage Model 001
-
-🔗 [https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-001](https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-001?region=AP)
-
-📅 2004-06-07
-
 
 
 
@@ -4874,26 +4479,6 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 
 
 
-### 9393-UPC IBM RAMAC Virtual Array Storage Model UPC
-
-🔗 [https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-upc](https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-upc?region=AP)
-
-📅 1999-04-26
-
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 9393-X83 IBM RAMAC Virtual Array Turbo Model X83
 
 🔗 [https://www.ibm.com/docs/en/announcements/ramac-virtual-array-turbo-model-x83](https://www.ibm.com/docs/en/announcements/ramac-virtual-array-turbo-model-x83?region=AP)
@@ -4949,29 +4534,6 @@ content update: 2026-09-22 04:39:33.824419845 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9394-002 | 1994-06-21 | 1994-09-30 | 1998-07-28 | 2010-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 9394-003 IBM RAMAC 2 Array Subsystem Model 003
-
-🔗 [https://www.ibm.com/docs/en/announcements/ramac-2-array-subsystem-model-003](https://www.ibm.com/docs/en/announcements/ramac-2-array-subsystem-model-003?region=AP)
-
-📅 2008-07-16
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 9394-003 | 1994-06-21 | 1994-09-30 | 1998-07-28 | - |
 
 
 
