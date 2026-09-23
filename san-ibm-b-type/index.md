@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2026-09-23 03:52:52.630454183 +0800 CST
+content update: 2026-09-24 03:48:51.83858141 +0800 CST
 
 ---
 
@@ -14,6 +14,7 @@ content update: 2026-09-23 03:52:52.630454183 +0800 CST
 - [Family 2005+09 IBM System Storage SAN04B-R](#family-200509-ibm-system-storage-san04b-r)
 - [Family 2026+01 IBM TotalStorage SAN12M-1 Entry and SAN24M-1 Mid-range Switches](#family-202601-ibm-totalstorage-san12m-1-entry-and-san24m-1-mid-range-switches)
 - [Family 2027+02 IBM TotalStorage SAN256M Director SAN16M-R Router SANC40M 40U Cabinet](#family-202702-ibm-totalstorage-san256m-director-san16m-r-router-sanc40m-40u-cabinet)
+- [Family 2027+03 IBM TotalStorage SAN04M-R Router](#family-202703-ibm-totalstorage-san04m-r-router)
 - [Family 2045+01 IBM TotalStorage SAN256N Director and Cabinet](#family-204501-ibm-totalstorage-san256n-director-and-cabinet)
 - [2108-G07 IBM Storage Area Network Data Gateway Model G07](#2108-g07-ibm-storage-area-network-data-gateway-model-g07)
 - [2108-S20 IBM Storage Area Network Data Gateway for Serial Systems Model S20](#2108-s20-ibm-storage-area-network-data-gateway-for-serial-systems-model-s20)
@@ -22,13 +23,15 @@ content update: 2026-09-23 03:52:52.630454183 +0800 CST
 - [2109-M12 IBM TotalStorage SAN Switch Model M12](#2109-m12-ibm-totalstorage-san-switch-model-m12)
 - [2109-M14 IBM TotalStorage SAN Switch Model M14](#2109-m14-ibm-totalstorage-san-switch-model-m14)
 - [2109-M48 IBM TotalStorage SAN256B Director Model M48](#2109-m48-ibm-totalstorage-san256b-director-model-m48)
+- [2109-S08 IBM SAN Fibre Channel Switch Model S08](#2109-s08-ibm-san-fibre-channel-switch-model-s08)
+- [2109-S16 IBM SAN Fibre Channel Switch Model S16](#2109-s16-ibm-san-fibre-channel-switch-model-s16)
 - [Family 2498+03 IBM System Storage SAN32B-E4](#family-249803-ibm-system-storage-san32b-e4)
+- [Family 2498+05 IBM System Networking SAN24B-5](#family-249805-ibm-system-networking-san24b-5)
 - [Family 2498+08 IBM System Storage SAN80B-4](#family-249808-ibm-system-storage-san80b-4)
 - [Family 2499+02 IBM System Storage SAN384B](#family-249902-ibm-system-storage-san384b)
 - [3534-1RU IBM SAN Fibre Channel Managed Hub Model 1RU](#3534-1ru-ibm-san-fibre-channel-managed-hub-model-1ru)
 - [3534-F08 IBM TotalStorage Storage Area Network (SAN) Model F08](#3534-f08-ibm-totalstorage-storage-area-network-san-model-f08)
 - [Family 3758+01 IBM Converged Switch B32](#family-375801-ibm-converged-switch-b32)
-- [Family 3758+02 IBM Converged Switch L32](#family-375802-ibm-converged-switch-l32)
 - [7140-160 IBM TotalStorage SAN Controller Model 160](#7140-160-ibm-totalstorage-san-controller-model-160)
 - [Family 9239+01 IBM SANnav](#family-923901-ibm-sannav)
 - [Family 9240+01 IBM SANnav](#family-924001-ibm-sannav)
@@ -190,6 +193,29 @@ content update: 2026-09-23 03:52:52.630454183 +0800 CST
 | 2027-R16 | 2005-03-08 | 2005-03-11 | 2007-12-29 | 2011-12-31 |
 | 2027-C40 | 2005-03-08 | 2005-03-11 | 2008-11-29 | 2011-12-31 |
 | 2027-256 | 2005-03-08 | 2005-03-11 | 2008-11-29 | 2011-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2027+03 IBM TotalStorage SAN04M-R Router
+
+🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-san04m-r-router](https://www.ibm.com/docs/en/announcements/totalstorage-san04m-r-router?region=AP)
+
+📅 2011-06-23
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2027-R04 | 2005-07-26 | 2005-08-26 | 2007-12-29 | 2011-12-31 |
 
 
 
@@ -389,6 +415,52 @@ content update: 2026-09-23 03:52:52.630454183 +0800 CST
 
 
 
+### 2109-S08 IBM SAN Fibre Channel Switch Model S08
+
+🔗 [https://www.ibm.com/docs/en/announcements/san-fibre-channel-switch-model-s08](https://www.ibm.com/docs/en/announcements/san-fibre-channel-switch-model-s08?region=AP)
+
+📅 2008-07-16
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2109-S08 | 1999-08-03 | 1999-09-17 | 2003-01-30 | 2008-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 2109-S16 IBM SAN Fibre Channel Switch Model S16
+
+🔗 [https://www.ibm.com/docs/en/announcements/san-fibre-channel-switch-model-s16](https://www.ibm.com/docs/en/announcements/san-fibre-channel-switch-model-s16?region=AP)
+
+📅 2008-07-09
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2109-S16 | 1999-08-03 | 1999-09-17 | 2003-01-30 | 2008-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 2498+03 IBM System Storage SAN32B-E4
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-san32b-e4](https://www.ibm.com/docs/en/announcements/system-storage-san32b-e4?region=AP)
@@ -398,6 +470,29 @@ content update: 2026-09-23 03:52:52.630454183 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2498-E32 | 2010-11-09 | 2010-11-19 | 2014-12-02 | 2019-11-30 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2498+05 IBM System Networking SAN24B-5
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-networking-san24b-5](https://www.ibm.com/docs/en/announcements/system-networking-san24b-5?region=AP)
+
+📅 2023-07-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2498-F24 | 2012-04-24 | 2012-05-04 | 2014-10-17 | 2025-04-30 |
 
 
 
@@ -513,29 +608,6 @@ content update: 2026-09-23 03:52:52.630454183 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3758-B32 | 2009-07-14 | 2009-07-17 | 2010-06-12 | 2018-04-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 3758+02 IBM Converged Switch L32
-
-🔗 [https://www.ibm.com/docs/en/announcements/converged-switch-l32](https://www.ibm.com/docs/en/announcements/converged-switch-l32?region=AP)
-
-📅 2018-07-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 3758-L32 | 2010-02-09 | 2010-02-19 | 2013-03-16 | 2018-04-30 |
 
 
 

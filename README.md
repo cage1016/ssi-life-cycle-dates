@@ -2,7 +2,7 @@
 
 [![SSI Crawling](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml/badge.svg)](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml)
 
-update: 2026-09-23 03:52:52.630454183 +0800 CST
+update: 2026-09-24 03:48:51.83858141 +0800 CST
 
 
 
@@ -18,6 +18,9 @@ update: 2026-09-23 03:52:52.630454183 +0800 CST
 
 
 - [Power8](power8/index.md)
+
+
+- [Power9](power9/index.md)
 
 
 
