@@ -1,6 +1,6 @@
 # SAN - IBM b-type
 
-content update: 2026-09-24 03:48:51.83858141 +0800 CST
+content update: 2026-09-25 04:07:19.284200224 +0800 CST
 
 ---
 
@@ -32,6 +32,7 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 - [3534-1RU IBM SAN Fibre Channel Managed Hub Model 1RU](#3534-1ru-ibm-san-fibre-channel-managed-hub-model-1ru)
 - [3534-F08 IBM TotalStorage Storage Area Network (SAN) Model F08](#3534-f08-ibm-totalstorage-storage-area-network-san-model-f08)
 - [Family 3758+01 IBM Converged Switch B32](#family-375801-ibm-converged-switch-b32)
+- [Family 3758+02 IBM Converged Switch L32](#family-375802-ibm-converged-switch-l32)
 - [7140-160 IBM TotalStorage SAN Controller Model 160](#7140-160-ibm-totalstorage-san-controller-model-160)
 - [Family 9239+01 IBM SANnav](#family-923901-ibm-sannav)
 - [Family 9240+01 IBM SANnav](#family-924001-ibm-sannav)
@@ -608,6 +609,29 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3758-B32 | 2009-07-14 | 2009-07-17 | 2010-06-12 | 2018-04-30 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 3758+02 IBM Converged Switch L32
+
+🔗 [https://www.ibm.com/docs/en/announcements/converged-switch-l32](https://www.ibm.com/docs/en/announcements/converged-switch-l32?region=AP)
+
+📅 2018-07-10
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3758-L32 | 2010-02-09 | 2010-02-19 | 2013-03-16 | 2018-04-30 |
 
 
 

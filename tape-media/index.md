@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2026-09-24 03:48:51.83858141 +0800 CST
+content update: 2026-09-25 04:07:19.284200224 +0800 CST
 
 ---
 
@@ -8,7 +8,10 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 
 
 - [](#)
+- [3499-002 IBM Label Only 3490E Data Cartridges Model 002](#3499-002-ibm-label-only-3490e-data-cartridges-model-002)
+- [3499-003 IBM Standard 3490E Data Cartridges Model 003](#3499-003-ibm-standard-3490e-data-cartridges-model-003)
 - [3499-004 IBM Labeled and Initialized (L&I) 3480 Data Cartridges Model 004](#3499-004-ibm-labeled-and-initialized-l-i-3480-data-cartridges-model-004)
+- [3499-005 IBM Label Only 3480 Data Cartridges Model 005](#3499-005-ibm-label-only-3480-data-cartridges-model-005)
 - [3499-006 IBM Standard 3480 Data Cartridges Model 006](#3499-006-ibm-standard-3480-data-cartridges-model-006)
 - [3499-007 IBM 3480/3490 Conductive Cleaning Cartridges Model 007](#3499-007-ibm-3480-3490-conductive-cleaning-cartridges-model-007)
 - [Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004](#family-358901-ibm-ultrium-cartridges-models-002-003-004)
@@ -22,6 +25,7 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 - [3599-002 IBM 3590 High Performance Cartridge Tape with Labeling Model 002](#3599-002-ibm-3590-high-performance-cartridge-tape-with-labeling-model-002)
 - [3599-003 IBM 3590 High Performance Cartridge Tape Model 003](#3599-003-ibm-3590-high-performance-cartridge-tape-model-003)
 - [3599-004 IBM 3590 Extended High Performance Cartridge Tape Model 004](#3599-004-ibm-3590-extended-high-performance-cartridge-tape-model-004)
+- [3599-005 IBM 3590 Extended High Performance Cartridge Tape Model 005](#3599-005-ibm-3590-extended-high-performance-cartridge-tape-model-005)
 - [3599-006 IBM 3590 Extended High Performance Cartridge Tape Model 006](#3599-006-ibm-3590-extended-high-performance-cartridge-tape-model-006)
 - [3599-007 IBM 3590 Cleaning Cartridges Model 007](#3599-007-ibm-3590-cleaning-cartridges-model-007)
 - [3599-008 IBM 3590 Cartridge Magazine Model 008](#3599-008-ibm-3590-cartridge-magazine-model-008)
@@ -77,9 +81,69 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 
 
 
+### 3499-002 IBM Label Only 3490E Data Cartridges Model 002
+
+🔗 [https://www.ibm.com/docs/en/announcements/label-only-3490e-data-cartridges-model-002](https://www.ibm.com/docs/en/announcements/label-only-3490e-data-cartridges-model-002?region=AP)
+
+📅 2003-11-24
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3499-003 IBM Standard 3490E Data Cartridges Model 003
+
+🔗 [https://www.ibm.com/docs/en/announcements/standard-3490e-data-cartridges-model-003](https://www.ibm.com/docs/en/announcements/standard-3490e-data-cartridges-model-003?region=AP)
+
+📅 2003-11-24
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 3499-004 IBM Labeled and Initialized (L&I) 3480 Data Cartridges Model 004
 
 🔗 [https://www.ibm.com/docs/en/announcements/labeled-initialized-li-3480-data-cartridges-model-004](https://www.ibm.com/docs/en/announcements/labeled-initialized-li-3480-data-cartridges-model-004?region=AP)
+
+📅 2003-11-24
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3499-005 IBM Label Only 3480 Data Cartridges Model 005
+
+🔗 [https://www.ibm.com/docs/en/announcements/label-only-3480-data-cartridges-model-005](https://www.ibm.com/docs/en/announcements/label-only-3480-data-cartridges-model-005?region=AP)
 
 📅 2003-11-24
 
@@ -395,6 +459,29 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3599-004 | 2000-02-29 | 2000-03-17 | 2008-12-26 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3599-005 IBM 3590 Extended High Performance Cartridge Tape Model 005
+
+🔗 [https://www.ibm.com/docs/en/announcements/3590-extended-high-performance-cartridge-tape-model-005](https://www.ibm.com/docs/en/announcements/3590-extended-high-performance-cartridge-tape-model-005?region=AP)
+
+📅 2023-11-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3599-005 | 2000-02-29 | 2000-03-17 | 2008-12-26 | - |
 
 
 

@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2026-09-24 03:48:51.83858141 +0800 CST
+content update: 2026-09-25 04:07:19.284200224 +0800 CST
 
 ---
 
@@ -8,6 +8,7 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 
 
 - [](#)
+- [Family 1269+02 IBM System Storage DCS9900 Storage System](#family-126902-ibm-system-storage-dcs9900-storage-system)
 - [Family 1710+01 IBM TotalStorage DS4000 EXP100 Storage Expansion Unit](#family-171001-ibm-totalstorage-ds4000-exp100-storage-expansion-unit)
 - [1722-60U IBM TotalStorage DS4300 Midrange Disk System Model 60U](#1722-60u-ibm-totalstorage-ds4300-midrange-disk-system-model-60u)
 - [1722-6LU IBM TotalStorage DS4300 Midrange Disk System Model 6LU](#1722-6lu-ibm-totalstorage-ds4300-midrange-disk-system-model-6lu)
@@ -18,9 +19,11 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 - [1742-90U IBM TotalStorage DS4500 Midrange Disk System Model 90U](#1742-90u-ibm-totalstorage-ds4500-midrange-disk-system-model-90u)
 - [Family 1750+01 IBM TotalStorage DS6800 and DS6000 Expansion Enclosure](#family-175001-ibm-totalstorage-ds6800-and-ds6000-expansion-enclosure)
 - [Family 1750+02 IBM System Storage DS6800 and DS6000](#family-175002-ibm-system-storage-ds6800-and-ds6000)
+- [Family 1812+01 IBM System Storage DS4000 EXP810 Storage Expansion Unit](#family-181201-ibm-system-storage-ds4000-exp810-storage-expansion-unit)
 - [Family 1812+02 IBM System Storage DS4000 EXP420 Storage Expansion Unit](#family-181202-ibm-system-storage-ds4000-exp420-storage-expansion-unit)
 - [Family 1812+03 IBM System Storage DS4000 EXP810 Expansion Unit Model 81S](#family-181203-ibm-system-storage-ds4000-exp810-expansion-unit-model-81s)
 - [Family 1813+02 IBM System Storage DCS3860 (AAS)](#family-181302-ibm-system-storage-dcs3860-aas)
+- [Family 1813+03 IBM System Storage DCS3860 Controller 96C](#family-181303-ibm-system-storage-dcs3860-controller-96c)
 - [Family 1814+01 IBM System Storage DS4700 Express Models](#family-181401-ibm-system-storage-ds4700-express-models)
 - [Family 1814+02 IBM System Storage DS4200 Express Model 7V](#family-181402-ibm-system-storage-ds4200-express-model-7v)
 - [Family 1814+03 IBM System Storage DS4700 Express Models 70-DC and 72-DC](#family-181403-ibm-system-storage-ds4700-express-models-70-dc-and-72-dc)
@@ -47,6 +50,7 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 - [2105-100 IBM Versatile Storage Server Model 100](#2105-100-ibm-versatile-storage-server-model-100)
 - [2105-750 IBM TotalStorage Enterprise Storage Server Model 750](#2105-750-ibm-totalstorage-enterprise-storage-server-model-750)
 - [2105-800 IBM TotalStorage Enterprise Storage Server Model 800](#2105-800-ibm-totalstorage-enterprise-storage-server-model-800)
+- [2105-B09 IBM Versatile Storage Server Model B09](#2105-b09-ibm-versatile-storage-server-model-b09)
 - [2105-E10 IBM Enterprise Storage Server Model E10](#2105-e10-ibm-enterprise-storage-server-model-e10)
 - [2105-E20 IBM Enterprise Storage Server Model E20](#2105-e20-ibm-enterprise-storage-server-model-e20)
 - [2105-F10 IBM Enterprise Storage Server Model F10](#2105-f10-ibm-enterprise-storage-server-model-f10)
@@ -61,6 +65,8 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 - [Family 2107+05 IBM System Storage DS8000 Series Disk Storage Model 922](#family-210705-ibm-system-storage-ds8000-series-disk-storage-model-922)
 - [Family 2421+01 IBM System Storage DS8000 2421 1-Year Warranty](#family-242101-ibm-system-storage-ds8000-2421-1-year-warranty)
 - [Family 2421+02 IBM System Storage DS8700 Models 941 and 94E](#family-242102-ibm-system-storage-ds8700-models-941-and-94e)
+- [Family 2421+03 IBM System Storage DS8800 Model 951 and Model 95E](#family-242103-ibm-system-storage-ds8800-model-951-and-model-95e)
+- [Family 2421+04 IBM DS8870 Models 961 and 96E](#family-242104-ibm-ds8870-models-961-and-96e)
 - [Family 2422+02 IBM System Storage DS8700 Models 941 and 94E](#family-242202-ibm-system-storage-ds8700-models-941-and-94e)
 - [Family 2422+03 IBM System Storage DS8800 Model 951 and Model 95E](#family-242203-ibm-system-storage-ds8800-model-951-and-model-95e)
 - [Family 2422+04 IBM DS8870 Models 961 and 96E](#family-242204-ibm-ds8870-models-961-and-96e)
@@ -69,6 +75,7 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 - [Family 2424+02 IBM System Storage DS8700 Models 941 and 94E](#family-242402-ibm-system-storage-ds8700-models-941-and-94e)
 - [Family 2424+04 IBM DS8870 Models 961 and 96E](#family-242404-ibm-ds8870-models-961-and-96e)
 - [Family 2810+01 IBM XIV Storage System](#family-281001-ibm-xiv-storage-system)
+- [Family 2810+02 IBM XIV Storage System (M/T 2810) Model Gen3](#family-281002-ibm-xiv-storage-system-m-t-2810-model-gen3)
 - [Family 2810+03 IBM XIV Storage System (M/T 2810) Model 214](#family-281003-ibm-xiv-storage-system-m-t-2810-model-214)
 - [Family 2810+04 IBM XIV Storage System (M/T 2810) Model 314](#family-281004-ibm-xiv-storage-system-m-t-2810-model-314)
 - [Family 2812+01 IBM XIV Storage System Model A14](#family-281201-ibm-xiv-storage-system-model-a14)
@@ -99,6 +106,7 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 - [3390-B1C IBM Direct Access Storage Device (DASD) Model B1C](#3390-b1c-ibm-direct-access-storage-device-dasd-model-b1c)
 - [3390-B24 IBM Direct Access Storage Device (DASD) Model B24](#3390-b24-ibm-direct-access-storage-device-dasd-model-b24)
 - [3390-B28 IBM Direct Access Storage Device (DASD) Model B28](#3390-b28-ibm-direct-access-storage-device-dasd-model-b28)
+- [3390-B2C IBM Direct Access Storage Device (DASD) Model B2C](#3390-b2c-ibm-direct-access-storage-device-dasd-model-b2c)
 - [3390-B34 IBM Direct Access Storage Device (DASD) Model B34](#3390-b34-ibm-direct-access-storage-device-dasd-model-b34)
 - [3390-B38 IBM Direct Access Storage Device (DASD) Model B38](#3390-b38-ibm-direct-access-storage-device-dasd-model-b38)
 - [3390-B3C IBM Direct Access Storage Device (DASD) Model B3C](#3390-b3c-ibm-direct-access-storage-device-dasd-model-b3c)
@@ -108,11 +116,13 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 - [3552-1RU IBM TotalStorage FAStT500 Storage Server Model 1RU](#3552-1ru-ibm-totalstorage-fastt500-storage-server-model-1ru)
 - [Family 3560+01 IBM FAStT EXP500 Expansion Unit](#family-356001-ibm-fastt-exp500-expansion-unit)
 - [3990-001 IBM Storage Control Model 001](#3990-001-ibm-storage-control-model-001)
+- [3990-002 IBM Storage Control Model 002](#3990-002-ibm-storage-control-model-002)
 - [3990-006 IBM Storage Control Model 006](#3990-006-ibm-storage-control-model-006)
 - [Family 4939+01 IBM Flex System V7000 Storage Node Hardware - AAS](#family-493901-ibm-flex-system-v7000-storage-node-hardware-aas)
 - [Family 5331+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533101-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
 - [Family 5331+02 IBM DS8882F Model 983](#family-533102-ibm-ds8882f-model-983)
 - [Family 5332+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533201-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
+- [Family 5332+02 IBM DS8882F Model 983](#family-533202-ibm-ds8882f-model-983)
 - [Family 5333+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533301-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
 - [Family 5333+02 IBM DS8882F Model 983](#family-533302-ibm-ds8882f-model-983)
 - [Family 5334+01 IBM DS8880 Models 984, 985/85E, 986/86E, and 988/88E](#family-533401-ibm-ds8880-models-984-985-85e-986-86e-and-988-88e)
@@ -128,7 +138,6 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 - [7134-010 IBM High Density SCSI Disk Subsystem Model 010](#7134-010-ibm-high-density-scsi-disk-subsystem-model-010)
 - [7135-010 IBM RAIDiant Array Model 010](#7135-010-ibm-raidiant-array-model-010)
 - [7135-110 IBM RAIDiant Array Model 110](#7135-110-ibm-raidiant-array-model-110)
-- [7137-415 IBM Disk Array Subsystem Model 415](#7137-415-ibm-disk-array-subsystem-model-415)
 - [7137-515 IBM Disk Array Subsystem Model 515](#7137-515-ibm-disk-array-subsystem-model-515)
 - [7204-112 IBM RS/6000 External Disk Drive Model 112](#7204-112-ibm-rs-6000-external-disk-drive-model-112)
 - [7204-113 IBM RS/6000 External Disk Drive Model 113](#7204-113-ibm-rs-6000-external-disk-drive-model-113)
@@ -189,10 +198,17 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 - [9392-B13 IBM RAMAC Array DASD Model B13](#9392-b13-ibm-ramac-array-dasd-model-b13)
 - [9392-B23 IBM RAMAC 2 Array DASD Model B23](#9392-b23-ibm-ramac-2-array-dasd-model-b23)
 - [9392-B33 IBM RAMAC 3 Array DASD Model B33](#9392-b33-ibm-ramac-3-array-dasd-model-b33)
+- [9393-001 IBM RAMAC Virtual Array Storage Model 001](#9393-001-ibm-ramac-virtual-array-storage-model-001)
+- [9393-002 IBM RAMAC Virtual Array Storage Model 002](#9393-002-ibm-ramac-virtual-array-storage-model-002)
 - [9393-T42 IBM RAMAC Virtual Array Storage Model T42](#9393-t42-ibm-ramac-virtual-array-storage-model-t42)
+- [9393-T82 IBM RAMAC Virtual Array Storage Model T82](#9393-t82-ibm-ramac-virtual-array-storage-model-t82)
+- [9393-UPA IBM RAMAC Virtual Array Storage Model UPA](#9393-upa-ibm-ramac-virtual-array-storage-model-upa)
 - [9393-UPC IBM RAMAC Virtual Array Storage Model UPC](#9393-upc-ibm-ramac-virtual-array-storage-model-upc)
 - [9393-X83 IBM RAMAC Virtual Array Turbo Model X83](#9393-x83-ibm-ramac-virtual-array-turbo-model-x83)
+- [9394-001 IBM RAMAC 2 Array Subsystem Model 001](#9394-001-ibm-ramac-2-array-subsystem-model-001)
+- [9394-002 IBM RAMAC 2 Array Subsystem Model 002](#9394-002-ibm-ramac-2-array-subsystem-model-002)
 - [9394-003 IBM RAMAC 2 Array Subsystem Model 003](#9394-003-ibm-ramac-2-array-subsystem-model-003)
+- [9395-B13 IBM RAMAC 2 Array Subsystem Model B13](#9395-b13-ibm-ramac-2-array-subsystem-model-b13)
 - [9395-B23 IBM RAMAC 2 Array Subsystem Model B23](#9395-b23-ibm-ramac-2-array-subsystem-model-b23)
 
 ---
@@ -209,6 +225,31 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 
 📅 
 
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 1269+02 IBM System Storage DCS9900 Storage System
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-dcs9900-storage-system](https://www.ibm.com/docs/en/announcements/system-storage-dcs9900-storage-system?region=AP)
+
+📅 2018-07-10
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 1269-CP2 | 2008-10-14 | 2008-10-24 | 2011-10-15 | 2016-12-31 |
+| 1269-3S1 | 2008-10-14 | 2008-10-24 | 2012-10-20 | 2016-12-31 |
+| 1269-3S2 | 2008-11-25 | 2008-12-05 | 2009-05-26 | 2016-12-31 |
 
 
 
@@ -455,6 +496,29 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 
 
 
+### Family 1812+01 IBM System Storage DS4000 EXP810 Storage Expansion Unit
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds4000-exp810-storage-expansion-unit](https://www.ibm.com/docs/en/announcements/system-storage-ds4000-exp810-storage-expansion-unit?region=AP)
+
+📅 2018-07-10
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 1812-81A | 2006-02-28 | 2006-03-07 | 2012-12-15 | 2018-01-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 1812+02 IBM System Storage DS4000 EXP420 Storage Expansion Unit
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds4000-exp420-storage-expansion-unit](https://www.ibm.com/docs/en/announcements/system-storage-ds4000-exp420-storage-expansion-unit?region=AP)
@@ -511,6 +575,29 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 | --- | --- | --- | --- | --- |
 | 1813-80E | 2014-11-11 | 2014-11-21 | 2018-02-17 | 2022-12-31 |
 | 1813-86C | 2014-11-11 | 2014-11-21 | 2015-06-06 | 2019-06-30 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 1813+03 IBM System Storage DCS3860 Controller 96C
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-dcs3860-controller-96c](https://www.ibm.com/docs/en/announcements/system-storage-dcs3860-controller-96c?region=AP)
+
+📅 2021-07-13
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 1813-96C | 2015-04-28 | 2015-06-05 | 2017-09-09 | 2022-12-31 |
 
 
 
@@ -1137,6 +1224,29 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 
 
 
+### 2105-B09 IBM Versatile Storage Server Model B09
+
+🔗 [https://www.ibm.com/docs/en/announcements/versatile-storage-server-model-b09](https://www.ibm.com/docs/en/announcements/versatile-storage-server-model-b09?region=AP)
+
+📅 2008-07-10
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2105-B09 | 1998-06-02 | 1998-08-21 | 1999-11-24 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 2105-E10 IBM Enterprise Storage Server Model E10
 
 🔗 [https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-e10](https://www.ibm.com/docs/en/announcements/enterprise-storage-server-model-e10?region=AP)
@@ -1464,6 +1574,54 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 
 
 
+### Family 2421+03 IBM System Storage DS8800 Model 951 and Model 95E
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds8800-model-951-model-95e](https://www.ibm.com/docs/en/announcements/system-storage-ds8800-model-951-model-95e?region=AP)
+
+📅 2018-02-20
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2421-95E | 2010-10-07 | 2010-10-22 | 2015-09-16 | 2019-03-31 |
+| 2421-951 | 2010-10-07 | 2010-10-22 | 2013-05-03 | 2019-03-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2421+04 IBM DS8870 Models 961 and 96E
+
+🔗 [https://www.ibm.com/docs/en/announcements/ds8870-models-961-96e](https://www.ibm.com/docs/en/announcements/ds8870-models-961-96e?region=AP)
+
+📅 2019-10-15
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2421-96E | 2012-10-03 | 2012-10-19 | 2018-11-21 | 2020-12-31 |
+| 2421-961 | 2012-10-03 | 2012-10-19 | 2016-06-01 | 2020-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### Family 2422+02 IBM System Storage DS8700 Models 941 and 94E
 
 🔗 [https://www.ibm.com/docs/en/announcements/system-storage-ds8700-models-941-94e-2017-03-28](https://www.ibm.com/docs/en/announcements/system-storage-ds8700-models-941-94e-2017-03-28?region=AP)
@@ -1641,6 +1799,29 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2810-A14 | 2008-08-12 | 2008-08-15 | 2012-10-26 | 2018-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 2810+02 IBM XIV Storage System (M/T 2810) Model Gen3
+
+🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2810-model-gen3](https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2810-model-gen3?region=AP)
+
+📅 2019-10-15
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 2810-114 | 2011-07-12 | 2011-09-08 | 2013-10-25 | 2020-12-31 |
 
 
 
@@ -2376,6 +2557,29 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 
 
 
+### 3390-B2C IBM Direct Access Storage Device (DASD) Model B2C
+
+🔗 [https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b2c](https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b2c?region=AP)
+
+📅 2008-03-07
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3390-B2C | 1989-11-14 | 1989-12-01 | 1996-04-26 | 2008-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 3390-B34 IBM Direct Access Storage Device (DASD) Model B34
 
 🔗 [https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b34](https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b34?region=AP)
@@ -2581,6 +2785,29 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 
 
 
+### 3990-002 IBM Storage Control Model 002
+
+🔗 [https://www.ibm.com/docs/en/announcements/storage-control-model-002](https://www.ibm.com/docs/en/announcements/storage-control-model-002?region=AP)
+
+📅 2006-06-13
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3990-002 | 1987-09-30 | 1988-08-26 | 1996-04-26 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 3990-006 IBM Storage Control Model 006
 
 🔗 [https://www.ibm.com/docs/en/announcements/storage-control-model-006](https://www.ibm.com/docs/en/announcements/storage-control-model-006?region=AP)
@@ -2695,6 +2922,29 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 | 5332-985 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
 | 5332-986 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
 | 5332-988 | 2017-01-10 | 2017-01-20 | 2020-06-30 | 2024-06-30 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 5332+02 IBM DS8882F Model 983
+
+🔗 [https://www.ibm.com/docs/en/announcements/ds8882f-model-983-2023-01-31](https://www.ibm.com/docs/en/announcements/ds8882f-model-983-2023-01-31?region=AP)
+
+📅 2023-01-31
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 5332-983 | 2018-08-21 | 2018-09-07 | 2020-06-30 | 2024-06-30 |
 
 
 
@@ -3043,26 +3293,6 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7135-110 | 1993-07-13 | 1993-09-24 | 1997-06-24 | 2008-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 7137-415 IBM Disk Array Subsystem Model 415
-
-🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-415](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-415?region=AP)
-
-📅 2002-06-03
-
 
 
 
@@ -4454,6 +4684,49 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 
 
 
+### 9393-001 IBM RAMAC Virtual Array Storage Model 001
+
+🔗 [https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-001](https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-001?region=AP)
+
+📅 2004-06-07
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 9393-002 IBM RAMAC Virtual Array Storage Model 002
+
+🔗 [https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-002](https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-002?region=AP)
+
+📅 2008-03-10
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9393-002 | 1996-09-10 | 1996-11-22 | 1999-06-18 | 2008-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 9393-T42 IBM RAMAC Virtual Array Storage Model T42
 
 🔗 [https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-t42](https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-t42?region=AP)
@@ -4463,6 +4736,49 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9393-T42 | 1997-04-08 | 1997-04-25 | 1998-07-31 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 9393-T82 IBM RAMAC Virtual Array Storage Model T82
+
+🔗 [https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-t82](https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-t82?region=AP)
+
+📅 2008-06-11
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9393-T82 | 1997-04-08 | 1997-08-29 | 1999-06-18 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 9393-UPA IBM RAMAC Virtual Array Storage Model UPA
+
+🔗 [https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-upa](https://www.ibm.com/docs/en/announcements/ramac-virtual-array-storage-model-upa?region=AP)
+
+📅 1999-04-26
+
 
 
 
@@ -4520,6 +4836,52 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 
 
 
+### 9394-001 IBM RAMAC 2 Array Subsystem Model 001
+
+🔗 [https://www.ibm.com/docs/en/announcements/ramac-2-array-subsystem-model-001](https://www.ibm.com/docs/en/announcements/ramac-2-array-subsystem-model-001?region=AP)
+
+📅 2009-06-07
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9394-001 | 1994-06-21 | 1994-09-30 | 1998-07-28 | 2010-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 9394-002 IBM RAMAC 2 Array Subsystem Model 002
+
+🔗 [https://www.ibm.com/docs/en/announcements/ramac-2-array-subsystem-model-002](https://www.ibm.com/docs/en/announcements/ramac-2-array-subsystem-model-002?region=AP)
+
+📅 2013-07-02
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9394-002 | 1994-06-21 | 1994-09-30 | 1998-07-28 | 2010-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
 ### 9394-003 IBM RAMAC 2 Array Subsystem Model 003
 
 🔗 [https://www.ibm.com/docs/en/announcements/ramac-2-array-subsystem-model-003](https://www.ibm.com/docs/en/announcements/ramac-2-array-subsystem-model-003?region=AP)
@@ -4529,6 +4891,29 @@ content update: 2026-09-24 03:48:51.83858141 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 9394-003 | 1994-06-21 | 1994-09-30 | 1998-07-28 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 9395-B13 IBM RAMAC 2 Array Subsystem Model B13
+
+🔗 [https://www.ibm.com/docs/en/announcements/ramac-2-array-subsystem-model-b13](https://www.ibm.com/docs/en/announcements/ramac-2-array-subsystem-model-b13?region=AP)
+
+📅 2009-06-07
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 9395-B13 | 1994-06-21 | 1994-09-30 | 1997-03-14 | 2010-12-31 |
 
 
 
