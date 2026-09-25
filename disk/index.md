@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2026-09-25 04:07:19.284200224 +0800 CST
+content update: 2026-09-26 04:11:26.30198966 +0800 CST
 
 ---
 
@@ -138,6 +138,7 @@ content update: 2026-09-25 04:07:19.284200224 +0800 CST
 - [7134-010 IBM High Density SCSI Disk Subsystem Model 010](#7134-010-ibm-high-density-scsi-disk-subsystem-model-010)
 - [7135-010 IBM RAIDiant Array Model 010](#7135-010-ibm-raidiant-array-model-010)
 - [7135-110 IBM RAIDiant Array Model 110](#7135-110-ibm-raidiant-array-model-110)
+- [7137-415 IBM Disk Array Subsystem Model 415](#7137-415-ibm-disk-array-subsystem-model-415)
 - [7137-515 IBM Disk Array Subsystem Model 515](#7137-515-ibm-disk-array-subsystem-model-515)
 - [7204-112 IBM RS/6000 External Disk Drive Model 112](#7204-112-ibm-rs-6000-external-disk-drive-model-112)
 - [7204-113 IBM RS/6000 External Disk Drive Model 113](#7204-113-ibm-rs-6000-external-disk-drive-model-113)
@@ -3293,6 +3294,26 @@ content update: 2026-09-25 04:07:19.284200224 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7135-110 | 1993-07-13 | 1993-09-24 | 1997-06-24 | 2008-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 7137-415 IBM Disk Array Subsystem Model 415
+
+🔗 [https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-415](https://www.ibm.com/docs/en/announcements/disk-array-subsystem-model-415?region=AP)
+
+📅 2002-06-03
+
 
 
 
