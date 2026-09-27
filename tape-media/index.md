@@ -1,6 +1,6 @@
 # Tape Media
 
-content update: 2026-09-27 03:20:40.174309159 +0800 CST
+content update: 2026-09-28 03:53:17.957900357 +0800 CST
 
 ---
 
@@ -21,6 +21,7 @@ content update: 2026-09-27 03:20:40.174309159 +0800 CST
 - [Family 3589+05 IBM 3589 Ultrium Tape Cartridge Models 010, 011, 032, 033](#family-358905-ibm-3589-ultrium-tape-cartridge-models-010-011-032-033)
 - [Family 3589+06 IBM Ultrium 5 1.5 TB Data Cartridge Models 014 015 034 035](#family-358906-ibm-ultrium-5-15-tb-data-cartridge-models-014-015-034-035)
 - [Family 3599+01 IBM Tape Cartridges 3592](#family-359901-ibm-tape-cartridges-3592)
+- [Family 3599+02 IBM Tape Cart 3592](#family-359902-ibm-tape-cart-3592)
 - [3599-001 IBM 3590 High Performance Cartridge Tape with Labeling and Initialization Model 001](#3599-001-ibm-3590-high-performance-cartridge-tape-with-labeling-and-initialization-model-001)
 - [3599-002 IBM 3590 High Performance Cartridge Tape with Labeling Model 002](#3599-002-ibm-3590-high-performance-cartridge-tape-with-labeling-model-002)
 - [3599-003 IBM 3590 High Performance Cartridge Tape Model 003](#3599-003-ibm-3590-high-performance-cartridge-tape-model-003)
@@ -367,6 +368,37 @@ content update: 2026-09-27 03:20:40.174309159 +0800 CST
 | 3599-620 | 2011-05-09 | 2011-07-22 | 2019-10-26 | - |
 | 3599-630 | 2011-05-09 | 2011-07-22 | 2019-10-26 | - |
 | 3599-640 | 2011-05-09 | 2011-07-22 | 2018-06-16 | - |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 3599+02 IBM Tape Cart 3592
+
+🔗 [https://www.ibm.com/docs/en/announcements/tape-cart-3592](https://www.ibm.com/docs/en/announcements/tape-cart-3592?region=AP)
+
+📅 2023-11-21
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3599-425 | 2014-10-06 | 2014-10-24 | 2026-12-31 | - |
+| 3599-435 | 2014-10-06 | 2014-10-24 | 2026-12-31 | - |
+| 3599-445 | 2014-10-06 | 2014-10-24 | 2018-06-16 | - |
+| 3599-525 | 2014-10-06 | 2014-10-24 | 2026-12-31 | - |
+| 3599-535 | 2014-10-06 | 2014-10-24 | 2026-12-31 | - |
+| 3599-545 | 2014-10-06 | 2014-10-24 | 2018-06-16 | - |
+| 3599-625 | 2014-10-06 | 2014-10-24 | 2019-10-26 | - |
+| 3599-635 | 2014-10-06 | 2014-10-24 | 2019-10-26 | - |
+| 3599-645 | 2014-10-06 | 2014-10-24 | 2018-06-16 | - |
 
 
 
