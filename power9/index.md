@@ -1,17 +1,38 @@
 # Power9
 
-content update: 2026-10-17 03:34:29.085532257 +0800 CST
+content update: 2026-10-18 02:31:25.24936051 +0800 CST
 
 ---
 
 ### Table of contents
 
 
+- [](#)
 - [Family 9223+04 IBM Power System H924 (9223-42S)](#family-922304-ibm-power-system-h924-9223-42s)
 
 ---
 
 [← Back to README](../README.md)
+
+
+
+
+
+### 
+
+🔗 [](?region=AP)
+
+📅 
+
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
 
 
 

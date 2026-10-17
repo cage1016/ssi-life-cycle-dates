@@ -2,7 +2,7 @@
 
 [![SSI Crawling](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml/badge.svg)](https://github.com/cage1016/ssi-life-cycle-dates/actions/workflows/crawling.yml)
 
-update: 2026-10-17 03:34:29.085532257 +0800 CST
+update: 2026-10-18 02:31:25.24936051 +0800 CST
 
 
 
@@ -34,6 +34,9 @@ update: 2026-10-17 03:34:29.085532257 +0800 CST
 
 
 - [Disk](disk/index.md)
+
+
+- [Elastic Storage Server](elastic-storage-server/index.md)
 
 
 - [FlashSystem](flash-system/index.md)
