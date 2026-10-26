@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2026-10-26 03:05:24.115319773 +0800 CST
+content update: 2026-10-27 05:15:54.654900897 +0800 CST
 
 ---
 
@@ -8,12 +8,7 @@ content update: 2026-10-26 03:05:24.115319773 +0800 CST
 
 
 - [](#)
-- [Family 1269+02 IBM System Storage DCS9900 Storage System](#family-126902-ibm-system-storage-dcs9900-storage-system)
 - [Family 1710+01 IBM TotalStorage DS4000 EXP100 Storage Expansion Unit](#family-171001-ibm-totalstorage-ds4000-exp100-storage-expansion-unit)
-- [1722-60U IBM TotalStorage DS4300 Midrange Disk System Model 60U](#1722-60u-ibm-totalstorage-ds4300-midrange-disk-system-model-60u)
-- [1722-6LU IBM TotalStorage DS4300 Midrange Disk System Model 6LU](#1722-6lu-ibm-totalstorage-ds4300-midrange-disk-system-model-6lu)
-- [Family 1724+01 IBM TotalStorage DS4100 Midrange Disk System Model 100](#family-172401-ibm-totalstorage-ds4100-midrange-disk-system-model-100)
-- [1740-1RU IBM TotalStorage DS4000 EXP700 Expansion Unit Model 1RU](#1740-1ru-ibm-totalstorage-ds4000-exp700-expansion-unit-model-1ru)
 - [1740-710 IBM TotalStorage DS4000 EXP710 Storage Expansion Unit Model 710](#1740-710-ibm-totalstorage-ds4000-exp710-storage-expansion-unit-model-710)
 - [1742-1RU IBM TotalStorage DS4400 Midrange Disk System Model 1RU](#1742-1ru-ibm-totalstorage-ds4400-midrange-disk-system-model-1ru)
 - [1742-90U IBM TotalStorage DS4500 Midrange Disk System Model 90U](#1742-90u-ibm-totalstorage-ds4500-midrange-disk-system-model-90u)
@@ -77,7 +72,6 @@ content update: 2026-10-26 03:05:24.115319773 +0800 CST
 - [Family 2810+01 IBM XIV Storage System](#family-281001-ibm-xiv-storage-system)
 - [Family 2810+02 IBM XIV Storage System (M/T 2810) Model Gen3](#family-281002-ibm-xiv-storage-system-m-t-2810-model-gen3)
 - [Family 2810+03 IBM XIV Storage System (M/T 2810) Model 214](#family-281003-ibm-xiv-storage-system-m-t-2810-model-214)
-- [Family 2810+04 IBM XIV Storage System (M/T 2810) Model 314](#family-281004-ibm-xiv-storage-system-m-t-2810-model-314)
 - [Family 2812+01 IBM XIV Storage System Model A14](#family-281201-ibm-xiv-storage-system-model-a14)
 - [Family 2812+02 IBM XIV Storage System (M/T 2812) Model Gen3](#family-281202-ibm-xiv-storage-system-m-t-2812-model-gen3)
 - [Family 2812+03 IBM XIV Storage System (M/T 2812) Model 214](#family-281203-ibm-xiv-storage-system-m-t-2812-model-214)
@@ -233,31 +227,6 @@ content update: 2026-10-26 03:05:24.115319773 +0800 CST
 
 
 
-### Family 1269+02 IBM System Storage DCS9900 Storage System
-
-🔗 [https://www.ibm.com/docs/en/announcements/system-storage-dcs9900-storage-system](https://www.ibm.com/docs/en/announcements/system-storage-dcs9900-storage-system?region=AP)
-
-📅 2018-07-10
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1269-CP2 | 2008-10-14 | 2008-10-24 | 2011-10-15 | 2016-12-31 |
-| 1269-3S1 | 2008-10-14 | 2008-10-24 | 2012-10-20 | 2016-12-31 |
-| 1269-3S2 | 2008-11-25 | 2008-12-05 | 2009-05-26 | 2016-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### Family 1710+01 IBM TotalStorage DS4000 EXP100 Storage Expansion Unit
 
 🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4000-exp100-storage-expansion-unit](https://www.ibm.com/docs/en/announcements/totalstorage-ds4000-exp100-storage-expansion-unit?region=AP)
@@ -267,98 +236,6 @@ content update: 2026-10-26 03:05:24.115319773 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 1710-10U | 2003-10-29 | 2003-12-19 | 2006-12-08 | 2015-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 1722-60U IBM TotalStorage DS4300 Midrange Disk System Model 60U
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4300-midrange-disk-system-model-60u](https://www.ibm.com/docs/en/announcements/totalstorage-ds4300-midrange-disk-system-model-60u?region=AP)
-
-📅 2013-07-02
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1722-60U | 2003-04-08 | 2003-04-15 | 2006-12-08 | 2014-12-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 1722-6LU IBM TotalStorage DS4300 Midrange Disk System Model 6LU
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4300-midrange-disk-system-model-6lu](https://www.ibm.com/docs/en/announcements/totalstorage-ds4300-midrange-disk-system-model-6lu?region=AP)
-
-📅 2014-07-01
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1722-6LU | 2004-04-06 | 2004-04-16 | 2006-12-08 | - |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 1724+01 IBM TotalStorage DS4100 Midrange Disk System Model 100
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4100-midrange-disk-system-model-100](https://www.ibm.com/docs/en/announcements/totalstorage-ds4100-midrange-disk-system-model-100?region=AP)
-
-📅 2014-07-01
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1724-100 | 2004-05-25 | 2004-06-18 | 2006-12-08 | 2015-01-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### 1740-1RU IBM TotalStorage DS4000 EXP700 Expansion Unit Model 1RU
-
-🔗 [https://www.ibm.com/docs/en/announcements/totalstorage-ds4000-exp700-expansion-unit-model-1ru](https://www.ibm.com/docs/en/announcements/totalstorage-ds4000-exp700-expansion-unit-model-1ru?region=AP)
-
-📅 2014-10-21
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 1740-1RU | 2002-07-09 | 2002-07-26 | 2005-09-09 | 2016-01-31 |
 
 
 
@@ -1839,29 +1716,6 @@ content update: 2026-10-26 03:05:24.115319773 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 2810-214 | 2013-02-05 | 2013-03-07 | 2018-05-27 | 2023-07-31 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
-### Family 2810+04 IBM XIV Storage System (M/T 2810) Model 314
-
-🔗 [https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2810-model-314](https://www.ibm.com/docs/en/announcements/xiv-storage-system-mt-2810-model-314?region=AP)
-
-📅 2022-07-26
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 2810-314 | 2015-11-10 | 2015-12-04 | 2018-05-27 | 2023-07-31 |
 
 
 
