@@ -1,6 +1,6 @@
 # Power8
 
-content update: 2026-10-28 04:57:22.407348376 +0800 CST
+content update: 2026-10-29 05:09:04.343817527 +0800 CST
 
 ---
 
@@ -8,7 +8,7 @@ content update: 2026-10-28 04:57:22.407348376 +0800 CST
 
 
 - [Family 8286+01 IBM Power System S814 server](#family-828601-ibm-power-system-s814-server)
-- [](#)
+- [Family 8286+02 IBM Power System S824 server](#family-828602-ibm-power-system-s824-server)
 - [Family 9080+01 IBM Power System E880C (9080-MHE)](#family-908001-ibm-power-system-e880c-9080-mhe)
 - [Family 9080+02 IBM Power E870C Enterprise server Model MME](#family-908002-ibm-power-e870c-enterprise-server-model-mme)
 - [Family 9119+05 IBM Power System E880 (9119-MHE)](#family-911905-ibm-power-system-e880-9119-mhe)
@@ -45,12 +45,15 @@ content update: 2026-10-28 04:57:22.407348376 +0800 CST
 
 
 
-### 
+### Family 8286+02 IBM Power System S824 server
 
 🔗 [https://www.ibm.com/docs/en/announcements/power-system-s824-server](https://www.ibm.com/docs/en/announcements/power-system-s824-server?region=AP)
 
 📅 2023-10-24
 
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 8286-42A | 2014-04-28 | 2014-06-10 | 2019-02-28 | 2024-03-31 |
 
 
 
