@@ -1,6 +1,6 @@
 # Tape Drive
 
-content update: 2026-11-10 08:22:10.923953729 +0800 CST
+content update: 2026-11-11 06:02:08.250648376 +0800 CST
 
 ---
 
@@ -63,7 +63,6 @@ content update: 2026-11-10 08:22:10.923953729 +0800 CST
 - [7206-336 IBM External 36 GB DAT72 (DDS Gen5) Tape Drive Model 336](#7206-336-ibm-external-36-gb-dat72-dds-gen5-tape-drive-model-336)
 - [7206-VX2 IBM External Tape Drive Model VX2](#7206-vx2-ibm-external-tape-drive-model-vx2)
 - [7206-VX3 IBM External Tape Drive Model VX3](#7206-vx3-ibm-external-tape-drive-model-vx3)
-- [7207-122 IBM 4 GB External SLR5 QIC Tape Drive Model 122](#7207-122-ibm-4-gb-external-slr5-qic-tape-drive-model-122)
 - [7208-001 IBM External 8mm Tape Drive Model 001](#7208-001-ibm-external-8mm-tape-drive-model-001)
 - [7208-002 IBM External 8mm Tape Drive Model 002](#7208-002-ibm-external-8mm-tape-drive-model-002)
 - [7208-011 IBM External 8mm Tape Drive Model 011](#7208-011-ibm-external-8mm-tape-drive-model-011)
@@ -77,6 +76,7 @@ content update: 2026-11-10 08:22:10.923953729 +0800 CST
 - [Family 7212+03 IBM System Storage 7212 Tape & DVD Enclosure Express Model](#family-721203-ibm-system-storage-7212-tape-dvd-enclosure-express-model)
 - [Family 7214+01 IBM System Storage Tape/Optical Storage Device Enclosure](#family-721401-ibm-system-storage-tape-optical-storage-device-enclosure)
 - [Family 7214+02 IBM System Storage Tape/DVD Device Enclosure Model TT2](#family-721402-ibm-system-storage-tape-dvd-device-enclosure-model-tt2)
+- [Family 7216+01 IBM System Storage 7216 Multi-Media Enclosure](#family-721601-ibm-system-storage-7216-multi-media-enclosure)
 - [7329-308 IBM SLR100 Tape Autoloader Model 308](#7329-308-ibm-slr100-tape-autoloader-model-308)
 - [7332-005 IBM 4MM DDS-2 Tape Autoloader Model 005](#7332-005-ibm-4mm-dds-2-tape-autoloader-model-005)
 - [7332-110 IBM 4mm DDS-3 Tape Cartridge Autoloader Model 110](#7332-110-ibm-4mm-dds-3-tape-cartridge-autoloader-model-110)
@@ -1388,29 +1388,6 @@ content update: 2026-11-10 08:22:10.923953729 +0800 CST
 
 
 
-### 7207-122 IBM 4 GB External SLR5 QIC Tape Drive Model 122
-
-🔗 [https://www.ibm.com/docs/en/announcements/4-gb-external-slr5-qic-tape-drive-model-122](https://www.ibm.com/docs/en/announcements/4-gb-external-slr5-qic-tape-drive-model-122?region=AP)
-
-📅 2016-07-19
-
-| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
-| --- | --- | --- | --- | --- |
-| 7207-122 | 1998-10-05 | 1998-10-23 | 2006-03-17 | 2017-11-30 |
-
-
-
-
-
-
-[↑ Back to top](#table-of-contents)
-
----
-
-
-
-
-
 ### 7208-001 IBM External 8mm Tape Drive Model 001
 
 🔗 [https://www.ibm.com/docs/en/announcements/external-8mm-tape-drive-model-001](https://www.ibm.com/docs/en/announcements/external-8mm-tape-drive-model-001?region=AP)
@@ -1690,6 +1667,29 @@ content update: 2026-11-10 08:22:10.923953729 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 7214-TT2 | 2008-10-14 | 2008-11-21 | 2010-04-02 | 2016-01-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### Family 7216+01 IBM System Storage 7216 Multi-Media Enclosure
+
+🔗 [https://www.ibm.com/docs/en/announcements/system-storage-7216-multi-media-enclosure](https://www.ibm.com/docs/en/announcements/system-storage-7216-multi-media-enclosure?region=AP)
+
+📅 2021-07-13
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 7216-1U2 | 2010-08-17 | 2010-09-10 | 2012-04-27 | 2022-12-31 |
 
 
 
