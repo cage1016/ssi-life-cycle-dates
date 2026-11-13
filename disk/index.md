@@ -1,6 +1,6 @@
 # Disk
 
-content update: 2026-11-13 06:27:13.104918169 +0800 CST
+content update: 2026-11-14 06:11:43.633187951 +0800 CST
 
 ---
 
@@ -103,6 +103,7 @@ content update: 2026-11-13 06:27:13.104918169 +0800 CST
 - [3390-B1C IBM Direct Access Storage Device (DASD) Model B1C](#3390-b1c-ibm-direct-access-storage-device-dasd-model-b1c)
 - [3390-B24 IBM Direct Access Storage Device (DASD) Model B24](#3390-b24-ibm-direct-access-storage-device-dasd-model-b24)
 - [3390-B28 IBM Direct Access Storage Device (DASD) Model B28](#3390-b28-ibm-direct-access-storage-device-dasd-model-b28)
+- [3390-B2C IBM Direct Access Storage Device (DASD) Model B2C](#3390-b2c-ibm-direct-access-storage-device-dasd-model-b2c)
 - [3390-B34 IBM Direct Access Storage Device (DASD) Model B34](#3390-b34-ibm-direct-access-storage-device-dasd-model-b34)
 - [3390-B38 IBM Direct Access Storage Device (DASD) Model B38](#3390-b38-ibm-direct-access-storage-device-dasd-model-b38)
 - [3390-B3C IBM Direct Access Storage Device (DASD) Model B3C](#3390-b3c-ibm-direct-access-storage-device-dasd-model-b3c)
@@ -2452,6 +2453,29 @@ content update: 2026-11-13 06:27:13.104918169 +0800 CST
 | Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
 | --- | --- | --- | --- | --- |
 | 3390-B28 | 1989-11-14 | 1989-12-01 | 1996-04-26 | 2008-12-31 |
+
+
+
+
+
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+
+
+
+
+### 3390-B2C IBM Direct Access Storage Device (DASD) Model B2C
+
+🔗 [https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b2c](https://www.ibm.com/docs/en/announcements/direct-access-storage-device-dasd-model-b2c?region=AP)
+
+📅 2008-03-07
+
+| Type Model | Announced | Available | Marketing Withdrawn | Service Discontinued |
+| --- | --- | --- | --- | --- |
+| 3390-B2C | 1989-11-14 | 1989-12-01 | 1996-04-26 | 2008-12-31 |
 
 
 
